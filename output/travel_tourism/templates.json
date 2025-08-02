@@ -1,0 +1,666 @@
+{
+  "category": "Travel & Tourism",
+  "categoryId": "travel_tourism",
+  "templateCount": 10,
+  "generatedAt": "2025-08-01T18:00:36.668Z",
+  "templates": [
+    {
+      "id": "travel_tourism_template_01",
+      "category": "travel_tourism",
+      "title": "Destination Sunrise to Sunset Journey",
+      "description": "Epic 24-hour timelapse journey capturing a destination's transformation from dawn to dusk, showcasing the rhythm of local life",
+      "prompt": {
+        "main": "Cinematic sunrise to sunset timelapse journey of [destination]. Open with pre-dawn aerial establishing shot over sleeping city/landscape, transition through morning mist as first light touches landmarks. Follow the awakening of local life - street vendors setting up, morning rituals, rush hour energy. Peak daylight reveals architectural details and natural beauty in full glory. Capture golden hour magic as shadows lengthen, leading to vibrant sunset colors. Close with blue hour cityscape and emerging night lights. Seamless transitions between timeframes using matched camera movements and morphing techniques.",
+        "elements": {
+          "cameraMovement": "Hyperlapse tracking shots, smooth aerial orbits, programmed slider movements for consistent motion throughout day cycle",
+          "subject": "Iconic landmarks, local life rhythms, changing light on architecture and landscapes",
+          "scene": "Multiple vantage points showcasing destination's character - rooftops, street level, aerial perspectives",
+          "motion": "Time acceleration showing shadow movements, crowd flows, traffic patterns, cloud formations",
+          "lighting": "Natural light progression from blue hour through golden hour, emphasizing dramatic sky colors and shadow play",
+          "atmosphere": "Meditative, awe-inspiring, showcasing destination's daily transformation",
+          "style": "Planet Earth meets luxury travel cinematography with timelapse mastery",
+          "technicalSpecs": {
+            "duration": "15-30 seconds",
+            "resolution": "4K minimum, 8K preferred",
+            "aspectRatio": "2.35:1 cinematic or 16:9",
+            "frameRate": "24 fps for cinematic feel"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Urban Metropolis",
+          "modifiedElements": {
+            "scene": "Focus on skyscrapers, traffic flows, urban energy",
+            "motion": "Emphasize city lights, traffic trails, crowd dynamics"
+          }
+        },
+        {
+          "name": "Natural Landscape",
+          "modifiedElements": {
+            "scene": "Mountains, beaches, or countryside without urban elements",
+            "cameraMovement": "Static wide shots showcasing natural light changes"
+          }
+        }
+      ],
+      "tags": [
+        "timelapse",
+        "sunrise sunset",
+        "destination showcase",
+        "aerial cinematography",
+        "travel film",
+        "24 hour cycle"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Scout locations for sunrise/sunset alignments with key landmarks",
+        "Use intervalometer for consistent timing between frames",
+        "Plan for weather contingencies and multiple shooting days",
+        "Color grade to enhance natural light transitions"
+      ],
+      "examples": {
+        "sampleOutput": "Breathtaking timelapse revealing destination's daily transformation with seamless light transitions",
+        "useCases": [
+          "Tourism board campaigns",
+          "Luxury hotel destination marketing",
+          "Travel documentary openings",
+          "Destination wedding venue showcases"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_02",
+      "category": "travel_tourism",
+      "title": "Cultural Experience Immersion",
+      "description": "Intimate cultural deep-dive following local traditions, festivals, and authentic daily life experiences",
+      "prompt": {
+        "main": "Immersive cultural experience video capturing authentic [culture/tradition]. Open with hands preparing traditional [craft/food/ritual], revealing master artisan's weathered face in natural light. Intercut between wide establishing shots of cultural setting and extreme close-ups of intricate details - textile patterns, spice colors, ceremonial movements. Follow preparation process with respectful observation, capturing genuine moments of concentration, joy, and tradition passing between generations. Include ambient sounds - chanting, market chatter, traditional music. Build to climactic moment of completion/celebration. Close with community sharing the experience together.",
+        "elements": {
+          "cameraMovement": "Handheld for intimacy, slow push-ins on details, respectful observation angles avoiding intrusion",
+          "subject": "Local artisans, traditional ceremonies, authentic cultural practices, multi-generational interactions",
+          "scene": "Traditional workshops, local homes, sacred spaces, community gathering places",
+          "motion": "Deliberate craft movements, ceremonial gestures, natural interactions between participants",
+          "lighting": "Natural available light, warm practicals like candles or lanterns, avoiding harsh artificial lighting",
+          "atmosphere": "Respectful, authentic, intimate, celebrating cultural heritage",
+          "style": "Documentary realism with cinematic composition, Anthony Bourdain meets Terrence Malick",
+          "technicalSpecs": {
+            "duration": "20-45 seconds",
+            "resolution": "4K for detail capture",
+            "aspectRatio": "16:9 or 2.35:1",
+            "frameRate": "24 fps with occasional 60fps for slow motion details"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Festival Celebration",
+          "modifiedElements": {
+            "scene": "Colorful festival with crowds, costumes, performances",
+            "motion": "Dynamic dancing, parade movements, celebration energy",
+            "atmosphere": "Joyous, energetic, communal celebration"
+          }
+        },
+        {
+          "name": "Quiet Tradition",
+          "modifiedElements": {
+            "scene": "Tea ceremony, meditation practice, calligraphy",
+            "cameraMovement": "Locked off shots, minimal movement for zen feeling",
+            "atmosphere": "Meditative, peaceful, contemplative"
+          }
+        }
+      ],
+      "tags": [
+        "cultural immersion",
+        "authentic travel",
+        "local traditions",
+        "documentary style",
+        "cultural sensitivity",
+        "heritage tourism"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Build trust with subjects before filming",
+        "Research cultural protocols and obtain proper permissions",
+        "Use longer lenses to maintain respectful distance",
+        "Include translator/cultural advisor in production team"
+      ],
+      "examples": {
+        "sampleOutput": "Intimate portrait of traditional craft/ceremony showcasing cultural authenticity with respectful cinematography",
+        "useCases": [
+          "Cultural tourism promotion",
+          "UNESCO heritage site documentation",
+          "Responsible travel content",
+          "Educational travel series"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_03",
+      "category": "travel_tourism",
+      "title": "Adventure Activity Showcase",
+      "description": "High-energy action sequence capturing extreme sports and adventure activities in spectacular locations",
+      "prompt": {
+        "main": "Adrenaline-pumping adventure activity video featuring [activity] in [location]. Open with hero suiting up - close-ups of gear clicking into place, determined eyes, deep breath before action. Cut to wide establishing shot revealing epic scale of environment. Launch into action with dynamic tracking shots - FPV drone racing alongside, 360 camera capturing immersive POV, super slow-motion highlighting key moments of skill and danger. Intercut between multiple angles showing speed, height, technical difficulty. Capture genuine reactions - concentration, exhilaration, triumph. Build tension with near-misses, showcase mastery with smooth execution. Climax with spectacular trick/achievement. End with exhausted but euphoric celebration against stunning backdrop.",
+        "elements": {
+          "cameraMovement": "FPV drone flights, cable cam runs, handheld chase shots, gimbal stabilization for smooth action tracking",
+          "subject": "Extreme sports athletes, adventure seekers, professional guides demonstrating expertise",
+          "scene": "Dramatic natural environments - cliffs, rapids, mountain peaks, canyons, extreme terrain",
+          "motion": "High-speed action, dynamic body movements, equipment in motion, environmental elements (water spray, dust, snow)",
+          "lighting": "Bright natural light for clarity, lens flares for energy, backlighting for drama during jumps/tricks",
+          "atmosphere": "Exhilarating, intense, showcasing human achievement against nature",
+          "style": "Red Bull Media House meets GoPro cinematography with cinematic production value",
+          "technicalSpecs": {
+            "duration": "15-30 seconds",
+            "resolution": "4K minimum, high frame rate capture",
+            "aspectRatio": "16:9 or 2.35:1 for epic scale",
+            "frameRate": "Mixed - 24fps base, 60-240fps for slow motion"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Water Sports",
+          "modifiedElements": {
+            "scene": "Ocean, rivers, waterfalls - surfing, kayaking, diving",
+            "cameraMovement": "Underwater housings, jet ski tracking, drone over water",
+            "lighting": "Underwater lighting considerations, spray and refraction effects"
+          }
+        },
+        {
+          "name": "Mountain Adventures",
+          "modifiedElements": {
+            "scene": "Climbing, skiing, mountain biking, paragliding",
+            "motion": "Vertical movements, aerial dynamics",
+            "atmosphere": "Alpine environment, thin air intensity"
+          }
+        }
+      ],
+      "tags": [
+        "adventure sports",
+        "extreme activities",
+        "action cinematography",
+        "adrenaline tourism",
+        "FPV drone",
+        "slow motion"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Safety team and protocols essential for crew and talent",
+        "Multiple cameras for safety - never rely on single take",
+        "Weather windows crucial for optimal conditions",
+        "Backup gear for extreme environment failures"
+      ],
+      "examples": {
+        "sampleOutput": "Heart-pounding action sequence showcasing adventure sport with cinematic quality and multiple dynamic angles",
+        "useCases": [
+          "Adventure tour operator marketing",
+          "Destination adrenaline tourism",
+          "Sports equipment brand content",
+          "Adventure travel show segments"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_04",
+      "category": "travel_tourism",
+      "title": "Luxury Resort Tour",
+      "description": "Sophisticated showcase of high-end resort amenities, experiences, and lifestyle with aspirational cinematography",
+      "prompt": {
+        "main": "Luxurious resort showcase video highlighting world-class amenities and experiences. Open with aerial approach over pristine landscape/seascape, revealing resort nestled in paradise. Transition to ground-level with elegant tracking shot through lobby - chandelier sparkle, marble reflections, staff greeting with orchids. Glide through spaces: suite reveal with ocean view, champagne pour on private balcony, silk curtains billowing. Showcase experiences - couple's spa treatment with hot stone close-ups, chef preparing gourmet dish with flame flourish, infinity pool merging with horizon at sunset. Include lifestyle moments - morning yoga on beach, private dinner setup, yacht departure. End with couple toasting at golden hour, pull back to reveal entire resort glowing in twilight.",
+        "elements": {
+          "cameraMovement": "Smooth gimbal movements, elegant crane shots, subtle slider pushes, aerial reveals",
+          "subject": "Luxury amenities, high-end experiences, elegant spaces, professional staff, happy guests",
+          "scene": "Pristine resort locations - suites, restaurants, spas, pools, beaches, exclusive areas",
+          "motion": "Graceful service movements, gentle water ripples, fabric flowing, champagne bubbles rising",
+          "lighting": "Soft, flattering light throughout - golden hour for romance, bright for energy, candlelight for intimacy",
+          "atmosphere": "Aspirational, serene, exclusive, romantically luxurious",
+          "style": "Condé Nast Traveler meets Four Seasons brand cinematography",
+          "technicalSpecs": {
+            "duration": "30-60 seconds",
+            "resolution": "4K-8K for maximum detail",
+            "aspectRatio": "2.35:1 cinematic",
+            "frameRate": "24 fps for luxury feel"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Beach Resort",
+          "modifiedElements": {
+            "scene": "Overwater bungalows, beach bars, water sports, marine activities",
+            "lighting": "Tropical bright light, underwater shots, sunset emphasis",
+            "motion": "Ocean waves, palm fronds, sailing elements"
+          }
+        },
+        {
+          "name": "Mountain Lodge",
+          "modifiedElements": {
+            "scene": "Fireplace lounges, ski slopes, alpine spa, forest views",
+            "atmosphere": "Cozy luxury, winter wonderland, aprés-ski elegance",
+            "lighting": "Warm interior lights contrasting cool mountain light"
+          }
+        }
+      ],
+      "tags": [
+        "luxury resort",
+        "high-end travel",
+        "hospitality marketing",
+        "aspirational lifestyle",
+        "resort amenities",
+        "premium experiences"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Stage scenes during optimal light - blue hour for architecture, golden hour for lifestyle",
+        "Use models who embody target demographic naturally",
+        "Attention to detail - every frame should feel premium",
+        "Coordinate with resort for exclusive access times"
+      ],
+      "examples": {
+        "sampleOutput": "Sophisticated resort showcase evoking desire for luxury escape with every frame",
+        "useCases": [
+          "Resort website hero videos",
+          "Luxury travel agent portfolios",
+          "High-end booking platform features",
+          "Social media advertising campaigns"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_05",
+      "category": "travel_tourism",
+      "title": "Local Market Exploration",
+      "description": "Vibrant sensory journey through authentic local markets capturing colors, textures, flavors, and human connections",
+      "prompt": {
+        "main": "Sensory-rich market exploration video immersing viewers in local culture. Open with pre-dawn vendor arrivals - steam rising from tea, crates unloading, first light hitting colorful produce. Build energy as market comes alive - rapid montage of hands exchanging money, scales balancing, knives chopping. Dive into details with macro shots - spice pyramids, textile patterns, exotic fruit cross-sections. Follow charismatic vendor interactions, capture genuine smiles and animated negotiations. Weave through narrow aisles with steadicam, revealing hidden sections - flower garlands, street food sizzling, artisan crafts. Include tasting moments - eyes widening at first bite of local delicacy. Climax with overview shot showing market's organized chaos. Close with satisfied customer departing with treasures as day winds down.",
+        "elements": {
+          "cameraMovement": "Handheld for energy, macro sliders for details, weaving steadicam through crowds",
+          "subject": "Local vendors, fresh products, traditional crafts, authentic interactions, cultural diversity",
+          "scene": "Bustling market environments - covered bazaars, street markets, floating markets, night markets",
+          "motion": "Constant activity - chopping, weighing, bargaining, crowds flowing, steam rising",
+          "lighting": "Mixed natural and practical lighting, emphasizing colors and textures",
+          "atmosphere": "Vibrant, authentic, sensory overload, culturally immersive",
+          "style": "Street photography in motion, Humans of New York meets Chef's Table",
+          "technicalSpecs": {
+            "duration": "20-40 seconds",
+            "resolution": "4K for detail retention",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps with 60fps for food prep details"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Food Market Focus",
+          "modifiedElements": {
+            "subject": "Street food preparation, local delicacies, cooking processes",
+            "motion": "Sizzling, steaming, flipping, serving actions",
+            "cameraMovement": "More static shots for cooking details"
+          }
+        },
+        {
+          "name": "Craft Market",
+          "modifiedElements": {
+            "subject": "Artisans at work, traditional crafts being made",
+            "motion": "Careful handwork, painting, weaving, carving",
+            "atmosphere": "More contemplative, focusing on skill"
+          }
+        }
+      ],
+      "tags": [
+        "local markets",
+        "cultural immersion",
+        "street food",
+        "authentic travel",
+        "sensory experience",
+        "local vendors"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Arrive early for best light and vendor cooperation",
+        "Small crew to avoid disrupting market flow",
+        "Prime lens for low light and shallow depth",
+        "Research market customs and photography permissions"
+      ],
+      "examples": {
+        "sampleOutput": "Energetic market journey making viewers feel the atmosphere through vivid imagery and authentic moments",
+        "useCases": [
+          "Food tourism promotion",
+          "Cultural travel guides",
+          "Culinary travel shows",
+          "Authentic experience marketing"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_06",
+      "category": "travel_tourism",
+      "title": "Historical Site Cinematic Tour",
+      "description": "Epic cinematic journey through ancient monuments and historical sites with dramatic storytelling",
+      "prompt": {
+        "main": "Cinematic historical site exploration revealing ancient grandeur and hidden details. Open with misty dawn aerial circling monument, sun rays breaking through ancient stones. Transition to ground level - tracking shot following archaeologist/guide's footsteps on worn stone paths. Reveal architectural marvels with crane shots showcasing impossible engineering. Explore intimate details - hieroglyphs emerging from shadows, weathered sculptures in raking light, ancient frescoes with color still visible. Use light shafts through windows/openings for drama. Include human elements for scale - silhouetted figure dwarfed by massive columns. Build mystery with hidden chambers, secret passages revealed. Intercut day/night shots showing site's different moods. Climax with golden hour hero shot of entire complex. End with stars time-lapse over ancient stones, connecting past to present.",
+        "elements": {
+          "cameraMovement": "Majestic crane shots, steady tracking through corridors, drone reveals, time-lapse motion",
+          "subject": "Ancient architecture, historical artifacts, archaeological details, monument grandeur",
+          "scene": "UNESCO sites, ancient temples, castles, ruins, archaeological wonders",
+          "motion": "Light and shadow play, tourist flow patterns, fabric/flags in wind, clouds over monuments",
+          "lighting": "Golden hour for warmth, blue hour for mystery, controlled lighting for interior details",
+          "atmosphere": "Awe-inspiring, mysterious, connecting past and present",
+          "style": "BBC documentary meets Indiana Jones cinematography",
+          "technicalSpecs": {
+            "duration": "30-60 seconds",
+            "resolution": "6K-8K for architectural detail",
+            "aspectRatio": "2.35:1 epic cinematic",
+            "frameRate": "24 fps for cinematic feel"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Ancient Ruins",
+          "modifiedElements": {
+            "scene": "Petra, Angkor Wat, Machu Picchu style locations",
+            "atmosphere": "Lost civilization mystery, jungle/desert reclaimed",
+            "lighting": "Emphasis on natural erosion, vegetation interplay"
+          }
+        },
+        {
+          "name": "Living Monument",
+          "modifiedElements": {
+            "scene": "Active religious sites, pilgrimage destinations",
+            "subject": "Include worshippers, ceremonies, active use",
+            "atmosphere": "Spiritual, respectful of ongoing traditions"
+          }
+        }
+      ],
+      "tags": [
+        "historical sites",
+        "UNESCO heritage",
+        "archaeological wonders",
+        "cinematic tourism",
+        "monument showcase",
+        "cultural heritage"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Research site restrictions and optimal visiting times",
+        "Hire local archaeological guide for accuracy",
+        "Use permits for drone/special equipment usage",
+        "Protect equipment from ancient dust/humidity"
+      ],
+      "examples": {
+        "sampleOutput": "Breathtaking cinematic journey making ancient sites feel alive and mysterious",
+        "useCases": [
+          "Heritage tourism promotion",
+          "Documentary film opens",
+          "Educational travel content",
+          "VR tourism experiences"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_07",
+      "category": "travel_tourism",
+      "title": "Beach Paradise Aerial Views",
+      "description": "Stunning aerial cinematography showcasing pristine beaches, crystal waters, and tropical paradise from bird's eye perspective",
+      "prompt": {
+        "main": "Breathtaking aerial beach paradise showcase with crystal-clear waters and pristine sands. Open with high altitude establishing shot - atoll or coastline revealing impossible blue gradients. Descend slowly, revealing water clarity - coral formations visible through turquoise shallows, schools of fish creating patterns. Low altitude tracking along wave break, spray sparkling in sunlight. Orbit around beach activities - colorful umbrellas dotting sand, beach volleyball, kayakers in clear water. Reveal hidden coves with dramatic pullback moves. Fly through palm trees at beach level, creating dynamic foreground. Include wildlife - flamingos in lagoon, sea turtles in shallows. Capture beach life - footprints in sand, hammock between palms, beach bar with tropical drinks. End with sunset flight, silhouetting palm skyline against orange sky, final shot pulling up to show entire paradise coastline glowing.",
+        "elements": {
+          "cameraMovement": "Smooth drone movements - orbits, reveals, bird's eye downs, low altitude racing",
+          "subject": "Pristine beaches, clear waters, tropical landscapes, beach activities, marine life",
+          "scene": "Tropical beaches, hidden coves, coral reefs, palm-lined shores, beach resorts",
+          "motion": "Wave patterns, palm frond movement, wildlife activity, water sports action",
+          "lighting": "Bright tropical sun for water clarity, golden hour for warmth, polarizing for water detail",
+          "atmosphere": "Paradise found, tropical escape, pristine nature",
+          "style": "Planet Earth meets luxury travel drone cinematography",
+          "technicalSpecs": {
+            "duration": "20-45 seconds",
+            "resolution": "4K-6K for detail",
+            "aspectRatio": "16:9 or 2.35:1",
+            "frameRate": "24-30 fps, 60fps for wave details"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Dramatic Coastline",
+          "modifiedElements": {
+            "scene": "Cliff-backed beaches, rock formations, crashing waves",
+            "motion": "Powerful wave action, spray explosions",
+            "atmosphere": "Wild beauty, untamed nature"
+          }
+        },
+        {
+          "name": "Tropical Island",
+          "modifiedElements": {
+            "cameraMovement": "360-degree island orbits, over-water approaches",
+            "scene": "Small island paradises, overwater bungalows",
+            "subject": "Complete island ecosystems, reef systems"
+          }
+        }
+      ],
+      "tags": [
+        "aerial beach",
+        "drone cinematography",
+        "tropical paradise",
+        "beach destination",
+        "crystal waters",
+        "coastal beauty"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Check drone regulations and no-fly zones",
+        "Monitor battery levels for over-water flights",
+        "Use ND filters for proper exposure in bright conditions",
+        "Plan flights around tide schedules for best water clarity"
+      ],
+      "examples": {
+        "sampleOutput": "Stunning aerial journey showcasing beach paradise from perspectives impossible to see from ground",
+        "useCases": [
+          "Tropical destination marketing",
+          "Resort location showcases",
+          "Travel inspiration content",
+          "Beach tourism campaigns"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_08",
+      "category": "travel_tourism",
+      "title": "City Nightlife Energy",
+      "description": "High-energy urban nightlife montage capturing city's after-dark personality with neon lights and vibrant culture",
+      "prompt": {
+        "main": "Electric city nightlife energy video pulsing with urban rhythm. Open with sunset time-lapse - city lights awakening as sky darkens, windows illuminating like stars. Cut to street level - neon signs flickering to life, reflections in rain-slicked streets. Fast-paced montage: cocktail shakers in rooftop bars, DJ hands on turntables, dancers in strobe lights. Capture diverse nightlife - food trucks with steam rising, late-night ramen shops, street performers under streetlights. Weave through entertainment districts with hyperlapse, neon colors streaking past. Include cultural elements - night markets, outdoor cinema, art gallery openings. Show human connections - friends laughing, couples dancing, strangers becoming friends. Build energy with quick cuts matching music beat. Climax with aerial shot of entire city pulsing with life. End with dawn breaking, last revelers heading home as city resets.",
+        "elements": {
+          "cameraMovement": "Hyperlapse through streets, handheld for clubs, smooth gimbal for walking shots, drone for cityscapes",
+          "subject": "Nightlife venues, street culture, entertainment districts, diverse crowds, neon signage",
+          "scene": "Urban entertainment areas, rooftop bars, night markets, clubs, late-night eateries",
+          "motion": "Constant movement - crowds, traffic, lights flashing, dance movements",
+          "lighting": "Neon colors, street lights, club strobes, practical sources creating atmosphere",
+          "atmosphere": "Electric, vibrant, culturally diverse, never-sleeping energy",
+          "style": "Enter the Void meets Lost in Translation with modern social media energy",
+          "technicalSpecs": {
+            "duration": "30-60 seconds",
+            "resolution": "4K for low-light performance",
+            "aspectRatio": "16:9 or 9:16 for social",
+            "frameRate": "24 fps base, 60fps for slow-motion moments"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Cultural Night Scene",
+          "modifiedElements": {
+            "subject": "Traditional evening entertainment, cultural performances",
+            "scene": "Theaters, traditional music venues, cultural districts",
+            "atmosphere": "Sophisticated, culturally rich nightlife"
+          }
+        },
+        {
+          "name": "Underground Scene",
+          "modifiedElements": {
+            "scene": "Alternative venues, street art locations, indie spots",
+            "style": "Grittier, more authentic urban feel",
+            "lighting": "Less polished, more realistic street lighting"
+          }
+        }
+      ],
+      "tags": [
+        "city nightlife",
+        "urban energy",
+        "neon lights",
+        "night photography",
+        "entertainment districts",
+        "after dark"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Use fast lenses and capable low-light cameras",
+        "Build relationships with venue owners for access",
+        "Be respectful of people's privacy in nightlife settings",
+        "Plan routes to maximize variety in limited time"
+      ],
+      "examples": {
+        "sampleOutput": "Pulsing nightlife montage that captures city's after-dark personality and energy",
+        "useCases": [
+          "City tourism after-dark campaigns",
+          "Urban destination marketing",
+          "Nightlife app promotions",
+          "Youth travel content"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_09",
+      "category": "travel_tourism",
+      "title": "Natural Wonder Documentation",
+      "description": "Epic nature cinematography documenting geological wonders, unique ecosystems, and natural phenomena",
+      "prompt": {
+        "main": "Majestic natural wonder documentation revealing Earth's raw power and beauty. Open with pre-dawn approach - silhouette of [natural feature] against lightening sky. First light reveals impossible scale and grandeur. Showcase geological story through visual journey - ancient rock layers, erosion patterns, unique formations. Include wildlife inhabiting this ecosystem - eagles soaring thermals, rare plants clinging to cliffs. Capture phenomena specific to location - geysers erupting, aurora dancing, bioluminescence glowing. Use time-lapse for dynamic elements - clouds flowing like rivers, shadows racing across canyons, stars wheeling overhead. Include human element for scale but keep minimal - tiny hiker on vast glacier, kayaker in massive fjord. Build to climactic moment - sunrise through arch, waterfall rainbow, storm clearing to reveal peak. End with pullback showing wonder in full environmental context.",
+        "elements": {
+          "cameraMovement": "Slow aerial reveals, stable tripod for time-lapse, slider moves for parallax depth",
+          "subject": "Geological formations, unique ecosystems, natural phenomena, endemic wildlife",
+          "scene": "National parks, geological wonders, unique biomes, remote natural locations",
+          "motion": "Natural forces - water, wind, geological activity, weather patterns, wildlife",
+          "lighting": "Magic hour emphasis, weather drama, natural phenomena illumination",
+          "atmosphere": "Awe-inspiring, humbling, showcasing Earth's majesty",
+          "style": "National Geographic meets BBC Planet Earth with IMAX sensibility",
+          "technicalSpecs": {
+            "duration": "30-90 seconds",
+            "resolution": "6K-8K for landscape detail",
+            "aspectRatio": "2.35:1 for epic scale",
+            "frameRate": "24 fps, higher for wildlife action"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Volcanic Landscapes",
+          "modifiedElements": {
+            "subject": "Active volcanos, lava flows, geothermal features",
+            "motion": "Lava movement, steam vents, volcanic activity",
+            "atmosphere": "Primordial, dangerous beauty"
+          }
+        },
+        {
+          "name": "Ice Worlds",
+          "modifiedElements": {
+            "scene": "Glaciers, ice caves, polar regions",
+            "lighting": "Blue ice translucency, midnight sun",
+            "motion": "Calving glaciers, shifting ice"
+          }
+        }
+      ],
+      "tags": [
+        "natural wonders",
+        "landscape cinematography",
+        "nature documentary",
+        "geological features",
+        "wilderness showcase",
+        "epic nature"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Research optimal seasons for specific phenomena",
+        "Prepare for extreme conditions with backup gear",
+        "Respect wilderness regulations and leave no trace",
+        "Allow multiple days for weather windows"
+      ],
+      "examples": {
+        "sampleOutput": "Breathtaking documentation of natural wonder that makes viewers feel they're experiencing it firsthand",
+        "useCases": [
+          "National park promotion",
+          "Nature documentary segments",
+          "Eco-tourism marketing",
+          "Conservation awareness content"
+        ]
+      }
+    },
+    {
+      "id": "travel_tourism_template_10",
+      "category": "travel_tourism",
+      "title": "Travel Lifestyle Montage",
+      "description": "Aspirational travel lifestyle compilation showcasing the journey, experiences, and transformative moments of travel",
+      "prompt": {
+        "main": "Inspirational travel lifestyle montage capturing the soul of wanderlust. Open with packing sequence - hands folding map, passport stamps, vintage camera. Transition to journey - feet on various terrains, train windows with landscapes rushing by, airplane wing over clouds. Capture authentic travel moments: morning coffee in Parisian café, journaling by mountain lake, locals teaching traditional dance. Include solo reflection - silhouette against sunset, meditation at temple, stargazing in desert. Show connections - sharing meal with new friends, children teaching games, elder sharing stories. Adventure snippets - jumping into waterfall, market haggling, getting lost and finding magic. Build emotional arc from departure excitement through challenges to transformation. Include sensory details - hands touching ancient walls, feet in different waters, faces reacting to new flavors. End with return home - unpacking treasures, photos spreading, but eyes already dreaming of next adventure.",
+        "elements": {
+          "cameraMovement": "Mix of stable beauty shots and dynamic handheld moments, smooth transitions between locations",
+          "subject": "Solo travelers, couples, authentic interactions, diverse destinations, travel rituals",
+          "scene": "Iconic and hidden locations worldwide, transportation modes, accommodation varieties",
+          "motion": "Journey progression, natural movements, candid moments, transitional elements",
+          "lighting": "Natural light throughout day, practical sources, golden hour for emotional moments",
+          "atmosphere": "Inspirational, authentic, emotionally resonant, wanderlust-inducing",
+          "style": "Travel vlogger authenticity meets cinematic production value",
+          "technicalSpecs": {
+            "duration": "45-120 seconds",
+            "resolution": "4K for flexibility",
+            "aspectRatio": "16:9 with 9:16 cutdowns",
+            "frameRate": "24 fps with mixed slow-motion"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Solo Journey",
+          "modifiedElements": {
+            "subject": "Single traveler's personal transformation",
+            "atmosphere": "Self-discovery, independence, personal growth",
+            "scene": "More introspective locations, quiet moments"
+          }
+        },
+        {
+          "name": "Couple's Adventure",
+          "modifiedElements": {
+            "subject": "Romantic travel, shared experiences",
+            "motion": "Intimate moments, playful interactions",
+            "atmosphere": "Romance, partnership, shared wonder"
+          }
+        }
+      ],
+      "tags": [
+        "travel lifestyle",
+        "wanderlust",
+        "travel montage",
+        "inspirational travel",
+        "authentic moments",
+        "journey storytelling"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Capture throughout entire trip for authentic arc",
+        "Mix planned shots with spontaneous moments",
+        "Include both highs and challenges for authenticity",
+        "Focus on emotions and connections over locations"
+      ],
+      "examples": {
+        "sampleOutput": "Emotionally resonant travel montage that inspires viewers to book their next adventure",
+        "useCases": [
+          "Travel brand anthems",
+          "Booking platform inspiration",
+          "Travel influencer content",
+          "Tourism recovery campaigns"
+        ]
+      }
+    }
+  ]
+}

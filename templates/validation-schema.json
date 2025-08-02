@@ -1,0 +1,71 @@
+{
+  "validationRules": {
+    "required_fields": [
+      "id",
+      "category",
+      "title",
+      "prompt.main",
+      "prompt.elements.subject",
+      "prompt.elements.scene"
+    ],
+    "field_constraints": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9_-]+$",
+        "minLength": 5,
+        "maxLength": 50
+      },
+      "category": {
+        "type": "string",
+        "enum": [
+          "cinematic_storytelling",
+          "product_showcase",
+          "fashion_beauty",
+          "food_culinary",
+          "travel_tourism",
+          "sports_action",
+          "music_performance",
+          "education_tutorial",
+          "real_estate_architecture",
+          "nature_wildlife",
+          "scifi_fantasy",
+          "animation_cartoon",
+          "medical_healthcare",
+          "corporate_business",
+          "event_celebration",
+          "gaming_virtual_worlds",
+          "art_creative",
+          "technology_innovation",
+          "lifestyle_wellness",
+          "social_media_content"
+        ]
+      },
+      "title": {
+        "type": "string",
+        "minLength": 10,
+        "maxLength": 100
+      },
+      "prompt.main": {
+        "type": "string",
+        "minLength": 50,
+        "maxLength": 1000
+      },
+      "difficulty": {
+        "type": "string",
+        "enum": ["beginner", "intermediate", "advanced"]
+      }
+    },
+    "quality_checks": {
+      "prompt_quality": {
+        "must_include": ["camera", "subject", "scene"],
+        "should_include": ["motion", "lighting", "style"],
+        "avoid": ["vague", "ambiguous", "contradictory"]
+      },
+      "technical_specs": {
+        "duration_range": "5-60 seconds",
+        "resolution_options": ["720p", "1080p", "4K"],
+        "aspect_ratio_options": ["16:9", "9:16", "1:1", "4:3"]
+      }
+    }
+  }
+}

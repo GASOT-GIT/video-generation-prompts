@@ -1,0 +1,785 @@
+{
+  "category": "Nature Wildlife",
+  "categoryId": "nature_wildlife",
+  "templateCount": 10,
+  "generatedAt": "2025-08-02T07:25:09.528Z",
+  "templates": [
+    {
+      "id": "nw_001",
+      "title": "Predator Hunt Sequence",
+      "category": "nature_wildlife",
+      "description": "Telephoto tracking of hunting behavior in natural habitat",
+      "technical_specs": {
+        "duration": "120-180 seconds",
+        "resolution": "6K (6144x3456)",
+        "frame_rate": "60fps for action, 24fps for stalking",
+        "aspect_ratio": "16:9",
+        "color_profile": "Natural documentary grade",
+        "stabilization": "Advanced gimbal with predictive tracking"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Ultra-telephoto establishing",
+          "duration": "10 seconds",
+          "description": "Predator scanning territory, barely visible",
+          "camera_movement": "Slow zoom from 800mm to 600mm",
+          "focal_length": "800mm equivalent"
+        },
+        {
+          "shot_type": "Stalking sequence",
+          "duration": "30 seconds",
+          "description": "Low angle tracking through grass",
+          "camera_movement": "Parallel tracking with focus pull",
+          "focal_length": "500mm equivalent"
+        },
+        {
+          "shot_type": "Prey awareness moment",
+          "duration": "15 seconds",
+          "description": "Tension building, prey alert behavior",
+          "camera_movement": "Static with breathing room",
+          "focal_length": "400mm equivalent"
+        },
+        {
+          "shot_type": "Chase climax",
+          "duration": "20 seconds",
+          "description": "High-speed pursuit at 60fps",
+          "camera_movement": "Predictive panning",
+          "focal_length": "300-600mm variable"
+        },
+        {
+          "shot_type": "Resolution",
+          "duration": "15 seconds",
+          "description": "Natural outcome, respectful distance",
+          "camera_movement": "Slow pull back",
+          "focal_length": "600mm equivalent"
+        }
+      ],
+      "wildlife_ethics": {
+        "distance": "Minimum 150 meters",
+        "disturbance": "Zero intervention policy",
+        "behavior_impact": "Natural hunting patterns only",
+        "timing": "Avoid breeding/denning seasons"
+      },
+      "species_variations": {
+        "big_cats": "Lions, leopards, cheetahs, tigers",
+        "canids": "Wolves, wild dogs, foxes",
+        "raptors": "Eagles, hawks, owls",
+        "marine": "Orcas, sharks, seals"
+      },
+      "audio_design": {
+        "ambient": "Natural habitat sounds",
+        "focal": "Breathing, footsteps, tension",
+        "music": "Minimal, tension-building strings"
+      },
+      "ai_generation_prompts": {
+        "primary": "Professional wildlife documentary predator hunt, telephoto lens cinematography, patient observation, natural behavior, ethical distance filming",
+        "style_modifiers": "BBC Planet Earth quality, no anthropomorphization, scientific accuracy, respectful predator-prey dynamics",
+        "technical_modifiers": "Shallow depth of field, heat shimmer effects, dust particles, realistic motion blur"
+      }
+    },
+    {
+      "id": "nw_002",
+      "title": "Underwater Coral Reef Life",
+      "category": "nature_wildlife",
+      "description": "Marine ecosystems with macro details and biodiversity showcase",
+      "technical_specs": {
+        "duration": "150-180 seconds",
+        "resolution": "4K (3840x2160) with 6K detail shots",
+        "frame_rate": "60fps for fluid underwater motion",
+        "aspect_ratio": "16:9",
+        "color_profile": "Underwater color correction, depth-adjusted",
+        "stabilization": "Underwater gimbal with current compensation"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Wide reef panorama",
+          "duration": "15 seconds",
+          "description": "Establishing reef structure and scale",
+          "camera_movement": "Slow drift with current",
+          "focal_length": "16mm fisheye"
+        },
+        {
+          "shot_type": "Mid-range biodiversity",
+          "duration": "25 seconds",
+          "description": "Fish schools, coral formations",
+          "camera_movement": "Gentle orbit around coral head",
+          "focal_length": "24mm wide"
+        },
+        {
+          "shot_type": "Macro coral polyps",
+          "duration": "20 seconds",
+          "description": "Extreme close-up of feeding behavior",
+          "camera_movement": "Micro dolly movements",
+          "focal_length": "100mm macro"
+        },
+        {
+          "shot_type": "Cleaning station activity",
+          "duration": "30 seconds",
+          "description": "Symbiotic relationships in action",
+          "camera_movement": "Static observation",
+          "focal_length": "60mm"
+        },
+        {
+          "shot_type": "Predator patrol",
+          "duration": "25 seconds",
+          "description": "Reef sharks, barracuda cruising",
+          "camera_movement": "Following movement",
+          "focal_length": "35mm"
+        }
+      ],
+      "marine_ecosystem_elements": {
+        "coral_species": "Brain, staghorn, table, soft corals",
+        "fish_diversity": "Parrotfish, angelfish, butterflyfish, groupers",
+        "invertebrates": "Nudibranchs, octopus, shrimp, sea stars",
+        "behaviors": "Feeding, cleaning, territorial, mating displays"
+      },
+      "underwater_technical": {
+        "depth_range": "5-20 meters",
+        "visibility": "15+ meters ideal",
+        "lighting": "Natural light with selective fill",
+        "dive_safety": "Reef-safe practices, neutral buoyancy"
+      },
+      "environmental_storytelling": {
+        "health_indicators": "Coral color, fish abundance",
+        "threats_shown": "Bleaching, crown-of-thorns",
+        "conservation": "Marine protected area benefits"
+      },
+      "ai_generation_prompts": {
+        "primary": "Vibrant coral reef ecosystem, diverse marine life, macro details, underwater cinematography, natural light filtering through water",
+        "style_modifiers": "Blue Planet underwater quality, fluid camera movements, authentic marine behavior, conservation awareness",
+        "technical_modifiers": "Proper underwater color grading, caustic light effects, particle suspension, accurate fish schooling behavior"
+      }
+    },
+    {
+      "id": "nw_003",
+      "title": "Bird Migration Journey",
+      "category": "nature_wildlife",
+      "description": "Aerial formations and seasonal patterns of migratory birds",
+      "technical_specs": {
+        "duration": "180-240 seconds",
+        "resolution": "6K (6144x3456)",
+        "frame_rate": "30fps standard, 60fps for takeoff/landing",
+        "aspect_ratio": "2.39:1 cinematic wide",
+        "color_profile": "Natural with seasonal color shifts",
+        "stabilization": "Drone and telephoto stabilization"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Pre-dawn staging",
+          "duration": "20 seconds",
+          "description": "Birds gathering at roosting site",
+          "camera_movement": "Slow crane up",
+          "focal_length": "200mm telephoto"
+        },
+        {
+          "shot_type": "Mass takeoff",
+          "duration": "15 seconds",
+          "description": "Thousands lifting off in waves",
+          "camera_movement": "Drone ascending with flock",
+          "focal_length": "24mm wide"
+        },
+        {
+          "shot_type": "V-formation flight",
+          "duration": "30 seconds",
+          "description": "Classic migration formations",
+          "camera_movement": "Parallel drone tracking",
+          "focal_length": "50mm"
+        },
+        {
+          "shot_type": "Landscape transitions",
+          "duration": "40 seconds",
+          "description": "Journey over varied terrain",
+          "camera_movement": "High altitude drone",
+          "focal_length": "35mm"
+        },
+        {
+          "shot_type": "Rest stop feeding",
+          "duration": "25 seconds",
+          "description": "Wetland refueling behavior",
+          "camera_movement": "Ground level observation",
+          "focal_length": "400mm telephoto"
+        },
+        {
+          "shot_type": "Destination arrival",
+          "duration": "20 seconds",
+          "description": "Landing at breeding grounds",
+          "camera_movement": "Descending with birds",
+          "focal_length": "70-200mm zoom"
+        }
+      ],
+      "migration_elements": {
+        "species_featured": "Geese, cranes, shorebirds, raptors",
+        "route_visualization": "Map overlays, seasonal progression",
+        "challenges": "Weather, predators, human obstacles",
+        "navigation": "Landmark following, magnetic sensing"
+      },
+      "seasonal_context": {
+        "timing": "Peak migration periods",
+        "weather_patterns": "Favorable winds, storm avoidance",
+        "day_length": "Changing light throughout journey",
+        "geography": "Flyways and corridors"
+      },
+      "conservation_message": {
+        "habitat_importance": "Stopover site preservation",
+        "threats": "Habitat loss, climate change",
+        "protection_efforts": "International cooperation"
+      },
+      "ai_generation_prompts": {
+        "primary": "Epic bird migration journey, massive flocks in V-formation, aerial cinematography, seasonal landscape transitions, natural phenomenon documentation",
+        "style_modifiers": "Cinematic scale, patient observation, multiple perspectives, scientifically accurate behavior, conservation awareness",
+        "technical_modifiers": "Dynamic formations, realistic flight physics, atmospheric perspective, seasonal color grading"
+      }
+    },
+    {
+      "id": "nw_004",
+      "title": "Rainforest Canopy Exploration",
+      "category": "nature_wildlife",
+      "description": "Biodiversity from forest floor to emergent layer",
+      "technical_specs": {
+        "duration": "180-210 seconds",
+        "resolution": "6K (6144x3456)",
+        "frame_rate": "24fps cinematic, 60fps for wildlife action",
+        "aspect_ratio": "16:9",
+        "color_profile": "Rich greens with high humidity atmosphere",
+        "stabilization": "Cable cam, crane, and climbing rig systems"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Forest floor establishing",
+          "duration": "15 seconds",
+          "description": "Dark understory, decomposing matter",
+          "camera_movement": "Low dolly through leaves",
+          "focal_length": "24mm wide"
+        },
+        {
+          "shot_type": "Vertical ascent",
+          "duration": "30 seconds",
+          "description": "Rising through forest layers",
+          "camera_movement": "Smooth crane/cable cam up",
+          "focal_length": "35mm"
+        },
+        {
+          "shot_type": "Mid-canopy life",
+          "duration": "40 seconds",
+          "description": "Monkeys, birds, epiphytes",
+          "camera_movement": "Lateral cable cam moves",
+          "focal_length": "70-200mm variable"
+        },
+        {
+          "shot_type": "Emergent layer reveal",
+          "duration": "20 seconds",
+          "description": "Breaking through to sunlight",
+          "camera_movement": "Drone emergence",
+          "focal_length": "24mm"
+        },
+        {
+          "shot_type": "Canopy inhabitants",
+          "duration": "35 seconds",
+          "description": "Sloths, toucans, butterflies",
+          "camera_movement": "Stabilized platform shots",
+          "focal_length": "300-600mm telephoto"
+        },
+        {
+          "shot_type": "Aerial canopy vista",
+          "duration": "15 seconds",
+          "description": "Endless green canopy ocean",
+          "camera_movement": "High drone sweep",
+          "focal_length": "24mm"
+        }
+      ],
+      "biodiversity_layers": {
+        "forest_floor": "Insects, amphibians, decomposers",
+        "understory": "Snakes, small mammals, shade plants",
+        "canopy": "Monkeys, sloths, majority of life",
+        "emergent": "Eagles, large butterflies, flowering trees"
+      },
+      "ecological_focus": {
+        "species_interactions": "Pollination, seed dispersal, predation",
+        "adaptations": "Climbing, gliding, camouflage",
+        "micro_habitats": "Bromeliads, tree holes, epiphytes",
+        "nutrient_cycling": "From canopy to forest floor"
+      },
+      "technical_challenges": {
+        "access_methods": "Rope systems, platforms, cranes",
+        "lighting": "Extreme contrast management",
+        "weather": "Rain, humidity, mist"
+      },
+      "ai_generation_prompts": {
+        "primary": "Rainforest canopy exploration, vertical journey through forest layers, incredible biodiversity, from dark forest floor to sunny emergent layer",
+        "style_modifiers": "Immersive exploration, reveal moments, patient wildlife observation, scientific documentation style",
+        "technical_modifiers": "Proper light filtering through leaves, atmospheric haze, realistic vine and branch physics, accurate species placement"
+      }
+    },
+    {
+      "id": "nw_005",
+      "title": "Arctic Wildlife Survival",
+      "category": "nature_wildlife",
+      "description": "Polar bears, seals, and arctic foxes in extreme conditions",
+      "technical_specs": {
+        "duration": "150-180 seconds",
+        "resolution": "6K (6144x3456)",
+        "frame_rate": "24fps standard, 60fps for action",
+        "aspect_ratio": "16:9",
+        "color_profile": "Cool palette with pure whites",
+        "stabilization": "Cold-weather optimized equipment"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Icescape establishing",
+          "duration": "12 seconds",
+          "description": "Vast arctic ice field panorama",
+          "camera_movement": "Slow drone reveal",
+          "focal_length": "24mm wide"
+        },
+        {
+          "shot_type": "Polar bear hunt",
+          "duration": "40 seconds",
+          "description": "Seal hole stalking behavior",
+          "camera_movement": "Extreme telephoto observation",
+          "focal_length": "800mm"
+        },
+        {
+          "shot_type": "Under-ice seal world",
+          "duration": "25 seconds",
+          "description": "Underwater breathing holes",
+          "camera_movement": "Underwater housing work",
+          "focal_length": "16mm fisheye"
+        },
+        {
+          "shot_type": "Arctic fox foraging",
+          "duration": "30 seconds",
+          "description": "Snow diving for lemmings",
+          "camera_movement": "Ground level tracking",
+          "focal_length": "400mm"
+        },
+        {
+          "shot_type": "Blizzard survival",
+          "duration": "20 seconds",
+          "description": "Animals in extreme weather",
+          "camera_movement": "Stabilized in wind",
+          "focal_length": "200mm"
+        },
+        {
+          "shot_type": "Spring ice breakup",
+          "duration": "25 seconds",
+          "description": "Changing environment challenges",
+          "camera_movement": "Drone documenting scale",
+          "focal_length": "35mm"
+        }
+      ],
+      "survival_strategies": {
+        "insulation": "Blubber, dense fur, behavioral adaptations",
+        "hunting_techniques": "Ice hole waiting, snow stalking",
+        "energy_conservation": "Minimal movement, denning",
+        "seasonal_adaptations": "Color change, fat storage"
+      },
+      "extreme_conditions": {
+        "temperature": "-40°C visualization",
+        "daylight": "Polar night to midnight sun",
+        "ice_dynamics": "Pressure ridges, leads, breakup",
+        "weather": "Blizzards, whiteout conditions"
+      },
+      "climate_change_elements": {
+        "ice_loss": "Shrinking hunting grounds",
+        "adaptation_challenges": "Longer swimming distances",
+        "food_chain_impacts": "Seal pupping areas"
+      },
+      "ai_generation_prompts": {
+        "primary": "Arctic wildlife survival in extreme conditions, polar bears hunting, seals in ice holes, arctic foxes in blizzards, harsh polar environment",
+        "style_modifiers": "Frozen Planet quality, extreme weather cinematography, patient observation, survival focus, climate awareness",
+        "technical_modifiers": "Realistic snow and ice physics, proper fur movement in wind, accurate arctic lighting, breath vapor in cold"
+      }
+    },
+    {
+      "id": "nw_006",
+      "title": "Insect Macro World",
+      "category": "nature_wildlife",
+      "description": "Extreme close-ups of miniature ecosystems and insect behavior",
+      "technical_specs": {
+        "duration": "120-150 seconds",
+        "resolution": "8K (7680x4320) for maximum detail",
+        "frame_rate": "60fps for smooth macro motion",
+        "aspect_ratio": "16:9",
+        "color_profile": "Vivid micro world enhancement",
+        "stabilization": "Macro rail and focus stacking systems"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Dewdrop morning",
+          "duration": "15 seconds",
+          "description": "Spider web with dew, sunrise light",
+          "camera_movement": "Micro slider reveal",
+          "focal_length": "100mm macro"
+        },
+        {
+          "shot_type": "Ant colony highways",
+          "duration": "25 seconds",
+          "description": "Leaf-cutter ants at work",
+          "camera_movement": "Following ant trails",
+          "focal_length": "60mm macro"
+        },
+        {
+          "shot_type": "Butterfly proboscis",
+          "duration": "20 seconds",
+          "description": "Feeding mechanics in detail",
+          "camera_movement": "Focus pull technique",
+          "focal_length": "180mm macro"
+        },
+        {
+          "shot_type": "Predator ambush",
+          "duration": "30 seconds",
+          "description": "Praying mantis hunting",
+          "camera_movement": "Multiple angle coverage",
+          "focal_length": "100mm macro"
+        },
+        {
+          "shot_type": "Metamorphosis time-lapse",
+          "duration": "35 seconds",
+          "description": "Caterpillar to butterfly emergence",
+          "camera_movement": "Locked position time-lapse",
+          "focal_length": "60mm macro"
+        }
+      ],
+      "macro_technical_details": {
+        "magnification_ratios": "1:1 to 5:1",
+        "depth_of_field": "Focus stacking 20-100 images",
+        "lighting": "Ring flash, LED panels, natural",
+        "vibration_control": "Remote shutter, mirror lock"
+      },
+      "insect_behaviors": {
+        "communication": "Ant pheromone trails, bee dances",
+        "hunting": "Ambush predators, web builders",
+        "reproduction": "Courtship displays, egg laying",
+        "social_structures": "Colony organization, roles"
+      },
+      "ecosystem_connections": {
+        "pollination": "Flower-insect relationships",
+        "decomposition": "Beetle and fly roles",
+        "pest_control": "Predator-prey balance",
+        "soil_health": "Underground ecosystems"
+      },
+      "ai_generation_prompts": {
+        "primary": "Extreme macro insect world, miniature ecosystems, detailed insect anatomy and behavior, microscopic perspective, nature's tiny wonders",
+        "style_modifiers": "Microcosmos quality cinematography, scientific accuracy, patient observation, revealing hidden worlds",
+        "technical_modifiers": "Extreme shallow depth of field, focus stacking simulation, realistic scale, accurate insect movement"
+      }
+    },
+    {
+      "id": "nw_007",
+      "title": "Safari Big Five Encounters",
+      "category": "nature_wildlife",
+      "description": "Lions, elephants, rhinos, leopards, and buffalo in natural habitat",
+      "technical_specs": {
+        "duration": "180-240 seconds",
+        "resolution": "6K (6144x3456)",
+        "frame_rate": "24fps cinematic, 60fps for action",
+        "aspect_ratio": "2.39:1 cinematic",
+        "color_profile": "Golden hour African palette",
+        "stabilization": "Vehicle-mounted and handheld systems"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Dawn safari",
+          "duration": "20 seconds",
+          "description": "Sunrise over acacia trees, silhouettes",
+          "camera_movement": "Slow pan across landscape",
+          "focal_length": "70mm"
+        },
+        {
+          "shot_type": "Elephant family",
+          "duration": "35 seconds",
+          "description": "Matriarch leading to water",
+          "camera_movement": "Parallel vehicle tracking",
+          "focal_length": "200-400mm"
+        },
+        {
+          "shot_type": "Lion pride dynamics",
+          "duration": "40 seconds",
+          "description": "Social interactions, cubs playing",
+          "camera_movement": "Static observation",
+          "focal_length": "500mm"
+        },
+        {
+          "shot_type": "Rhino conservation",
+          "duration": "30 seconds",
+          "description": "Protected rhino with calf",
+          "camera_movement": "Respectful distance coverage",
+          "focal_length": "600mm"
+        },
+        {
+          "shot_type": "Leopard in tree",
+          "duration": "25 seconds",
+          "description": "Resting with kill in branches",
+          "camera_movement": "Slow zoom and pan",
+          "focal_length": "800mm"
+        },
+        {
+          "shot_type": "Buffalo herd crossing",
+          "duration": "35 seconds",
+          "description": "Massive herd at river",
+          "camera_movement": "Wide to tight framing",
+          "focal_length": "70-200mm"
+        }
+      ],
+      "safari_elements": {
+        "habitats": "Savanna, woodland, riverine forest",
+        "behaviors": "Hunting, social bonding, territorial",
+        "interactions": "Predator-prey, symbiosis",
+        "times": "Golden hour emphasis"
+      },
+      "conservation_focus": {
+        "anti_poaching": "Rhino horn, elephant ivory protection",
+        "habitat_preservation": "Corridor maintenance",
+        "community_involvement": "Local benefit programs",
+        "tourism_impact": "Sustainable practices"
+      },
+      "vehicle_filming": {
+        "stabilization": "Gimbal heads on bean bags",
+        "positioning": "Ethical approach distances",
+        "dust_management": "Filter protection",
+        "sound": "Engine off when possible"
+      },
+      "ai_generation_prompts": {
+        "primary": "African Big Five safari encounters, lions, elephants, rhinos, leopards, buffalo in natural savanna habitat, golden hour lighting",
+        "style_modifiers": "Epic African wildlife cinematography, respectful distances, conservation awareness, authentic behavior",
+        "technical_modifiers": "Heat shimmer effects, dust particles in light, realistic fur textures, proper African landscape colors"
+      }
+    },
+    {
+      "id": "nw_008",
+      "title": "Mountain Wildlife Adaptation",
+      "category": "nature_wildlife",
+      "description": "High-altitude species survival in extreme mountain environments",
+      "technical_specs": {
+        "duration": "150-180 seconds",
+        "resolution": "6K (6144x3456)",
+        "frame_rate": "24fps standard, 120fps for avalanche/rockfall",
+        "aspect_ratio": "2.39:1 cinematic wide",
+        "color_profile": "High altitude clarity, UV compensation",
+        "stabilization": "High-altitude drone, telephoto support"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Alpine dawn",
+          "duration": "15 seconds",
+          "description": "First light on peaks, valleys in shadow",
+          "camera_movement": "Tilt up reveal",
+          "focal_length": "35mm"
+        },
+        {
+          "shot_type": "Ibex climbing",
+          "duration": "30 seconds",
+          "description": "Impossible cliff navigation",
+          "camera_movement": "Vertical tracking",
+          "focal_length": "400-600mm"
+        },
+        {
+          "shot_type": "Snow leopard hunt",
+          "duration": "40 seconds",
+          "description": "Stalking bharal on slopes",
+          "camera_movement": "Extreme distance observation",
+          "focal_length": "800mm"
+        },
+        {
+          "shot_type": "Marmot colony",
+          "duration": "25 seconds",
+          "description": "Sentinel behavior, alarm calls",
+          "camera_movement": "Ground level approach",
+          "focal_length": "300mm"
+        },
+        {
+          "shot_type": "Golden eagle soaring",
+          "duration": "20 seconds",
+          "description": "Thermal riding above peaks",
+          "camera_movement": "Drone parallel flight",
+          "focal_length": "200mm"
+        },
+        {
+          "shot_type": "Avalanche survival",
+          "duration": "25 seconds",
+          "description": "Wildlife escaping snow slide",
+          "camera_movement": "Wide safety position",
+          "focal_length": "70mm"
+        }
+      ],
+      "altitude_adaptations": {
+        "physiological": "Enlarged lungs, efficient oxygen use",
+        "behavioral": "Seasonal migration, sun basking",
+        "morphological": "Thick fur, wide hooves",
+        "dietary": "Specialized plant consumption"
+      },
+      "mountain_zones": {
+        "montane_forest": "Bears, deer, forest birds",
+        "alpine_meadow": "Marmots, pikas, wildflowers",
+        "rocky_zone": "Ibex, snow leopard, eagles",
+        "snow_line": "Extreme specialists only"
+      },
+      "environmental_challenges": {
+        "oxygen": "50% at 5,500m visualization",
+        "temperature": "Extreme daily fluctuations",
+        "terrain": "Avalanche, rockfall risks",
+        "weather": "Sudden storms, whiteouts"
+      },
+      "ai_generation_prompts": {
+        "primary": "Mountain wildlife adaptation, high-altitude species, ibex on cliffs, snow leopards hunting, extreme mountain environment survival",
+        "style_modifiers": "Epic mountain cinematography, vertiginous perspectives, patient long-lens observation, survival focus",
+        "technical_modifiers": "Atmospheric perspective, realistic rock textures, proper altitude haze, accurate animal proportions on slopes"
+      }
+    },
+    {
+      "id": "nw_009",
+      "title": "Nocturnal Animal Behavior",
+      "category": "nature_wildlife",
+      "description": "Infrared and low-light footage of nocturnal species activity",
+      "technical_specs": {
+        "duration": "120-150 seconds",
+        "resolution": "4K (3840x2160)",
+        "frame_rate": "30fps for low light performance",
+        "aspect_ratio": "16:9",
+        "color_profile": "Low light optimized, infrared modes",
+        "stabilization": "Image stabilization crucial"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Twilight transition",
+          "duration": "15 seconds",
+          "description": "Day to night activity shift",
+          "camera_movement": "Static time-lapse",
+          "focal_length": "35mm"
+        },
+        {
+          "shot_type": "Owl hunting",
+          "duration": "30 seconds",
+          "description": "Silent flight, prey detection",
+          "camera_movement": "Infrared tracking",
+          "focal_length": "300mm"
+        },
+        {
+          "shot_type": "Bat emergence",
+          "duration": "20 seconds",
+          "description": "Cave exodus at dusk",
+          "camera_movement": "Wide angle coverage",
+          "focal_length": "24mm"
+        },
+        {
+          "shot_type": "Big cat prowl",
+          "duration": "35 seconds",
+          "description": "Leopard night hunting",
+          "camera_movement": "Thermal imaging follow",
+          "focal_length": "200mm"
+        },
+        {
+          "shot_type": "Nocturnal pollinators",
+          "duration": "25 seconds",
+          "description": "Moths, bats at night flowers",
+          "camera_movement": "Macro with IR light",
+          "focal_length": "100mm macro"
+        }
+      ],
+      "night_filming_techniques": {
+        "infrared": "850nm and 940nm LED arrays",
+        "thermal": "FLIR integration for heat signatures",
+        "low_light": "Full frame sensors, f/1.4 lenses",
+        "moonlight": "Natural lunar illumination"
+      },
+      "nocturnal_adaptations": {
+        "vision": "Tapetum lucidum, large eyes",
+        "hearing": "Echolocation, acute sensitivity",
+        "smell": "Enhanced olfactory navigation",
+        "behavior": "Crepuscular activity patterns"
+      },
+      "species_featured": {
+        "mammals": "Bats, civets, bushbabies, cats",
+        "birds": "Owls, nightjars, kiwis",
+        "reptiles": "Geckos, night snakes",
+        "invertebrates": "Moths, spiders, scorpions"
+      },
+      "ai_generation_prompts": {
+        "primary": "Nocturnal wildlife behavior, infrared night vision footage, owls hunting, bats emerging, nocturnal predators, low-light cinematography",
+        "style_modifiers": "Mysterious atmosphere, infrared and thermal imaging aesthetics, patient observation, revealing hidden night world",
+        "technical_modifiers": "Proper infrared color mapping, realistic low-light grain, accurate nocturnal animal eye shine, moonlight effects"
+      }
+    },
+    {
+      "id": "nw_010",
+      "title": "Conservation Success Story",
+      "category": "nature_wildlife",
+      "description": "Species recovery and habitat restoration achievements",
+      "technical_specs": {
+        "duration": "180-240 seconds",
+        "resolution": "6K (6144x3456)",
+        "frame_rate": "24fps documentary style",
+        "aspect_ratio": "16:9",
+        "color_profile": "Natural, hopeful palette",
+        "stabilization": "Mixed techniques for various scenarios"
+      },
+      "shot_composition": [
+        {
+          "shot_type": "Historical context",
+          "duration": "20 seconds",
+          "description": "Archive footage blend, past challenges",
+          "camera_movement": "Ken Burns on stills",
+          "focal_length": "Mixed archival"
+        },
+        {
+          "shot_type": "Habitat restoration",
+          "duration": "30 seconds",
+          "description": "Before/after transformation",
+          "camera_movement": "Matching drone shots",
+          "focal_length": "24mm"
+        },
+        {
+          "shot_type": "Species return",
+          "duration": "40 seconds",
+          "description": "Reintroduced animals thriving",
+          "camera_movement": "Patient observation",
+          "focal_length": "400-600mm"
+        },
+        {
+          "shot_type": "Community involvement",
+          "duration": "25 seconds",
+          "description": "Local conservation efforts",
+          "camera_movement": "Handheld documentary",
+          "focal_length": "35-50mm"
+        },
+        {
+          "shot_type": "Scientific monitoring",
+          "duration": "20 seconds",
+          "description": "Researchers tracking progress",
+          "camera_movement": "Observational coverage",
+          "focal_length": "70-200mm"
+        },
+        {
+          "shot_type": "Future hope",
+          "duration": "30 seconds",
+          "description": "Young animals, expanding habitat",
+          "camera_movement": "Optimistic wide shots",
+          "focal_length": "Various"
+        }
+      ],
+      "conservation_elements": {
+        "species_examples": "Bald eagle, gray wolf, humpback whale",
+        "methods": "Captive breeding, corridor creation, protection",
+        "partnerships": "Government, NGO, community collaboration",
+        "monitoring": "GPS tracking, population surveys"
+      },
+      "success_metrics": {
+        "population_growth": "Visual representation of increase",
+        "range_expansion": "Map animations showing spread",
+        "breeding_success": "Young animals with parents",
+        "ecosystem_health": "Biodiversity return indicators"
+      },
+      "storytelling_approach": {
+        "narrative_arc": "Crisis to recovery journey",
+        "human_element": "Conservationists, local communities",
+        "emotional_beats": "Challenge, effort, breakthrough, hope",
+        "call_to_action": "Continued support importance"
+      },
+      "ai_generation_prompts": {
+        "primary": "Wildlife conservation success story, species recovery, habitat restoration, thriving populations, hopeful environmental documentary",
+        "style_modifiers": "Uplifting narrative, before/after contrasts, scientific documentation, community involvement, optimistic future vision",
+        "technical_modifiers": "Natural color grading, realistic population densities, authentic habitat recovery stages, proper species behavior"
+      }
+    }
+  ]
+}

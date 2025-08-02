@@ -1,0 +1,657 @@
+{
+  "category": "Real Estate & Architecture",
+  "categoryId": "real_estate_architecture",
+  "templateCount": 10,
+  "templates": [
+    {
+      "id": "real_estate_architecture_template_01",
+      "category": "real_estate_architecture",
+      "title": "Luxury Property Walkthrough Tour",
+      "description": "Cinematic property tour showcasing spatial flow and luxury features with smooth camera movements through key living spaces",
+      "prompt": {
+        "main": "Elegant real estate walkthrough video starting with exterior establishing shot, smoothly transitioning through grand entrance, revealing open-concept living spaces with natural light streaming through floor-to-ceiling windows. Camera glides through rooms showcasing architectural details, premium finishes, and lifestyle amenities. Professional color grading emphasizes warmth and luxury.",
+        "elements": {
+          "cameraMovement": "Smooth gimbal tracking shots with gentle forward momentum, occasional reveal shots through doorways, subtle crane movements for establishing shots",
+          "subject": "Luxury residential property featuring high-end finishes, architectural details, and lifestyle spaces",
+          "scene": "Modern luxury home with open floor plan, premium materials, natural lighting, and seamless indoor-outdoor integration",
+          "motion": "Steady forward progression through spaces, slow pans to highlight features, floating transitions between rooms",
+          "lighting": "Golden hour natural light through windows, warm interior lighting showcasing textures, accent lighting on architectural features",
+          "atmosphere": "Aspirational, luxurious, welcoming, sophisticated with emphasis on lifestyle and comfort",
+          "style": "High-end real estate cinematography with warm color grading, shallow depth of field for detail shots, wide angles for spatial awareness",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K (3840x2160)",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps for cinematic feel",
+            "colorProfile": "Log/RAW for maximum grading flexibility"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Twilight Luxury",
+          "modifiedElements": {
+            "lighting": "Blue hour exterior with warm interior glow, landscape lighting accents",
+            "atmosphere": "Dramatic, exclusive, showcasing evening entertainment potential"
+          }
+        },
+        {
+          "name": "Drone Integration",
+          "modifiedElements": {
+            "cameraMovement": "Aerial establishing shots transitioning to interior walkthrough",
+            "scene": "Emphasis on property location, views, and outdoor amenities"
+          }
+        }
+      ],
+      "tags": [
+        "luxury real estate",
+        "property tour",
+        "walkthrough",
+        "high-end residential",
+        "architectural showcase"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Maintain consistent camera height throughout walkthrough",
+        "Use natural pathways and sightlines for smooth transitions",
+        "Highlight unique selling points with subtle pause and focus",
+        "Balance wide shots for space with detail shots for quality",
+        "Ensure proper exposure when transitioning between bright and dark spaces"
+      ],
+      "examples": {
+        "sampleOutput": "60-second luxury home tour showcasing flow from entrance through living spaces to outdoor entertainment areas",
+        "useCases": [
+          "High-end property listings",
+          "Luxury real estate marketing",
+          "Developer showcase presentations",
+          "Virtual open houses"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_02",
+      "category": "real_estate_architecture",
+      "title": "Architectural Detail Focus",
+      "description": "Artistic showcase of unique architectural elements, craftsmanship, and design details with macro and reveal shots",
+      "prompt": {
+        "main": "Cinematic architectural detail video featuring close-up shots of custom millwork, unique materials, and design elements. Camera slowly reveals textures of natural stone, grain of exotic woods, precision of metal work. Transitions between macro details and wider context shots showing how elements integrate into overall design. Focus on craftsmanship and quality.",
+        "elements": {
+          "cameraMovement": "Slow push-ins on details, lateral slides revealing patterns, pull-backs from detail to context, smooth tilts along vertical elements",
+          "subject": "Architectural details including custom fixtures, material textures, design elements, structural features",
+          "scene": "High-end architectural spaces with focus on materiality, craftsmanship, and unique design solutions",
+          "motion": "Deliberate, measured movements emphasizing texture and form, parallax effects on layered elements",
+          "lighting": "Directional lighting emphasizing texture, rim lighting on edges, controlled shadows for depth",
+          "atmosphere": "Sophisticated, artistic, contemplative, highlighting quality and attention to detail",
+          "style": "Architectural photography in motion, shallow depth of field, selective focus, rich contrast",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "4K (3840x2160) minimum, 6K preferred",
+            "aspectRatio": "16:9 or 2.35:1 for cinematic feel",
+            "frameRate": "24 fps",
+            "macroCapability": "Essential for texture details"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Modern Minimalist",
+          "modifiedElements": {
+            "style": "Clean, high-key lighting with emphasis on lines and negative space",
+            "subject": "Focus on geometric patterns, clean joints, seamless transitions"
+          }
+        },
+        {
+          "name": "Heritage Craftsmanship",
+          "modifiedElements": {
+            "subject": "Traditional architectural elements, restored details, historical features",
+            "lighting": "Warm, nostalgic lighting emphasizing patina and age"
+          }
+        }
+      ],
+      "tags": [
+        "architectural details",
+        "craftsmanship",
+        "luxury finishes",
+        "design elements",
+        "material showcase"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Use macro lenses or diopters for extreme close-ups",
+        "Employ slider or gimbal for smooth micro-movements",
+        "Pay attention to depth of field for selective focus",
+        "Include context shots to show scale and integration",
+        "Use lighting to enhance texture and material properties"
+      ],
+      "examples": {
+        "sampleOutput": "45-second detail montage showcasing custom ironwork, marble inlays, and bespoke woodwork",
+        "useCases": [
+          "Architect portfolio pieces",
+          "Builder quality showcases",
+          "Design award submissions",
+          "Luxury property feature highlights"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_03",
+      "category": "real_estate_architecture",
+      "title": "Interior Design Lifestyle Showcase",
+      "description": "Stylized interior video emphasizing design aesthetics, lighting moods, and lifestyle vignettes with dynamic lighting progression",
+      "prompt": {
+        "main": "Sophisticated interior design video showcasing curated spaces with emphasis on lighting transitions from morning to evening. Camera captures lifestyle vignettes - morning coffee in designer kitchen, afternoon reading in sun-drenched library, evening entertaining in dramatic dining room. Focus on how design enhances daily life with thoughtful material choices and spatial flow.",
+        "elements": {
+          "cameraMovement": "Slow dolly movements through spaces, gentle pans across vignettes, occasional handheld for intimate moments",
+          "subject": "Designer interiors with luxury furnishings, art collections, and lifestyle accessories",
+          "scene": "High-end residential interiors showcasing different times of day and use scenarios",
+          "motion": "Fluid transitions between spaces, subtle movement in fabrics and plants, living elements",
+          "lighting": "Natural light progression from dawn to dusk, practical lights creating ambiance, accent lighting on art",
+          "atmosphere": "Aspirational, warm, inviting, showcasing luxury lifestyle and design sophistication",
+          "style": "Editorial interior photography in motion, warm color grading, sophisticated composition",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K (3840x2160)",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps",
+            "colorGrading": "Warm, inviting tones with rich shadows"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Modern Minimalist",
+          "modifiedElements": {
+            "style": "Cool, clean aesthetic with emphasis on space and light",
+            "lighting": "Bright, even lighting showcasing clean lines and open space"
+          }
+        },
+        {
+          "name": "Classic Luxury",
+          "modifiedElements": {
+            "subject": "Traditional luxury with rich textures, layered lighting, classic elements",
+            "atmosphere": "Opulent, timeless, emphasizing craftsmanship and heritage pieces"
+          }
+        }
+      ],
+      "tags": [
+        "interior design",
+        "lifestyle",
+        "luxury interiors",
+        "designer showcase",
+        "residential styling"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Scout and plan shots during different lighting conditions",
+        "Style scenes with lifestyle props for authenticity",
+        "Use practical lights to enhance ambiance",
+        "Include movement in fabrics, plants for life",
+        "Balance wide establishing shots with intimate details"
+      ],
+      "examples": {
+        "sampleOutput": "60-second lifestyle video showing day-in-the-life of luxury living space",
+        "useCases": [
+          "Interior designer portfolios",
+          "Luxury property marketing",
+          "Design magazine features",
+          "Showroom presentations"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_04",
+      "category": "real_estate_architecture",
+      "title": "Construction Progress Time-lapse",
+      "description": "Dynamic time-lapse showcasing construction phases from foundation to finished structure with milestone highlights",
+      "prompt": {
+        "main": "Comprehensive construction time-lapse documenting project evolution from breaking ground through completion. Fixed camera positions capture foundation pour, steel frame assembly, exterior cladding, interior build-out. Interspersed with detail shots of key milestones. Day-to-night transitions show 24/7 progress. Final reveal shows completed project in full glory.",
+        "elements": {
+          "cameraMovement": "Primary locked-off positions for time-lapse, supplemented with motion control for smooth transitions between phases",
+          "subject": "Construction site evolving from empty lot to completed building",
+          "scene": "Active construction site with equipment, workers, materials, and progressive building stages",
+          "motion": "Accelerated time showing rapid progress, clouds racing overhead, shadow movements",
+          "lighting": "Natural lighting cycles from dawn to dusk, construction lighting at night, dramatic weather changes",
+          "atmosphere": "Dynamic, progressive, industrious, showcasing transformation and achievement",
+          "style": "Professional construction documentation with dramatic time compression",
+          "technicalSpecs": {
+            "duration": "60-120 seconds",
+            "resolution": "4K (3840x2160) minimum",
+            "aspectRatio": "16:9",
+            "frameRate": "24-30 fps output",
+            "captureInterval": "10-30 minutes between frames"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Hyperlapse Integration",
+          "modifiedElements": {
+            "cameraMovement": "Moving time-lapse sequences around building perimeter",
+            "motion": "Dynamic camera movement combined with time compression"
+          }
+        },
+        {
+          "name": "Split Screen Progress",
+          "modifiedElements": {
+            "style": "Multiple angles shown simultaneously",
+            "scene": "Synchronized views of different construction areas"
+          }
+        }
+      ],
+      "tags": [
+        "construction",
+        "time-lapse",
+        "development",
+        "progress documentation",
+        "building process"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Establish multiple fixed camera positions for variety",
+        "Protect equipment from weather and construction debris",
+        "Coordinate with construction schedule for key events",
+        "Include human element for scale and activity",
+        "Plan for long-term power and storage solutions"
+      ],
+      "examples": {
+        "sampleOutput": "90-second time-lapse showing 18-month high-rise construction compressed with milestone highlights",
+        "useCases": [
+          "Developer progress reports",
+          "Construction company portfolios",
+          "Project stakeholder updates",
+          "Marketing for pre-sales"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_05",
+      "category": "real_estate_architecture",
+      "title": "Neighborhood Lifestyle & Amenities Tour",
+      "description": "Community-focused video showcasing local amenities, lifestyle opportunities, and neighborhood character with resident perspectives",
+      "prompt": {
+        "main": "Vibrant neighborhood tour highlighting community amenities and lifestyle benefits. Opening with drone establishing shot of area, descending to street level exploring local cafes, parks, schools, shopping. Include authentic moments - families in playground, joggers on trails, farmers market bustle. Emphasize walkability, community connections, and quality of life factors beyond the property itself.",
+        "elements": {
+          "cameraMovement": "Combination of drone aerials, steadicam walking shots, and static beauty shots of key locations",
+          "subject": "Neighborhood amenities, community spaces, local businesses, and lifestyle activities",
+          "scene": "Mixed urban/suburban environments showcasing parks, retail, dining, recreation, and community gathering spaces",
+          "motion": "Dynamic movement through neighborhood, authentic activity and life, natural pedestrian flow",
+          "lighting": "Natural daylight emphasizing different times for various activities, golden hour for beauty shots",
+          "atmosphere": "Vibrant, welcoming, community-focused, highlighting quality of life and convenience",
+          "style": "Documentary-style with lifestyle elements, authentic and aspirational",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K (3840x2160)",
+            "aspectRatio": "16:9",
+            "frameRate": "24-30 fps",
+            "audioConsideration": "Natural sound design important"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Urban Walkability Focus",
+          "modifiedElements": {
+            "subject": "Emphasis on transit, walkable amenities, urban lifestyle",
+            "cameraMovement": "More handheld, POV walking shots"
+          }
+        },
+        {
+          "name": "Family-Oriented",
+          "modifiedElements": {
+            "subject": "Schools, parks, family activities, safety features",
+            "atmosphere": "Safe, family-friendly, community-oriented"
+          }
+        }
+      ],
+      "tags": [
+        "neighborhood tour",
+        "community amenities",
+        "lifestyle marketing",
+        "location benefits",
+        "area showcase"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Scout locations at different times to capture peak activity",
+        "Include authentic community members when possible",
+        "Show seasonal variations if applicable",
+        "Map walking distances to key amenities",
+        "Balance property proximity with neighborhood character"
+      ],
+      "examples": {
+        "sampleOutput": "2-minute neighborhood tour showing morning coffee culture, afternoon park life, and evening dining scene",
+        "useCases": [
+          "Residential development marketing",
+          "Relocation packages",
+          "Community promotion",
+          "Real estate area guides"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_06",
+      "category": "real_estate_architecture",
+      "title": "Luxury Features & Finishes Showcase",
+      "description": "Detailed presentation of high-end features, premium materials, and exclusive amenities with cinematic close-ups",
+      "prompt": {
+        "main": "Luxurious feature showcase highlighting premium finishes and exclusive amenities. Opening with statement chandelier, camera descends revealing marble foyer. Sequence through chef's kitchen with professional appliances, master suite with boutique closet, spa bathroom with soaking tub. Include smart home technology, wine cellar, home theater. Each feature presented with artistic flair emphasizing quality and exclusivity.",
+        "elements": {
+          "cameraMovement": "Controlled crane movements, macro slides on textures, circular dolly around statement pieces",
+          "subject": "Luxury fixtures, premium appliances, custom millwork, high-end materials, exclusive amenities",
+          "scene": "Ultra-luxury residential spaces with focus on exceptional features and finishes",
+          "motion": "Elegant, deliberate movements showcasing each feature from multiple angles",
+          "lighting": "Dramatic lighting emphasizing luxury - crystal sparkle, metal gleam, stone texture",
+          "atmosphere": "Exclusive, sophisticated, aspirational, emphasizing exceptional quality and rarity",
+          "style": "Luxury product photography aesthetic with architectural context",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K minimum, 6K preferred",
+            "aspectRatio": "16:9 or 2.35:1",
+            "frameRate": "24 fps",
+            "specialRequirements": "Macro capability, specialized lighting"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Tech-Forward Focus",
+          "modifiedElements": {
+            "subject": "Smart home systems, automation, integrated technology",
+            "style": "Modern, sleek, emphasizing innovation and convenience"
+          }
+        },
+        {
+          "name": "Artisan Craftsmanship",
+          "modifiedElements": {
+            "subject": "Handcrafted elements, custom artwork, bespoke features",
+            "lighting": "Warm, emphasizing handmade qualities and uniqueness"
+          }
+        }
+      ],
+      "tags": [
+        "luxury features",
+        "premium finishes",
+        "high-end amenities",
+        "exclusive details",
+        "luxury real estate"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Use specialized macro lenses for detail work",
+        "Employ professional lighting to enhance materials",
+        "Show features in use context when appropriate",
+        "Include brand names for premium appliances/fixtures",
+        "Create visual hierarchy focusing on most exclusive features"
+      ],
+      "examples": {
+        "sampleOutput": "90-second luxury montage featuring Italian marble, Sub-Zero appliances, and custom wine room",
+        "useCases": [
+          "Ultra-luxury property marketing",
+          "Developer premium packages",
+          "Luxury lifestyle magazines",
+          "High-net-worth client presentations"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_07",
+      "category": "real_estate_architecture",
+      "title": "Commercial Space Potential Demo",
+      "description": "Versatile commercial space presentation showing multiple configuration possibilities and business potential scenarios",
+      "prompt": {
+        "main": "Dynamic commercial space video demonstrating versatility and potential. Opening with empty raw space, then transitioning through multiple configuration possibilities - open office layout, retail showroom, restaurant concept, creative studio. Use CGI overlays or practical staging to show transformations. Emphasize flexible infrastructure, natural light, street visibility, and adaptability for various business types.",
+        "elements": {
+          "cameraMovement": "360-degree space surveys, height variations showing volume, tracking shots demonstrating flow",
+          "subject": "Commercial real estate space with emphasis on flexibility, infrastructure, and location benefits",
+          "scene": "Raw or minimally finished commercial space with good bones and business potential",
+          "motion": "Dynamic transitions between configuration concepts, animated overlays showing possibilities",
+          "lighting": "Natural light analysis throughout day, demonstration of lighting possibilities",
+          "atmosphere": "Professional, possibilities-focused, entrepreneurial, emphasizing opportunity and flexibility",
+          "style": "Clean, professional with conceptual visualization elements",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K (3840x2160)",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps",
+            "postProduction": "CGI/motion graphics for concept visualization"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Retail Focus",
+          "modifiedElements": {
+            "subject": "Storefront appeal, foot traffic, display possibilities",
+            "scene": "Emphasis on street visibility and customer flow"
+          }
+        },
+        {
+          "name": "Tech/Creative Space",
+          "modifiedElements": {
+            "style": "Modern, innovative, showing collaborative possibilities",
+            "motion": "Include conceptual team interactions and workspace dynamics"
+          }
+        }
+      ],
+      "tags": [
+        "commercial real estate",
+        "flexible space",
+        "business opportunity",
+        "commercial potential",
+        "adaptive reuse"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Show multiple realistic use cases for the space",
+        "Highlight key infrastructure features (HVAC, electrical, plumbing)",
+        "Include location benefits and accessibility",
+        "Use graphics to show square footage and dimensions",
+        "Demonstrate traffic patterns and visibility factors"
+      ],
+      "examples": {
+        "sampleOutput": "90-second video showing raw space transforming through 4 different business concepts",
+        "useCases": [
+          "Commercial leasing presentations",
+          "Investment property marketing",
+          "Economic development promotion",
+          "Tenant attraction campaigns"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_08",
+      "category": "real_estate_architecture",
+      "title": "Historical Building Story & Preservation",
+      "description": "Narrative-driven showcase of historical architecture blending original character with modern adaptations",
+      "prompt": {
+        "main": "Evocative historical building tour weaving architectural heritage with contemporary adaptation. Opening with period-appropriate establishing shot, revealing original architectural details - ornate moldings, restored windows, preserved facades. Juxtapose historical elements with thoughtful modern interventions. Include archival photo overlays showing building's evolution. Emphasize successful preservation of character while meeting modern needs.",
+        "elements": {
+          "cameraMovement": "Reverent, slow movements respecting architectural details, matched dissolves with historical photos",
+          "subject": "Historical building featuring preserved original elements alongside sympathetic modern updates",
+          "scene": "Heritage architecture showcasing successful adaptive reuse or restoration",
+          "motion": "Contemplative pacing allowing appreciation of details, gentle reveals of hidden features",
+          "lighting": "Natural light emphasizing patina and age, warm interior lighting for ambiance",
+          "atmosphere": "Respectful, nostalgic, celebrating heritage while embracing contemporary use",
+          "style": "Documentary approach with artistic sensibility, rich color grading emphasizing warmth and history",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K (3840x2160)",
+            "aspectRatio": "16:9 or 2.35:1 for cinematic feel",
+            "frameRate": "24 fps",
+            "archivalIntegration": "Historical photo/video overlays"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Restoration Focus",
+          "modifiedElements": {
+            "subject": "Before/after restoration work, craftsmanship details",
+            "motion": "Split screens or wipe transitions showing restoration progress"
+          }
+        },
+        {
+          "name": "Modern Intervention",
+          "modifiedElements": {
+            "style": "Contrast between historical and contemporary elements",
+            "lighting": "Dramatic lighting emphasizing architectural dialogue"
+          }
+        }
+      ],
+      "tags": [
+        "historical preservation",
+        "adaptive reuse",
+        "heritage architecture",
+        "restoration",
+        "architectural history"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Research building history for authentic storytelling",
+        "Highlight preserved original features prominently",
+        "Show successful integration of modern systems",
+        "Include historical context through graphics or overlays",
+        "Respect the gravitas of historical significance"
+      ],
+      "examples": {
+        "sampleOutput": "2-minute video showcasing 1920s building transformation into modern luxury condos while preserving character",
+        "useCases": [
+          "Historical property marketing",
+          "Preservation society documentation",
+          "Adaptive reuse case studies",
+          "Cultural heritage promotion"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_09",
+      "category": "real_estate_architecture",
+      "title": "Smart Home Technology Integration",
+      "description": "Futuristic showcase of integrated smart home systems, automation features, and connected living experiences",
+      "prompt": {
+        "main": "Cutting-edge smart home tour demonstrating seamless technology integration. Opening with voice-activated entry, lights adjusting to presence. Showcase automated climate control, integrated security, app-controlled systems. Feature home theater automation, smart kitchen appliances, energy monitoring. Include lifestyle scenarios - morning routines, entertainment modes, security protocols. Emphasize intuitive control and energy efficiency.",
+        "elements": {
+          "cameraMovement": "Smooth tracking following user interactions, POV shots of control interfaces",
+          "subject": "Smart home technology including automation, security, entertainment, and energy management systems",
+          "scene": "Modern home equipped with comprehensive smart home ecosystem",
+          "motion": "Dynamic responses to automation triggers, screen graphics showing system controls",
+          "lighting": "Automated lighting scenes transitioning for different moods and functions",
+          "atmosphere": "Futuristic, convenient, secure, emphasizing ease of living and technological sophistication",
+          "style": "Clean, modern aesthetic with UI/UX elements integrated into shots",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K (3840x2160)",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps for smooth tech demos",
+            "graphicsIntegration": "UI overlays and system visualizations"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Security Focus",
+          "modifiedElements": {
+            "subject": "Emphasis on security systems, surveillance, access control",
+            "atmosphere": "Safe, protected, demonstrating peace of mind"
+          }
+        },
+        {
+          "name": "Sustainability Tech",
+          "modifiedElements": {
+            "subject": "Energy monitoring, solar integration, efficiency systems",
+            "style": "Include data visualizations of energy savings"
+          }
+        }
+      ],
+      "tags": [
+        "smart home",
+        "home automation",
+        "technology integration",
+        "connected living",
+        "future home"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Show technology in realistic use scenarios",
+        "Include mobile app and voice control demonstrations",
+        "Visualize data and system responses with graphics",
+        "Emphasize ease of use and lifestyle benefits",
+        "Demonstrate integration between different systems"
+      ],
+      "examples": {
+        "sampleOutput": "90-second demo showing day-in-life with smart home from wake-up to bedtime",
+        "useCases": [
+          "New construction technology packages",
+          "Smart home retrofit marketing",
+          "Technology showcase homes",
+          "Builder differentiation marketing"
+        ]
+      }
+    },
+    {
+      "id": "real_estate_architecture_template_10",
+      "category": "real_estate_architecture",
+      "title": "Outdoor Living & Landscape Architecture",
+      "description": "Expansive outdoor living showcase featuring landscape design, entertainment areas, and seamless indoor-outdoor integration",
+      "prompt": {
+        "main": "Luxurious outdoor living tour showcasing resort-style amenities and landscape architecture. Opening with aerial view of property grounds, descending to pool area with infinity edge overlooking views. Feature outdoor kitchen, fire features, dining pavilion, zen garden. Showcase landscape lighting transformation from day to evening. Emphasize indoor-outdoor flow through disappearing glass walls and cohesive design elements.",
+        "elements": {
+          "cameraMovement": "Sweeping drone shots, low gimbal movements through garden paths, reveal shots of features",
+          "subject": "Outdoor living spaces, pools, landscape architecture, entertainment areas, gardens",
+          "scene": "Luxury outdoor environments with multiple activity zones and sophisticated landscaping",
+          "motion": "Flowing water features, fire elements, gentle plant movement, lifestyle activity",
+          "lighting": "Golden hour natural light transitioning to dramatic landscape lighting at dusk",
+          "atmosphere": "Resort-like, relaxing, entertainment-ready, showcasing outdoor lifestyle potential",
+          "style": "Lifestyle photography aesthetic with architectural precision",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K (3840x2160)",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps",
+            "specialConsiderations": "Weather dependent, golden hour timing critical"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Entertainment Focus",
+          "modifiedElements": {
+            "subject": "Outdoor kitchen, bar, fire features, gathering spaces",
+            "motion": "Include lifestyle shots with people entertaining"
+          }
+        },
+        {
+          "name": "Garden Sanctuary",
+          "modifiedElements": {
+            "subject": "Meditation gardens, water features, private retreats",
+            "atmosphere": "Peaceful, zen-like, emphasizing tranquility"
+          }
+        }
+      ],
+      "tags": [
+        "outdoor living",
+        "landscape architecture",
+        "luxury amenities",
+        "pool and spa",
+        "garden design"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Plan shoots during optimal lighting conditions",
+        "Show seasonal variations if possible",
+        "Include lifestyle elements (set dining table, lit fire features)",
+        "Demonstrate indoor-outdoor connection and flow",
+        "Capture both daytime beauty and evening ambiance"
+      ],
+      "examples": {
+        "sampleOutput": "2-minute tour from sunrise yoga deck through pool entertainment to evening fire pit gathering",
+        "useCases": [
+          "Luxury property outdoor features",
+          "Landscape architect portfolios",
+          "Resort-style community marketing",
+          "Indoor-outdoor living promotion"
+        ]
+      }
+    }
+  ]
+}

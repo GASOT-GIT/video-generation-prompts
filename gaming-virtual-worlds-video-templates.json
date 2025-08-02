@@ -1,0 +1,559 @@
+{
+  "category": "Gaming & Virtual Worlds",
+  "categoryId": "gaming_virtual_worlds",
+  "templateCount": 10,
+  "generatedAt": "2025-08-01T22:00:00.000Z",
+  "templates": [
+    {
+      "id": "gaming_epic_trailer_01",
+      "category": "gaming_virtual_worlds",
+      "title": "Epic Game Trailer Cinematic Sequence",
+      "description": "AAA game trailer with cinematic camera work, dramatic character reveals, and explosive action sequences",
+      "prompt": {
+        "main": "Cinematic game trailer opening with extreme close-up of warrior's eye reflecting battlefield. Camera pulls back through shattered helmet visor revealing massive fantasy war scene. Sweeping crane shot over clashing armies with particle effects, magic spells, and dynamic combat. Hero character charges forward as camera tracks alongside, capturing sword strikes with motion blur. Dramatic slow-motion moment as dragon swoops overhead casting shadows. UI elements fade in showing game logo with epic orchestral crescendo.",
+        "elements": {
+          "cameraMovement": "Pull-back reveal, sweeping crane shots, dynamic tracking, slow-motion transitions",
+          "subject": "Armored warrior hero, fantasy armies, dragon, magical effects",
+          "scene": "Epic battlefield, destroyed castle, burning landscape, storm clouds",
+          "motion": "Combat choreography, spell casting, dragon flight, particle explosions",
+          "lighting": "Dramatic rim lighting, fire glow, lightning flashes, volumetric fog",
+          "atmosphere": "Epic, heroic, intense, cinematic blockbuster quality",
+          "style": "AAA game trailer cinematics - Blizzard/Epic Games quality",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "4K HDR",
+            "aspectRatio": "21:9 (Ultrawide cinematic)",
+            "frameRate": "24/60 fps mixed (cinematic/action)"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Sci-Fi Version",
+          "modifiedElements": {
+            "scene": "Futuristic battlefield with spaceships and laser weapons",
+            "subject": "Space marine with powered armor and energy weapons"
+          }
+        }
+      ],
+      "tags": [
+        "game trailer",
+        "cinematic",
+        "epic",
+        "fantasy",
+        "action",
+        "AAA"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Build tension with music and pacing",
+        "Mix wide establishing shots with intense close-ups",
+        "Showcase unique game mechanics and features",
+        "End with strong logo reveal and call-to-action"
+      ],
+      "examples": {
+        "sampleOutput": "World of Warcraft, God of War, Elden Ring trailers",
+        "useCases": [
+          "Game launch trailers",
+          "E3/Game show presentations",
+          "Steam store page features"
+        ]
+      }
+    },
+    {
+      "id": "gaming_environment_showcase_02",
+      "category": "gaming_virtual_worlds",
+      "title": "Virtual Environment Walkthrough Tour",
+      "description": "Immersive exploration of game environments showcasing level design, atmosphere, and interactive elements",
+      "prompt": {
+        "main": "First-person perspective gliding through mystical forest environment at dawn. Camera smoothly navigates winding paths, revealing bioluminescent plants pulsing with light. Transitions through ancient stone archway into hidden underground temple. Dynamic lighting shifts from natural sunbeams to torch-lit corridors. Interactive elements highlight as camera passes - glowing runes, moving platforms, hidden passages. Ambient wildlife and particle effects create living world. Seamless transitions between diverse biomes showcasing environmental storytelling.",
+        "elements": {
+          "cameraMovement": "Smooth first-person navigation, discovery reveals, environmental transitions",
+          "subject": "Game environment, interactive objects, ambient creatures, architectural details",
+          "scene": "Mystical forest to ancient temple, multiple connected biomes",
+          "motion": "Floating particles, swaying foliage, water effects, ambient animations",
+          "lighting": "Dynamic time-of-day, bioluminescence, torchlight, magical glows",
+          "atmosphere": "Mysterious, explorative, immersive, wonder-inducing",
+          "style": "Environmental showcase - Unreal Engine 5 quality",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps (smooth exploration)"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Cyberpunk City",
+          "modifiedElements": {
+            "scene": "Neon-lit metropolis with flying vehicles and holograms",
+            "lighting": "Neon signs, holographic displays, rain reflections"
+          }
+        }
+      ],
+      "tags": [
+        "environment",
+        "exploration",
+        "level design",
+        "immersive",
+        "walkthrough"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Maintain smooth camera movement for comfort",
+        "Highlight interactive elements subtly",
+        "Show environmental diversity and scale",
+        "Include ambient sound design cues"
+      ],
+      "examples": {
+        "sampleOutput": "Horizon Forbidden West environments, Cyberpunk 2077 city tours",
+        "useCases": [
+          "Development showcases",
+          "Virtual tourism experiences",
+          "Level design portfolios"
+        ]
+      }
+    },
+    {
+      "id": "gaming_character_abilities_03",
+      "category": "gaming_virtual_worlds",
+      "title": "Character Abilities & Combat Showcase",
+      "description": "Dynamic presentation of character skills, combos, and special abilities with HUD elements",
+      "prompt": {
+        "main": "Arena setting with character in combat stance center frame. Camera orbits as character demonstrates combo sequence - punch, kick, special move with energy effects. Slow-motion captures impact frames with particle bursts. HUD elements appear showing combo counter, damage numbers, skill cooldowns. Character transforms/powers up with dramatic lighting change. Multiple ability demonstrations with dynamic camera angles - aerial attacks, ground pounds, projectile skills. UI overlay shows skill tree and upgrade paths. Finishing move with cinematic camera work.",
+        "elements": {
+          "cameraMovement": "Orbital showcase, dynamic combat angles, slow-motion impacts",
+          "subject": "Playable character, combat effects, enemy targets, ability visuals",
+          "scene": "Training arena, combat dojo, virtual simulation space",
+          "motion": "Martial arts combos, special moves, transformation sequences",
+          "lighting": "Ability-specific lighting, impact flashes, aura effects",
+          "atmosphere": "Powerful, skillful, exciting, competitive",
+          "style": "Fighting game/action RPG presentation",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps (smooth combat)"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Mage Class",
+          "modifiedElements": {
+            "motion": "Spell casting, elemental effects, teleportation",
+            "lighting": "Magical auras, spell circles, elemental colors"
+          }
+        }
+      ],
+      "tags": [
+        "character showcase",
+        "combat",
+        "abilities",
+        "gameplay",
+        "action"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Clear ability telegraphing and visual feedback",
+        "Show combo potential and skill synergies",
+        "Include UI/HUD elements for context",
+        "Demonstrate both offensive and defensive abilities"
+      ],
+      "examples": {
+        "sampleOutput": "Mortal Kombat character reveals, League of Legends champion spotlights",
+        "useCases": [
+          "Character reveal trailers",
+          "Gameplay tutorials",
+          "Battle pass showcases"
+        ]
+      }
+    },
+    {
+      "id": "gaming_multiplayer_highlight_04",
+      "category": "gaming_virtual_worlds",
+      "title": "Multiplayer Gameplay Highlight Reel",
+      "description": "Fast-paced montage of multiplayer moments, killstreaks, and team coordination with dynamic editing",
+      "prompt": {
+        "main": "Rapid montage of FPS gameplay highlights. Quick cuts between headshot sequences with hitmarker effects. Drone camera captures team coordination - synchronized breach with smoke grenades. First-person view of sliding into cover, quick-scope sniper elimination. Third-person spectator cam shows multi-kill explosion. Kill feed UI elements pop up with player names. Scoreboard flashes showing MVP status. Victory screen with team celebration emotes. Fast-paced editing synced to electronic music beats. Motion blur transitions between clips.",
+        "elements": {
+          "cameraMovement": "Quick cuts, whip pans, drone flyovers, mixed perspectives",
+          "subject": "Player characters, weapon effects, explosions, team formations",
+          "scene": "Various multiplayer maps - urban, desert, spaceship interiors",
+          "motion": "Running, sliding, jumping, shooting, explosions, victory dances",
+          "lighting": "Muzzle flashes, explosions, tactical equipment glows",
+          "atmosphere": "High-energy, competitive, intense, victorious",
+          "style": "Esports highlight reel editing",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60-120 fps (high framerate action)"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "MOBA Highlights",
+          "modifiedElements": {
+            "scene": "Top-down MOBA map with lanes and jungle",
+            "motion": "Ability combos, team fights, objective captures"
+          }
+        }
+      ],
+      "tags": [
+        "multiplayer",
+        "highlights",
+        "competitive",
+        "action",
+        "montage"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Sync edits to music/audio cues",
+        "Show variety of weapons/characters",
+        "Include clutch moments and comebacks",
+        "Feature team coordination highlights"
+      ],
+      "examples": {
+        "sampleOutput": "Call of Duty montages, Valorant highlight reels",
+        "useCases": [
+          "Esports recap videos",
+          "Player achievement showcases",
+          "Game marketing materials"
+        ]
+      }
+    },
+    {
+      "id": "gaming_esports_tournament_05",
+      "category": "gaming_virtual_worlds",
+      "title": "Esports Tournament Coverage & Hype",
+      "description": "Professional esports production with player reactions, crowd shots, and intense gameplay moments",
+      "prompt": {
+        "main": "Stadium establishing shot with thousands of fans, stage lights sweeping across crowd. Cut to player booth - extreme close-up of focused eyes reflecting game screen. Split-screen showing both teams' perspectives during crucial team fight. Overhead tactical view of strategic positioning. Player face cam shows intense concentration, fist pump after victory. Crowd eruption with confetti cannons. Trophy presentation with dramatic lighting. Slow-motion replay of game-winning play with commentary overlay. AR graphics showing player stats floating above stage.",
+        "elements": {
+          "cameraMovement": "Crane shots, booth cams, tactical overviews, crowd pans",
+          "subject": "Pro players, crowd reactions, game footage, trophy ceremony",
+          "scene": "Esports arena, player booths, main stage, crowd areas",
+          "motion": "Player reactions, crowd waves, confetti, light shows",
+          "lighting": "Stage lighting, spotlights, LED displays, pyrotechnics",
+          "atmosphere": "Competitive, exciting, professional, celebratory",
+          "style": "Broadcast esports production quality",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K HDR",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps broadcast standard"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Online Tournament",
+          "modifiedElements": {
+            "scene": "Multiple player webcams in grid layout",
+            "subject": "Remote players in home setups"
+          }
+        }
+      ],
+      "tags": [
+        "esports",
+        "tournament",
+        "competitive",
+        "professional",
+        "broadcast"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Capture player emotions and reactions",
+        "Include crowd energy and atmosphere",
+        "Show key gameplay moments clearly",
+        "Professional broadcast graphics and overlays"
+      ],
+      "examples": {
+        "sampleOutput": "League of Legends Worlds, CS:GO Major coverage",
+        "useCases": [
+          "Tournament highlight reels",
+          "Esports documentaries",
+          "Event promotion videos"
+        ]
+      }
+    },
+    {
+      "id": "gaming_vr_experience_06",
+      "category": "gaming_virtual_worlds",
+      "title": "VR Experience Immersive Demonstration",
+      "description": "First-person VR gameplay showing hand tracking, environmental interaction, and presence",
+      "prompt": {
+        "main": "POV shot showing virtual hands reaching out, grabbing floating UI menu in 3D space. Smooth head tracking as player looks around fantastical VR environment. Hands interact with physics objects - picking up, throwing, manipulating tools. Teleportation movement with visual arc indicator. Close interaction with NPC showing facial tracking and eye contact. Gesture controls triggering magical effects from fingertips. Room-scale movement around virtual workspace. Mixed reality view showing player in real space within virtual world. Haptic feedback visualization on contact with objects.",
+        "elements": {
+          "cameraMovement": "Natural head tracking, smooth locomotion, teleportation jumps",
+          "subject": "Virtual hands, interactive objects, VR UI elements, NPCs",
+          "scene": "Fantastical VR environments, mixed reality spaces",
+          "motion": "Hand gestures, object manipulation, physics interactions",
+          "lighting": "Volumetric lighting, interactive light sources, particle effects",
+          "atmosphere": "Immersive, wonder-filled, interactive, presence-focused",
+          "style": "VR first-person perspective showcase",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K per eye equivalent",
+            "aspectRatio": "16:9 (flattened VR view)",
+            "frameRate": "90 fps (VR standard)"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "VR Fitness",
+          "modifiedElements": {
+            "scene": "Virtual gym with workout stations",
+            "motion": "Exercise movements, rhythm gameplay"
+          }
+        }
+      ],
+      "tags": [
+        "VR",
+        "virtual reality",
+        "immersive",
+        "interactive",
+        "first-person"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Avoid motion sickness with smooth movement",
+        "Show hand presence and tracking quality",
+        "Demonstrate unique VR interactions",
+        "Include spatial audio cues"
+      ],
+      "examples": {
+        "sampleOutput": "Half-Life: Alyx gameplay, Beat Saber demonstrations",
+        "useCases": [
+          "VR game trailers",
+          "Platform showcases",
+          "VR hardware demos"
+        ]
+      }
+    },
+    {
+      "id": "gaming_dev_behind_scenes_07",
+      "category": "gaming_virtual_worlds",
+      "title": "Game Development Behind the Scenes",
+      "description": "Documentary-style footage showing game creation process, developer interviews, and work-in-progress",
+      "prompt": {
+        "main": "Developer at workstation with multiple monitors showing game engine, code, and 3D models. Timelapse of character model evolution from concept art to final render. Motion capture session with actors in suits performing combat choreography. Team meeting with whiteboard full of level designs and sticky notes. Close-up of artist painting textures on digital tablet. Programmer debugging code with gameplay footage on second monitor. Sound designer recording foley effects. Playtesting session with developers taking notes. Before/after comparison of early prototype vs polished gameplay.",
+        "elements": {
+          "cameraMovement": "Documentary style handheld, slider shots, timelapses",
+          "subject": "Game developers, workstations, development tools, prototypes",
+          "scene": "Game studio offices, mocap stages, recording booths, meeting rooms",
+          "motion": "Typing, drawing, mocap performances, collaborative discussions",
+          "lighting": "Natural office lighting, monitor glows, studio lights for mocap",
+          "atmosphere": "Creative, collaborative, technical, passionate",
+          "style": "Documentary/behind-the-scenes production",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps (cinematic documentary)"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Indie Dev Solo",
+          "modifiedElements": {
+            "scene": "Home office setup with single developer",
+            "subject": "Solo indie developer working on passion project"
+          }
+        }
+      ],
+      "tags": [
+        "game development",
+        "behind the scenes",
+        "documentary",
+        "creative process",
+        "studio"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show variety of development disciplines",
+        "Include work-in-progress footage",
+        "Feature developer personalities and passion",
+        "Document iterative design process"
+      ],
+      "examples": {
+        "sampleOutput": "NoClip documentaries, God of War making-of videos",
+        "useCases": [
+          "Developer diaries",
+          "Kickstarter campaigns",
+          "Studio culture videos"
+        ]
+      }
+    },
+    {
+      "id": "gaming_virtual_concert_08",
+      "category": "gaming_virtual_worlds",
+      "title": "Virtual Concert Metaverse Experience",
+      "description": "In-game concert event with virtual performers, crowd interactions, and spectacular visual effects",
+      "prompt": {
+        "main": "Aerial establishing shot of massive virtual concert venue filled with player avatars. Stage erupts with pyrotechnics as virtual artist appears in burst of particles. Dynamic camera flies through crowd showing diverse custom avatars dancing, emoting. Stage transforms with each song - floating platforms, gravity-defying set pieces. Synchronized light show with laser effects cutting through volumetric fog. Crowd participation moments - everyone's avatars light up simultaneously. Giant AR visuals appear above stage synced to music. Camera pulls back to show entire metaverse island transformed by concert effects.",
+        "elements": {
+          "cameraMovement": "Sweeping aerials, stage fly-throughs, crowd navigation, 360 spins",
+          "subject": "Virtual performer, avatar crowds, stage effects, environmental transforms",
+          "scene": "Metaverse concert venue, fantastical stage designs, virtual worlds",
+          "motion": "Dancing avatars, particle effects, stage transformations, synchronized emotes",
+          "lighting": "Concert lighting, lasers, pyrotechnics, synchronized color waves",
+          "atmosphere": "Energetic, spectacular, communal, futuristic",
+          "style": "Virtual concert production - Fortnite/Roblox events",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "DJ Set",
+          "modifiedElements": {
+            "subject": "Virtual DJ with turntables and mixing board",
+            "lighting": "Club lighting with strobes and LED walls"
+          }
+        }
+      ],
+      "tags": [
+        "virtual concert",
+        "metaverse",
+        "music",
+        "social",
+        "event"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Sync visual effects to music beats",
+        "Show scale through crowd shots",
+        "Feature interactive elements",
+        "Capture social/communal aspects"
+      ],
+      "examples": {
+        "sampleOutput": "Travis Scott Fortnite concert, Lil Nas X Roblox show",
+        "useCases": [
+          "Virtual event promotion",
+          "Metaverse platform showcases",
+          "Music video game content"
+        ]
+      }
+    },
+    {
+      "id": "gaming_metaverse_social_09",
+      "category": "gaming_virtual_worlds",
+      "title": "Metaverse Social Interaction Showcase",
+      "description": "Virtual world social experiences, avatar customization, and community interactions",
+      "prompt": {
+        "main": "Avatar creation screen with player customizing appearance - facial features morphing, outfit changes, accessories adding. Transition to social hub with diverse avatars congregating. Friends meeting up with greeting emotes and chat bubbles. Group walking to virtual cafe, sitting at table with proximity voice chat visualization. Quick cuts of various social activities - virtual shopping, mini-games, photo booth poses. Avatar apartment customization with furniture placement. Dance party scene with synchronized emotes. Virtual selfie with landmark in background. UI showing friend requests and social features.",
+        "elements": {
+          "cameraMovement": "Third-person follow, social space exploration, UI closeups",
+          "subject": "Player avatars, social interactions, customization options, virtual spaces",
+          "scene": "Social hubs, virtual cafes, apartments, activity zones",
+          "motion": "Emotes, gestures, walking, social activities, customization actions",
+          "lighting": "Vibrant metaverse lighting, ambient social spaces, colorful environments",
+          "atmosphere": "Social, friendly, creative, expressive, connected",
+          "style": "Social platform showcase - VRChat/Rec Room style",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Business Metaverse",
+          "modifiedElements": {
+            "scene": "Virtual office spaces and conference rooms",
+            "subject": "Professional avatars in business settings"
+          }
+        }
+      ],
+      "tags": [
+        "metaverse",
+        "social",
+        "avatar",
+        "customization",
+        "community"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Show diversity in avatar designs",
+        "Highlight social features and interactions",
+        "Demonstrate ease of customization",
+        "Include various social activities"
+      ],
+      "examples": {
+        "sampleOutput": "Meta Horizon Worlds, VRChat social experiences",
+        "useCases": [
+          "Platform onboarding videos",
+          "Social feature demonstrations",
+          "Metaverse marketing"
+        ]
+      }
+    },
+    {
+      "id": "gaming_setup_showcase_10",
+      "category": "gaming_virtual_worlds",
+      "title": "Ultimate Gaming Setup & Battlestation Tour",
+      "description": "Cinematic showcase of high-end gaming setup with RGB lighting, multiple displays, and premium peripherals",
+      "prompt": {
+        "main": "Darkness breaks as RGB lights activate in sequence across gaming setup. Camera slides revealing ultra-wide curved monitor displaying game menu. Mechanical keyboard keys light up in wave pattern. Close-up of high-DPI gaming mouse with customizable buttons. Pull back to show full battlestation - triple monitor array, streaming setup with professional microphone. Cable management system highlighted with subtle lighting. VR headset on custom stand, collectible figures on shelves. Gaming chair hydraulics adjusting to perfect position. Quick montage of peripheral details - headset, controller charging dock, ambient lighting synced to gameplay.",
+        "elements": {
+          "cameraMovement": "Smooth sliders, product-style reveals, detail macros, wide establishing",
+          "subject": "Gaming peripherals, PC components, RGB lighting, cable management",
+          "scene": "Modern gaming room, organized desk setup, ambient atmosphere",
+          "motion": "RGB animations, fan spinning, cable management reveals",
+          "lighting": "RGB synchronization, monitor glow, ambient backlighting",
+          "atmosphere": "Premium, organized, high-tech, enthusiast-grade",
+          "style": "Tech product cinematography - MKBHD quality",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "4K HDR",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Budget Setup",
+          "modifiedElements": {
+            "subject": "Affordable but optimized gaming configuration",
+            "atmosphere": "Practical, value-focused, clean"
+          }
+        }
+      ],
+      "tags": [
+        "gaming setup",
+        "battlestation",
+        "RGB",
+        "peripherals",
+        "showcase"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Highlight cable management and organization",
+        "Show RGB synchronization effects",
+        "Feature both wide shots and close details",
+        "Include performance metrics on displays"
+      ],
+      "examples": {
+        "sampleOutput": "Setup tour videos, PC build reveals",
+        "useCases": [
+          "YouTube setup tours",
+          "Product showcases",
+          "PC building content"
+        ]
+      }
+    }
+  ]
+}

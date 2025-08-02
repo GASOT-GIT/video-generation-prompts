@@ -1,0 +1,317 @@
+{
+  "event_celebration_templates": [
+    {
+      "template_id": "wedding_ceremony_001",
+      "title": "Wedding Ceremony Romantic Captures",
+      "category": "Event & Celebration",
+      "subcategory": "Wedding",
+      "description": "Cinematic wedding ceremony with golden hour lighting and romantic atmosphere",
+      "prompt": "Elegant outdoor wedding ceremony at golden hour, bride in flowing white gown and groom in classic tuxedo exchanging vows under floral arch, soft bokeh background with string lights, gentle breeze moving veil, emotional tears of joy, warm sunset lighting casting romantic glow, professional cinematography with shallow depth of field, 8K quality",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 24,
+        "duration": "10-15 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "warm, romantic tones",
+        "camera_movement": "slow dolly forward",
+        "depth_of_field": "shallow",
+        "lighting": "golden hour, soft natural light"
+      },
+      "style_tags": ["romantic", "cinematic", "elegant", "emotional", "golden hour"],
+      "motion_parameters": {
+        "movement_speed": 0.3,
+        "camera_stability": 0.9,
+        "focus_pull": true,
+        "bokeh_intensity": 0.8
+      },
+      "audio_suggestions": {
+        "type": "romantic orchestral",
+        "mood": "emotional, uplifting",
+        "tempo": "slow to moderate"
+      }
+    },
+    {
+      "template_id": "birthday_party_002",
+      "title": "Birthday Party Joyful Moments",
+      "category": "Event & Celebration",
+      "subcategory": "Birthday",
+      "description": "Vibrant birthday celebration with cake, confetti, and pure joy",
+      "prompt": "Joyful birthday party celebration, child blowing out candles on colorful tiered cake, friends and family cheering in background, confetti falling in slow motion, balloons floating, bright festive decorations, warm indoor lighting with party lights, genuine smiles and laughter, candid moment capture, vibrant colors, 4K quality",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "8-12 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "vibrant, saturated colors",
+        "camera_movement": "handheld with stabilization",
+        "depth_of_field": "medium",
+        "lighting": "warm indoor with party lights"
+      },
+      "style_tags": ["joyful", "colorful", "energetic", "candid", "festive"],
+      "motion_parameters": {
+        "movement_speed": 0.6,
+        "camera_stability": 0.7,
+        "particle_effects": "confetti",
+        "slow_motion_sections": true
+      },
+      "audio_suggestions": {
+        "type": "upbeat celebration",
+        "mood": "happy, energetic",
+        "tempo": "moderate to fast"
+      }
+    },
+    {
+      "template_id": "corporate_event_003",
+      "title": "Corporate Event Professional Coverage",
+      "category": "Event & Celebration",
+      "subcategory": "Corporate",
+      "description": "Professional corporate event with keynote speakers and networking",
+      "prompt": "Professional corporate conference event, keynote speaker on modern stage with LED screens, audience in business attire attentively listening, dramatic stage lighting with blue and white tones, wide establishing shot transitioning to medium shots, modern venue architecture, professional camera work with smooth movements, crisp 4K quality",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 30,
+        "duration": "12-20 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "professional, clean whites and blues",
+        "camera_movement": "smooth gimbal movements",
+        "depth_of_field": "deep for wide shots",
+        "lighting": "stage lighting with spotlights"
+      },
+      "style_tags": ["professional", "modern", "corporate", "sleek", "sophisticated"],
+      "motion_parameters": {
+        "movement_speed": 0.4,
+        "camera_stability": 0.95,
+        "transition_effects": "smooth cuts",
+        "focus_tracking": true
+      },
+      "audio_suggestions": {
+        "type": "corporate ambient",
+        "mood": "professional, inspiring",
+        "tempo": "moderate"
+      }
+    },
+    {
+      "template_id": "festival_atmosphere_004",
+      "title": "Festival Atmosphere with Crowds",
+      "category": "Event & Celebration",
+      "subcategory": "Festival",
+      "description": "Dynamic festival scene with energetic crowds and vibrant atmosphere",
+      "prompt": "Vibrant music festival at dusk, massive crowd with hands raised, colorful stage lights and laser beams cutting through smoke, DJ or band performing on main stage, festival-goers dancing and celebrating, aerial drone shot revealing festival scale, neon colors and dynamic lighting effects, high energy atmosphere, cinematic 4K capture",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "15-20 seconds",
+        "aspect_ratio": "21:9",
+        "color_grading": "vibrant neon colors, high contrast",
+        "camera_movement": "dynamic drone and crane shots",
+        "depth_of_field": "variable",
+        "lighting": "stage lights, lasers, strobes"
+      },
+      "style_tags": ["energetic", "vibrant", "dynamic", "festival", "neon"],
+      "motion_parameters": {
+        "movement_speed": 0.8,
+        "camera_stability": 0.6,
+        "light_effects": "lasers, strobes",
+        "crowd_dynamics": true
+      },
+      "audio_suggestions": {
+        "type": "festival EDM/rock",
+        "mood": "high energy, euphoric",
+        "tempo": "fast"
+      }
+    },
+    {
+      "template_id": "anniversary_celebration_005",
+      "title": "Anniversary Celebration Intimacy",
+      "category": "Event & Celebration",
+      "subcategory": "Anniversary",
+      "description": "Intimate anniversary dinner with romantic ambiance",
+      "prompt": "Intimate anniversary celebration, elegant couple toasting champagne glasses at candlelit dinner table, soft romantic lighting with candles and fairy lights, rose petals scattered on table, upscale restaurant setting with blurred background, close-up of intertwined hands with wedding rings, genuine emotional connection, warm color palette, cinematic shallow focus",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 24,
+        "duration": "10-15 seconds",
+        "aspect_ratio": "2.35:1",
+        "color_grading": "warm, romantic amber tones",
+        "camera_movement": "subtle push-in",
+        "depth_of_field": "very shallow",
+        "lighting": "candlelight with soft fill"
+      },
+      "style_tags": ["intimate", "romantic", "elegant", "warm", "sophisticated"],
+      "motion_parameters": {
+        "movement_speed": 0.2,
+        "camera_stability": 0.95,
+        "focus_breathing": true,
+        "lens_flares": "subtle"
+      },
+      "audio_suggestions": {
+        "type": "romantic jazz or classical",
+        "mood": "intimate, loving",
+        "tempo": "slow"
+      }
+    },
+    {
+      "template_id": "graduation_ceremony_006",
+      "title": "Graduation Ceremony Achievements",
+      "category": "Event & Celebration",
+      "subcategory": "Graduation",
+      "description": "Triumphant graduation ceremony capturing achievement and pride",
+      "prompt": "Graduation ceremony celebration, graduate in cap and gown throwing mortarboard high in air, proud family members applauding in background, university campus setting with classical architecture, golden afternoon sunlight, confetti and diplomas in frame, mix of joy and accomplishment on faces, slow motion cap toss moment, professional documentary style",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "12-18 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "natural with enhanced blues and golds",
+        "camera_movement": "combination static and tracking",
+        "depth_of_field": "medium to deep",
+        "lighting": "natural daylight"
+      },
+      "style_tags": ["triumphant", "proud", "ceremonial", "academic", "joyful"],
+      "motion_parameters": {
+        "movement_speed": 0.5,
+        "camera_stability": 0.8,
+        "slow_motion_segments": "cap toss",
+        "crowd_reactions": true
+      },
+      "audio_suggestions": {
+        "type": "inspirational orchestral",
+        "mood": "uplifting, proud",
+        "tempo": "moderate building to crescendo"
+      }
+    },
+    {
+      "template_id": "holiday_gathering_007",
+      "title": "Holiday Gathering Warmth",
+      "category": "Event & Celebration",
+      "subcategory": "Holiday",
+      "description": "Warm family holiday gathering with festive decorations",
+      "prompt": "Cozy holiday family gathering around decorated Christmas tree, multi-generational family exchanging gifts, warm fireplace glow mixing with twinkling tree lights, children's excited faces opening presents, hot cocoa and cookies on coffee table, snow visible through windows, authentic candid moments of laughter and hugs, warm color grading with red and gold accents",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 30,
+        "duration": "15-20 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "warm with red and gold highlights",
+        "camera_movement": "gentle handheld",
+        "depth_of_field": "medium",
+        "lighting": "warm interior with Christmas lights"
+      },
+      "style_tags": ["cozy", "warm", "festive", "family", "traditional"],
+      "motion_parameters": {
+        "movement_speed": 0.4,
+        "camera_stability": 0.75,
+        "bokeh_lights": true,
+        "particle_effects": "subtle snow"
+      },
+      "audio_suggestions": {
+        "type": "holiday classics instrumental",
+        "mood": "warm, nostalgic",
+        "tempo": "moderate"
+      }
+    },
+    {
+      "template_id": "concert_show_008",
+      "title": "Concert/Show Event Energy",
+      "category": "Event & Celebration",
+      "subcategory": "Concert",
+      "description": "High-energy concert performance with dramatic lighting",
+      "prompt": "Epic rock concert performance, lead singer commanding stage with dramatic spotlights, massive crowd with phone lights creating sea of stars, pyrotechnics and smoke effects, guitarist mid-solo with stage lights creating silhouette, dynamic camera movements between stage and audience, intense energy and raw emotion, concert hall filled to capacity",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "20-30 seconds",
+        "aspect_ratio": "21:9",
+        "color_grading": "high contrast with color gels",
+        "camera_movement": "dynamic jibs and dollies",
+        "depth_of_field": "variable",
+        "lighting": "dramatic stage lighting"
+      },
+      "style_tags": ["energetic", "dramatic", "concert", "intense", "spectacular"],
+      "motion_parameters": {
+        "movement_speed": 0.9,
+        "camera_stability": 0.5,
+        "strobe_effects": true,
+        "pyrotechnics": true
+      },
+      "audio_suggestions": {
+        "type": "live rock/pop performance",
+        "mood": "intense, powerful",
+        "tempo": "fast"
+      }
+    },
+    {
+      "template_id": "baby_shower_009",
+      "title": "Baby Shower Tenderness",
+      "category": "Event & Celebration",
+      "subcategory": "Baby Shower",
+      "description": "Tender baby shower celebration with soft pastels and joy",
+      "prompt": "Gentle baby shower celebration, expectant mother cradling baby bump surrounded by loved ones, soft pastel decorations in pink and blue, delicate paper lanterns and balloons, gift opening moment with tiny baby clothes, afternoon tea setting with cupcakes and floral arrangements, soft natural window light creating ethereal atmosphere, tender emotional moments",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 24,
+        "duration": "10-15 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "soft pastels, dreamy",
+        "camera_movement": "gentle floating movements",
+        "depth_of_field": "shallow",
+        "lighting": "soft natural light with bounce"
+      },
+      "style_tags": ["tender", "soft", "pastel", "gentle", "dreamy"],
+      "motion_parameters": {
+        "movement_speed": 0.3,
+        "camera_stability": 0.9,
+        "lens_blur": "soft focus edges",
+        "particle_effects": "floating petals"
+      },
+      "audio_suggestions": {
+        "type": "gentle acoustic or lullaby",
+        "mood": "tender, peaceful",
+        "tempo": "slow"
+      }
+    },
+    {
+      "template_id": "new_year_countdown_010",
+      "title": "New Year Countdown Excitement",
+      "category": "Event & Celebration",
+      "subcategory": "New Year",
+      "description": "Exciting New Year's Eve countdown with fireworks finale",
+      "prompt": "Spectacular New Year's Eve countdown celebration, massive crowd in city square counting down final seconds, giant digital clock showing midnight approach, champagne bottles popping at stroke of midnight, magnificent fireworks exploding over city skyline, confetti cannons releasing golden streams, people kissing and embracing, mix of wide cityscape and intimate celebration moments",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "20-30 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "vibrant with gold accents",
+        "camera_movement": "crane shots and steadicam",
+        "depth_of_field": "deep for fireworks",
+        "lighting": "city lights and fireworks"
+      },
+      "style_tags": ["spectacular", "celebratory", "exciting", "grand", "festive"],
+      "motion_parameters": {
+        "movement_speed": 0.7,
+        "camera_stability": 0.8,
+        "particle_effects": "confetti and sparkles",
+        "time_remapping": "countdown sequence"
+      },
+      "audio_suggestions": {
+        "type": "celebration anthem with countdown",
+        "mood": "exciting, triumphant",
+        "tempo": "building to climax"
+      }
+    }
+  ],
+  "collection_metadata": {
+    "total_templates": 10,
+    "category": "Event & Celebration",
+    "version": "1.0",
+    "created_date": "2025-08-01",
+    "author": "Video Generation AI Templates",
+    "usage_notes": {
+      "resolution": "All templates support 4K output with downscale options",
+      "customization": "Prompts can be modified while maintaining core emotional themes",
+      "audio": "Audio suggestions are guidelines - actual implementation depends on platform",
+      "duration": "Durations are flexible based on platform capabilities"
+    }
+  }
+}

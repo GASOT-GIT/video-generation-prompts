@@ -1,0 +1,47 @@
+{
+  "templateStructure": {
+    "id": "unique_template_id",
+    "category": "category_name",
+    "title": "Template Title",
+    "description": "Brief description of the template",
+    "prompt": {
+      "main": "Main prompt text with all elements",
+      "elements": {
+        "cameraMovement": "Camera movement description",
+        "subject": "Subject description",
+        "scene": "Scene setting and environment",
+        "motion": "Motion and action details",
+        "lighting": "Lighting setup",
+        "atmosphere": "Mood and atmosphere",
+        "style": "Visual style and aesthetics",
+        "technicalSpecs": {
+          "duration": "5-20 seconds",
+          "resolution": "1080p/4K",
+          "aspectRatio": "16:9",
+          "frameRate": "24/30/60 fps"
+        }
+      }
+    },
+    "variations": [
+      {
+        "name": "Variation 1",
+        "modifiedElements": {
+          "cameraMovement": "Alternative camera movement"
+        }
+      }
+    ],
+    "tags": ["relevant", "search", "tags"],
+    "difficulty": "beginner/intermediate/advanced",
+    "bestPractices": [
+      "Tip 1 for using this template",
+      "Tip 2 for best results"
+    ],
+    "examples": {
+      "sampleOutput": "Description of expected output",
+      "useCases": [
+        "Use case 1",
+        "Use case 2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "category": "Food & Culinary",
+  "categoryId": "food_culinary",
+  "templateCount": 10,
+  "generatedAt": "2025-08-01T18:00:36.667Z",
+  "templates": [
+    {
+      "id": "food_culinary_template_01",
+      "category": "food_culinary",
+      "title": "Cooking Process with Steam and Sizzle",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Smooth tracking shot following the action",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Soft natural light with subtle shadows",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_02",
+      "category": "food_culinary",
+      "title": "Food Plating Artistic Presentation",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "360-degree orbital movement around subject",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Dramatic spotlighting with rim light",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_03",
+      "category": "food_culinary",
+      "title": "Restaurant Ambiance and Service",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Dolly zoom creating dramatic perspective shift",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Golden hour warm tones",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_04",
+      "category": "food_culinary",
+      "title": "Ingredient Journey from Farm to Table",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Crane shot revealing scene from above",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "High-key bright and airy",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_05",
+      "category": "food_culinary",
+      "title": "Dessert Creation with Decoration",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Handheld movement for dynamic energy",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Low-key moody atmosphere",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_06",
+      "category": "food_culinary",
+      "title": "Wine Pairing and Pouring",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Steadicam gliding through the scene",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Neon accents with practical lights",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_07",
+      "category": "food_culinary",
+      "title": "Street Food Vibrant Capture",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Time-lapse with subtle camera drift",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Diffused studio lighting",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_08",
+      "category": "food_culinary",
+      "title": "Baking Time-lapse Transformation",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Macro push-in revealing fine details",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Backlighting creating silhouettes",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_09",
+      "category": "food_culinary",
+      "title": "Cocktail Mixing with Flair",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Aerial descent into the scene",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Mixed color temperature for depth",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    },
+    {
+      "id": "food_culinary_template_10",
+      "category": "food_culinary",
+      "title": "Food Texture Macro Exploration",
+      "description": "Professional video template for Food & Culinary content",
+      "prompt": {
+        "main": "Appetizing food preparation sequence showing fresh ingredients being transformed. Steam rises, liquids pour in slow motion, and final plating reveals restaurant-quality presentation.",
+        "elements": {
+          "cameraMovement": "Slider movement with parallax effect",
+          "subject": "Gourmet dish with fresh ingredients",
+          "scene": "Modern kitchen or restaurant environment",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Strobe effects for energy",
+          "atmosphere": "Appetizing, fresh, inviting",
+          "style": "Food Network meets fine dining presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "food culinary",
+        "food",
+        "cooking",
+        "cuisine",
+        "chef",
+        "recipe"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality food & culinary video",
+        "useCases": [
+          "Restaurant promotion",
+          "Recipe videos",
+          "Food product marketing"
+        ]
+      }
+    }
+  ]
+}

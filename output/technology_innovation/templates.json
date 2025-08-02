@@ -1,0 +1,660 @@
+{
+  "category": "Technology Innovation",
+  "categoryId": "technology_innovation",
+  "templateCount": 10,
+  "generatedAt": "2025-08-02T07:13:22.701Z",
+  "templates": [
+    {
+      "id": "ai_product_launch_01",
+      "category": "technology_innovation",
+      "title": "AI Product Launch - Holographic UI Reveal",
+      "description": "Futuristic product reveal with holographic UI, neural network visualizations, and AI-powered features demonstration",
+      "prompt": {
+        "main": "Camera emerges from inside a pulsing neural network, synaptic connections firing with data. Holographic interface materializes in 3D space, floating panels displaying real-time AI processing metrics. Product assembles from quantum particles, each component highlighted with technical specifications. AI avatar emerges from light particles, demonstrating voice commands and predictive capabilities. Neural processing unit glows as it processes complex tasks instantly. Finale shows product floating in space surrounded by its ecosystem of connected devices and services.",
+        "elements": {
+          "cameraMovement": "Smooth fly-through neural pathways, orbital product showcase, push into holographic UI details, pull back for ecosystem view",
+          "subject": "Next-generation AI device with transparent OLED display, neural processing unit, and holographic projection capabilities",
+          "scene": "Futuristic laboratory with floating holographic displays, quantum computing terminals, clean minimalist design",
+          "motion": "Data streams flowing between neurons, UI panels sliding and transforming, product rotation, particle effects",
+          "lighting": "Neon blue and purple accent lights, volumetric holographic glows, clean white product spotlighting, subtle lens flares",
+          "atmosphere": "Cutting-edge innovation, scientific precision, future-forward thinking, premium technology",
+          "style": "Minority Report meets Apple keynote with Blade Runner 2049 aesthetics",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "8K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Minimalist White",
+          "modifiedElements": {
+            "scene": "Pure white infinity cove with subtle grid floor",
+            "lighting": "Soft gradient lighting, minimal color accents"
+          }
+        },
+        {
+          "name": "Dark Mode",
+          "modifiedElements": {
+            "scene": "Black void with neon data streams",
+            "lighting": "Dramatic contrast lighting, glowing edges"
+          }
+        }
+      ],
+      "tags": [
+        "AI",
+        "product launch",
+        "holographic",
+        "neural networks",
+        "futuristic",
+        "data visualization"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Synchronize neural network pulses with feature reveals",
+        "Use consistent brand color palette throughout",
+        "Ensure holographic UI elements are readable and purposeful",
+        "Balance technical complexity with visual clarity"
+      ],
+      "examples": {
+        "sampleOutput": "Microsoft HoloLens 2 launch, Magic Leap presentations, Apple Vision Pro reveal",
+        "useCases": [
+          "Product launch events",
+          "Investor pitch decks",
+          "Tech conference keynotes",
+          "Crowdfunding campaigns",
+          "Press release videos"
+        ]
+      }
+    },
+    {
+      "id": "robotics_demo_02",
+      "category": "technology_innovation",
+      "title": "Robotics Demo - Industrial Automation Showcase",
+      "description": "Advanced industrial robots performing precision tasks with real-time sensor data overlays and AI decision-making visualization",
+      "prompt": {
+        "main": "Opening shot tracks alongside massive industrial robot arm performing micro-precision welding. AR overlay displays real-time data: force feedback graphs, positional accuracy to 0.001mm, temperature readings, and AI decision trees. Split-screen reveals human operator using haptic gloves for remote operation, feeling every texture. Time-lapse shows 24/7 operation with productivity metrics climbing. Close-up on advanced gripper with thousands of sensors mimicking human touch. Multiple robots choreograph complex assembly ballet. Final shot pulls back to reveal entire smart factory ecosystem.",
+        "elements": {
+          "cameraMovement": "Dynamic dolly shots matching robot movements, crane shots for scale, macro lenses for detail work, smooth transitions between stations",
+          "subject": "6-axis industrial robots with AI vision systems, collaborative robots, and autonomous mobile robots",
+          "scene": "Smart factory floor with IoT sensors, real-time monitoring dashboards, safety zones with light curtains",
+          "motion": "Precise robotic articulation, data streams updating in real-time, parts moving on conveyors, sparks from welding",
+          "lighting": "Industrial LED arrays, laser measurement beams, warning lights, welding arcs, status indicator glows",
+          "atmosphere": "Precision engineering, automated efficiency, human-robot collaboration, Industry 4.0 transformation",
+          "style": "Technical documentary cinematography with dynamic data visualization overlays",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "120 fps for slow-motion segments"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Medical Robotics",
+          "modifiedElements": {
+            "subject": "Surgical robot performing minimally invasive procedure",
+            "scene": "Operating room with sterile field, monitoring equipment",
+            "lighting": "Surgical lights, soft ambient, monitor glows"
+          }
+        },
+        {
+          "name": "Service Robotics",
+          "modifiedElements": {
+            "subject": "Hospitality and service robots interacting with humans",
+            "scene": "Hotel lobby, restaurant, or retail environment"
+          }
+        }
+      ],
+      "tags": [
+        "robotics",
+        "automation",
+        "Industry 4.0",
+        "precision manufacturing",
+        "IoT",
+        "AI",
+        "sensor technology"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Show both speed and precision capabilities equally",
+        "Include human workers for scale and collaboration context",
+        "Highlight safety features and fail-safe systems",
+        "Display real metrics and KPIs, not just animations"
+      ],
+      "examples": {
+        "sampleOutput": "Boston Dynamics Atlas demos, KUKA robot showcases, ABB factory automation videos",
+        "useCases": [
+          "Manufacturing trade shows",
+          "Technology exhibitions",
+          "Engineering presentations",
+          "Investor demonstrations",
+          "Training materials"
+        ]
+      }
+    },
+    {
+      "id": "software_interface_tour_03",
+      "category": "technology_innovation",
+      "title": "Software Interface Tour - Gesture-Controlled AR Workspace",
+      "description": "Next-generation gesture-controlled interface with AR elements and AI-powered productivity features",
+      "prompt": {
+        "main": "POV shot: hands enter frame wearing sleek AR rings. Gesture summons floating holographic desktop. Pinch-zoom expands spreadsheet into 3D data visualization. Voice command 'analyze trends' triggers AI to highlight patterns with particle effects. Grab gesture pulls email from inbox, swipe sorts into projects. Two-hand gesture opens immersive video conference, participants appear as holograms. AI assistant materializes, suggests workflow optimizations. Hand wave dismisses notifications. Finale shows multiple users collaborating in shared AR space, passing documents like physical objects.",
+        "elements": {
+          "cameraMovement": "First-person perspective with smooth head movements, occasional third-person shots showing full workspace, close-ups on gesture details",
+          "subject": "Revolutionary AR operating system with gesture recognition, AI integration, and collaborative features",
+          "scene": "Modern office transitioning between physical and augmented reality, floating UI elements in 3D space",
+          "motion": "Hand gestures, UI elements responding with physics, data flowing between applications, particle transitions",
+          "lighting": "Natural office lighting with holographic glows, UI element illumination, subtle hand tracking indicators",
+          "atmosphere": "Intuitive interaction, magical productivity, seamless integration, future of work",
+          "style": "Iron Man's JARVIS interface meets modern minimalist design with Minority Report influences",
+          "technicalSpecs": {
+            "duration": "30-40 seconds",
+            "resolution": "4K",
+            "aspectRatio": "21:9 ultrawide",
+            "frameRate": "60 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Mobile AR",
+          "modifiedElements": {
+            "subject": "Smartphone-based AR interface",
+            "scene": "Real-world environments with AR overlays",
+            "cameraMovement": "Handheld smartphone perspective"
+          }
+        },
+        {
+          "name": "VR Workspace",
+          "modifiedElements": {
+            "scene": "Fully virtual environment",
+            "subject": "VR headset with hand tracking"
+          }
+        }
+      ],
+      "tags": [
+        "UI/UX",
+        "gesture control",
+        "AR",
+        "AI interface",
+        "productivity",
+        "future workspace"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Keep gesture vocabulary simple and intuitive",
+        "Show clear visual feedback for every interaction",
+        "Demonstrate real productivity gains, not just flashy effects",
+        "Include accessibility features in demonstrations"
+      ],
+      "examples": {
+        "sampleOutput": "Microsoft Mesh demos, Meta Quest Pro showcases, Apple Vision Pro interface videos",
+        "useCases": [
+          "Software product launches",
+          "UX design portfolios",
+          "Future of work presentations",
+          "Developer conferences",
+          "Training videos"
+        ]
+      }
+    },
+    {
+      "id": "iot_smart_home_04",
+      "category": "technology_innovation",
+      "title": "IoT Smart Home - Connected Device Ecosystem",
+      "description": "Visualization of smart home devices communicating through visible data streams with AI orchestration",
+      "prompt": {
+        "main": "Dawn time-lapse: smart home awakens. Data streams visualize as flowing light between devices. Wearable detects REM cycle ending, signals coffee maker. Blinds adjust to sunrise, lights fade up matching circadian rhythm. Security AI recognizes family member approaching, unlocks door, adjusts climate. Energy visualization shows solar panels charging Tesla, routing excess to grid. Kitchen activates based on calendar breakfast meeting. Voice command triggers 'leaving home' - all systems optimize for efficiency. Dashboard hologram shows energy saved, security status, air quality improving.",
+        "elements": {
+          "cameraMovement": "Single continuous shot flowing through rooms like data itself, rising crane shots showing whole home, detail push-ins on key moments",
+          "subject": "Integrated ecosystem of 50+ smart devices including solar, security, climate, entertainment, and health monitoring",
+          "scene": "Modern sustainable home with seamless tech integration, data streams visible as AR overlay",
+          "motion": "Data flowing between devices like rivers of light, status indicators pulsing, devices activating in sequence",
+          "lighting": "Natural light progression from dawn to day, device status glows, data stream illumination",
+          "atmosphere": "Seamless automation, sustainable living, security, comfort, efficiency",
+          "style": "Architectural visualization meets data art with organic flow",
+          "technicalSpecs": {
+            "duration": "40-50 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Smart Office",
+          "modifiedElements": {
+            "scene": "Corporate environment with meeting rooms",
+            "subject": "Business productivity and collaboration focus"
+          }
+        },
+        {
+          "name": "Apartment Living",
+          "modifiedElements": {
+            "scene": "Urban apartment with space-saving solutions",
+            "subject": "Compact smart living solutions"
+          }
+        }
+      ],
+      "tags": [
+        "IoT",
+        "smart home",
+        "automation",
+        "connected devices",
+        "sustainability",
+        "AI orchestration"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show practical daily benefits, not just technology",
+        "Visualize data flows clearly without overwhelming",
+        "Demonstrate interoperability between different brands",
+        "Include privacy and security features"
+      ],
+      "examples": {
+        "sampleOutput": "Google Home ecosystem videos, Amazon Smart Home showcases, Apple HomeKit demonstrations",
+        "useCases": [
+          "Smart home exhibitions",
+          "IoT platform demonstrations",
+          "Energy company marketing",
+          "Real estate showcases",
+          "Sustainability presentations"
+        ]
+      }
+    },
+    {
+      "id": "quantum_computing_lab_05",
+      "category": "technology_innovation",
+      "title": "Quantum Computing Lab - Cryogenic Chamber Visualization",
+      "description": "Journey into quantum computer showcasing cryogenic chambers, qubit states, and quantum supremacy achievements",
+      "prompt": {
+        "main": "Camera descends through layers of dilution refrigerator, temperature dropping to near absolute zero. Golden quantum processor revealed in crystalline clarity. Visualization shows qubits as glowing spheres on Bloch sphere, performing calculations in superposition. Split screen: classical computer struggling with protein folding vs quantum solving instantly. Entangled particles visualized as connected across dimensional space. Quantum algorithm optimization shows millions of possibilities collapsing to solution. Error correction visualized as protective shields. Final shot: quantum advantage chart showing exponential speedup.",
+        "elements": {
+          "cameraMovement": "Vertical descent through cooling stages, orbital movements around qubit visualizations, zoom from chip to cosmic scale",
+          "subject": "1000+ qubit quantum processor achieving quantum advantage in optimization problems",
+          "scene": "Quantum research facility with cryogenic systems, control rooms, visualization chambers",
+          "motion": "Qubit state rotations, entanglement connections pulsing, calculation waves, temperature gradients",
+          "lighting": "Cold blue for quantum realm, warm gold for classical comparison, ethereal glows for quantum states",
+          "atmosphere": "Scientific breakthrough, mind-bending physics, accessible complexity, transformative technology",
+          "style": "Science visualization meets cinematic storytelling with educational clarity",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "6K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Business Applications",
+          "modifiedElements": {
+            "subject": "Quantum computing in finance and logistics",
+            "scene": "Trading floor and supply chain visualizations"
+          }
+        },
+        {
+          "name": "Educational Focus",
+          "modifiedElements": {
+            "style": "More annotations and explanatory graphics",
+            "duration": "90-120 seconds for deeper explanation"
+          }
+        }
+      ],
+      "tags": [
+        "quantum computing",
+        "cryogenics",
+        "qubits",
+        "scientific visualization",
+        "breakthrough technology"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Balance scientific accuracy with visual metaphors",
+        "Show practical applications alongside theory",
+        "Use temperature and scale indicators for context",
+        "Include comparison with classical computing"
+      ],
+      "examples": {
+        "sampleOutput": "IBM Quantum videos, Google quantum supremacy announcement, IonQ demonstrations",
+        "useCases": [
+          "Research funding presentations",
+          "Educational content",
+          "Tech company branding",
+          "Conference presentations",
+          "Documentary segments"
+        ]
+      }
+    },
+    {
+      "id": "startup_pitch_deck_06",
+      "category": "technology_innovation",
+      "title": "Startup Pitch Deck - Dynamic Data Visualization",
+      "description": "High-energy pitch deck video with dynamic data viz, market opportunities, and growth trajectory",
+      "prompt": {
+        "main": "Logo materializes from data particles forming company name. Problem statement: fragmented market visualized as scattered puzzle pieces. Solution: elegant algorithm connects pieces into unified platform. TAM visualization: globe with expanding market reach, $50B opportunity counter climbing. Product demo: UI performing 10x faster than competitors, side-by-side comparison. Customer testimonials appear as holographic avatars with satisfaction metrics. Team section: founders emerge with credentials and past exits highlighted. Traction graph: exponential growth curve with real revenue numbers. Competition matrix builds showing clear differentiation. Investment ask with use of funds visualization. Contact CTA with animated QR code.",
+        "elements": {
+          "cameraMovement": "Energetic transitions, data-driven camera movements following metrics, dynamic zooms on key points",
+          "subject": "B2B SaaS platform disrupting traditional industry with AI-powered automation",
+          "scene": "Abstract data space with company brand colors, transitioning through different visualization environments",
+          "motion": "Charts building dynamically, numbers counting up, smooth transitions between sections, particle effects",
+          "lighting": "Brand colors as primary light sources, bright optimistic tones, strategic highlights on key metrics",
+          "atmosphere": "Innovative, confident, data-driven, investment-worthy, high growth potential",
+          "style": "Silicon Valley energy meets Bloomberg data visualization with TED talk clarity",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Quick Pitch",
+          "modifiedElements": {
+            "duration": "30-45 seconds for elevator pitch",
+            "motion": "Faster transitions, key points only"
+          }
+        },
+        {
+          "name": "Deep Dive",
+          "modifiedElements": {
+            "duration": "3-5 minutes with detailed financials",
+            "subject": "Include technical architecture and roadmap"
+          }
+        }
+      ],
+      "tags": [
+        "startup",
+        "pitch deck",
+        "investment",
+        "data visualization",
+        "market opportunity",
+        "growth metrics"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Lead with problem-solution fit clearly",
+        "Use real data and metrics, not vanity numbers",
+        "Keep energy high but information digestible",
+        "End with clear call-to-action and contact info"
+      ],
+      "examples": {
+        "sampleOutput": "Y Combinator Demo Day videos, Sequoia Capital pitch deck examples, TechCrunch Disrupt presentations",
+        "useCases": [
+          "Investor meetings",
+          "Accelerator applications",
+          "Crowdfunding campaigns",
+          "Sales presentations",
+          "Partnership pitches"
+        ]
+      }
+    },
+    {
+      "id": "vr_ar_experience_07",
+      "category": "technology_innovation",
+      "title": "VR/AR Experience - First-Person Immersive Demo",
+      "description": "First-person perspective showcasing immersive VR/AR experiences with haptic feedback and spatial computing",
+      "prompt": {
+        "main": "POV: putting on sleek AR headset, real world transforms. Office walls become transparent, revealing data layers. Gesture opens portal to VR training simulation - suddenly in jet cockpit with full haptic suit feedback. Feel every control. Transition to architect walking through unbuilt building, making real-time modifications. Walls move with hand gestures. Cut to surgeon practicing on holographic patient, haptic gloves providing texture feedback. Multiple users join shared space as avatars, collaborating on 3D molecular model. Experience climax: standing on Mars surface, feeling wind through haptic suit. Smooth transition back to office, productivity metrics show 300% improvement.",
+        "elements": {
+          "cameraMovement": "First-person head movements, smooth transitions between realities, occasional third-person to show full setup",
+          "subject": "Next-gen VR/AR system with full-body haptics, eye tracking, and spatial computing",
+          "scene": "Multiple environments: office to cockpit to construction site to surgery to Mars",
+          "motion": "Natural head and hand movements, environmental responses, haptic visualization waves",
+          "lighting": "Reality-matched lighting in each environment, UI glows, transition effects",
+          "atmosphere": "Total immersion, transformative experiences, practical applications, wonder",
+          "style": "Ready Player One meets real-world applications with documentary authenticity",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "8K for maximum immersion",
+            "aspectRatio": "16:9",
+            "frameRate": "90 fps for VR segments"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Gaming Focus",
+          "modifiedElements": {
+            "scene": "Epic gaming environments and esports",
+            "subject": "Gaming-optimized VR system"
+          }
+        },
+        {
+          "name": "Enterprise Training",
+          "modifiedElements": {
+            "scene": "Corporate training scenarios only",
+            "atmosphere": "Professional skill development"
+          }
+        }
+      ],
+      "tags": [
+        "VR",
+        "AR",
+        "mixed reality",
+        "haptic technology",
+        "immersive experience",
+        "spatial computing"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Avoid VR motion that could cause nausea",
+        "Show clear transitions between realities",
+        "Include both entertainment and practical uses",
+        "Demonstrate multi-user collaboration features"
+      ],
+      "examples": {
+        "sampleOutput": "Meta Quest Pro demos, Apple Vision Pro experiences, Varjo Aero showcases",
+        "useCases": [
+          "Product demonstrations",
+          "Trade show experiences",
+          "Training program marketing",
+          "Gaming showcases",
+          "Investment presentations"
+        ]
+      }
+    },
+    {
+      "id": "blockchain_visualization_08",
+      "category": "technology_innovation",
+      "title": "Blockchain Visualization - Network Nodes & Transactions",
+      "description": "Visual representation of blockchain network with nodes, transactions, and smart contract execution",
+      "prompt": {
+        "main": "Open on global network visualization - thousands of nodes pulsing across world map. Zoom into single transaction: data packet forms, cryptographic signatures swirl around it. Follow packet through network, nodes validating with green confirmations. Smart contract triggers: code visualization shows conditions being met, automatic execution spawns multiple transactions. Mining visualization: computational power represented as energy fields solving complex puzzles. New block crystallizes, chain extends. Fork demonstration shows consensus mechanism choosing longest chain. DeFi protocol visualization: liquidity pools, yield farming, atomic swaps in real-time. Security features highlighted: encryption, immutability, decentralization. Close with real-world use cases transforming industries.",
+        "elements": {
+          "cameraMovement": "Flying through network connections, diving into blockchain structure, orbiting around smart contracts",
+          "subject": "Enterprise blockchain platform processing thousands of transactions per second",
+          "scene": "Abstract cyberspace with geometric node representations, data streams, crystalline block structures",
+          "motion": "Transactions flowing, blocks forming and linking, consensus waves, mining calculations",
+          "lighting": "Neon network lines, holographic blocks, energy pulses for mining, secure green confirmations",
+          "atmosphere": "Decentralized power, transparent security, innovative finance, transformative technology",
+          "style": "TRON Legacy aesthetics meets financial data visualization with cyberpunk elements",
+          "technicalSpecs": {
+            "duration": "40-50 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "DeFi Focus",
+          "modifiedElements": {
+            "subject": "Decentralized finance protocols",
+            "scene": "Focus on liquidity pools and yield farming"
+          }
+        },
+        {
+          "name": "NFT Marketplace",
+          "modifiedElements": {
+            "subject": "NFT minting and trading visualization",
+            "scene": "Digital art gallery in blockchain space"
+          }
+        }
+      ],
+      "tags": [
+        "blockchain",
+        "cryptocurrency",
+        "DeFi",
+        "smart contracts",
+        "network visualization",
+        "Web3"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Simplify complex concepts without losing accuracy",
+        "Show real use cases beyond cryptocurrency",
+        "Visualize security and transparency features",
+        "Include regulatory compliance aspects"
+      ],
+      "examples": {
+        "sampleOutput": "Ethereum.org visualizations, Chainlink demonstrations, IBM Blockchain videos",
+        "useCases": [
+          "Blockchain platform marketing",
+          "Educational content",
+          "Investor presentations",
+          "Developer documentation",
+          "Conference presentations"
+        ]
+      }
+    },
+    {
+      "id": "clean_energy_tech_09",
+      "category": "technology_innovation",
+      "title": "Clean Energy Tech - Renewable Innovation Showcase",
+      "description": "Solar panels, wind turbines, and energy storage systems with real-time efficiency data visualization",
+      "prompt": {
+        "main": "Sunrise time-lapse: advanced solar panels unfold like flowers, tracking sun with AI precision. Efficiency metrics overlay shows 40% conversion rate. Zoom out reveals floating solar farm on water, cooling effect boosting output. Transition to offshore wind turbines with maintenance drones, predictive AI preventing downtime. Underground: massive battery storage facility, energy flow visualization shows grid stabilization. Hydrogen production facility splits water using excess renewable energy. Smart grid AI orchestrates distribution, demand prediction prevents blackouts. Electric vehicle charges in minutes using new solid-state battery. Home receives 100% clean energy, meter runs backward. Data dashboard summarizes: carbon saved, costs reduced, grid reliability improved.",
+        "elements": {
+          "cameraMovement": "Sweeping drone shots of installations, technical close-ups, underground reveals, data visualization fly-throughs",
+          "subject": "Integrated clean energy ecosystem with solar, wind, storage, and smart distribution",
+          "scene": "Renewable energy installations from residential to utility scale, control centers, smart cities",
+          "motion": "Solar panel rotation, wind turbine spinning, energy flow visualization, data updates",
+          "lighting": "Natural sunlight for solar scenes, dramatic sky for wind, tech lighting for control centers",
+          "atmosphere": "Sustainable future, technological optimism, clean efficiency, climate solution",
+          "style": "National Geographic cinematography meets Bloomberg data graphics with Apple aesthetics",
+          "technicalSpecs": {
+            "duration": "50-60 seconds",
+            "resolution": "6K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Residential Focus",
+          "modifiedElements": {
+            "scene": "Home energy systems and personal EVs",
+            "subject": "Residential solar and battery systems"
+          }
+        },
+        {
+          "name": "Industrial Scale",
+          "modifiedElements": {
+            "scene": "Massive solar farms and wind installations",
+            "subject": "Utility-scale renewable projects"
+          }
+        }
+      ],
+      "tags": [
+        "clean energy",
+        "renewable technology",
+        "solar power",
+        "wind energy",
+        "sustainability",
+        "climate tech"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Include real efficiency metrics and data",
+        "Show environmental and economic benefits",
+        "Demonstrate grid integration and reliability",
+        "Feature diverse renewable technologies"
+      ],
+      "examples": {
+        "sampleOutput": "Tesla Energy presentations, Vestas wind turbine videos, SolarCity demonstrations",
+        "useCases": [
+          "Clean energy company marketing",
+          "Government policy presentations",
+          "Investor pitch materials",
+          "Educational content",
+          "Sustainability reports"
+        ]
+      }
+    },
+    {
+      "id": "biotech_innovation_10",
+      "category": "technology_innovation",
+      "title": "Biotech Innovation - Lab Equipment & Molecular Animations",
+      "description": "Cutting-edge laboratory equipment in action with molecular-level visualizations of breakthrough discoveries",
+      "prompt": {
+        "main": "Robotic liquid handler pipettes with nanoliter precision, fluorescent samples glowing. Zoom into droplet: DNA sequencer reading genetic code in real-time, base pairs streaming past like data. CRISPR animation shows molecular scissors editing faulty gene, disease marker disappearing. Transition to bioreactor growing cultivated meat, cells dividing in time-lapse. AI analyzing millions of molecular combinations, finding drug candidate. 3D bioprinter constructs living tissue layer by layer, blood vessels forming. Automated microscopy captures cancer cell being destroyed by engineered T-cell. Mass spectrometer reveals new protein structure. Final montage: diseases cured, organs printed, sustainable food, extended lifespan. Lab team celebrates breakthrough.",
+        "elements": {
+          "cameraMovement": "Macro to micro transitions, smooth equipment tracking shots, journey through molecular space",
+          "subject": "State-of-the-art biotech lab with automated systems, AI drug discovery, and breakthrough therapies",
+          "scene": "Modern research facility with robotic automation, clean rooms, visualization theaters",
+          "motion": "Robotic precision movements, molecular animations, cell division, data streaming",
+          "lighting": "Clean lab lighting, fluorescent sample glows, laser illumination, UV visualization",
+          "atmosphere": "Scientific precision, life-saving innovation, breakthrough discoveries, hope for humanity",
+          "style": "CSI-style lab cinematography meets Pixar-quality molecular animation",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "6K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps for smooth molecular animations"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Pharmaceutical Focus",
+          "modifiedElements": {
+            "subject": "Drug discovery and development pipeline",
+            "scene": "Focus on computational drug design"
+          }
+        },
+        {
+          "name": "Agricultural Biotech",
+          "modifiedElements": {
+            "subject": "Crop improvement and sustainable agriculture",
+            "scene": "Lab to field applications"
+          }
+        }
+      ],
+      "tags": [
+        "biotechnology",
+        "laboratory",
+        "molecular biology",
+        "CRISPR",
+        "drug discovery",
+        "medical innovation"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Balance technical accuracy with visual appeal",
+        "Show human impact of discoveries",
+        "Include diverse biotech applications",
+        "Maintain scientific credibility while being accessible"
+      ],
+      "examples": {
+        "sampleOutput": "Illumina sequencing videos, Moderna mRNA animations, Ginkgo Bioworks demonstrations",
+        "useCases": [
+          "Biotech company marketing",
+          "Research funding proposals",
+          "Educational content",
+          "Investor presentations",
+          "Recruitment videos"
+        ]
+      }
+    }
+  ]
+}

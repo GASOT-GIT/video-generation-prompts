@@ -1,0 +1,380 @@
+{
+  "social_media_video_templates": [
+    {
+      "id": "tiktok_trending_dance",
+      "category": "Social Media Content",
+      "platform": "TikTok",
+      "title": "Viral Dance Challenge",
+      "description": "AI-generated dance video with trending audio and effects",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-30 seconds",
+        "fps": 30,
+        "orientation": "vertical"
+      },
+      "prompt_structure": {
+        "scene": "Modern studio with LED backdrop, ring light setup",
+        "subject": "Dynamic performer in trendy streetwear",
+        "action": "Synchronized dance moves matching beat drops",
+        "camera": "Handheld style with quick zoom transitions",
+        "effects": "Speed ramping, freeze frames on beat, motion blur transitions"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "8-12 Mbps",
+        "audio_sync": "Beat detection required",
+        "color_grading": "High contrast, saturated colors"
+      },
+      "engagement_elements": {
+        "hook": "First 3 seconds crucial - start with signature move",
+        "trending_audio": true,
+        "hashtags": ["#dancechallenge", "#viral", "#fyp"],
+        "duet_friendly": true,
+        "loop_point": "Seamless at 15 seconds"
+      },
+      "ai_generation_notes": "Ensure fluid motion, accurate lip sync if applicable, trending fashion styles"
+    },
+    {
+      "id": "instagram_reels_transition",
+      "category": "Social Media Content",
+      "platform": "Instagram Reels",
+      "title": "Smooth Transition Showcase",
+      "description": "Product or outfit changes with seamless transitions",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-90 seconds",
+        "fps": 30,
+        "orientation": "vertical"
+      },
+      "prompt_structure": {
+        "scene": "Clean, aesthetic background - minimalist or branded",
+        "subject": "Model or product in center frame",
+        "action": "Quick cuts, spins, hand swipes for transitions",
+        "camera": "Static tripod, centered composition",
+        "effects": "Match cuts, whip pans, digital glitch transitions"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "10-15 Mbps",
+        "color_profile": "Instagram optimized",
+        "export_settings": "High quality, no compression artifacts"
+      },
+      "engagement_elements": {
+        "hook": "Preview all items in first 2 seconds",
+        "music_sync": "Transitions on beat",
+        "text_overlays": "Product names, prices, CTAs",
+        "save_worthy": true,
+        "share_factor": "High - useful content"
+      },
+      "ai_generation_notes": "Maintain consistent lighting, perfect alignment between transitions, brand consistency"
+    },
+    {
+      "id": "youtube_shorts_hook",
+      "category": "Social Media Content",
+      "platform": "YouTube Shorts",
+      "title": "Educational Quick Tips",
+      "description": "Fast-paced educational content with strong hook",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-60 seconds",
+        "fps": 24,
+        "orientation": "vertical"
+      },
+      "prompt_structure": {
+        "scene": "Professional setup with graphics overlay capability",
+        "subject": "Expert presenter with confident delivery",
+        "action": "Direct to camera, hand gestures, prop demonstrations",
+        "camera": "Slight movement, crash zooms for emphasis",
+        "effects": "Lower thirds, animated text, progress indicators"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "12-16 Mbps",
+        "audio_quality": "Clear voice, -6db peak",
+        "graphics": "Motion graphics templates"
+      },
+      "engagement_elements": {
+        "hook": "Question or shocking statement in first 3 seconds",
+        "structure": "Problem -> Solution -> Result",
+        "captions": "Auto-generated with emphasis styling",
+        "end_screen": "Subscribe reminder",
+        "loop_friendly": false
+      },
+      "ai_generation_notes": "Clear speech synthesis, accurate info graphics, professional appearance"
+    },
+    {
+      "id": "linkedin_professional_story",
+      "category": "Social Media Content",
+      "platform": "LinkedIn",
+      "title": "Professional Success Story",
+      "description": "Career insights and professional development content",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "30-90 seconds",
+        "fps": 24,
+        "orientation": "vertical"
+      },
+      "prompt_structure": {
+        "scene": "Modern office or professional home setup",
+        "subject": "Business professional in appropriate attire",
+        "action": "Thoughtful presentation, whiteboard demos, screen shares",
+        "camera": "Stable, professional framing",
+        "effects": "Subtle transitions, professional lower thirds"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "8-12 Mbps",
+        "audio_quality": "Broadcast quality",
+        "color_grading": "Natural, professional tones"
+      },
+      "engagement_elements": {
+        "hook": "Industry insight or career tip",
+        "value_prop": "Actionable business advice",
+        "cta": "Connect for more insights",
+        "credibility": "Title/company graphics",
+        "tone": "Professional yet personable"
+      },
+      "ai_generation_notes": "Business appropriate styling, clear articulation, data visualization when needed"
+    },
+    {
+      "id": "twitter_x_video_thread",
+      "category": "Social Media Content",
+      "platform": "Twitter/X",
+      "title": "Breaking News Style Update",
+      "description": "Quick, punchy video for viral thread potential",
+      "format": {
+        "aspect_ratio": "16:9 or 9:16",
+        "resolution": "1280x720 or 720x1280",
+        "duration": "15-140 seconds",
+        "fps": 30,
+        "orientation": "flexible"
+      },
+      "prompt_structure": {
+        "scene": "News desk style or on-location reporting",
+        "subject": "Presenter with urgent delivery",
+        "action": "Direct address, quick cuts, B-roll inserts",
+        "camera": "Handheld for urgency, quick pans",
+        "effects": "Breaking news graphics, text overlays"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "5-8 Mbps",
+        "file_size": "Under 512MB",
+        "compression": "Twitter optimized"
+      },
+      "engagement_elements": {
+        "hook": "Breaking or urgent angle",
+        "thread_friendly": "Cliffhanger ending",
+        "quote_tweets": "Controversial or discussion points",
+        "captions": "Built-in for accessibility",
+        "shareability": "High news value"
+      },
+      "ai_generation_notes": "Current events context, fact-checking graphics, clear audio even on mobile"
+    },
+    {
+      "id": "pinterest_idea_pin",
+      "category": "Social Media Content",
+      "platform": "Pinterest",
+      "title": "DIY Tutorial Idea Pin",
+      "description": "Step-by-step visual guide for Pinterest audience",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-60 seconds",
+        "fps": 24,
+        "orientation": "vertical"
+      },
+      "prompt_structure": {
+        "scene": "Bright, aesthetic workspace with overhead shots",
+        "subject": "Hands demonstrating technique, minimal face time",
+        "action": "Step-by-step process, before/after reveals",
+        "camera": "Mix of overhead and 45-degree angles",
+        "effects": "Soft transitions, text overlays for steps"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "8-12 Mbps",
+        "color_profile": "Bright, Pinterest aesthetic",
+        "music": "Upbeat, non-copyrighted"
+      },
+      "engagement_elements": {
+        "hook": "Stunning final result preview",
+        "saves": "High save potential",
+        "supplies_list": "Text overlay in first 5 seconds",
+        "seasonal_relevance": true,
+        "repin_factor": "Extremely high"
+      },
+      "ai_generation_notes": "Pinterest-perfect lighting, trending color palettes, clear process visualization"
+    },
+    {
+      "id": "snapchat_ar_experience",
+      "category": "Social Media Content",
+      "platform": "Snapchat",
+      "title": "AR Filter Showcase",
+      "description": "Interactive AR experience demonstration",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "10-60 seconds",
+        "fps": 30,
+        "orientation": "vertical"
+      },
+      "prompt_structure": {
+        "scene": "Real environment with AR overlay space",
+        "subject": "User interacting with AR elements",
+        "action": "Face movements, hand gestures, environment interaction",
+        "camera": "Front-facing, reactive to movement",
+        "effects": "3D objects, face filters, world effects"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "8-10 Mbps",
+        "ar_tracking": "Face and world tracking",
+        "interaction": "Touch and gesture responsive"
+      },
+      "engagement_elements": {
+        "hook": "Surprising AR transformation",
+        "shareability": "Fun factor high",
+        "replay_value": "Different outcomes possible",
+        "sound_effects": "Reactive audio",
+        "virality": "Meme potential"
+      },
+      "ai_generation_notes": "Realistic AR integration, smooth tracking, engaging animations"
+    },
+    {
+      "id": "facebook_story_format",
+      "category": "Social Media Content",
+      "platform": "Facebook",
+      "title": "Community Engagement Story",
+      "description": "Local business or community-focused content",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-90 seconds",
+        "fps": 30,
+        "orientation": "vertical"
+      },
+      "prompt_structure": {
+        "scene": "Local business or community setting",
+        "subject": "Business owner or community member",
+        "action": "Behind-the-scenes, day-in-life, special offers",
+        "camera": "Handheld, personal feel",
+        "effects": "Stickers, polls, location tags"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "8-12 Mbps",
+        "audio": "Natural sound, background music",
+        "text": "Large, readable on mobile"
+      },
+      "engagement_elements": {
+        "hook": "Personal connection or special offer",
+        "interactive": "Polls, questions, swipe-ups",
+        "local_relevance": "Location tags prominent",
+        "emotional_appeal": "Community focused",
+        "cta": "Visit, shop, engage"
+      },
+      "ai_generation_notes": "Authentic feel, local landmarks if applicable, warm color grading"
+    },
+    {
+      "id": "bereal_authentic_moment",
+      "category": "Social Media Content",
+      "platform": "BeReal",
+      "title": "Unfiltered Daily Moment",
+      "description": "Raw, authentic capture with dual camera view",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "3-10 seconds",
+        "fps": 30,
+        "orientation": "vertical"
+      },
+      "prompt_structure": {
+        "scene": "Everyday location, unposed environment",
+        "subject": "Natural state, no preparation",
+        "action": "Candid moment, real-time capture",
+        "camera": "Dual view - front and back simultaneously",
+        "effects": "None - authenticity is key"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "5-8 Mbps",
+        "filters": "None allowed",
+        "editing": "Minimal to none"
+      },
+      "engagement_elements": {
+        "hook": "Real moment, no staging",
+        "time_sensitivity": "2-minute window feel",
+        "authenticity": "Maximum",
+        "dual_perspective": "Both cameras active",
+        "spontaneity": "Unplanned feel"
+      },
+      "ai_generation_notes": "Natural lighting only, no beauty filters, realistic imperfections included"
+    },
+    {
+      "id": "threads_visual_conversation",
+      "category": "Social Media Content",
+      "platform": "Threads",
+      "title": "Visual Thread Starter",
+      "description": "Conversation-starting video for text-based platform",
+      "format": {
+        "aspect_ratio": "9:16 or 1:1",
+        "resolution": "1080x1920 or 1080x1080",
+        "duration": "15-90 seconds",
+        "fps": 30,
+        "orientation": "vertical or square"
+      },
+      "prompt_structure": {
+        "scene": "Minimalist, text-friendly background",
+        "subject": "Speaker or visual metaphor",
+        "action": "Thought-provoking content delivery",
+        "camera": "Simple, focused framing",
+        "effects": "Text overlays, simple graphics"
+      },
+      "technical_specs": {
+        "video_codec": "H.264",
+        "bitrate": "8-10 Mbps",
+        "text_integration": "Designed for text replies",
+        "loop": "Optional seamless loop"
+      },
+      "engagement_elements": {
+        "hook": "Controversial or thought-provoking statement",
+        "discussion_starter": "Open-ended question",
+        "reply_friendly": "Invites responses",
+        "share_value": "Intellectually stimulating",
+        "community_building": "Fosters dialogue"
+      },
+      "ai_generation_notes": "Clear speech, readable text overlays, discussion-worthy content"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-01-01",
+    "category": "Social Media Content",
+    "total_templates": 10,
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts",
+      "LinkedIn",
+      "Twitter/X",
+      "Pinterest",
+      "Snapchat",
+      "Facebook",
+      "BeReal",
+      "Threads"
+    ],
+    "optimization_focus": [
+      "Vertical format optimization",
+      "Quick attention grabs",
+      "Trending effects",
+      "Platform-specific features",
+      "Engagement hooks",
+      "Technical specifications"
+    ]
+  }
+}

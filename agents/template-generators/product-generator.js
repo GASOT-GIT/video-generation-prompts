@@ -1,0 +1,488 @@
+class ProductGenerator {
+  static generateTemplates() {
+    return [
+      {
+        id: "product_tech_unveil_01",
+        category: "product_showcase",
+        title: "Futuristic Tech Product Reveal with 360° View",
+        description: "Sleek product presentation with professional lighting and smooth camera work",
+        prompt: {
+          main: "Camera starts in complete darkness, single spotlight illuminates cutting-edge smartphone floating in zero gravity. Slow 360-degree orbit reveals premium materials - brushed titanium frame catching light at precise angles. Camera pushes through holographic UI elements that materialize around device. Extreme macro shots showcase camera array and precision engineering. Product rotates gracefully as features highlight sequentially.",
+          elements: {
+            cameraMovement: "360-degree orbit, push-through motion, macro transitions",
+            subject: "Premium smartphone with titanium frame and advanced camera system",
+            scene: "Minimalist black void with strategic lighting, holographic elements",
+            motion: "Product rotation, UI elements appearing, light reflections traveling",
+            lighting: "Single spotlight with rim lighting, gradual reveal technique",
+            atmosphere: "Futuristic, premium, sophisticated technology",
+            style: "Apple-style product photography meets sci-fi aesthetics",
+            technicalSpecs: {
+              duration: "10-15 seconds",
+              resolution: "4K",
+              aspectRatio: "16:9",
+              frameRate: "30 fps"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Lifestyle Context",
+            modifiedElements: {
+              scene: "Modern minimalist desk setup with natural lighting",
+              atmosphere: "Warm, approachable, everyday use"
+            }
+          }
+        ],
+        tags: ["product", "technology", "smartphone", "premium", "reveal"],
+        difficulty: "intermediate",
+        bestPractices: [
+          "Ensure perfect reflections and material accuracy",
+          "Time feature reveals with musical beats",
+          "Maintain consistent lighting temperature"
+        ],
+        examples: {
+          sampleOutput: "Apple iPhone or Samsung Galaxy launch video style",
+          useCases: [
+            "Product launch campaigns",
+            "E-commerce hero videos",
+            "Tech review introductions"
+          ]
+        }
+      },
+      {
+        id: "product_luxury_watch_02",
+        category: "product_showcase",
+        title: "Luxury Watch Craftsmanship Macro Showcase",
+        description: "Detailed exploration of premium watch mechanics and design",
+        prompt: {
+          main: "Extreme macro lens reveals intricate watch movement, gears turning in perfect synchronization. Camera pulls back through sapphire crystal, rotating to show hand-polished case edges catching light. Time-lapse of second hand sweeping across mother-of-pearl dial. Slow motion water droplet rolls off surface demonstrating water resistance. Final shot shows watch on wrist in elegant setting.",
+          elements: {
+            cameraMovement: "Macro to wide pull-back, smooth rotation, detail tracking",
+            subject: "Luxury mechanical watch with visible movement",
+            scene: "Black velvet background transitioning to elegant wrist shot",
+            motion: "Gear movements, second hand sweep, water droplet physics",
+            lighting: "Precise spotlighting to highlight textures and reflections",
+            atmosphere: "Luxurious, precise, craftsmanship-focused",
+            style: "High-end jewelry photography with motion",
+            technicalSpecs: {
+              duration: "15-20 seconds",
+              resolution: "4K",
+              aspectRatio: "16:9",
+              frameRate: "60 fps for smooth motion"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Sport Watch Action",
+            modifiedElements: {
+              scene: "Underwater or extreme sports environment",
+              motion: "Dynamic action shots showing durability"
+            }
+          }
+        ],
+        tags: ["luxury", "watch", "jewelry", "macro", "craftsmanship"],
+        difficulty: "advanced",
+        bestPractices: [
+          "Use probe lenses for internal mechanism shots",
+          "Control reflections with polarizing filters",
+          "Highlight unique complications or features"
+        ],
+        examples: {
+          sampleOutput: "Rolex or Patek Philippe commercial style",
+          useCases: [
+            "Luxury brand marketing",
+            "Product detail pages",
+            "Collector presentations"
+          ]
+        }
+      },
+      {
+        id: "product_cosmetics_texture_03",
+        category: "product_showcase",
+        title: "Cosmetic Product Texture and Application Showcase",
+        description: "Sensual beauty product presentation focusing on textures and colors",
+        prompt: {
+          main: "Lipstick bullet rises elegantly from tube, camera captures creamy texture in macro detail. Swipe of product on glass surface reveals rich pigmentation. Liquid foundation drops create perfect sphere before blending seamlessly. Eyeshadow palette rotates showing shimmer particles catching light. Brushes sweep through powder creating ethereal clouds. Final application shot on model's face in soft focus.",
+          elements: {
+            cameraMovement: "Vertical rise, orbital rotation, macro push-ins",
+            subject: "Luxury cosmetics - lipstick, foundation, eyeshadow palette",
+            scene: "Clean white background with glass surfaces for texture shots",
+            motion: "Product emerging, liquid flowing, powder dispersing",
+            lighting: "Soft beauty lighting with strategic highlights",
+            atmosphere: "Elegant, sensual, premium beauty",
+            style: "High-end beauty commercial aesthetics",
+            technicalSpecs: {
+              duration: "12-18 seconds",
+              resolution: "4K",
+              aspectRatio: "9:16 (vertical) or 16:9",
+              frameRate: "30 fps"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Natural Beauty",
+            modifiedElements: {
+              lighting: "Golden hour natural light",
+              atmosphere: "Organic, fresh, minimalist"
+            }
+          }
+        ],
+        tags: ["cosmetics", "beauty", "makeup", "luxury", "texture"],
+        difficulty: "intermediate",
+        bestPractices: [
+          "Capture texture details with macro lenses",
+          "Use color theory to enhance product appeal",
+          "Show product performance and finish"
+        ],
+        examples: {
+          sampleOutput: "Charlotte Tilbury or Dior beauty campaigns",
+          useCases: [
+            "Beauty brand launches",
+            "Social media product reveals",
+            "E-commerce demonstrations"
+          ]
+        }
+      },
+      {
+        id: "product_automotive_detail_04",
+        category: "product_showcase",
+        title: "Automotive Design Detail and Performance Showcase",
+        description: "Dynamic presentation of vehicle design and engineering excellence",
+        prompt: {
+          main: "Camera glides along sculpted body lines, paint surface reflecting environment like liquid metal. Close-up of LED headlight signature illuminating in sequence. Interior shot reveals hand-stitched leather and ambient lighting. Wheel spinning in slow motion with brake caliper detail. Engine start sequence with exhaust note. Final dynamic driving shot on scenic mountain road.",
+          elements: {
+            cameraMovement: "Smooth tracking along curves, detail push-ins, dynamic follow",
+            subject: "Luxury sports car with emphasis on design details",
+            scene: "Studio setting transitioning to scenic driving location",
+            motion: "Light sequences, wheel rotation, driving dynamics",
+            lighting: "Studio lighting highlighting paint, natural light for driving",
+            atmosphere: "Powerful, luxurious, engineering excellence",
+            style: "Premium automotive commercial cinematography",
+            technicalSpecs: {
+              duration: "20-30 seconds",
+              resolution: "4K",
+              aspectRatio: "21:9 (cinematic)",
+              frameRate: "24 fps with 60 fps details"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Electric Vehicle Focus",
+            modifiedElements: {
+              subject: "EV technology, charging, silent operation",
+              atmosphere: "Futuristic, sustainable, innovative"
+            }
+          }
+        ],
+        tags: ["automotive", "luxury", "car", "vehicle", "performance"],
+        difficulty: "advanced",
+        bestPractices: [
+          "Use camera car or Russian arm for driving shots",
+          "Highlight unique design language",
+          "Balance static beauty with dynamic performance"
+        ],
+        examples: {
+          sampleOutput: "Mercedes-Benz or BMW launch films",
+          useCases: [
+            "Auto show reveals",
+            "Dealership displays",
+            "Online configurators"
+          ]
+        }
+      },
+      {
+        id: "product_furniture_lifestyle_05",
+        category: "product_showcase",
+        title: "Modern Furniture in Living Space Context",
+        description: "Furniture showcase emphasizing design and lifestyle integration",
+        prompt: {
+          main: "Overhead drone shot descends into modern living space, focusing on designer sofa. Camera orbits showing modular configuration possibilities. Time-lapse of natural light moving across fabric texture throughout day. Close-ups reveal craftsmanship - stitching, wood grain, metal fixtures. People naturally interact with furniture. Pull back reveals complete room transformation.",
+          elements: {
+            cameraMovement: "Drone descent, orbital showcase, lifestyle tracking",
+            subject: "Designer furniture pieces in curated interior",
+            scene: "Modern apartment with floor-to-ceiling windows",
+            motion: "Light progression, people interacting, configuration changes",
+            lighting: "Natural daylight progression, architectural lighting",
+            atmosphere: "Sophisticated, liveable luxury, design-forward",
+            style: "Architectural Digest meets lifestyle commercial",
+            technicalSpecs: {
+              duration: "15-20 seconds",
+              resolution: "4K",
+              aspectRatio: "16:9",
+              frameRate: "24 fps"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Minimalist Focus",
+            modifiedElements: {
+              scene: "Pure white gallery space",
+              style: "Museum-quality presentation"
+            }
+          }
+        ],
+        tags: ["furniture", "interior", "design", "lifestyle", "modern"],
+        difficulty: "intermediate",
+        bestPractices: [
+          "Show furniture from multiple angles",
+          "Include human interaction for scale",
+          "Highlight material quality and comfort"
+        ],
+        examples: {
+          sampleOutput: "Herman Miller or B&B Italia showcases",
+          useCases: [
+            "Furniture showrooms",
+            "Online catalogs",
+            "Interior design portfolios"
+          ]
+        }
+      },
+      {
+        id: "product_food_gourmet_06",
+        category: "product_showcase",
+        title: "Gourmet Food Product Artisanal Presentation",
+        description: "Appetizing showcase of premium food products with craft focus",
+        prompt: {
+          main: "Honey drizzles in golden spiral onto artisanal cheese, macro lens captures texture. Steam rises from fresh-baked bread as knife slices through crusty exterior. Olive oil pours in slow motion, creating perfect pool with herbs floating. Wine bottle rotates showing label while liquid pours into crystal glass. Charcuterie board assembly in stop-motion style. Final overhead shot of complete gourmet spread.",
+          elements: {
+            cameraMovement: "Macro details, overhead shots, smooth product rotation",
+            subject: "Artisanal food products - cheese, bread, oil, wine",
+            scene: "Rustic wooden surfaces, natural textures, kitchen setting",
+            motion: "Liquid pouring, steam rising, assembly sequences",
+            lighting: "Warm natural light, highlighting textures and colors",
+            atmosphere: "Artisanal, appetizing, premium quality",
+            style: "Food and Wine magazine photography in motion",
+            technicalSpecs: {
+              duration: "15-20 seconds",
+              resolution: "4K",
+              aspectRatio: "16:9",
+              frameRate: "30 fps with slow-motion segments"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Modern Molecular",
+            modifiedElements: {
+              subject: "Molecular gastronomy, modern plating",
+              style: "High-end restaurant presentation"
+            }
+          }
+        ],
+        tags: ["food", "gourmet", "artisanal", "culinary", "appetizing"],
+        difficulty: "intermediate",
+        bestPractices: [
+          "Capture steam and movement for freshness",
+          "Use warm lighting to enhance appetite appeal",
+          "Focus on texture and color contrast"
+        ],
+        examples: {
+          sampleOutput: "Williams Sonoma or Whole Foods premium lines",
+          useCases: [
+            "Gourmet food marketing",
+            "Restaurant menu videos",
+            "Food subscription services"
+          ]
+        }
+      },
+      {
+        id: "product_fashion_accessories_07",
+        category: "product_showcase",
+        title: "Designer Handbag and Accessories Showcase",
+        description: "Luxury accessories presentation with attention to craftsmanship",
+        prompt: {
+          main: "Handbag emerges from shadow into spotlight, revealing supple leather texture. Camera traces along gold hardware, each detail catching light precisely. Interior compartments showcase thoughtful design. Accessories layer in - silk scarf draping elegantly, sunglasses reflecting city lights. Stop-motion assembly of complete look. Model's hand enters frame, demonstrating functionality with grace.",
+          elements: {
+            cameraMovement: "Reveal from shadow, detail tracking, elegant transitions",
+            subject: "Luxury handbag with coordinating accessories",
+            scene: "Minimalist studio with marble and mirrors",
+            motion: "Product rotation, scarf flowing, hardware clicking",
+            lighting: "Dramatic spotlighting with soft fill",
+            atmosphere: "Luxurious, exclusive, fashion-forward",
+            style: "Vogue accessories shoot aesthetic",
+            technicalSpecs: {
+              duration: "12-18 seconds",
+              resolution: "4K",
+              aspectRatio: "1:1 or 16:9",
+              frameRate: "30 fps"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Street Style",
+            modifiedElements: {
+              scene: "Urban environment, natural lighting",
+              atmosphere: "Contemporary, accessible luxury"
+            }
+          }
+        ],
+        tags: ["fashion", "accessories", "luxury", "handbag", "designer"],
+        difficulty: "intermediate",
+        bestPractices: [
+          "Highlight craftsmanship and materials",
+          "Show both form and function",
+          "Create desire through elegant presentation"
+        ],
+        examples: {
+          sampleOutput: "Louis Vuitton or Hermès campaigns",
+          useCases: [
+            "Luxury e-commerce",
+            "Fashion week presentations",
+            "Brand heritage videos"
+          ]
+        }
+      },
+      {
+        id: "product_electronics_gaming_08",
+        category: "product_showcase",
+        title: "Gaming Hardware RGB Lighting Showcase",
+        description: "Dynamic presentation of gaming peripherals with RGB effects",
+        prompt: {
+          main: "Gaming keyboard emerges from smoke with RGB waves rippling across keys. Mouse glides across pad leaving light trails. Headset rotates showing angular design while LED accents pulse to beat. Monitor displays gameplay while camera pulls back revealing complete battle station. Synchronized lighting effects across all devices create immersive atmosphere. Close-up of mechanical switch actuation in slow motion.",
+          elements: {
+            cameraMovement: "Dynamic angles, pull-backs, detail macro shots",
+            subject: "Gaming peripherals - keyboard, mouse, headset, monitor",
+            scene: "Dark gaming setup with atmospheric lighting",
+            motion: "RGB effects, smoke effects, synchronized lighting",
+            lighting: "RGB LED effects, atmospheric haze, screen glow",
+            atmosphere: "High-tech, competitive gaming, immersive",
+            style: "Esports commercial meets Cyberpunk aesthetics",
+            technicalSpecs: {
+              duration: "15-20 seconds",
+              resolution: "4K",
+              aspectRatio: "21:9",
+              frameRate: "60 fps for smooth effects"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Pro Esports",
+            modifiedElements: {
+              scene: "Tournament stage setup",
+              atmosphere: "Professional, championship-ready"
+            }
+          }
+        ],
+        tags: ["gaming", "electronics", "RGB", "peripherals", "esports"],
+        difficulty: "intermediate",
+        bestPractices: [
+          "Synchronize lighting effects with music",
+          "Show performance features in action",
+          "Create atmospheric gaming environment"
+        ],
+        examples: {
+          sampleOutput: "Razer or Corsair product launches",
+          useCases: [
+            "Gaming product launches",
+            "Esports sponsorships",
+            "Tech review intros"
+          ]
+        }
+      },
+      {
+        id: "product_home_appliance_09",
+        category: "product_showcase",
+        title: "Smart Home Appliance Lifestyle Integration",
+        description: "Modern appliance showcase emphasizing smart features and design",
+        prompt: {
+          main: "Robot vacuum emerges from charging dock, LiDAR sensor spinning as it maps room. Overhead shot shows systematic cleaning pattern. Smart refrigerator door becomes transparent revealing organized interior. Coffee machine prepares perfect espresso with steam art. Air purifier visualizes air flow with particle effects. All devices controlled through smartphone app showcase. Modern home environment with seamless integration.",
+          elements: {
+            cameraMovement: "Following shots, overhead mapping view, app interface cuts",
+            subject: "Smart home appliances - vacuum, fridge, coffee machine",
+            scene: "Modern smart home with minimalist design",
+            motion: "Device operation, app interactions, visual effects",
+            lighting: "Bright, clean lighting emphasizing cleanliness",
+            atmosphere: "Efficient, modern living, technological convenience",
+            style: "Tech lifestyle commercial with clean aesthetics",
+            technicalSpecs: {
+              duration: "20-25 seconds",
+              resolution: "4K",
+              aspectRatio: "16:9",
+              frameRate: "30 fps"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Family Focus",
+            modifiedElements: {
+              scene: "Busy family home, morning routine",
+              atmosphere: "Warm, helpful, family-friendly"
+            }
+          }
+        ],
+        tags: ["smart home", "appliances", "IoT", "lifestyle", "technology"],
+        difficulty: "intermediate",
+        bestPractices: [
+          "Show real-world use cases",
+          "Emphasize ease of use and benefits",
+          "Include app/voice control demonstrations"
+        ],
+        examples: {
+          sampleOutput: "Dyson or Samsung smart home campaigns",
+          useCases: [
+            "Product demonstrations",
+            "Smart home showcases",
+            "Retail displays"
+          ]
+        }
+      },
+      {
+        id: "product_sports_equipment_10",
+        category: "product_showcase",
+        title: "Athletic Performance Gear in Action",
+        description: "Dynamic showcase of sports equipment emphasizing performance",
+        prompt: {
+          main: "Running shoe hits treadmill in slow motion, showing midsole compression and energy return. 360-degree rotation reveals breathable mesh and carbon plate technology. Transition to outdoor trail with mud and water splash tests. Smart watch displays real-time performance metrics. Athletic wear stretches showing flexibility and moisture-wicking. Final shot of complete gear set laid out professionally.",
+          elements: {
+            cameraMovement: "Slow-motion tracking, 360 rotation, action follows",
+            subject: "Performance running shoes, smartwatch, athletic wear",
+            scene: "Testing lab transitioning to outdoor trail",
+            motion: "Impact testing, stretch demonstrations, real running",
+            lighting: "High-speed strobe for motion, natural outdoor light",
+            atmosphere: "Performance-driven, scientific, inspirational",
+            style: "Nike or Adidas commercial style",
+            technicalSpecs: {
+              duration: "15-20 seconds",
+              resolution: "4K",
+              aspectRatio: "16:9",
+              frameRate: "120 fps for slow motion"
+            }
+          }
+        },
+        variations: [
+          {
+            name: "Extreme Sports",
+            modifiedElements: {
+              subject: "Mountain biking or climbing gear",
+              scene: "Extreme outdoor environments"
+            }
+          }
+        ],
+        tags: ["sports", "athletic", "performance", "equipment", "fitness"],
+        difficulty: "advanced",
+        bestPractices: [
+          "Use high-speed cameras for impact shots",
+          "Show technology benefits visually",
+          "Include athlete testimonial moments"
+        ],
+        examples: {
+          sampleOutput: "Under Armour or New Balance launches",
+          useCases: [
+            "Sports brand campaigns",
+            "Product technology explanations",
+            "Athlete endorsements"
+          ]
+        }
+      }
+    ];
+  }
+}
+
+module.exports = ProductGenerator;

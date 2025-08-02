@@ -1,0 +1,27 @@
+{
+  "name": "video-generation-prompts",
+  "version": "1.0.0",
+  "description": "Comprehensive JSON prompt templates for video generation AI (Veo3, Sora, etc.)",
+  "main": "run-generation.js",
+  "scripts": {
+    "generate": "node run-generation.js",
+    "validate": "node scripts/validate-all.js",
+    "catalog": "node scripts/create-catalog.js",
+    "test": "node scripts/test-templates.js"
+  },
+  "keywords": [
+    "video-generation",
+    "ai-prompts",
+    "veo3",
+    "sora",
+    "templates",
+    "json"
+  ],
+  "author": "VoidLight",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

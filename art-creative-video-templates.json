@@ -1,0 +1,828 @@
+{
+  "art_creative_video_templates": {
+    "category": "Art & Creative",
+    "version": "1.0",
+    "templates": [
+      {
+        "id": "artist_studio_process",
+        "title": "Artist Studio Process Documentation",
+        "description": "Intimate documentation of an artist's creative process in their studio environment",
+        "video_specs": {
+          "duration": "90-180 seconds",
+          "resolution": "4K (3840x2160)",
+          "fps": 24,
+          "aspect_ratio": "16:9",
+          "color_profile": "sRGB/Adobe RGB",
+          "bitrate": "50-80 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "5-10 seconds",
+            "shots": [
+              "Wide establishing shot of studio space",
+              "Close-up of artist's hands preparing materials",
+              "Slow pan across art supplies and tools"
+            ],
+            "atmosphere": "Quiet morning light, dust particles floating, creative anticipation"
+          },
+          "main_sequence": {
+            "duration": "70-150 seconds",
+            "shots": [
+              "Medium shot of artist contemplating blank canvas",
+              "Extreme close-up of brush touching canvas",
+              "Time-lapse of painting development",
+              "Over-shoulder perspective of creative decisions",
+              "Macro shots of paint mixing and texture creation",
+              "Artist stepping back to evaluate progress"
+            ],
+            "pacing": "Rhythmic alternation between real-time detail work and time-lapse progression"
+          },
+          "closing": {
+            "duration": "10-20 seconds",
+            "shots": [
+              "Pull-back reveal of completed artwork",
+              "Artist's satisfied expression",
+              "Final detail shot of signature being added"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Natural north-facing window light",
+            "secondary": "Warm practical lights for evening scenes",
+            "mood": "Soft, diffused lighting emphasizing textures"
+          },
+          "color_palette": {
+            "dominant": "Artist's chosen palette reflected in environment",
+            "accent": "Complementary colors in studio decor",
+            "grading": "Slightly desaturated for documentary feel"
+          },
+          "camera_movement": {
+            "primary": "Smooth handheld for intimate feel",
+            "secondary": "Slider shots for reveals",
+            "special": "Probe lens for extreme macro paint details"
+          }
+        },
+        "audio_design": {
+          "ambient": "Studio atmosphere - distant traffic, birds, ventilation",
+          "foley": "Brush strokes, palette knife scraping, canvas texture",
+          "music": "Minimalist piano or ambient electronic, building with creative intensity"
+        },
+        "technical_details": {
+          "equipment": [
+            "Full-frame camera with 24-70mm and macro lens",
+            "Slider/gimbal for smooth movement",
+            "LED panels for consistent lighting"
+          ],
+          "post_production": {
+            "color_grading": "Film emulation LUT with lifted blacks",
+            "transitions": "Match cuts on brush movements",
+            "effects": "Subtle speed ramping, selective focus pulls"
+          }
+        },
+        "prompt_structure": "Documentary-style artist studio footage, intimate creative process, natural lighting, close-up paint textures, time-lapse painting progression, 4K cinematic quality, shallow depth of field on key moments"
+      },
+      {
+        "id": "gallery_exhibition_walkthrough",
+        "title": "Gallery Exhibition Walkthroughs",
+        "description": "Elegant exploration of curated art exhibitions with focus on spatial design and artwork presentation",
+        "video_specs": {
+          "duration": "120-240 seconds",
+          "resolution": "4K (3840x2160) or 6K",
+          "fps": 30,
+          "aspect_ratio": "16:9 or 2.35:1 for cinematic feel",
+          "color_profile": "Rec. 709",
+          "bitrate": "80-100 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "10-15 seconds",
+            "shots": [
+              "Exterior establishing shot of gallery",
+              "Elegant entrance with exhibition signage",
+              "First glimpse through glass doors"
+            ],
+            "atmosphere": "Anticipation, sophisticated ambiance"
+          },
+          "main_sequence": {
+            "duration": "90-200 seconds",
+            "shots": [
+              "Gliding walkthrough of main gallery space",
+              "Individual artwork presentations with proper dwelling time",
+              "Visitor interactions and contemplation moments",
+              "Architectural details and lighting design",
+              "Close-ups of artwork details and textures",
+              "Wide shots showing exhibition flow and curation"
+            ],
+            "pacing": "Measured, allowing viewers to appreciate each piece"
+          },
+          "closing": {
+            "duration": "15-25 seconds",
+            "shots": [
+              "Final panoramic view of exhibition",
+              "Visitors in silhouette against artwork",
+              "Gallery details - guest book, exhibition catalog"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Gallery track lighting on artworks",
+            "secondary": "Ambient architectural lighting",
+            "mood": "Clean, museum-quality illumination"
+          },
+          "color_palette": {
+            "dominant": "Neutral gallery whites and grays",
+            "accent": "Artwork colors as focal points",
+            "grading": "High contrast with protected highlights"
+          },
+          "camera_movement": {
+            "primary": "Steadicam or gimbal for floating movement",
+            "secondary": "Static tripod for artwork details",
+            "special": "360-degree room captures"
+          }
+        },
+        "audio_design": {
+          "ambient": "Gallery acoustics - footsteps, whispered conversations",
+          "foley": "Subtle movement, page turning in catalogs",
+          "music": "Sophisticated ambient or modern classical"
+        },
+        "technical_details": {
+          "equipment": [
+            "Cinema camera with wide-angle zoom",
+            "Professional stabilization system",
+            "Polarizing filters for reflection control"
+          ],
+          "post_production": {
+            "color_grading": "Gallery white balance precision",
+            "transitions": "Smooth dissolves between spaces",
+            "effects": "Subtle vignetting, selective sharpening on artworks"
+          }
+        },
+        "prompt_structure": "Elegant gallery exhibition walkthrough, museum lighting, floating camera movement through curated spaces, artwork close-ups, visitor silhouettes, architectural details, 4K cinematic quality, sophisticated atmosphere"
+      },
+      {
+        "id": "digital_art_timelapse",
+        "title": "Digital Art Creation Time-lapses",
+        "description": "Dynamic capture of digital artwork creation from blank canvas to finished piece",
+        "video_specs": {
+          "duration": "60-120 seconds",
+          "resolution": "4K (3840x2160) minimum",
+          "fps": 60 for smooth time-lapse",
+          "aspect_ratio": "16:9 or 16:10 for screens",
+          "color_profile": "sRGB or DCI-P3",
+          "bitrate": "80-120 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "5-8 seconds",
+            "shots": [
+              "Artist setting up digital workspace",
+              "Screen coming to life",
+              "UI elements and tool selection"
+            ],
+            "atmosphere": "Tech-creative fusion, anticipation"
+          },
+          "main_sequence": {
+            "duration": "45-100 seconds",
+            "shots": [
+              "Screen recording of artwork progression",
+              "Intercut shots of artist's hand on stylus",
+              "Close-ups of intricate detail work",
+              "Multiple angles showing process and screen",
+              "Layer building and color development",
+              "Special effects and finishing touches"
+            ],
+            "pacing": "Accelerated but comprehensible, with real-time moments for key techniques"
+          },
+          "closing": {
+            "duration": "8-12 seconds",
+            "shots": [
+              "Final artwork reveal",
+              "Export and display on various devices",
+              "Artist's signature or watermark application"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Calibrated monitor glow",
+            "secondary": "Ambient bias lighting behind screen",
+            "mood": "Modern, tech-focused environment"
+          },
+          "color_palette": {
+            "dominant": "Artwork colors evolving throughout",
+            "accent": "UI elements and tool interfaces",
+            "grading": "High saturation to match digital vibrancy"
+          },
+          "camera_movement": {
+            "primary": "Locked-off for screen recording",
+            "secondary": "Smooth push-ins and pull-outs",
+            "special": "Speed ramping for dramatic moments"
+          }
+        },
+        "audio_design": {
+          "ambient": "Quiet studio with computer hum",
+          "foley": "Stylus taps, keyboard shortcuts",
+          "music": "Electronic/synthwave building with artwork complexity"
+        },
+        "technical_details": {
+          "equipment": [
+            "Screen recording software at high bitrate",
+            "Secondary camera for artist shots",
+            "Color-accurate monitoring"
+          ],
+          "post_production": {
+            "color_grading": "Match digital color space",
+            "transitions": "Glitch effects for layer changes",
+            "effects": "Motion blur on fast movements, UI element highlights"
+          }
+        },
+        "prompt_structure": "Digital art creation time-lapse, screen recording with artist hands, stylus work close-ups, layer building progression, vibrant color development, 4K 60fps quality, modern tech-creative atmosphere"
+      },
+      {
+        "id": "sculpture_making_sequence",
+        "title": "Sculpture Making Sequences",
+        "description": "Detailed documentation of three-dimensional art creation from raw materials to finished sculpture",
+        "video_specs": {
+          "duration": "150-300 seconds",
+          "resolution": "4K (3840x2160) or higher",
+          "fps": 24 or 30,
+          "aspect_ratio": "16:9",
+          "color_profile": "Rec. 709",
+          "bitrate": "80-100 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "10-15 seconds",
+            "shots": [
+              "Raw materials - clay, stone, metal, or wood",
+              "Sculptor's tools laid out",
+              "Artist's hands examining material"
+            ],
+            "atmosphere": "Potential and transformation"
+          },
+          "main_sequence": {
+            "duration": "120-250 seconds",
+            "shots": [
+              "Initial shaping and rough form creation",
+              "Close-ups of carving/molding techniques",
+              "360-degree rotation shots of progress",
+              "Detail work with specialized tools",
+              "Artist's focused expressions",
+              "Dust, chips, or clay particles in motion",
+              "Time-lapse of major transformations"
+            ],
+            "pacing": "Mix of real-time detail work and time-lapse progression"
+          },
+          "closing": {
+            "duration": "15-35 seconds",
+            "shots": [
+              "Final finishing touches",
+              "Complete sculpture from multiple angles",
+              "Dramatic lighting reveal of finished piece"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Directional workshop lighting",
+            "secondary": "Raking light to show texture",
+            "mood": "Industrial meets artistic"
+          },
+          "color_palette": {
+            "dominant": "Material colors - earth tones, metallics",
+            "accent": "Tool colors and workshop elements",
+            "grading": "High contrast with rich shadows"
+          },
+          "camera_movement": {
+            "primary": "Circular dolly around sculpture",
+            "secondary": "Macro sliders for detail work",
+            "special": "Overhead rig for top-down views"
+          }
+        },
+        "audio_design": {
+          "ambient": "Workshop atmosphere",
+          "foley": "Chiseling, sanding, hammering, material sounds",
+          "music": "Rhythmic, building with sculpture completion"
+        },
+        "technical_details": {
+          "equipment": [
+            "Multiple cameras for simultaneous angles",
+            "Macro lenses for texture details",
+            "Circular track for 360-degree shots"
+          ],
+          "post_production": {
+            "color_grading": "Emphasis on material textures",
+            "transitions": "Match cuts on tool movements",
+            "effects": "Slow motion for dramatic chip removal"
+          }
+        },
+        "prompt_structure": "Sculpture creation process, raw material transformation, detailed tool work, 360-degree progress shots, dust particles in light beams, time-lapse and real-time mix, 4K cinematic quality, workshop atmosphere"
+      },
+      {
+        "id": "street_art_graffiti_action",
+        "title": "Street Art/Graffiti in Action",
+        "description": "Dynamic documentation of urban art creation with emphasis on technique, scale, and environment",
+        "video_specs": {
+          "duration": "90-180 seconds",
+          "resolution": "4K (3840x2160)",
+          "fps": 30 or 60 for action shots",
+          "aspect_ratio": "16:9 or 2.35:1",
+          "color_profile": "Rec. 709",
+          "bitrate": "80-120 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "8-12 seconds",
+            "shots": [
+              "Urban location establishment",
+              "Blank wall or surface",
+              "Artist arriving with supplies"
+            ],
+            "atmosphere": "Urban energy, creative rebellion"
+          },
+          "main_sequence": {
+            "duration": "70-150 seconds",
+            "shots": [
+              "Sketching and planning phase",
+              "Spray can techniques - close-ups of nozzle work",
+              "Wide shots showing scale and progress",
+              "Artist in action - full body movements",
+              "Paint drips and texture details",
+              "Time-lapse of major color fills",
+              "Real-time precision work",
+              "Environmental context - passersby, urban setting"
+            ],
+            "pacing": "High energy with dynamic cutting"
+          },
+          "closing": {
+            "duration": "10-18 seconds",
+            "shots": [
+              "Final details and signature",
+              "Step back reveal of completed work",
+              "Artist with finished piece",
+              "Community reaction shots"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Natural daylight or street lighting",
+            "secondary": "Portable LED for night shoots",
+            "mood": "Raw, authentic urban environment"
+          },
+          "color_palette": {
+            "dominant": "Vibrant spray paint colors",
+            "accent": "Urban textures and surfaces",
+            "grading": "High saturation, street photography style"
+          },
+          "camera_movement": {
+            "primary": "Handheld for energy and immediacy",
+            "secondary": "Drone for scale reveals",
+            "special": "GoPro/action cam for artist POV"
+          }
+        },
+        "audio_design": {
+          "ambient": "Urban soundscape - traffic, city noise",
+          "foley": "Spray can shaking, hissing, footsteps",
+          "music": "Hip-hop, electronic, or urban beats"
+        },
+        "technical_details": {
+          "equipment": [
+            "Run-and-gun camera setup",
+            "Wide-angle lenses for tight spaces",
+            "Drone for aerial perspectives"
+          ],
+          "post_production": {
+            "color_grading": "Urban film look with lifted blacks",
+            "transitions": "Quick cuts matching spray rhythm",
+            "effects": "Speed ramping, paint splatter overlays"
+          }
+        },
+        "prompt_structure": "Street art creation in urban setting, dynamic spray painting action, close-up nozzle work, wide-angle wall progress, vibrant colors against concrete, artist movement and technique, 4K handheld energy, authentic street atmosphere"
+      },
+      {
+        "id": "art_restoration_detail",
+        "title": "Art Restoration Detailed Work",
+        "description": "Meticulous documentation of artwork conservation and restoration processes",
+        "video_specs": {
+          "duration": "120-240 seconds",
+          "resolution": "4K (3840x2160) or 6K for detail",
+          "fps": 24 or 30,
+          "aspect_ratio": "16:9",
+          "color_profile": "Adobe RGB for color accuracy",
+          "bitrate": "100-150 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "10-15 seconds",
+            "shots": [
+              "Damaged artwork initial state",
+              "Conservation lab environment",
+              "Restorer examining piece with magnification"
+            ],
+            "atmosphere": "Scientific precision meets artistic care"
+          },
+          "main_sequence": {
+            "duration": "95-200 seconds",
+            "shots": [
+              "Microscopic examination of damage",
+              "Cleaning process - solvents and cotton swabs",
+              "Careful removal of old varnish",
+              "Color matching and mixing",
+              "Precise retouching with fine brushes",
+              "Before/after split-screen comparisons",
+              "UV light examination revealing hidden details",
+              "Documentation photography"
+            ],
+            "pacing": "Slow, methodical, allowing viewers to appreciate precision"
+          },
+          "closing": {
+            "duration": "15-25 seconds",
+            "shots": [
+              "Final protective coating application",
+              "Restored artwork in proper lighting",
+              "Side-by-side before/after comparison"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Color-balanced work lights",
+            "secondary": "Raking light for texture examination",
+            "mood": "Clinical yet reverent"
+          },
+          "color_palette": {
+            "dominant": "Artwork's original colors emerging",
+            "accent": "White lab coats, steel instruments",
+            "grading": "Accurate color reproduction essential"
+          },
+          "camera_movement": {
+            "primary": "Locked-off macro shots",
+            "secondary": "Slow push-ins on details",
+            "special": "Focus stacking for extreme close-ups"
+          }
+        },
+        "audio_design": {
+          "ambient": "Quiet lab atmosphere",
+          "foley": "Delicate brush strokes, tool sounds",
+          "music": "Minimal classical or ambient"
+        },
+        "technical_details": {
+          "equipment": [
+            "Macro lenses and extension tubes",
+            "Copy stand for overhead shots",
+            "Color calibration tools"
+          ],
+          "post_production": {
+            "color_grading": "Minimal, focusing on accuracy",
+            "transitions": "Gentle dissolves for before/after",
+            "effects": "Split-screen comparisons, magnification overlays"
+          }
+        },
+        "prompt_structure": "Art restoration process, extreme close-up detail work, delicate cleaning and retouching, scientific precision, before/after transformations, 4K macro photography, conservation lab setting, meticulous craftsmanship"
+      },
+      {
+        "id": "creative_workshop_atmosphere",
+        "title": "Creative Workshop Atmospheres",
+        "description": "Immersive capture of artistic workshops and creative learning environments",
+        "video_specs": {
+          "duration": "120-180 seconds",
+          "resolution": "4K (3840x2160)",
+          "fps": 24 or 30,
+          "aspect_ratio": "16:9",
+          "color_profile": "Rec. 709",
+          "bitrate": "60-80 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "10-15 seconds",
+            "shots": [
+              "Workshop space coming to life",
+              "Participants arriving and settling in",
+              "Materials and tools being prepared"
+            ],
+            "atmosphere": "Anticipation, creative energy building"
+          },
+          "main_sequence": {
+            "duration": "95-150 seconds",
+            "shots": [
+              "Instructor demonstrating techniques",
+              "Participants engaged in creation",
+              "Close-ups of various artistic processes",
+              "Wide shots of collective creativity",
+              "Individual breakthrough moments",
+              "Peer interactions and sharing",
+              "Messy, authentic creative moments"
+            ],
+            "pacing": "Dynamic interweaving of multiple perspectives"
+          },
+          "closing": {
+            "duration": "15-15 seconds",
+            "shots": [
+              "Participants displaying their work",
+              "Group critique or sharing circle",
+              "Satisfied faces and creative accomplishment"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Natural workshop lighting",
+            "secondary": "Warm practicals for ambiance",
+            "mood": "Inviting, creative warmth"
+          },
+          "color_palette": {
+            "dominant": "Warm, earthy workshop tones",
+            "accent": "Colorful art materials",
+            "grading": "Warm, slightly lifted shadows"
+          },
+          "camera_movement": {
+            "primary": "Floating between participants",
+            "secondary": "Intimate handheld moments",
+            "special": "Overhead shots of work surfaces"
+          }
+        },
+        "audio_design": {
+          "ambient": "Workshop chatter, creative sounds",
+          "foley": "Art-making sounds specific to medium",
+          "music": "Uplifting, creative inspiration"
+        },
+        "technical_details": {
+          "equipment": [
+            "Multiple cameras for coverage",
+            "Wireless mics for instructor",
+            "Gimbal for smooth movement"
+          ],
+          "post_production": {
+            "color_grading": "Warm, inviting look",
+            "transitions": "Smooth cuts between participants",
+            "effects": "Subtle slow motion for key moments"
+          }
+        },
+        "prompt_structure": "Creative workshop environment, multiple artists creating together, warm lighting, hands-on learning, diverse techniques, collaborative atmosphere, 4K documentary style, authentic creative energy"
+      },
+      {
+        "id": "mixed_media_experimentation",
+        "title": "Mixed Media Experimentation",
+        "description": "Exploration of innovative combinations of different artistic mediums and techniques",
+        "video_specs": {
+          "duration": "90-150 seconds",
+          "resolution": "4K (3840x2160) or 6K",
+          "fps": 30 or 60 for fluid motion",
+          "aspect_ratio": "16:9",
+          "color_profile": "Adobe RGB",
+          "bitrate": "80-120 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "8-12 seconds",
+            "shots": [
+              "Array of diverse materials",
+              "Artist contemplating combinations",
+              "First experimental marks"
+            ],
+            "atmosphere": "Experimental excitement, creative chaos"
+          },
+          "main_sequence": {
+            "duration": "70-120 seconds",
+            "shots": [
+              "Layering different mediums",
+              "Unexpected material interactions",
+              "Chemical reactions and transformations",
+              "Texture building through mixed techniques",
+              "Color bleeding and blending",
+              "Adding unconventional elements",
+              "Happy accidents and discoveries"
+            ],
+            "pacing": "Energetic, capturing spontaneity"
+          },
+          "closing": {
+            "duration": "10-18 seconds",
+            "shots": [
+              "Final experimental piece",
+              "Details revealing media complexity",
+              "Artist's reflection on process"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Bright, revealing work light",
+            "secondary": "Raking light for texture",
+            "mood": "Laboratory meets art studio"
+          },
+          "color_palette": {
+            "dominant": "Explosive mix of all media colors",
+            "accent": "Metallic and unusual materials",
+            "grading": "High saturation, vivid contrasts"
+          },
+          "camera_movement": {
+            "primary": "Dynamic handheld exploration",
+            "secondary": "Macro sliders for details",
+            "special": "Spinning shots for disorientation"
+          }
+        },
+        "audio_design": {
+          "ambient": "Studio experimentation sounds",
+          "foley": "Materials mixing, unusual textures",
+          "music": "Experimental, evolving soundscape"
+        },
+        "technical_details": {
+          "equipment": [
+            "High-speed camera for reactions",
+            "Macro lenses for texture details",
+            "Waterproof housing for messy shots"
+          ],
+          "post_production": {
+            "color_grading": "Enhanced saturation and contrast",
+            "transitions": "Jump cuts for energy",
+            "effects": "Time remapping, texture overlays"
+          }
+        },
+        "prompt_structure": "Mixed media art experimentation, multiple materials combining, unexpected reactions and textures, vibrant color explosions, macro texture details, 4K high-speed capture, creative chaos and discovery"
+      },
+      {
+        "id": "art_installation_reveal",
+        "title": "Art Installation Reveals",
+        "description": "Dramatic documentation of large-scale art installation setup and final reveal",
+        "video_specs": {
+          "duration": "150-300 seconds",
+          "resolution": "4K (3840x2160) or 6K",
+          "fps": 24 or 30,
+          "aspect_ratio": "16:9 or 2.35:1",
+          "color_profile": "Rec. 709",
+          "bitrate": "100-150 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "15-20 seconds",
+            "shots": [
+              "Empty installation space",
+              "Arrival of artwork components",
+              "Team preparation and planning"
+            ],
+            "atmosphere": "Anticipation, transformation beginning"
+          },
+          "main_sequence": {
+            "duration": "115-250 seconds",
+            "shots": [
+              "Time-lapse of installation build",
+              "Real-time problem-solving moments",
+              "Scale reveals with human reference",
+              "Technical challenges and solutions",
+              "Lighting design and testing",
+              "Artist directing placement",
+              "Final adjustments and fine-tuning"
+            ],
+            "pacing": "Building tension toward reveal"
+          },
+          "closing": {
+            "duration": "20-30 seconds",
+            "shots": [
+              "Dramatic lighting activation",
+              "360-degree reveal of complete installation",
+              "Visitor reactions and interactions",
+              "Artist statement or interview"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Installation's designed lighting",
+            "secondary": "Work lights during setup",
+            "mood": "Transformative, dramatic reveal"
+          },
+          "color_palette": {
+            "dominant": "Installation-specific colors",
+            "accent": "Architectural space tones",
+            "grading": "Cinematic, high production value"
+          },
+          "camera_movement": {
+            "primary": "Crane/jib for scale reveals",
+            "secondary": "Steadicam for walk-throughs",
+            "special": "Drone for impossible angles"
+          }
+        },
+        "audio_design": {
+          "ambient": "Space acoustics, construction sounds",
+          "foley": "Installation-specific sounds",
+          "music": "Building orchestral or electronic score"
+        },
+        "technical_details": {
+          "equipment": [
+            "Cinema cameras with wide lenses",
+            "Crane or jib arm",
+            "Drone for aerial shots",
+            "Time-lapse intervalometer"
+          ],
+          "post_production": {
+            "color_grading": "Cinematic look with impact",
+            "transitions": "Dramatic cuts and reveals",
+            "effects": "Light leaks, lens flares for drama"
+          }
+        },
+        "prompt_structure": "Large-scale art installation reveal, time-lapse construction, dramatic lighting activation, human scale reference, 360-degree final reveal, 4K cinematic production, architectural transformation"
+      },
+      {
+        "id": "artist_portrait_documentary",
+        "title": "Artist Portrait Documentaries",
+        "description": "Intimate biographical portraits exploring an artist's life, philosophy, and creative journey",
+        "video_specs": {
+          "duration": "180-480 seconds",
+          "resolution": "4K (3840x2160)",
+          "fps": 24 for cinematic feel,
+          "aspect_ratio": "16:9 or 2.35:1",
+          "color_profile": "Rec. 709 or Log for grading",
+          "bitrate": "80-120 Mbps"
+        },
+        "scene_composition": {
+          "opening": {
+            "duration": "20-30 seconds",
+            "shots": [
+              "Artist in their environment",
+              "Establishing their world and workspace",
+              "Opening statement or question"
+            ],
+            "atmosphere": "Personal, inviting viewers into artist's world"
+          },
+          "main_sequence": {
+            "duration": "140-420 seconds",
+            "shots": [
+              "Interview segments with B-roll coverage",
+              "Artist at work in various stages",
+              "Archival material or past works",
+              "Influences and inspiration sources",
+              "Daily routines and rituals",
+              "Interactions with materials and tools",
+              "Contemplative moments",
+              "Works in progress and completed pieces"
+            ],
+            "pacing": "Thoughtful, allowing space for reflection"
+          },
+          "closing": {
+            "duration": "20-30 seconds",
+            "shots": [
+              "Philosophical conclusion or statement",
+              "Artist continuing their work",
+              "Legacy or impact imagery"
+            ]
+          }
+        },
+        "visual_elements": {
+          "lighting": {
+            "primary": "Natural light preferred",
+            "secondary": "Soft key light for interviews",
+            "mood": "Authentic, unforced"
+          },
+          "color_palette": {
+            "dominant": "Artist's environmental colors",
+            "accent": "Their artwork palette",
+            "grading": "Naturalistic with slight warmth"
+          },
+          "camera_movement": {
+            "primary": "Observational, minimal movement",
+            "secondary": "Slow dolly for reveals",
+            "special": "Handheld for intimate moments"
+          }
+        },
+        "audio_design": {
+          "ambient": "Natural environment sounds",
+          "foley": "Subtle artistic process sounds",
+          "music": "Minimal, supporting not dominating"
+        },
+        "technical_details": {
+          "equipment": [
+            "Multiple cameras for interviews",
+            "Prime lenses for shallow depth",
+            "Lavalier and boom microphones"
+          ],
+          "post_production": {
+            "color_grading": "Consistent look throughout",
+            "transitions": "Thoughtful cuts on action/words",
+            "effects": "Minimal, maintaining authenticity"
+          }
+        },
+        "prompt_structure": "Intimate artist documentary portrait, personal workspace and philosophy, interview with working footage, natural lighting, thoughtful pacing, 4K cinematic quality, authentic artistic journey"
+      }
+    ],
+    "general_guidelines": {
+      "composition": "Rule of thirds, leading lines, negative space for artistic emphasis",
+      "color_theory": "Complementary colors, artistic color harmony, emotional color use",
+      "lighting": "Emphasis on texture and form, dramatic shadows when appropriate",
+      "movement": "Smooth, intentional camera work that doesn't distract from art",
+      "pacing": "Allow viewers time to appreciate details and process",
+      "audio": "Layer ambient sounds with musical elements, never overpower visuals",
+      "authenticity": "Capture genuine creative moments, avoid over-staging"
+    },
+    "technical_requirements": {
+      "cameras": "Full-frame or larger sensor for shallow depth of field",
+      "lenses": "Wide range from macro to wide angle, fast apertures",
+      "stabilization": "Gimbals, sliders, tripods for professional movement",
+      "audio": "High-quality field recording, multiple sources",
+      "lighting": "Color-accurate LED panels, natural light optimization",
+      "post_production": "Color grading for artistic vision, 4K delivery minimum"
+    }
+  }
+}

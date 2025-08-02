@@ -1,0 +1,635 @@
+{
+  "category": "Education Tutorial",
+  "categoryId": "education_tutorial",
+  "templateCount": 10,
+  "generatedAt": "2025-08-02T07:24:25.084Z",
+  "templates": [
+    {
+      "id": "education_001",
+      "category": "education_tutorial",
+      "title": "Online Course Presentation with Split Screen",
+      "description": "Professional online course video featuring instructor and content side-by-side",
+      "prompt": {
+        "main": "Create a professional online education video with split-screen layout. Left side shows instructor in modern home office with ring light illumination, gesturing naturally while explaining concepts. Right side displays animated presentation slides with clean typography and smooth transitions between topics. Camera captures instructor at eye-level with shallow depth of field for professional look.",
+        "elements": {
+          "cameraMovement": "Static camera on instructor, gentle zoom-in during key points, animated transitions on presentation side",
+          "subject": "Professional instructor in business casual attire, expressive hand gestures, direct eye contact with camera",
+          "scene": "Modern home office with bookshelf background, minimal distractions, professional lighting setup",
+          "motion": "Natural speaking gestures, slide animations sync with speech, highlighting text appears as topics discussed",
+          "lighting": "Soft key light from ring light, subtle fill light to reduce shadows, warm 3200K color temperature",
+          "atmosphere": "Professional yet approachable, focused learning environment, engaging educational content",
+          "style": "Clean modern educational video production, high-quality webcam aesthetic with professional polish",
+          "technicalSpecs": {
+            "duration": "30-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Full Screen Presenter",
+          "modifiedElements": {
+            "scene": "Instructor fills entire frame, slides appear as overlay graphics",
+            "cameraMovement": "Subtle push-in during important points"
+          }
+        },
+        {
+          "name": "Green Screen Version",
+          "modifiedElements": {
+            "scene": "Instructor on green screen, virtual classroom background",
+            "lighting": "Even green screen lighting, no shadows on backdrop"
+          }
+        }
+      ],
+      "tags": [
+        "online course",
+        "e-learning",
+        "instructor-led",
+        "educational presentation",
+        "split screen"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Ensure clear audio quality with lapel or directional microphone",
+        "Maintain consistent eye contact with camera lens",
+        "Synchronize slide transitions with verbal cues",
+        "Use lower thirds for instructor name and course title"
+      ],
+      "examples": {
+        "sampleOutput": "Professional online course segment with clear instruction",
+        "useCases": [
+          "Online course platforms",
+          "Corporate training videos",
+          "Educational YouTube content",
+          "MOOCs and webinars"
+        ]
+      }
+    },
+    {
+      "id": "education_002",
+      "category": "education_tutorial",
+      "title": "Hands-On Tutorial Demonstration",
+      "description": "Close-up tutorial showing step-by-step process with multiple camera angles",
+      "prompt": {
+        "main": "Film a detailed hands-on tutorial with crystal-clear close-up shots. Overhead camera captures workspace from bird's eye view, showing hands performing precise actions. Secondary angle provides context shots. Smooth transitions between angles, with macro lens details for intricate steps. Bright, even lighting eliminates shadows on work surface.",
+        "elements": {
+          "cameraMovement": "Smooth transitions between overhead and 45-degree angles, gentle push-ins for detail shots",
+          "subject": "Skilled hands demonstrating technique, tools and materials clearly visible",
+          "scene": "Clean, organized workspace with neutral background, all necessary tools within frame",
+          "motion": "Deliberate, measured movements, pausing at key steps, smooth tool handling",
+          "lighting": "Bright LED panel lighting from multiple angles, no harsh shadows, 5600K daylight balanced",
+          "atmosphere": "Focused, instructional, clear visibility of all actions",
+          "style": "Professional tutorial production with broadcast quality standards",
+          "technicalSpecs": {
+            "duration": "45-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Split Screen Process",
+          "modifiedElements": {
+            "scene": "Multiple angles shown simultaneously in split screen",
+            "cameraMovement": "Static cameras, edited in post for multi-angle view"
+          }
+        },
+        {
+          "name": "Time-lapse Version",
+          "modifiedElements": {
+            "motion": "Accelerated footage showing complete process",
+            "frameRate": "60 fps for smooth time-lapse"
+          }
+        }
+      ],
+      "tags": [
+        "tutorial",
+        "how-to",
+        "demonstration",
+        "hands-on",
+        "instructional"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Use overhead rig or boom arm for stable overhead shots",
+        "Include brief tool/material overview at beginning",
+        "Add text overlays for measurements and key steps",
+        "Maintain consistent framing throughout demonstration"
+      ],
+      "examples": {
+        "sampleOutput": "Clear, detailed tutorial video with multiple angles",
+        "useCases": [
+          "DIY tutorials",
+          "Craft instructions",
+          "Cooking demonstrations",
+          "Technical assembly guides"
+        ]
+      }
+    },
+    {
+      "id": "education_003",
+      "category": "education_tutorial",
+      "title": "Animated Educational Explainer",
+      "description": "Engaging animated educational content with dynamic infographics and motion graphics",
+      "prompt": {
+        "main": "Create vibrant educational animation with smooth motion graphics. Colorful flat design elements animate in sequence, building complex concepts step-by-step. Icons and illustrations move with purpose, guided by invisible physics. Text appears with satisfying ease curves. Background subtly shifts through complementary color gradients.",
+        "elements": {
+          "cameraMovement": "Virtual camera pans and zooms following animation flow, smooth parallax effects",
+          "subject": "Animated icons, charts, diagrams, and text elements in cohesive visual style",
+          "scene": "Clean gradient or geometric pattern background, ample negative space",
+          "motion": "Bouncy animations with overshoot, elements slide and scale with purpose",
+          "lighting": "Flat design with subtle shadows for depth, bright saturated colors",
+          "atmosphere": "Energetic, engaging, modern educational content",
+          "style": "Contemporary motion graphics with Google Material or Apple design influence",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps for smooth animation"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Minimalist Style",
+          "modifiedElements": {
+            "style": "Ultra-minimal with line art and limited color palette",
+            "motion": "Subtle, refined animations without bounce"
+          }
+        },
+        {
+          "name": "3D Version",
+          "modifiedElements": {
+            "subject": "3D rendered objects and environments",
+            "lighting": "Realistic lighting with global illumination"
+          }
+        }
+      ],
+      "tags": [
+        "animation",
+        "explainer",
+        "motion graphics",
+        "educational",
+        "infographic"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Maintain consistent animation timing and easing",
+        "Use color coding for related concepts",
+        "Include subtle sound design for each animation",
+        "Ensure text remains on screen long enough to read"
+      ],
+      "examples": {
+        "sampleOutput": "Engaging animated educational content",
+        "useCases": [
+          "Concept explanations",
+          "Data visualization",
+          "Process illustrations",
+          "Educational social media content"
+        ]
+      }
+    },
+    {
+      "id": "education_004",
+      "category": "education_tutorial",
+      "title": "Interactive Whiteboard Session",
+      "description": "Dynamic whiteboard teaching session with real-time drawing and annotations",
+      "prompt": {
+        "main": "Film engaging whiteboard teaching session with instructor drawing and explaining concepts in real-time. Camera captures both instructor and board, with smooth focus pulls between speaker and content. Hand movements are fluid and purposeful, creating diagrams and text with confidence. Multiple colored markers used for emphasis and organization.",
+        "elements": {
+          "cameraMovement": "Gentle pans following instructor movement, focus pulls between face and board content",
+          "subject": "Enthusiastic instructor with clear handwriting, professional appearance",
+          "scene": "Modern classroom with large whiteboard, good acoustics, minimal background noise",
+          "motion": "Natural teaching movements, drawing diagrams, pointing to key concepts",
+          "lighting": "Even classroom lighting, no glare on whiteboard, instructor well-lit",
+          "atmosphere": "Engaging classroom environment, dynamic teaching energy",
+          "style": "Professional educational video with broadcast quality",
+          "technicalSpecs": {
+            "duration": "60-120 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Digital Whiteboard",
+          "modifiedElements": {
+            "scene": "Interactive digital display with touch controls",
+            "motion": "Finger gestures for drawing and manipulation"
+          }
+        },
+        {
+          "name": "Close-up Only",
+          "modifiedElements": {
+            "cameraMovement": "Tight shots on board content only",
+            "subject": "Just hands and markers visible"
+          }
+        }
+      ],
+      "tags": [
+        "whiteboard",
+        "classroom",
+        "teaching",
+        "instructor",
+        "educational"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Use wireless microphone for clear audio",
+        "Pre-plan board layout for optimal use of space",
+        "Write large enough for camera to capture clearly",
+        "Use high-contrast markers for better visibility"
+      ],
+      "examples": {
+        "sampleOutput": "Dynamic whiteboard teaching video",
+        "useCases": [
+          "Math tutorials",
+          "Science explanations",
+          "Business strategy sessions",
+          "Language lessons"
+        ]
+      }
+    },
+    {
+      "id": "education_005",
+      "category": "education_tutorial",
+      "title": "Laboratory Experiment Documentation",
+      "description": "Scientific experiment capture with multiple angles and detailed process documentation",
+      "prompt": {
+        "main": "Document laboratory experiment with cinematic precision. Multiple cameras capture procedure from various angles - wide shot for context, close-ups for detailed steps, overhead for workspace overview. Sterile environment with precise movements. Time-lapse segments show reactions or changes. Safety equipment prominently featured.",
+        "elements": {
+          "cameraMovement": "Smooth dollies along lab bench, crane shots for overview, macro lenses for reactions",
+          "subject": "Scientist in full PPE performing precise experimental procedures",
+          "scene": "Professional laboratory setting with modern equipment, clean surfaces, organized workspace",
+          "motion": "Methodical movements, careful pipetting, precise measurements",
+          "lighting": "Bright, even laboratory lighting, additional spots for detailed work",
+          "atmosphere": "Professional, scientific, methodical approach",
+          "style": "Documentary-style science videography with cinematic quality",
+          "technicalSpecs": {
+            "duration": "90-180 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps, 120 fps for slow-motion segments"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Microscopy Focus",
+          "modifiedElements": {
+            "subject": "Microscopic samples and cellular activity",
+            "cameraMovement": "Direct microscope footage integrated"
+          }
+        },
+        {
+          "name": "Field Research",
+          "modifiedElements": {
+            "scene": "Outdoor field research environment",
+            "lighting": "Natural lighting with reflectors"
+          }
+        }
+      ],
+      "tags": [
+        "laboratory",
+        "experiment",
+        "scientific",
+        "research",
+        "documentation"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Follow all safety protocols during filming",
+        "Use multiple cameras for comprehensive coverage",
+        "Include equipment close-ups and labels",
+        "Add post-production annotations for clarity"
+      ],
+      "examples": {
+        "sampleOutput": "Professional laboratory experiment video",
+        "useCases": [
+          "Research documentation",
+          "Educational lab demonstrations",
+          "Scientific method tutorials",
+          "Equipment training videos"
+        ]
+      }
+    },
+    {
+      "id": "education_006",
+      "category": "education_tutorial",
+      "title": "Screen Recording with Instructor Overlay",
+      "description": "Software tutorial with screen capture and instructor picture-in-picture",
+      "prompt": {
+        "main": "Create engaging screen recording tutorial with instructor overlay in corner. Screen shows software interface with smooth cursor movements and highlighted click areas. Instructor appears in circular overlay, maintaining eye contact while explaining. Zoom effects emphasize important interface elements. Annotations and arrows appear to guide attention.",
+        "elements": {
+          "cameraMovement": "Digital zooms on screen areas, smooth pans following cursor movement",
+          "subject": "Computer screen with software interface, instructor in video overlay",
+          "scene": "Clean desktop environment, professional software interface, organized workspace",
+          "motion": "Purposeful cursor movements, click animations, smooth scrolling",
+          "lighting": "Well-lit instructor overlay, screen brightness optimized for recording",
+          "atmosphere": "Professional software training environment",
+          "style": "Modern screencasting with high production value",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps for smooth cursor movement"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Full Screen Only",
+          "modifiedElements": {
+            "subject": "Screen recording only with voiceover",
+            "scene": "No instructor overlay"
+          }
+        },
+        {
+          "name": "Side-by-Side View",
+          "modifiedElements": {
+            "scene": "Split screen with instructor on one side",
+            "aspectRatio": "21:9 ultrawide format"
+          }
+        }
+      ],
+      "tags": [
+        "screen recording",
+        "software tutorial",
+        "screencasting",
+        "technical training"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Record at native screen resolution for clarity",
+        "Use keystroke visualizer for shortcuts",
+        "Add click sound effects and visual feedback",
+        "Maintain consistent cursor speed"
+      ],
+      "examples": {
+        "sampleOutput": "Professional software tutorial video",
+        "useCases": [
+          "Software training",
+          "App demonstrations",
+          "Technical tutorials",
+          "Coding education"
+        ]
+      }
+    },
+    {
+      "id": "education_007",
+      "category": "education_tutorial",
+      "title": "Student Success Story Interview",
+      "description": "Inspirational student testimonial with cinematic interview setup",
+      "prompt": {
+        "main": "Film compelling student testimonial with cinematic production value. Subject positioned using rule of thirds, speaking directly to off-camera interviewer. Shallow depth of field creates beautiful bokeh background. B-roll footage shows student in learning environment. Natural expressions and genuine emotions captured with multiple takes.",
+        "elements": {
+          "cameraMovement": "Subtle handheld movement for organic feel, slow push-ins during emotional moments",
+          "subject": "Student in comfortable setting, authentic expressions, professional yet approachable appearance",
+          "scene": "Aesthetically pleasing location - library, campus, or relevant learning environment",
+          "motion": "Natural conversational gestures, genuine reactions, comfortable body language",
+          "lighting": "Soft natural light from window, subtle fill light, warm color grading",
+          "atmosphere": "Inspiring, authentic, emotionally engaging",
+          "style": "Documentary-style interview with cinematic quality",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps for cinematic feel"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Multiple Students",
+          "modifiedElements": {
+            "subject": "Quick cuts between different student testimonials",
+            "motion": "Dynamic editing between speakers"
+          }
+        },
+        {
+          "name": "Activity-Based",
+          "modifiedElements": {
+            "scene": "Students engaged in learning activities while speaking",
+            "cameraMovement": "Following shots, dynamic angles"
+          }
+        }
+      ],
+      "tags": [
+        "testimonial",
+        "interview",
+        "student story",
+        "educational",
+        "documentary"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Use lavalier microphone for clear audio",
+        "Shoot multiple angles for editing options",
+        "Capture plenty of B-roll footage",
+        "Create comfortable environment for authentic responses"
+      ],
+      "examples": {
+        "sampleOutput": "Engaging student success story video",
+        "useCases": [
+          "School promotional content",
+          "Course testimonials",
+          "Educational marketing",
+          "Alumni features"
+        ]
+      }
+    },
+    {
+      "id": "education_008",
+      "category": "education_tutorial",
+      "title": "Virtual Workshop Environment",
+      "description": "Immersive workshop setting with multiple participants and interactive elements",
+      "prompt": {
+        "main": "Create dynamic virtual workshop environment showing engaged participants in video conference grid. Main presenter shares screen with interactive content while participants react and contribute. Smooth transitions between speaker view and shared content. Chat messages and reactions appear as overlays. Professional home office setups visible in each participant window.",
+        "elements": {
+          "cameraMovement": "Digital transitions between grid view and speaker focus, zoom effects on active speakers",
+          "subject": "Multiple workshop participants in professional home settings, engaged and interactive",
+          "scene": "Video conference interface with clean backgrounds, good lighting for all participants",
+          "motion": "Natural gestures, typing, note-taking, head nods and reactions",
+          "lighting": "Well-lit faces for all participants, no backlit windows, professional appearance",
+          "atmosphere": "Collaborative, engaged, professional virtual learning environment",
+          "style": "Modern remote learning aesthetic with high production value",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Hybrid Workshop",
+          "modifiedElements": {
+            "scene": "Mix of in-person and remote participants",
+            "cameraMovement": "Cuts between physical room and screens"
+          }
+        },
+        {
+          "name": "Breakout Rooms",
+          "modifiedElements": {
+            "subject": "Small group discussions in separate virtual rooms",
+            "motion": "More intimate conversations and collaboration"
+          }
+        }
+      ],
+      "tags": [
+        "workshop",
+        "virtual learning",
+        "online collaboration",
+        "remote education"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Ensure all participants have good audio quality",
+        "Use virtual backgrounds sparingly",
+        "Include interactive elements like polls or whiteboards",
+        "Show genuine engagement and participation"
+      ],
+      "examples": {
+        "sampleOutput": "Professional virtual workshop video",
+        "useCases": [
+          "Online workshops",
+          "Virtual training sessions",
+          "Remote team learning",
+          "Webinar highlights"
+        ]
+      }
+    },
+    {
+      "id": "education_009",
+      "category": "education_tutorial",
+      "title": "Educational Documentary Segment",
+      "description": "High-production documentary-style educational content with expert interviews and visuals",
+      "prompt": {
+        "main": "Produce documentary-style educational segment with cinematic quality. Expert interviews intercut with relevant B-roll footage. Smooth camera movements reveal subjects and environments. Historical footage or animations illustrate complex concepts. Professional color grading creates cohesive visual narrative. Lower thirds identify speakers and key information.",
+        "elements": {
+          "cameraMovement": "Steadicam movements, drone shots for establishing scenes, slider moves for interviews",
+          "subject": "Subject matter experts, historical artifacts, relevant locations and demonstrations",
+          "scene": "Varied locations including offices, laboratories, historical sites, museums",
+          "motion": "Cinematic movements, slow reveals, matched action cuts between scenes",
+          "lighting": "Professional three-point lighting for interviews, natural light for B-roll",
+          "atmosphere": "Authoritative, educational, visually compelling",
+          "style": "Broadcast documentary production standards",
+          "technicalSpecs": {
+            "duration": "120-180 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps for cinematic feel"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Historical Focus",
+          "modifiedElements": {
+            "scene": "Period-appropriate locations and reenactments",
+            "style": "Ken Burns effect on historical images"
+          }
+        },
+        {
+          "name": "Science Documentary",
+          "modifiedElements": {
+            "subject": "Scientific phenomena and research footage",
+            "motion": "Time-lapse and slow-motion sequences"
+          }
+        }
+      ],
+      "tags": [
+        "documentary",
+        "educational film",
+        "expert interview",
+        "cinematic education"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Scout locations for best visual impact",
+        "Use professional audio recording equipment",
+        "Color grade for consistent look across footage",
+        "Include variety of shot types and angles"
+      ],
+      "examples": {
+        "sampleOutput": "Professional educational documentary video",
+        "useCases": [
+          "Educational documentaries",
+          "Museum exhibitions",
+          "Historical education",
+          "Science communication"
+        ]
+      }
+    },
+    {
+      "id": "education_010",
+      "category": "education_tutorial",
+      "title": "Interactive Quiz Game Show",
+      "description": "Engaging educational quiz format with game show elements and visual effects",
+      "prompt": {
+        "main": "Create exciting educational quiz show format with dynamic graphics and sound effects. Questions appear with animated text and countdown timers. Multiple choice options fly in with satisfying animations. Correct answers trigger celebration effects with particles and color bursts. Score counters and progress bars update in real-time. Host or narrator provides energetic commentary.",
+        "elements": {
+          "cameraMovement": "Quick cuts between questions, dynamic zooms on correct answers, energetic transitions",
+          "subject": "Animated quiz interface with questions, answers, timers, and score displays",
+          "scene": "Colorful game show inspired background with spotlights and geometric patterns",
+          "motion": "Fast-paced animations, pulsing elements, particle effects for celebrations",
+          "lighting": "Bright, colorful lighting effects, spotlights sweeping across scene",
+          "atmosphere": "Exciting, competitive, educational entertainment",
+          "style": "Modern game show production with educational content",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps for smooth animations"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Classroom Version",
+          "modifiedElements": {
+            "scene": "Classroom setting with students participating",
+            "atmosphere": "More educational, less game show"
+          }
+        },
+        {
+          "name": "Mobile App Style",
+          "modifiedElements": {
+            "aspectRatio": "9:16 vertical format",
+            "style": "Mobile game UI design"
+          }
+        }
+      ],
+      "tags": [
+        "quiz",
+        "game show",
+        "interactive learning",
+        "educational game",
+        "edutainment"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Keep text large and readable",
+        "Use contrasting colors for visibility",
+        "Add sound effects for each interaction",
+        "Maintain consistent timing for questions"
+      ],
+      "examples": {
+        "sampleOutput": "Engaging educational quiz show video",
+        "useCases": [
+          "Interactive learning content",
+          "Educational YouTube videos",
+          "Classroom review games",
+          "E-learning gamification"
+        ]
+      }
+    }
+  ]
+}

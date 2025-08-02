@@ -1,0 +1,555 @@
+{
+  "category": "Real Estate Architecture",
+  "categoryId": "real_estate_architecture",
+  "templateCount": 10,
+  "generatedAt": "2025-08-02T07:24:25.083Z",
+  "templates": [
+    {
+      "id": "real_estate_001",
+      "title": "Luxury Home Cinematic Tour",
+      "description": "Premium residential property showcase with smooth dolly shots and golden hour lighting",
+      "prompt": {
+        "main": "Cinematic real estate tour beginning with sweeping drone approach over manicured landscape. Camera glides through front entrance revealing grand foyer with chandelier catching sunlight. Smooth dolly through living spaces showcasing high ceilings, designer furnishings, natural light streaming through floor-to-ceiling windows. Kitchen reveal with slow pan across marble countertops, professional appliances gleaming. Master suite entrance with soft focus transition, bathroom featuring freestanding tub with garden views. Conclude with sunset terrace shot, city lights beginning to twinkle in distance.",
+        "elements": {
+          "cameraMovement": "Stabilized gimbal movements, slow dollies, gentle crane shots, smooth transitions between rooms",
+          "subject": "Luxury residential property with high-end finishes and designer staging",
+          "scene": "Upscale neighborhood, manicured grounds, sophisticated interior design",
+          "motion": "Flowing camera movements, no sudden cuts, parallax through architectural elements",
+          "lighting": "Golden hour exterior, bright natural interior light, strategic accent lighting",
+          "atmosphere": "Aspirational luxury, warmth, sophistication, lifestyle appeal",
+          "style": "Architectural Digest meets Hollywood production value",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Modern Minimalist",
+          "modifiedElements": {
+            "scene": "Ultra-modern architecture with clean lines",
+            "lighting": "Cool, even lighting emphasizing space",
+            "atmosphere": "Zen-like tranquility, spaciousness"
+          }
+        },
+        {
+          "name": "Historic Estate",
+          "modifiedElements": {
+            "scene": "Restored historic property with period details",
+            "cameraMovement": "More formal, symmetrical compositions",
+            "atmosphere": "Timeless elegance, heritage charm"
+          }
+        }
+      ],
+      "tags": [
+        "luxury",
+        "residential",
+        "real estate",
+        "property tour",
+        "cinematic",
+        "high-end"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Maintain consistent speed throughout camera movements",
+        "Highlight unique selling points of the property",
+        "Show flow between spaces naturally",
+        "Include both wide establishing shots and intimate details"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_002",
+      "title": "Commercial Office Space Showcase",
+      "description": "Modern workspace tour emphasizing productivity, collaboration, and amenities",
+      "prompt": {
+        "main": "Professional office tour starting with aerial establishing shot of glass-facade building. Elevator doors open to reveal modern reception with company branding. Camera tracks through open-plan workspace showing ergonomic stations, natural light, collaborative zones. Conference room with city views, state-of-the-art presentation technology. Amenity tour: fully equipped kitchen, relaxation areas, outdoor terrace. Highlight sustainable features: solar panels, green walls, energy-efficient systems. End with time-lapse of space filling with productive professionals, building energy visualization showing efficiency.",
+        "elements": {
+          "cameraMovement": "Smooth tracking shots, elevator perspectives, walk-through POV, aerial establishing",
+          "subject": "Modern commercial office space with premium amenities and sustainable features",
+          "scene": "Corporate building, contemporary design, bustling business district",
+          "motion": "Professional pace, purposeful movements, dynamic time-lapse elements",
+          "lighting": "Bright office lighting, natural daylight, LED accent lighting",
+          "atmosphere": "Professional, innovative, collaborative, forward-thinking",
+          "style": "Corporate video meets architectural showcase",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Tech Startup Vibe",
+          "modifiedElements": {
+            "scene": "Creative workspace with gaming areas, colorful design",
+            "atmosphere": "Energetic, playful, innovative culture"
+          }
+        },
+        {
+          "name": "Executive Suite",
+          "modifiedElements": {
+            "subject": "C-suite offices with premium finishes",
+            "atmosphere": "Prestigious, powerful, exclusive"
+          }
+        }
+      ],
+      "tags": [
+        "commercial",
+        "office",
+        "workspace",
+        "corporate",
+        "business",
+        "modern architecture"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show the space during 'golden hours' of productivity",
+        "Include people to demonstrate scale and usage",
+        "Highlight technological integration naturally",
+        "Emphasize both individual and collaborative spaces"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_003",
+      "title": "Virtual Staging Transformation",
+      "description": "Empty room to fully furnished space with magical transitions and particle effects",
+      "prompt": {
+        "main": "Begin with empty room, bare walls, natural light creating shadows on hardwood floors. Magical transformation begins: furniture materializes with particle effects, sofa assembling from geometric shapes. Walls receive virtual paint with color washing across surfaces. Art pieces fade into existence, rugs unroll themselves. Kitchen cabinets fill with dishware appearing like holograms solidifying. Bedroom transforms with bed rising from floor, pillows fluffing themselves. Outdoor space gains patio furniture, plants growing in time-lapse. Each room reveals multiple style options morphing seamlessly: modern to traditional to eclectic.",
+        "elements": {
+          "cameraMovement": "Orbital movements during transformations, push-ins for reveals, match cuts between styles",
+          "subject": "Empty property transformed through virtual staging technology",
+          "scene": "Vacant home becoming fully furnished living space",
+          "motion": "Particle effects, morphing transitions, materialization animations",
+          "lighting": "Consistent natural light with virtual shadows matching furniture",
+          "atmosphere": "Magical transformation, possibility, customization",
+          "style": "Tech demo meets interior design visualization",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Style Switcher",
+          "modifiedElements": {
+            "motion": "Rapid style changes in same space",
+            "atmosphere": "Versatility and personalization"
+          }
+        },
+        {
+          "name": "Budget to Luxury",
+          "modifiedElements": {
+            "subject": "Progressive staging from basic to premium",
+            "motion": "Gradual quality enhancement"
+          }
+        }
+      ],
+      "tags": [
+        "virtual staging",
+        "transformation",
+        "interior design",
+        "technology",
+        "visualization"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Ensure furniture scale is accurate to room dimensions",
+        "Match lighting and shadows realistically",
+        "Show multiple style options to demonstrate flexibility",
+        "Keep transitions smooth and visually appealing"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_004",
+      "title": "Neighborhood Lifestyle Montage",
+      "description": "Community features, local amenities, and lifestyle benefits showcase",
+      "prompt": {
+        "main": "Sunrise over peaceful neighborhood, drone revealing tree-lined streets. Morning joggers on community trails, children walking to nearby school. Vibrant farmer's market with fresh produce, locals chatting. Quick cuts: coffee shop, bookstore, art gallery, restaurants. Park scenes with families, dogs playing, outdoor yoga class. Community pool, tennis courts, fitness center in use. Shopping district with boutiques, pedestrian-friendly walkways. Evening: outdoor dining, string lights, live music in town square. Sunset over homes, porch lights beginning to glow, sense of belonging.",
+        "elements": {
+          "cameraMovement": "Mix of aerial, handheld community feel, smooth transitions between locations",
+          "subject": "Neighborhood amenities, community life, local attractions",
+          "scene": "Vibrant community with diverse amenities and active lifestyle",
+          "motion": "Dynamic editing, lifestyle vignettes, authentic movement",
+          "lighting": "Natural daylight progression, golden hour community warmth",
+          "atmosphere": "Community, belonging, active lifestyle, convenience",
+          "style": "Lifestyle marketing meets documentary authenticity",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Urban Lifestyle",
+          "modifiedElements": {
+            "scene": "City neighborhood with walkable amenities",
+            "motion": "Faster pace, urban energy"
+          }
+        },
+        {
+          "name": "Family-Focused",
+          "modifiedElements": {
+            "subject": "Schools, playgrounds, family activities",
+            "atmosphere": "Safe, nurturing, family-friendly"
+          }
+        }
+      ],
+      "tags": [
+        "neighborhood",
+        "lifestyle",
+        "community",
+        "amenities",
+        "local area"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Include diverse demographics to show inclusive community",
+        "Capture authentic moments rather than staged scenes",
+        "Show seasonal variety if possible",
+        "Highlight unique local features that differentiate the area"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_005",
+      "title": "Construction Progress Time-lapse",
+      "description": "Complete building process from groundbreaking to finished structure",
+      "prompt": {
+        "main": "Empty lot with surveying equipment, groundbreaking ceremony moment. Excavators carving foundation, concrete trucks pouring. Time-lapse: foundation walls rising, rebar grids expanding. Steel frame assembly, workers moving like ants, cranes swinging beams. Floors adding sequentially, building growing skyward. Exterior walls, window installation reflecting sky. Interior work glimpses: electrical, plumbing, insulation. Facade materials applied, architectural details emerging. Landscaping transformation, paths appearing, trees planted. Final touches: signage, lighting tests. Grand opening with ribbon cutting, people entering completed building.",
+        "elements": {
+          "cameraMovement": "Fixed time-lapse positions, occasional drone flyovers, detail insert shots",
+          "subject": "Construction site evolving into completed building",
+          "scene": "Active construction site through all phases",
+          "motion": "Accelerated time-lapse, normal speed for key moments",
+          "lighting": "Changing seasons, weather, day/night cycles",
+          "atmosphere": "Progress, transformation, achievement, teamwork",
+          "style": "Documentary time-lapse with cinematic moments",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Residential Development",
+          "modifiedElements": {
+            "subject": "Single-family home construction",
+            "duration": "30-45 seconds"
+          }
+        },
+        {
+          "name": "Renovation Project",
+          "modifiedElements": {
+            "subject": "Existing building transformation",
+            "motion": "Before/after comparisons mixed with process"
+          }
+        }
+      ],
+      "tags": [
+        "construction",
+        "time-lapse",
+        "development",
+        "progress",
+        "building"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Maintain consistent camera position for true time-lapse effect",
+        "Include human element to show scale",
+        "Capture different weather conditions for visual interest",
+        "Show both macro progress and micro details"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_006",
+      "title": "Interior Design Portfolio Reel",
+      "description": "Showcase of multiple design projects with style transitions and detail focus",
+      "prompt": {
+        "main": "Elegant title card dissolves to first project: modern penthouse with city views. Slow pan across custom millwork, designer furniture, curated art. Match cut to coastal cottage: bright whites, natural textures, ocean-inspired palette. Transition through color to industrial loft: exposed brick, metal accents, vintage pieces. Corporate office design: productive spaces, brand integration, ergonomic solutions. Restaurant interior: atmospheric lighting, custom banquettes, artistic details. Each space revealed through signature elements: fabric swatches becoming curtains, paint chips transforming walls, mood boards materializing as rooms. End with designer's studio, projects on walls, creative process visible.",
+        "elements": {
+          "cameraMovement": "Smooth pans, detail push-ins, creative transitions between projects",
+          "subject": "Multiple interior design projects showcasing range and expertise",
+          "scene": "Various designed interiors from residential to commercial",
+          "motion": "Flowing between spaces, focus pulls on details, reveal techniques",
+          "lighting": "Optimized for each space's intended mood and function",
+          "atmosphere": "Sophisticated, creative, transformative, professional",
+          "style": "Portfolio presentation meets lifestyle photography",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Single Style Focus",
+          "modifiedElements": {
+            "subject": "Multiple projects in one design style",
+            "atmosphere": "Cohesive aesthetic vision"
+          }
+        },
+        {
+          "name": "Before & After Focus",
+          "modifiedElements": {
+            "motion": "Split screens and wipe transitions",
+            "atmosphere": "Transformation and problem-solving"
+          }
+        }
+      ],
+      "tags": [
+        "interior design",
+        "portfolio",
+        "showcase",
+        "design",
+        "professional"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show both wide room shots and close-up details",
+        "Include process elements to show expertise",
+        "Maintain consistent color grading while showing variety",
+        "Credit furniture and fixture sources when possible"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_007",
+      "title": "Aerial Estate Exploration",
+      "description": "Drone footage showcasing property boundaries, landscapes, and architectural features from above",
+      "prompt": {
+        "main": "Dawn breaking, drone rises revealing expansive estate nestled in rolling hills. Circular orbit around main house showing all architectural angles, roof details, chimneys. Descending spiral toward pool area, water reflecting sky. Low altitude flight through tree canopy toward guest house. Rising to show property boundaries, neighboring context. Following driveway from gate to mansion, revealing approach experience. Tracking shots along horse paddocks, tennis court, gardens. Sunset position capturing golden light on facade, long shadows across manicured lawns. Night transition with landscape lighting illuminating paths, pool glowing blue. Final pull-back showing entire estate as jewel in landscape.",
+        "elements": {
+          "cameraMovement": "Smooth drone movements, orbits, reveals, ascending/descending spirals",
+          "subject": "Luxury estate with extensive grounds and multiple structures",
+          "scene": "High-end property with landscaping, amenities, and natural features",
+          "motion": "Cinematic aerial choreography, parallax through trees",
+          "lighting": "Golden hour primary, blue hour conclusion, landscape lighting",
+          "atmosphere": "Grandeur, privacy, luxury lifestyle, natural beauty",
+          "style": "Cinematic aerial cinematography, luxury real estate marketing",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Oceanfront Property",
+          "modifiedElements": {
+            "scene": "Coastal estate with beach access",
+            "motion": "Include water approach shots",
+            "atmosphere": "Seaside luxury, endless views"
+          }
+        },
+        {
+          "name": "Mountain Retreat",
+          "modifiedElements": {
+            "scene": "Mountain property with elevation changes",
+            "lighting": "Dramatic mountain light, mist effects",
+            "atmosphere": "Secluded sanctuary, natural grandeur"
+          }
+        }
+      ],
+      "tags": [
+        "aerial",
+        "drone",
+        "estate",
+        "luxury",
+        "landscape",
+        "property tour"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Plan flight paths to reveal property progressively",
+        "Use elevation changes for dramatic effect",
+        "Include both wide establishing and detailed shots",
+        "Time flights for optimal lighting conditions"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_008",
+      "title": "Day to Night Transition Showcase",
+      "description": "Property ambiance through 24-hour cycle showing different moods and functionality",
+      "prompt": {
+        "main": "Pre-dawn establishing shot, house silhouetted against brightening sky. Sunrise through bedroom windows, golden light filling spaces. Morning: breakfast nook bathed in light, garden views. Day progression through static cameras: living room light shifting, shadows moving across floors. Afternoon: pool area at peak sunshine, outdoor spaces inviting. Golden hour: magical light through windows, interior warmth glowing. Sunset from terrace, sky painted in pastels. Blue hour: exterior lights activating, windows glowing warmly. Night: landscape lighting creating ambiance, interior scenes of comfort. City lights twinkling beyond. Full moon illuminating architecture. Time-lapse showing stars wheeling overhead, completing cycle.",
+        "elements": {
+          "cameraMovement": "Locked-off positions for time-lapse, occasional motion for transitions",
+          "subject": "Single property through complete day/night cycle",
+          "scene": "Residential or commercial property with good lighting design",
+          "motion": "Time-lapse acceleration, real-time moments at key times",
+          "lighting": "Full natural light cycle plus artificial lighting design",
+          "atmosphere": "Transformation, livability, ambiance, complete lifestyle",
+          "style": "Artistic time-lapse meets real estate showcase",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Seasonal Cycle",
+          "modifiedElements": {
+            "motion": "Ultra time-lapse through seasons",
+            "atmosphere": "Year-round appeal, changing beauty"
+          }
+        },
+        {
+          "name": "Entertainment Focus",
+          "modifiedElements": {
+            "subject": "Party/event lighting scenarios",
+            "lighting": "Programmable LED scenes, party ambiance"
+          }
+        }
+      ],
+      "tags": [
+        "day to night",
+        "time-lapse",
+        "ambiance",
+        "lighting design",
+        "mood"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Use consistent camera positions for smooth time-lapse",
+        "Capture key lighting moments: sunrise, sunset, blue hour",
+        "Show both interior and exterior transformations",
+        "Highlight architectural lighting design features"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_009",
+      "title": "Virtual Reality Property Tour",
+      "description": "360-degree immersive walkthrough designed for VR headset viewing",
+      "prompt": {
+        "main": "360-degree sphere opening in foyer, viewer can look anywhere. Natural walking pace through spaces, pausing at decision points. Living room: full sphere capture showing ceiling details, floor finishes. Kitchen: interactive hotspots on appliances, cabinets opening virtually. Master bedroom: comfortable pacing, view through windows in all directions. Bathroom: detailed fixtures, lighting options demonstrated. Basement: entertainment area, utility access clearly shown. Backyard: seamless indoor-outdoor transition, property boundaries visible. Spatial audio: footsteps, ambient room sounds, outdoor nature. Navigation prompts appear contextually. Measurement overlays available on demand. Multiple path options for non-linear exploration.",
+        "elements": {
+          "cameraMovement": "Steady walking pace, 360-degree capture, height matching average viewer",
+          "subject": "Complete property interior and exterior in immersive format",
+          "scene": "Fully staged property ready for virtual exploration",
+          "motion": "Natural walking speed, smooth transitions, no sudden movements",
+          "lighting": "Even lighting to avoid harsh shadows in 360 view",
+          "atmosphere": "Immersive, interactive, informative, presence",
+          "style": "VR real estate tour, interactive experience design",
+          "technicalSpecs": {
+            "duration": "2-5 minutes",
+            "resolution": "5.7K or higher",
+            "aspectRatio": "2:1 (360 video)",
+            "frameRate": "60 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Guided Tour Mode",
+          "modifiedElements": {
+            "motion": "Automated path with narration",
+            "atmosphere": "Educational, hosted experience"
+          }
+        },
+        {
+          "name": "Interactive Customization",
+          "modifiedElements": {
+            "subject": "Changeable finishes and furniture",
+            "atmosphere": "Personalization, design options"
+          }
+        }
+      ],
+      "tags": [
+        "VR",
+        "360 video",
+        "virtual tour",
+        "immersive",
+        "interactive"
+      ],
+      "difficulty": "expert",
+      "bestPractices": [
+        "Maintain consistent eye-level height throughout",
+        "Avoid rapid movements that could cause VR sickness",
+        "Include spatial audio for enhanced immersion",
+        "Provide clear navigation cues for user orientation"
+      ],
+      "category": "real_estate_architecture"
+    },
+    {
+      "id": "real_estate_010",
+      "title": "Renovation Before & After Story",
+      "description": "Dramatic transformation narrative showing renovation process and results",
+      "prompt": {
+        "main": "Opening: distressed property exterior, peeling paint, overgrown yard. Interior walk-through revealing dated fixtures, worn surfaces, cramped layout. Transition effect: walls becoming transparent showing new floor plan. Construction montage: walls coming down, new framing going up. Kitchen transformation: old cabinets dissolving, new ones materializing. Bathroom: dated tile cracking away revealing modern design. Split-screen progressions showing simultaneous before/after. Living spaces expanding with removed walls, light flooding in. Exterior transformation: new siding, landscaping time-lapse. Final reveal: completely renovated home, modern yet warm. Side-by-side comparisons of each room. Happy homeowners entering their transformed space.",
+        "elements": {
+          "cameraMovement": "Matching camera paths in before/after, split screens, wipe transitions",
+          "subject": "Single property through complete renovation journey",
+          "scene": "Distressed property becoming dream home",
+          "motion": "Transition effects, time-lapse construction, reveal moments",
+          "lighting": "Dim/harsh before, bright/warm after",
+          "atmosphere": "Transformation, potential realized, problem-solving",
+          "style": "HGTV meets cinematic storytelling",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Flip Project",
+          "modifiedElements": {
+            "atmosphere": "Investment opportunity, profit potential",
+            "motion": "Include cost/value graphics"
+          }
+        },
+        {
+          "name": "Historic Restoration",
+          "modifiedElements": {
+            "subject": "Preserving character while modernizing",
+            "atmosphere": "Respect for history, careful craftsmanship"
+          }
+        }
+      ],
+      "tags": [
+        "renovation",
+        "before and after",
+        "transformation",
+        "remodeling",
+        "home improvement"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Use identical camera angles for true comparison",
+        "Show both problems and solutions clearly",
+        "Include emotional moments of revelation",
+        "Document key decision points and challenges overcome"
+      ],
+      "category": "real_estate_architecture"
+    }
+  ]
+}

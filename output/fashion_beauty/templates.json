@@ -1,0 +1,667 @@
+{
+  "category": "Fashion & Beauty",
+  "categoryId": "fashion_beauty",
+  "templateCount": 10,
+  "generatedAt": "2025-08-01T22:30:00.000Z",
+  "templates": [
+    {
+      "id": "fashion_beauty_template_01",
+      "category": "fashion_beauty",
+      "title": "Runway Fashion Show with Dynamic Camera Movements",
+      "description": "Cinematic runway show capturing model struts, fabric flow, and fashion details with professional lighting",
+      "prompt": {
+        "main": "Professional fashion runway show. Model confidently walking down illuminated catwalk, designer clothing flowing with each step. Dynamic camera captures full-body shots transitioning to close-ups of fabric texture, stitching details, and accessories. Spotlights follow model creating dramatic shadows. Audience silhouettes frame the scene. Slow-motion moments highlight fabric movement and model's poise.",
+        "elements": {
+          "cameraMovement": "Dolly tracking alongside runway, crane shots overhead, smooth transitions between wide establishing shots and extreme close-ups on details",
+          "subject": "Professional fashion model in haute couture, confident walk, expressive poses at runway end",
+          "scene": "High-end fashion runway with LED strip lighting, minimalist backdrop, seated audience in shadows",
+          "motion": "Model's rhythmic catwalk, fabric billowing, hair movement, spotlight tracking, audience applause",
+          "lighting": "Dramatic runway spotlights, LED floor strips, rim lighting on model, soft fill for fabric details",
+          "atmosphere": "Exclusive, high-fashion, electric energy, anticipation, glamorous",
+          "style": "Fashion Week documentary meets Vogue editorial, high contrast, sharp focus on subject",
+          "technicalSpecs": {
+            "duration": "15-30 seconds",
+            "resolution": "4K/8K",
+            "aspectRatio": "16:9",
+            "frameRate": "24/60 fps mixed"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Backstage Rush",
+          "modifiedElements": {
+            "scene": "Behind-the-scenes chaos, makeup stations, wardrobe changes",
+            "cameraMovement": "Handheld documentary style, quick pans, following action",
+            "atmosphere": "Urgent, authentic, raw energy"
+          }
+        },
+        {
+          "name": "Avant-Garde Show",
+          "modifiedElements": {
+            "lighting": "Neon colors, projection mapping on runway",
+            "style": "Experimental, artistic, boundary-pushing",
+            "motion": "Unconventional model movements, theatrical poses"
+          }
+        }
+      ],
+      "tags": [
+        "runway",
+        "fashion show",
+        "catwalk",
+        "haute couture",
+        "fashion week",
+        "model",
+        "designer"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Capture both wide runway shots and detailed close-ups",
+        "Use variable frame rates for dramatic slow-motion fabric shots",
+        "Ensure model's face is well-lit during close-ups",
+        "Include audience reactions for atmosphere"
+      ],
+      "examples": {
+        "sampleOutput": "Professional fashion show footage suitable for brand campaigns and editorial use",
+        "useCases": [
+          "Fashion Week coverage",
+          "Designer collection launches",
+          "Fashion brand social media",
+          "Editorial fashion films"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_02",
+      "category": "fashion_beauty",
+      "title": "Beauty Product Close-ups with Texture Details",
+      "description": "Macro cinematography showcasing beauty products with emphasis on textures, colors, and luxurious details",
+      "prompt": {
+        "main": "Extreme close-up beauty product shot. Lipstick bullet rotating slowly, revealing creamy texture and rich pigment. Light reflects off metallic packaging creating elegant highlights. Background defocused with bokeh. Product emerges from shadows into key light. Macro lens captures every detail - embossed logos, product texture, color payoff on skin.",
+        "elements": {
+          "cameraMovement": "Slow circular dolly around product, macro slider for push-ins, focus pulls between product and application",
+          "subject": "Luxury beauty products - lipsticks, foundations, eyeshadow palettes, skincare jars, perfume bottles",
+          "scene": "Minimalist studio setup with reflective surfaces, marble or acrylic backgrounds, color-coordinated props",
+          "motion": "Product rotation on turntable, liquid foundation drops, powder particles floating, brush strokes",
+          "lighting": "Soft box key light, accent lights for packaging shine, colored gels matching product theme",
+          "atmosphere": "Luxurious, pristine, aspirational, sensorial",
+          "style": "High-end beauty commercial, product photography in motion, glossy magazine aesthetic",
+          "technicalSpecs": {
+            "duration": "10-15 seconds",
+            "resolution": "4K/6K",
+            "aspectRatio": "16:9 or 1:1",
+            "frameRate": "60 fps for smoothness"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Ingredient Story",
+          "modifiedElements": {
+            "subject": "Natural ingredients like rose petals, gold flakes, botanical extracts",
+            "motion": "Ingredients falling into product, mixing, dissolving",
+            "style": "Scientific meets luxury, laboratory aesthetic"
+          }
+        },
+        {
+          "name": "Application Texture",
+          "modifiedElements": {
+            "subject": "Product being applied - foundation blending, lipstick gliding",
+            "cameraMovement": "Extreme macro on skin texture during application",
+            "lighting": "Ring light for even skin illumination"
+          }
+        }
+      ],
+      "tags": [
+        "beauty product",
+        "cosmetics",
+        "macro",
+        "texture",
+        "luxury beauty",
+        "product showcase"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Use macro lenses for extreme detail",
+        "Control reflections on glossy packaging",
+        "Show product texture through lighting",
+        "Include brand elements subtly"
+      ],
+      "examples": {
+        "sampleOutput": "Luxury beauty product video for e-commerce and social media",
+        "useCases": [
+          "Product launch campaigns",
+          "E-commerce product pages",
+          "Social media beauty content",
+          "Brand website heroes"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_03",
+      "category": "fashion_beauty",
+      "title": "Makeup Application Sequences",
+      "description": "Step-by-step makeup transformation captured with professional techniques and cinematic flair",
+      "prompt": {
+        "main": "Professional makeup application sequence. Split-screen showing bare face transforming with each product. Brushes gliding across skin in slow motion, powder particles suspended in air. Extreme close-ups of eye makeup application - liner precision, lash separation, blend transitions. Time-lapse overall transformation intercut with real-time technique details.",
+        "elements": {
+          "cameraMovement": "Locked-off for time-lapse, handheld macro for details, slider movements for product reveals",
+          "subject": "Makeup artist hands, model's face, professional brushes and tools, product collection",
+          "scene": "Professional makeup station with ring light, organized products, clean aesthetic",
+          "motion": "Brush strokes, blending motions, product application, model's subtle expressions",
+          "lighting": "Ring light for even face lighting, accent lights for products, soft key light for atmosphere",
+          "atmosphere": "Professional, educational, transformative, confidence-building",
+          "style": "YouTube beauty guru meets high-end tutorial, clean and modern",
+          "technicalSpecs": {
+            "duration": "30-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9 or 9:16",
+            "frameRate": "24/60 fps mixed"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Natural Look",
+          "modifiedElements": {
+            "subject": "Minimal makeup, skin-focused routine",
+            "atmosphere": "Fresh, dewy, effortless",
+            "lighting": "Natural window light, golden hour warmth"
+          }
+        },
+        {
+          "name": "Editorial Artistry",
+          "modifiedElements": {
+            "subject": "Avant-garde makeup, bold colors, artistic application",
+            "cameraMovement": "Dynamic angles, Dutch tilts, extreme close-ups",
+            "style": "Fashion editorial, artistic, boundary-pushing"
+          }
+        }
+      ],
+      "tags": [
+        "makeup tutorial",
+        "beauty transformation",
+        "makeup application",
+        "beauty routine",
+        "cosmetics demo"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Ensure consistent lighting throughout sequence",
+        "Capture both wide face shots and macro details",
+        "Show product names/shades clearly",
+        "Include before/after comparisons"
+      ],
+      "examples": {
+        "sampleOutput": "Professional makeup tutorial video for brands and influencers",
+        "useCases": [
+          "Brand tutorial content",
+          "Social media tutorials",
+          "Product demonstration",
+          "Beauty education content"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_04",
+      "category": "fashion_beauty",
+      "title": "Fashion Transformation Time-lapses",
+      "description": "Dynamic outfit changes and style transformations captured in creative time-lapse sequences",
+      "prompt": {
+        "main": "Fashion transformation time-lapse. Model in center frame, outfit changes in rapid succession creating visual rhythm. Each look perfectly styled - casual to formal, day to night. Background morphs with outfit themes. Accessories fly in and position themselves. Hair and makeup subtly evolve. Final reveal with full spin showcasing complete transformation.",
+        "elements": {
+          "cameraMovement": "Locked-off camera for time-lapse stability, final circular dolly for reveal",
+          "subject": "Fashion model, multiple outfits from different style categories, coordinated accessories",
+          "scene": "Neutral studio with modular backgrounds, color-changing LED panels",
+          "motion": "Quick outfit changes, accessories floating into place, fabric settling, model poses",
+          "lighting": "Consistent base lighting with color temperature shifts matching outfit moods",
+          "atmosphere": "Energetic, transformative, style evolution, empowering",
+          "style": "Music video aesthetics meets fashion lookbook, rhythmic editing",
+          "technicalSpecs": {
+            "duration": "15-30 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9 or 9:16",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Seasonal Transition",
+          "modifiedElements": {
+            "subject": "Outfits transitioning through seasons",
+            "scene": "Background elements changing - leaves, snow, flowers",
+            "atmosphere": "Seasonal moods from fresh spring to cozy winter"
+          }
+        },
+        {
+          "name": "Decade Journey",
+          "modifiedElements": {
+            "subject": "Fashion evolution through decades - 50s to present",
+            "style": "Period-appropriate filming techniques for each era",
+            "motion": "Hair and makeup transforming with fashion"
+          }
+        }
+      ],
+      "tags": [
+        "fashion transformation",
+        "outfit change",
+        "time-lapse",
+        "style evolution",
+        "lookbook"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Maintain consistent model position",
+        "Use markers for precise positioning",
+        "Plan outfit order for visual flow",
+        "Sync changes to music beat if applicable"
+      ],
+      "examples": {
+        "sampleOutput": "Dynamic fashion transformation video for social media and campaigns",
+        "useCases": [
+          "Fashion brand campaigns",
+          "Styling service promos",
+          "Social media content",
+          "Fashion retailer websites"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_05",
+      "category": "fashion_beauty",
+      "title": "Jewelry Sparkle and Reflection Shots",
+      "description": "Luxurious jewelry cinematography emphasizing brilliance, craftsmanship, and precious details",
+      "prompt": {
+        "main": "Luxury jewelry piece under precise lighting. Diamonds catching light creating prismatic rainbows. Camera slowly reveals intricate metalwork, stone settings, and design details. Piece rotating on invisible turntable, each angle revealing new brilliance. Reflection in polished surface doubles visual impact. Subtle hand model interaction showing scale and wearability.",
+        "elements": {
+          "cameraMovement": "Macro slider approaches, 360-degree turntable rotation, probe lens through ring bands",
+          "subject": "Fine jewelry - rings, necklaces, earrings, watches, bracelets with precious stones",
+          "scene": "Black velvet backdrop, mirrored surfaces, gradient backgrounds, luxury display cases",
+          "motion": "Slow rotation, light play across surfaces, sparkle effects, chain movement",
+          "lighting": "Multiple small LED sources for sparkle, key light for form, rim lighting for definition",
+          "atmosphere": "Luxurious, exclusive, precious, timeless elegance",
+          "style": "High-end jewelry advertising, Tiffany & Co. aesthetic, museum-quality presentation",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "6K/8K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Lifestyle Context",
+          "modifiedElements": {
+            "subject": "Jewelry worn by model in elegant setting",
+            "scene": "Luxury hotel, gala event, romantic dinner",
+            "cameraMovement": "Focus pulls between jewelry and wearer's expression"
+          }
+        },
+        {
+          "name": "Craftsmanship Story",
+          "modifiedElements": {
+            "subject": "Jewelry creation process - sketching, casting, setting stones",
+            "motion": "Craftsman's hands at work, tools in action",
+            "style": "Documentary meets luxury brand film"
+          }
+        }
+      ],
+      "tags": [
+        "jewelry",
+        "luxury",
+        "diamonds",
+        "fine jewelry",
+        "sparkle",
+        "precious stones"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Use multiple light sources for maximum sparkle",
+        "Clean jewelry thoroughly before shooting",
+        "Capture at high frame rate for smooth motion",
+        "Include both static beauty shots and movement"
+      ],
+      "examples": {
+        "sampleOutput": "Luxury jewelry video for high-end marketing",
+        "useCases": [
+          "Jewelry brand websites",
+          "Luxury e-commerce",
+          "Social media campaigns",
+          "In-store displays"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_06",
+      "category": "fashion_beauty",
+      "title": "Hair Styling Motion Captures",
+      "description": "Dynamic hair movement and styling transformation showcasing techniques and final results",
+      "prompt": {
+        "main": "Professional hair styling sequence. Flowing hair in slow motion, each strand visible. Styling tools in action - blow dryer creating movement, curling iron forming perfect spirals, straightener gliding through sections. Transformation from wet to styled. Multiple angles capture volume, shine, and texture. Final reveal with dramatic hair flip or wind machine effect.",
+        "elements": {
+          "cameraMovement": "Orbiting around subject, vertical crane for length reveal, macro on texture details",
+          "subject": "Professional hair model, various hair types and lengths, styling tools and products",
+          "scene": "Modern salon setup or minimalist studio, clean backgrounds to emphasize hair",
+          "motion": "Hair flowing, tools moving through hair, product application, model head movements",
+          "lighting": "Rim lighting for hair separation, key light for shine, fill to show texture",
+          "atmosphere": "Professional, transformative, confidence-boosting, glamorous",
+          "style": "Hair commercial meets editorial beauty, emphasis on movement and shine",
+          "technicalSpecs": {
+            "duration": "20-30 seconds",
+            "resolution": "4K/6K",
+            "aspectRatio": "16:9",
+            "frameRate": "60/120 fps for slow motion"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Color Transformation",
+          "modifiedElements": {
+            "subject": "Hair color change process - application to final result",
+            "motion": "Color being applied, processing time-lapse, reveal",
+            "atmosphere": "Dramatic transformation, creative expression"
+          }
+        },
+        {
+          "name": "Natural Texture",
+          "modifiedElements": {
+            "subject": "Embracing natural hair textures - curls, coils, waves",
+            "style": "Authentic, inclusive, celebrating diversity",
+            "lighting": "Natural light emphasizing texture beauty"
+          }
+        }
+      ],
+      "tags": [
+        "hair styling",
+        "hair care",
+        "salon",
+        "hair transformation",
+        "beauty",
+        "hairstylist"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Use high frame rate for smooth slow motion",
+        "Ensure proper backlighting for hair definition",
+        "Show both process and final results",
+        "Capture movement to show hair health and body"
+      ],
+      "examples": {
+        "sampleOutput": "Professional hair styling video for salons and product brands",
+        "useCases": [
+          "Hair product commercials",
+          "Salon promotional content",
+          "Hair care tutorials",
+          "Social media transformation videos"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_07",
+      "category": "fashion_beauty",
+      "title": "Model Portfolio Video Styles",
+      "description": "Professional model showcase featuring various looks, poses, and movements for portfolio presentation",
+      "prompt": {
+        "main": "Model portfolio montage showcasing versatility. Multiple looks - commercial smile, high fashion intensity, editorial storytelling. Smooth transitions between poses. Walking shots, profile turns, expression changes. Mix of color and black-and-white. Natural movements interspersed with strong poses. Eyes connecting with camera. Professional presence throughout.",
+        "elements": {
+          "cameraMovement": "Combination of static beauty shots, dolly push-ins, handheld movement shots",
+          "subject": "Professional model in various outfits and styles, from casual to haute couture",
+          "scene": "Multiple locations - studio, urban environment, natural settings",
+          "motion": "Pose transitions, walking, hair movement, fabric flow, natural gestures",
+          "lighting": "Variety - studio strobes, natural light, golden hour, dramatic shadows",
+          "atmosphere": "Professional, versatile, confident, marketable",
+          "style": "Agency portfolio meets editorial spread, clean and impactful",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Commercial Focus",
+          "modifiedElements": {
+            "atmosphere": "Bright, approachable, lifestyle-oriented",
+            "subject": "Relatable scenarios - coffee shop, shopping, fitness",
+            "lighting": "Bright, even, commercial-friendly"
+          }
+        },
+        {
+          "name": "High Fashion Editorial",
+          "modifiedElements": {
+            "style": "Avant-garde, artistic, boundary-pushing",
+            "lighting": "Dramatic, contrasty, experimental",
+            "motion": "Strong poses, unconventional movements"
+          }
+        }
+      ],
+      "tags": [
+        "model portfolio",
+        "fashion model",
+        "modeling",
+        "portfolio video",
+        "comp card",
+        "model reel"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show range of expressions and poses",
+        "Include both motion and static shots",
+        "Demonstrate versatility in style",
+        "Keep transitions smooth and professional"
+      ],
+      "examples": {
+        "sampleOutput": "Professional model portfolio video for agencies",
+        "useCases": [
+          "Modeling agency submissions",
+          "Model websites",
+          "Casting director presentations",
+          "Social media portfolios"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_08",
+      "category": "fashion_beauty",
+      "title": "Behind-the-Scenes Fashion Shoots",
+      "description": "Documentary-style coverage of fashion photo shoots showing the creative process and energy",
+      "prompt": {
+        "main": "Behind-the-scenes fashion shoot energy. Photographer directing, model posing, stylists adjusting. Quick cuts between preparation and final shots. Makeup touch-ups, wardrobe adjustments, lighting setup. Candid moments of laughter mixed with intense concentration. Team collaboration visible. Final images appearing on camera screen intercut with live action.",
+        "elements": {
+          "cameraMovement": "Handheld documentary style, quick pans between action, over-shoulder of photographer",
+          "subject": "Fashion team - photographer, model, stylist, makeup artist, assistants",
+          "scene": "Photo studio with equipment, racks of clothing, makeup stations, set pieces",
+          "motion": "Constant activity - people moving, clothes being adjusted, equipment repositioning",
+          "lighting": "Available light from photo shoot, practical sources, run-and-gun style",
+          "atmosphere": "Creative energy, collaborative, fast-paced, professional excitement",
+          "style": "Documentary meets fashion film, authentic and aspirational",
+          "technicalSpecs": {
+            "duration": "30-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24/60 fps mixed"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Location Shoot",
+          "modifiedElements": {
+            "scene": "Outdoor location - beach, city streets, desert",
+            "atmosphere": "Adventure, environmental challenges, natural beauty",
+            "motion": "Travel between locations, weather elements"
+          }
+        },
+        {
+          "name": "Celebrity Shoot",
+          "modifiedElements": {
+            "atmosphere": "Exclusive, high-stakes, perfection-driven",
+            "subject": "A-list talent, larger crew, security presence",
+            "style": "More polished, controlled access feel"
+          }
+        }
+      ],
+      "tags": [
+        "behind the scenes",
+        "BTS",
+        "fashion shoot",
+        "photo shoot",
+        "fashion photography",
+        "creative process"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Capture authentic moments between poses",
+        "Show the full team and their roles",
+        "Include equipment and setup details",
+        "Mix wide shots with intimate moments"
+      ],
+      "examples": {
+        "sampleOutput": "Engaging BTS content for fashion brands and magazines",
+        "useCases": [
+          "Social media content",
+          "Brand storytelling",
+          "Magazine digital extras",
+          "Fashion week coverage"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_09",
+      "category": "fashion_beauty",
+      "title": "Beauty Routine Lifestyle Videos",
+      "description": "Aspirational lifestyle content showing beauty routines in realistic, relatable settings",
+      "prompt": {
+        "main": "Morning beauty routine in luxurious bathroom setting. Natural light streaming through windows. Model applying skincare with mindful movements. Products arranged aesthetically on marble countertop. Interspersed lifestyle moments - sipping tea, checking phone, selecting outfit. Real-time application mixed with time-lapse segments. Authentic yet aspirational atmosphere.",
+        "elements": {
+          "cameraMovement": "Smooth handheld for intimacy, sliders for product reveals, static for time-lapses",
+          "subject": "Relatable model in comfortable loungewear, premium beauty products, lifestyle accessories",
+          "scene": "Beautiful bathroom or bedroom vanity area, natural home environment",
+          "motion": "Product application, daily routine activities, natural movements",
+          "lighting": "Natural window light, supplemented with soft LED panels, golden hour warmth",
+          "atmosphere": "Calm, aspirational, self-care focused, authentic luxury",
+          "style": "Lifestyle vlog meets high-end beauty content, Instagram aesthetic",
+          "technicalSpecs": {
+            "duration": "45-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9 or 9:16",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Night Routine",
+          "modifiedElements": {
+            "lighting": "Warm lamp light, candles, cozy atmosphere",
+            "atmosphere": "Relaxing, unwinding, self-care ritual",
+            "subject": "Removal routine, treatment masks, preparation for sleep"
+          }
+        },
+        {
+          "name": "Get Ready With Me",
+          "modifiedElements": {
+            "motion": "Full transformation from bare face to ready",
+            "scene": "Including outfit selection, full styling process",
+            "style": "Influencer content style, more personality-driven"
+          }
+        }
+      ],
+      "tags": [
+        "beauty routine",
+        "skincare routine",
+        "lifestyle",
+        "morning routine",
+        "self-care",
+        "GRWM"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Keep lighting natural and flattering",
+        "Show real texture and application",
+        "Include lifestyle elements beyond just products",
+        "Maintain authentic yet aspirational balance"
+      ],
+      "examples": {
+        "sampleOutput": "Lifestyle beauty content for brands and influencers",
+        "useCases": [
+          "Brand social media",
+          "Influencer partnerships",
+          "Product launch content",
+          "Website lifestyle sections"
+        ]
+      }
+    },
+    {
+      "id": "fashion_beauty_template_10",
+      "category": "fashion_beauty",
+      "title": "Fashion Brand Story Cinematics",
+      "description": "Narrative-driven fashion films that tell brand stories through cinematic visuals and emotion",
+      "prompt": {
+        "main": "Cinematic fashion brand narrative. Model as protagonist moving through curated environments. Each scene reflects brand values - craftsmanship close-ups, heritage locations, modern innovation. Emotional storytelling through glances, movements, interactions. Wardrobe pieces featured naturally within story. Color grading enhances brand identity. Music and visuals create cohesive brand world.",
+        "elements": {
+          "cameraMovement": "Cinematic techniques - steadicam follows, crane establishing shots, intimate handheld moments",
+          "subject": "Brand ambassador/model, signature pieces, brand artifacts, locations tied to brand story",
+          "scene": "Multiple locations reflecting brand identity - ateliers, cities, nature, architectural spaces",
+          "motion": "Purposeful movement through spaces, interaction with environment, emotional gestures",
+          "lighting": "Cinematic lighting - motivated by story, brand colors, emotional tone",
+          "atmosphere": "Brand-specific - heritage, innovation, rebellion, elegance, sustainability",
+          "style": "Short film meets fashion advertisement, narrative-driven, emotionally resonant",
+          "technicalSpecs": {
+            "duration": "60-180 seconds",
+            "resolution": "4K/6K",
+            "aspectRatio": "2.39:1 cinematic",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Heritage Focus",
+          "modifiedElements": {
+            "scene": "Historical locations, archives, traditional craftsmen",
+            "atmosphere": "Timeless, authentic, craftsmanship-focused",
+            "style": "Documentary elements mixed with fashion film"
+          }
+        },
+        {
+          "name": "Future Vision",
+          "modifiedElements": {
+            "scene": "Modern architecture, tech elements, urban futures",
+            "lighting": "Neon, LED, futuristic color palettes",
+            "atmosphere": "Innovation, sustainability, forward-thinking"
+          }
+        }
+      ],
+      "tags": [
+        "fashion film",
+        "brand story",
+        "fashion campaign",
+        "brand narrative",
+        "cinematic fashion",
+        "brand film"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Develop clear narrative arc",
+        "Ensure brand values are visually represented",
+        "Use location and props to support story",
+        "Create emotional connection beyond just clothing"
+      ],
+      "examples": {
+        "sampleOutput": "Cinematic brand film for major fashion campaigns",
+        "useCases": [
+          "Season launch campaigns",
+          "Brand repositioning",
+          "Anniversary celebrations",
+          "Digital fashion shows"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "medical_healthcare_video_templates": {
+    "category": "Medical & Healthcare",
+    "version": "2.0",
+    "created": "2025-02-02",
+    "templates": [
+      {
+        "id": "med_001",
+        "title": "Surgical Procedure Education",
+        "type": "surgical_education",
+        "description": "3D anatomy visualization with step-by-step surgical technique demonstration",
+        "prompt": "Create a professional surgical education video featuring anatomically accurate 3D models. Show precise surgical techniques with step-by-step progression, highlighting critical anatomical landmarks. Include multiple viewing angles, cross-sectional views, and detailed instrument movements. Use clinical lighting with clear visibility. Add medical terminology annotations, measurement guides, and risk area indicators. Maintain sterile field representation and professional medical standards.",
+        "technical_specs": {
+          "resolution": "3840x2160",
+          "frame_rate": "30fps",
+          "duration": "60-180 seconds",
+          "aspect_ratio": "16:9",
+          "color_profile": "sRGB",
+          "bitrate": "40-50 Mbps"
+        },
+        "visual_elements": {
+          "lighting": "Clinical bright with soft shadows",
+          "camera_movements": "Smooth orbital and zoom transitions",
+          "color_palette": ["#0066CC", "#FFFFFF", "#E8F4F8", "#FF6B6B"],
+          "typography": "Sans-serif medical fonts",
+          "overlays": "Anatomical labels, measurement indicators"
+        },
+        "audio_guidance": {
+          "narration": "Professional medical voiceover",
+          "background_music": "Subtle ambient medical theme",
+          "sound_effects": "Minimal clinical sounds"
+        },
+        "privacy_compliance": {
+          "patient_data": "No identifiable information",
+          "faces": "Blurred or animated representations",
+          "medical_records": "Redacted or fictional"
+        }
+      },
+      {
+        "id": "med_002",
+        "title": "Patient Care Journey",
+        "type": "patient_experience",
+        "description": "Hospital admission to recovery timeline with compassionate care focus",
+        "prompt": "Create an empathetic visualization of a patient's complete care journey from hospital admission through recovery. Show key touchpoints: registration, initial assessment, diagnostic procedures, treatment planning, therapeutic interventions, and discharge planning. Use warm, reassuring colors with smooth transitions between phases. Include supportive healthcare professionals, family involvement, and patient comfort measures. Emphasize continuity of care, communication, and positive outcomes while maintaining patient dignity and privacy.",
+        "technical_specs": {
+          "resolution": "3840x2160",
+          "frame_rate": "24fps",
+          "duration": "120-240 seconds",
+          "aspect_ratio": "16:9",
+          "stabilization": "Advanced gimbal simulation",
+          "encoding": "H.265/HEVC"
+        },
+        "visual_elements": {
+          "lighting": "Natural daylight mixed with clinical LED",
+          "camera_movements": "Steadicam-style smooth tracking",
+          "transitions": "Seamless doorway transitions",
+          "depth_of_field": "Shallow for equipment focus",
+          "signage": "Clear wayfinding and department labels"
+        },
+        "equipment_showcase": {
+          "medical_devices": ["MRI Scanner", "CT Scanner", "Surgical Robots", "Patient Monitors"],
+          "detail_level": "High-resolution close-ups",
+          "operational_state": "Active with animated displays"
+        }
+      },
+      {
+        "id": "med_003",
+        "title": "Medical Technology Demo",
+        "type": "tech_showcase",
+        "description": "MRI, robotic surgery, AI diagnostics demonstration",
+        "prompt": "Showcase cutting-edge medical technology in clinical settings. Feature MRI and CT scanners in operation with clear visualization of imaging processes. Demonstrate robotic surgery systems with precision movements and surgeon console interaction. Show AI diagnostic tools analyzing medical images, identifying patterns, and providing decision support. Include real-time data visualization, holographic displays, and integrated health information systems. Emphasize technology enhancing patient care and clinical outcomes.",
+        "technical_specs": {
+          "resolution": "1920x1080",
+          "frame_rate": "24fps",
+          "duration": "90-180 seconds",
+          "aspect_ratio": "16:9",
+          "compression": "High quality H.264",
+          "audio_channels": "Stereo"
+        },
+        "visual_narrative": {
+          "story_arc": "Admission → Diagnosis → Treatment → Recovery",
+          "emotional_tone": "Hopeful and reassuring",
+          "character_representation": "Diverse animated figures",
+          "environment": "Calming healthcare settings"
+        },
+        "privacy_features": {
+          "patient_representation": "Animated avatars",
+          "medical_information": "Generic placeholders",
+          "family_members": "Silhouetted figures"
+        }
+      },
+      {
+        "id": "med_004",
+        "title": "Mental Health Awareness",
+        "type": "mental_health",
+        "description": "Supportive visuals for mental health destigmatization",
+        "prompt": "Create compassionate mental health awareness content with supportive, non-triggering visuals. Use calming nature scenes, abstract representations of emotional wellness, and gentle color transitions. Show diverse individuals engaging in self-care, therapy sessions (respectfully portrayed), and community support activities. Include positive messaging about seeking help, recovery journeys, and breaking stigma. Emphasize hope, resilience, and the importance of mental health care as essential healthcare.",
+        "technical_specs": {
+          "resolution": "3840x2160",
+          "frame_rate": "60fps",
+          "duration": "60-120 seconds",
+          "aspect_ratio": "16:9",
+          "HDR": "HDR10",
+          "rendering": "Real-time ray tracing"
+        },
+        "technology_elements": {
+          "interfaces": "Futuristic medical UI/UX",
+          "data_visualization": "Real-time health metrics",
+          "augmented_reality": "Medical AR overlays",
+          "connectivity": "IoT device integration visuals"
+        },
+        "visual_effects": {
+          "holographic_displays": "3D medical data",
+          "particle_systems": "Data flow visualization",
+          "lighting_effects": "Tech-blue accent lighting"
+        }
+      },
+      {
+        "id": "med_005",
+        "title": "Pharmaceutical Development",
+        "type": "pharma_education",
+        "description": "Lab to patient medication journey visualization",
+        "prompt": "Illustrate the complete pharmaceutical development journey from laboratory research to patient delivery. Show molecular discovery, preclinical testing, clinical trial phases, regulatory approval, manufacturing, and distribution. Feature scientists in lab settings, automated production lines, quality control processes, and pharmacy dispensing. Use clear data visualization for trial results and safety protocols. Emphasize rigorous testing, patient safety measures, and the collaborative effort behind medication development.",
+        "technical_specs": {
+          "resolution": "1920x1080",
+          "frame_rate": "30fps",
+          "duration": "60-90 seconds",
+          "aspect_ratio": "16:9",
+          "animation_style": "2.5D motion graphics",
+          "export_format": "MP4"
+        },
+        "educational_design": {
+          "complexity_level": "General public",
+          "visual_metaphors": "Everyday comparisons",
+          "information_density": "Balanced pacing",
+          "retention_aids": "Repetition and summaries"
+        },
+        "accessibility": {
+          "subtitles": "Clear, readable captions",
+          "color_contrast": "WCAG AA compliant",
+          "visual_clarity": "High contrast elements"
+        }
+      },
+      {
+        "id": "med_006",
+        "title": "Physical Therapy Exercises",
+        "type": "rehabilitation",
+        "description": "Proper form demonstration with recovery progression",
+        "prompt": "Create clear instructional videos for physical therapy exercises showing proper form and technique. Feature certified therapists demonstrating exercises for various conditions: post-surgical recovery, sports injuries, chronic pain management, and mobility improvement. Use multiple camera angles to show correct positioning, common mistakes to avoid, and modifications for different ability levels. Include anatomical overlays showing targeted muscle groups, range of motion indicators, and progression milestones.",
+        "technical_specs": {
+          "resolution": "3840x2160",
+          "frame_rate": "60fps",
+          "duration": "180-300 seconds",
+          "aspect_ratio": "16:9",
+          "slow_motion": "120fps capability",
+          "precision": "Sub-millimeter accuracy"
+        },
+        "surgical_elements": {
+          "instruments": "Photorealistic 3D models",
+          "anatomy": "Accurate tissue rendering",
+          "techniques": "Step-by-step progression",
+          "annotations": "Medical terminology labels"
+        },
+        "educational_features": {
+          "multiple_views": "Main, close-up, cross-section",
+          "highlighting": "Critical structure emphasis",
+          "warnings": "Risk area indicators"
+        }
+      },
+      {
+        "id": "med_007",
+        "title": "Healthcare Facility Tour",
+        "type": "facility_showcase",
+        "description": "Modern equipment and patient amenities showcase",
+        "prompt": "Produce a comprehensive virtual tour of a state-of-the-art healthcare facility. Showcase modern patient rooms with smart monitoring systems, advanced diagnostic imaging suites, surgical theaters with robotic assistance, rehabilitation centers, and healing gardens. Highlight patient comfort features, family accommodation areas, and accessibility design. Include wayfinding systems, infection control measures, and emergency response capabilities. Feature staff interaction areas and collaborative care spaces.",
+        "technical_specs": {
+          "resolution": "1920x1080",
+          "frame_rate": "24fps",
+          "duration": "120-180 seconds",
+          "aspect_ratio": "16:9",
+          "time_lapse": "Integrated sequences",
+          "stabilization": "Electronic stabilization"
+        },
+        "storytelling_elements": {
+          "narrative_arc": "Challenge → Progress → Achievement",
+          "emotional_tone": "Inspirational and hopeful",
+          "progress_visualization": "Before/after comparisons",
+          "milestone_markers": "Achievement celebrations"
+        },
+        "rehabilitation_focus": {
+          "therapy_types": "Physical, occupational, speech",
+          "equipment_shown": "Rehabilitation devices",
+          "team_interaction": "Supportive care visualization"
+        }
+      },
+      {
+        "id": "med_008",
+        "title": "Telemedicine Consultation",
+        "type": "digital_health",
+        "description": "Digital health platform demonstration",
+        "prompt": "Demonstrate modern telemedicine consultation platforms and workflows. Show patient app interface with appointment scheduling, virtual waiting room, and secure video consultation. Feature doctor's digital workspace with electronic health records integration, diagnostic tool sharing, and e-prescription capabilities. Include remote monitoring device integration, real-time vital signs display, and secure messaging features. Emphasize convenience, accessibility, and continuity of care through digital health solutions.",
+        "technical_specs": {
+          "resolution": "1920x1080",
+          "frame_rate": "24fps",
+          "duration": "60-90 seconds",
+          "aspect_ratio": "16:9",
+          "color_grading": "Calming, desaturated tones",
+          "transitions": "Gentle cross-fades"
+        },
+        "visual_approach": {
+          "abstract_elements": "Emotional state representations",
+          "nature_integration": "Calming natural scenes",
+          "human_connection": "Supportive gestures",
+          "symbolism": "Hope and recovery symbols"
+        },
+        "sensitivity_guidelines": {
+          "trigger_avoidance": "No distressing imagery",
+          "positive_messaging": "Recovery-focused",
+          "inclusivity": "Diverse representations"
+        }
+      },
+      {
+        "id": "med_009",
+        "title": "Emergency Response Training",
+        "type": "emergency_training",
+        "description": "CPR and first aid procedures demonstration",
+        "prompt": "Create comprehensive emergency response training videos covering CPR techniques, automated external defibrillator (AED) use, and essential first aid procedures. Show step-by-step demonstrations with clear hand positioning, compression depth indicators, and timing guides. Include scenarios for adults, children, and infants. Feature choking response, wound care, and stabilization techniques. Use multiple angles, slow-motion for critical movements, and on-screen checklists for protocol adherence.",
+        "technical_specs": {
+          "resolution": "3840x2160",
+          "frame_rate": "30fps",
+          "duration": "90-150 seconds",
+          "aspect_ratio": "16:9",
+          "3d_rendering": "Molecular visualization",
+          "data_graphics": "Animated infographics"
+        },
+        "pharmaceutical_elements": {
+          "molecular_viz": "3D drug interactions",
+          "lab_equipment": "Modern research tools",
+          "manufacturing": "Clean room environments",
+          "testing_phases": "Clinical trial visualization"
+        },
+        "scientific_accuracy": {
+          "chemical_structures": "Accurate representations",
+          "process_flow": "Industry-standard procedures",
+          "regulatory_marks": "Approval process indicators"
+        }
+      },
+      {
+        "id": "med_010",
+        "title": "Wellness Checkup Guide",
+        "type": "preventive_care",
+        "description": "Preventive care and health screening education",
+        "prompt": "Develop educational content about routine wellness checkups and preventive health screenings. Show various screening procedures: blood pressure monitoring, cholesterol testing, cancer screenings, vision and hearing tests, and immunization schedules. Feature diverse age groups and their recommended health maintenance activities. Include lifestyle counseling segments on nutrition, exercise, and stress management. Emphasize the importance of regular checkups in early detection and disease prevention.",
+        "technical_specs": {
+          "resolution": "1920x1080",
+          "frame_rate": "30fps",
+          "duration": "60-120 seconds",
+          "aspect_ratio": "16:9",
+          "editing_style": "Quick cuts with clarity",
+          "audio_mixing": "Clear communication focus"
+        },
+        "emergency_elements": {
+          "response_phases": "Dispatch → Arrival → Treatment → Transport",
+          "equipment_focus": "Life-saving devices",
+          "team_coordination": "Clear role visualization",
+          "protocol_display": "Decision tree overlays"
+        },
+        "training_features": {
+          "critical_moments": "Highlighted decision points",
+          "best_practices": "Proper technique emphasis",
+          "communication": "Clear verbal cues",
+          "timing_indicators": "Response time metrics"
+        }
+      }
+    ],
+    "general_guidelines": {
+      "core_principles": {
+        "clarity": "Clear, easy-to-understand visual communication",
+        "professionalism": "Maintain highest medical and ethical standards",
+        "patient_privacy": "Absolute protection of patient identity and data",
+        "educational_value": "Focus on learning outcomes and knowledge transfer",
+        "medical_accuracy": "Scientifically verified and peer-reviewed content"
+      },
+      "privacy_compliance": {
+        "hipaa": "All content must be HIPAA compliant",
+        "patient_identity": "No identifiable patient information",
+        "consent": "Implied consent for all representations",
+        "data_protection": "Anonymized or fictional patient data only"
+      },
+      "medical_accuracy": {
+        "fact_checking": "All medical information verified",
+        "professional_review": "Content suitable for medical professionals",
+        "disclaimer": "Educational purposes only",
+        "evidence_based": "Align with current medical guidelines",
+        "regular_updates": "Content reviewed for accuracy quarterly"
+      },
+      "accessibility": {
+        "visual": "High contrast options available",
+        "audio": "Clear narration with subtitles",
+        "language": "Medical terms explained",
+        "multi_language": "Support for multiple languages",
+        "ada_compliance": "Meet ADA accessibility standards"
+      },
+      "ethical_considerations": {
+        "representation": "Diverse and inclusive",
+        "sensitivity": "Respectful of patient dignity",
+        "cultural": "Culturally appropriate content",
+        "bias_free": "Avoid stereotypes and discrimination",
+        "trauma_informed": "Sensitive to patient experiences"
+      },
+      "production_standards": {
+        "quality": "Professional broadcast quality",
+        "consistency": "Unified visual language across content",
+        "branding": "Appropriate healthcare institution branding",
+        "versioning": "Clear version control for updates",
+        "archival": "Long-term storage considerations"
+      }
+    }
+  }
+}

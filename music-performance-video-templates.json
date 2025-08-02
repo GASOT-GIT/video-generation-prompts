@@ -1,0 +1,483 @@
+{
+  "music_performance_video_templates": {
+    "category": "Music & Performance",
+    "version": "1.0",
+    "templates": [
+      {
+        "id": "concert_stage_energy_01",
+        "name": "Epic Concert Stage Energy",
+        "description": "High-energy concert footage with dynamic crowd reactions and stage pyrotechnics",
+        "prompt": "Epic rock concert performance, massive stadium stage, thousands of fans with raised hands and phone lights, stage pyrotechnics exploding in sync with music beats, dynamic camera movement sweeping from stage to crowd, lead singer commanding the stage under dramatic spotlights, laser light show cutting through smoke effects, 4K cinematic quality, high energy atmosphere",
+        "technical_specs": {
+          "resolution": "3840x2160",
+          "fps": 60,
+          "duration": "15-30 seconds",
+          "aspect_ratio": "16:9",
+          "color_grading": "high contrast with vibrant stage lighting"
+        },
+        "camera_movements": [
+          {
+            "type": "crane_sweep",
+            "description": "Start wide on crowd, sweep up and over to stage",
+            "duration": "8 seconds",
+            "sync": "builds with music crescendo"
+          },
+          {
+            "type": "dolly_zoom",
+            "description": "Push in on performer during chorus",
+            "duration": "4 seconds",
+            "sync": "matches beat drop"
+          },
+          {
+            "type": "handheld_energy",
+            "description": "Energetic handheld movement in crowd",
+            "duration": "3 seconds",
+            "sync": "follows rhythm pattern"
+          }
+        ],
+        "lighting_effects": {
+          "stage_lights": "synchronized strobe and beam effects",
+          "crowd_lighting": "phone flashlights creating sea of lights",
+          "pyrotechnics": "timed flame jets and sparklers",
+          "laser_show": "geometric patterns synced to bass"
+        },
+        "audio_visual_sync": {
+          "beat_matching": "camera cuts on snare hits",
+          "bass_response": "zoom pulses with bass drops",
+          "vocal_emphasis": "close-ups during vocal peaks"
+        },
+        "style_keywords": ["epic", "energetic", "stadium rock", "crowd energy", "pyrotechnics"]
+      },
+      {
+        "id": "music_video_artistic_02",
+        "name": "Surreal Music Video Aesthetics",
+        "description": "Artistic music video with abstract visual effects and creative transitions",
+        "prompt": "Avant-garde music video aesthetic, artist performing in surreal dreamlike environment, floating geometric shapes morphing with music rhythm, double exposure effects blending performer with abstract visuals, neon color palette shifting with mood, creative practical effects with mirrors and projections, smooth gimbal movements, artistic lens flares, film grain texture",
+        "technical_specs": {
+          "resolution": "2560x1440",
+          "fps": 24,
+          "duration": "20-45 seconds",
+          "aspect_ratio": "2.35:1",
+          "color_grading": "stylized with color shifts"
+        },
+        "visual_effects": {
+          "double_exposure": "performer blended with abstract patterns",
+          "color_morphing": "hues shift with musical progression",
+          "geometric_overlays": "shapes pulse and rotate with beat",
+          "particle_systems": "flowing particles following melody",
+          "glitch_effects": "timed digital distortions"
+        },
+        "camera_movements": [
+          {
+            "type": "orbital_360",
+            "description": "Slow 360-degree rotation around performer",
+            "duration": "12 seconds",
+            "sync": "one full rotation per verse"
+          },
+          {
+            "type": "vertigo_effect",
+            "description": "Dolly zoom creating surreal perspective shift",
+            "duration": "3 seconds",
+            "sync": "triggered by musical accent"
+          }
+        ],
+        "artistic_elements": {
+          "practical_effects": "mirrors, prisms, and projections",
+          "post_processing": "film emulation and artistic filters",
+          "transitions": "morphing and liquid transitions"
+        },
+        "style_keywords": ["surreal", "artistic", "avant-garde", "abstract", "experimental"]
+      },
+      {
+        "id": "recording_studio_bts_03",
+        "name": "Behind The Scenes Studio Session",
+        "description": "Intimate recording studio footage capturing the creative process",
+        "prompt": "Professional recording studio session, musician laying down tracks in vocal booth, warm ambient lighting from vintage lamps, mixing console with dancing VU meters, producer adjusting faders, close-up shots of hands on instruments, cozy studio atmosphere with acoustic panels, documentary-style handheld camera work, shallow depth of field focusing on emotional moments",
+        "technical_specs": {
+          "resolution": "1920x1080",
+          "fps": 30,
+          "duration": "30-60 seconds",
+          "aspect_ratio": "16:9",
+          "color_grading": "warm, slightly desaturated for authentic feel"
+        },
+        "camera_techniques": {
+          "documentary_style": "natural handheld movements",
+          "focus_pulls": "rack focus between performer and equipment",
+          "detail_shots": "extreme close-ups of instruments and controls",
+          "observational": "fly-on-the-wall perspective"
+        },
+        "studio_elements": {
+          "equipment_focus": "vintage mics, analog gear, mixing board",
+          "atmosphere": "dim mood lighting, visible cable runs",
+          "human_moments": "concentration, collaboration, celebration"
+        },
+        "shot_composition": [
+          {
+            "type": "over_shoulder",
+            "subject": "producer at mixing desk",
+            "duration": "5 seconds"
+          },
+          {
+            "type": "close_up",
+            "subject": "musician's emotional expression",
+            "duration": "3 seconds"
+          },
+          {
+            "type": "wide_establishing",
+            "subject": "full studio environment",
+            "duration": "4 seconds"
+          }
+        ],
+        "style_keywords": ["intimate", "authentic", "behind-the-scenes", "documentary", "process"]
+      },
+      {
+        "id": "dj_set_visuals_04",
+        "name": "DJ Set Synchronized Visuals",
+        "description": "High-energy DJ performance with perfectly synchronized visual effects",
+        "prompt": "Professional DJ performing at packed nightclub, DJ deck close-ups with glowing buttons and spinning vinyl, crowd hands up in unison, synchronized LED wall displaying reactive visuals, laser beams cutting through fog machine haze, strobe lights pulsing with BPM, dynamic dutch angles and quick cuts matching beat drops, neon-lit atmosphere",
+        "technical_specs": {
+          "resolution": "2560x1440",
+          "fps": 60,
+          "duration": "15-30 seconds",
+          "aspect_ratio": "16:9",
+          "color_grading": "high saturation neon palette"
+        },
+        "synchronization": {
+          "bpm_matching": "cuts and effects locked to tempo",
+          "drop_timing": "dramatic visuals on beat drops",
+          "build_up_tension": "increasing cut frequency before drop",
+          "visual_rhythm": "effects pulsing with kick drum"
+        },
+        "visual_elements": {
+          "led_walls": "reactive generative graphics",
+          "laser_show": "geometric patterns in smoke",
+          "crowd_energy": "synchronized movement",
+          "dj_performance": "dynamic mixing gestures"
+        },
+        "camera_movements": [
+          {
+            "type": "whip_pan",
+            "description": "Fast pan from DJ to crowd",
+            "duration": "0.5 seconds",
+            "sync": "on snare hit"
+          },
+          {
+            "type": "punch_zoom",
+            "description": "Quick zoom on beat drop",
+            "duration": "1 second",
+            "sync": "bass drop moment"
+          },
+          {
+            "type": "handheld_club",
+            "description": "Energetic movement through crowd",
+            "duration": "5 seconds",
+            "sync": "follows rhythm"
+          }
+        ],
+        "style_keywords": ["electronic", "nightclub", "synchronized", "neon", "high-energy"]
+      },
+      {
+        "id": "acoustic_intimate_05",
+        "name": "Intimate Acoustic Performance",
+        "description": "Warm, personal acoustic performance in unique atmospheric venue",
+        "prompt": "Singer-songwriter performing acoustic guitar in candlelit historic church, natural reverb from stone architecture, soft golden hour light streaming through stained glass windows, intimate audience seated close, gentle camera movements on slider, extreme shallow depth of field with beautiful bokeh, warm wood tones of vintage guitar, emotional close-ups of performer's expressions",
+        "technical_specs": {
+          "resolution": "2560x1440",
+          "fps": 24,
+          "duration": "45-90 seconds",
+          "aspect_ratio": "2.35:1",
+          "color_grading": "warm, golden tones with soft contrast"
+        },
+        "cinematography": {
+          "depth_of_field": "f/1.4 for dreamy bokeh",
+          "lighting": "natural and candlelight only",
+          "camera_movement": "slow, deliberate slider moves",
+          "framing": "intimate close-ups and environmental wides"
+        },
+        "venue_atmosphere": {
+          "architectural_details": "gothic arches, wooden pews",
+          "lighting_sources": "candles, stained glass light",
+          "acoustic_properties": "natural reverb emphasis",
+          "audience_interaction": "quiet, respectful attention"
+        },
+        "emotional_moments": [
+          {
+            "type": "facial_expression",
+            "description": "Close-up during emotional lyrics",
+            "duration": "4 seconds"
+          },
+          {
+            "type": "hand_detail",
+            "description": "Fingers on guitar strings",
+            "duration": "3 seconds"
+          },
+          {
+            "type": "audience_reaction",
+            "description": "Touched listener wiping tear",
+            "duration": "2 seconds"
+          }
+        ],
+        "style_keywords": ["intimate", "acoustic", "emotional", "candlelit", "atmospheric"]
+      },
+      {
+        "id": "dance_choreography_06",
+        "name": "Dynamic Dance Choreography Showcase",
+        "description": "Multi-angle dance performance capturing intricate choreography and movement",
+        "prompt": "Professional dance crew performing synchronized hip-hop choreography in industrial warehouse space, multiple camera angles including overhead drone shots, slow-motion sequences highlighting complex footwork, dynamic lighting with moving spots, mirror formations and breaking patterns, urban street style with athletic precision, quick cuts matching choreography accents",
+        "technical_specs": {
+          "resolution": "2560x1440",
+          "fps": 60,
+          "duration": "30-45 seconds",
+          "aspect_ratio": "16:9",
+          "color_grading": "high contrast urban aesthetic"
+        },
+        "camera_angles": [
+          {
+            "type": "overhead_drone",
+            "description": "Bird's eye view of formations",
+            "duration": "5 seconds",
+            "height": "20 feet"
+          },
+          {
+            "type": "low_angle_hero",
+            "description": "Ground level looking up at dancers",
+            "duration": "3 seconds",
+            "effect": "powerful presence"
+          },
+          {
+            "type": "360_orbit",
+            "description": "Camera orbiting around solo dancer",
+            "duration": "4 seconds",
+            "speed": "matches spin move"
+          },
+          {
+            "type": "tracking_lateral",
+            "description": "Side tracking with moving dancers",
+            "duration": "6 seconds",
+            "equipment": "dolly or gimbal"
+          }
+        ],
+        "choreography_capture": {
+          "formation_changes": "wide shots for group patterns",
+          "isolation_moves": "close-ups on specific body parts",
+          "synchronization": "multi-angle edit showing unison",
+          "freestyle_moments": "handheld for raw energy"
+        },
+        "slow_motion_moments": {
+          "jump_sequences": "240fps for aerial moves",
+          "footwork_details": "120fps for intricate steps",
+          "hair_whips": "180fps for dramatic effect"
+        },
+        "style_keywords": ["hip-hop", "synchronized", "athletic", "urban", "dynamic"]
+      },
+      {
+        "id": "festival_atmosphere_07",
+        "name": "Festival Crowd Energy & Atmosphere",
+        "description": "Capturing the collective energy and atmosphere of a music festival",
+        "prompt": "Massive outdoor music festival at golden hour, aerial drone footage of thousands of festival-goers, main stage with headliner performing, multiple festival stages in background, crowd surfing and mosh pits, festival fashion and face paint details, food vendors and art installations, capturing both epic scale and intimate human moments, dust particles in sunset light",
+        "technical_specs": {
+          "resolution": "3840x2160",
+          "fps": 30,
+          "duration": "45-60 seconds",
+          "aspect_ratio": "16:9",
+          "color_grading": "warm sunset tones with vibrant festival colors"
+        },
+        "coverage_strategy": {
+          "establishing_shots": "drone footage showing scale",
+          "crowd_dynamics": "energy waves through audience",
+          "detail_inserts": "fashion, expressions, interactions",
+          "stage_moments": "performer-crowd connection"
+        },
+        "drone_sequences": [
+          {
+            "type": "reveal_ascending",
+            "description": "Rise from crowd to reveal full festival",
+            "altitude": "50-200 feet",
+            "duration": "8 seconds"
+          },
+          {
+            "type": "flyover_tracking",
+            "description": "Following crowd movement patterns",
+            "altitude": "100 feet",
+            "duration": "6 seconds"
+          }
+        ],
+        "human_moments": {
+          "connections": "friends embracing, couples dancing",
+          "expressions": "joy, excitement, singing along",
+          "activities": "crowd surfing, flag waving",
+          "details": "festival wristbands, unique outfits"
+        },
+        "atmosphere_elements": {
+          "lighting": "sunset golden hour to stage lights",
+          "weather": "dust clouds, light breeze effects",
+          "scale": "massive crowds with individual stories",
+          "energy": "collective movement and celebration"
+        },
+        "style_keywords": ["festival", "epic scale", "golden hour", "collective energy", "celebration"]
+      },
+      {
+        "id": "instrument_visualization_08",
+        "name": "Instrument Detail with Sound Visualization",
+        "description": "Macro shots of instruments with visual representation of sound waves",
+        "prompt": "Extreme close-up macro shots of violin strings vibrating in slow motion, visible sound waves emanating as light particles, bow hair detail creating friction, rosin dust particles floating in dramatic lighting, intercut with pianist's fingers on keys with visual frequency spectrum overlays, guitar pick striking strings with visible harmonics, cinematic depth of field",
+        "technical_specs": {
+          "resolution": "2560x1440",
+          "fps": 120,
+          "duration": "20-30 seconds",
+          "aspect_ratio": "2.35:1",
+          "color_grading": "rich, saturated with emphasis on instrument materials"
+        },
+        "macro_photography": {
+          "magnification": "2:1 to 5:1 ratio",
+          "focus_stacking": "multiple exposures for sharpness",
+          "lighting": "controlled studio lighting",
+          "stabilization": "locked down or precision slider"
+        },
+        "sound_visualization": {
+          "waveform_overlays": "real-time frequency display",
+          "particle_effects": "sound waves as light particles",
+          "vibration_capture": "ultra slow-motion string movement",
+          "harmonic_representation": "visual overtone series"
+        },
+        "instrument_details": [
+          {
+            "instrument": "violin",
+            "focus": "string vibration and bow interaction",
+            "visualization": "standing wave patterns"
+          },
+          {
+            "instrument": "piano",
+            "focus": "hammer striking strings",
+            "visualization": "frequency spectrum cascade"
+          },
+          {
+            "instrument": "guitar",
+            "focus": "pick attack and string response",
+            "visualization": "harmonic ripples"
+          }
+        ],
+        "technical_elements": {
+          "slow_motion": "500-1000fps for micro movements",
+          "motion_control": "precise repeatable movements",
+          "composite_layers": "instrument plus visualization"
+        },
+        "style_keywords": ["macro", "technical", "visualization", "detailed", "scientific-artistic"]
+      },
+      {
+        "id": "band_dynamics_09",
+        "name": "Band Dynamic Performance",
+        "description": "Capturing the interplay and energy between band members during performance",
+        "prompt": "Rock band performing in rehearsal space, dynamic camera movement between band members, guitarist and bassist facing off during solo section, drummer in full flow with sweat and motion blur, lead singer interacting with each member, quick cuts showing musical conversation, instruments and amps in frame, raw authentic energy, handheld camera work",
+        "technical_specs": {
+          "resolution": "2560x1440",
+          "fps": 30,
+          "duration": "30-45 seconds",
+          "aspect_ratio": "16:9",
+          "color_grading": "gritty, slightly desaturated rock aesthetic"
+        },
+        "band_coverage": {
+          "member_focus": "equal screen time for each member",
+          "interaction_moments": "musical conversations captured",
+          "solo_features": "highlight individual performances",
+          "group_shots": "full band energy and cohesion"
+        },
+        "camera_choreography": [
+          {
+            "type": "member_to_member",
+            "description": "Whip pan between interacting musicians",
+            "timing": "follows musical cues"
+          },
+          {
+            "type": "circling_drummer",
+            "description": "360 around drum kit during fill",
+            "duration": "4 seconds"
+          },
+          {
+            "type": "slider_reveal",
+            "description": "Slide from amp to guitarist",
+            "emphasis": "equipment to performance"
+          }
+        ],
+        "performance_dynamics": {
+          "eye_contact": "members communicating visually",
+          "physical_cues": "nods, gestures, movements",
+          "energy_exchange": "feeding off each other",
+          "climactic_moments": "synchronized hits and stops"
+        },
+        "authentic_elements": {
+          "sweat_and_effort": "physical exertion visible",
+          "equipment_wear": "used instruments and gear",
+          "space_character": "lived-in rehearsal room",
+          "raw_sound": "amp feedback and room tone"
+        },
+        "style_keywords": ["rock", "authentic", "dynamic", "band chemistry", "raw energy"]
+      },
+      {
+        "id": "music_production_10",
+        "name": "Music Production Process Visualization",
+        "description": "Visual journey through the music production process from creation to final mix",
+        "prompt": "Music producer building track in modern DAW, screen recordings of waveforms and MIDI being edited, hardware synthesizers with blinking LEDs and turning knobs, coffee cup and late night studio session vibe, multiple monitor setup with plugins and mixing board, creative process visualization with animated sound waves flowing between equipment, time-lapse of track building layer by layer",
+        "technical_specs": {
+          "resolution": "2560x1440",
+          "fps": 60,
+          "duration": "45-60 seconds",
+          "aspect_ratio": "16:9",
+          "color_grading": "modern tech aesthetic with color-coded elements"
+        },
+        "production_stages": [
+          {
+            "stage": "composition",
+            "visuals": "MIDI notes appearing on piano roll",
+            "duration": "8 seconds",
+            "style": "time-lapse"
+          },
+          {
+            "stage": "sound_design",
+            "visuals": "synthesizer programming and tweaking",
+            "duration": "6 seconds",
+            "style": "real-time with close-ups"
+          },
+          {
+            "stage": "arrangement",
+            "visuals": "track layers building in DAW",
+            "duration": "10 seconds",
+            "style": "accelerated workflow"
+          },
+          {
+            "stage": "mixing",
+            "visuals": "faders moving, EQ curves adjusting",
+            "duration": "8 seconds",
+            "style": "dynamic cutting"
+          }
+        ],
+        "visual_elements": {
+          "screen_capture": "DAW interface with animated elements",
+          "hardware_detail": "synths, controllers, outboard gear",
+          "data_visualization": "waveforms, spectrums, meters",
+          "human_element": "producer's hands and decisions"
+        },
+        "technical_visualization": {
+          "audio_flow": "animated signal path",
+          "frequency_display": "real-time spectrum analysis",
+          "automation_curves": "parameter changes over time",
+          "plugin_chains": "effects processing visualization"
+        },
+        "atmosphere": {
+          "lighting": "LED strips and screen glow",
+          "time_progression": "day to night transition",
+          "workspace": "modern studio environment",
+          "mood": "focused creativity"
+        },
+        "style_keywords": ["technical", "modern", "production", "workflow", "creative process"]
+      }
+    ],
+    "general_guidelines": {
+      "camera_sync": "Always synchronize camera movements with musical rhythm and dynamics",
+      "lighting_importance": "Lighting should enhance the mood and energy of the performance",
+      "human_connection": "Capture genuine emotions and connections between performers and audience",
+      "technical_quality": "Maintain high production values while preserving authentic moments",
+      "audio_visual_harmony": "Visual elements should complement and enhance the musical experience"
+    }
+  }
+}

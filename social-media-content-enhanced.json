@@ -1,0 +1,564 @@
+{
+  "social_media_video_templates": [
+    {
+      "id": "tiktok_viral_dance_challenge",
+      "category": "Social Media Content",
+      "platform": "TikTok",
+      "title": "TikTok Dance Challenge - Beat-Synced Viral Moves",
+      "description": "High-energy dance video with perfect beat synchronization, trending audio integration, and viral-optimized movements designed for maximum engagement and duet potential",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-30 seconds",
+        "fps": 60,
+        "orientation": "vertical",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Vibrant LED-lit studio with color-changing backdrop synced to beat, professional ring light setup creating dramatic shadows, mirrors for depth",
+        "subject": "Energetic dancer in trending streetwear (oversized hoodie, cargo pants, fresh sneakers), age 18-25, diverse representation",
+        "action": "8-count choreography with signature moves at 0:00-0:03, beat drops at 0:07, 0:15, 0:23, hand gestures emphasizing lyrics, facial expressions matching energy",
+        "camera": "Dynamic handheld movements, crash zooms on beat drops, 360-degree spins during transitions, slight Dutch angles for energy",
+        "effects": "Speed ramps (0.5x to 2x), freeze frames with motion blur trails, RGB split on impacts, particle effects on key moves, seamless loop point"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "12-16 Mbps",
+        "audio_codec": "AAC",
+        "audio_bitrate": "192 kbps",
+        "color_space": "sRGB",
+        "export_preset": "TikTok optimized"
+      },
+      "engagement_elements": {
+        "hook": "Signature move in first 2.5 seconds with visual effect",
+        "trending_audio": {
+          "integration": "Beat-perfect sync",
+          "volume": "Normalized to -14 LUFS"
+        },
+        "hashtags": ["#DanceChallenge", "#Viral", "#FYP", "#TrendingDance", "#DanceWithMe"],
+        "duet_optimization": {
+          "split_screen_ready": true,
+          "clear_center_space": true
+        },
+        "caption_strategy": "Challenge others, tutorial hints",
+        "loop_point": "Seamless at 15-second mark"
+      },
+      "ai_generation_notes": {
+        "motion_quality": "Fluid 60fps capture, no frame drops",
+        "style_reference": "Current TikTok dance trends",
+        "diversity": "Inclusive representation",
+        "brand_safety": "Family-friendly movements"
+      }
+    },
+    {
+      "id": "instagram_reels_seamless_transition",
+      "category": "Social Media Content",
+      "platform": "Instagram Reels",
+      "title": "Instagram Reels Transition - Outfit Changes & Seamless Cuts",
+      "description": "Visually stunning transition reel showcasing multiple outfit changes with perfectly aligned cuts, trending audio synchronization, and save-worthy aesthetic appeal",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-90 seconds",
+        "fps": 30,
+        "orientation": "vertical",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Minimalist backdrop (white cyclorama or textured wall), consistent lighting setup with key light at 45°, subtle colored gel accents",
+        "subject": "Fashion-forward model, consistent pose between transitions, 5-7 distinct outfits from casual to formal",
+        "action": "Hand swipe transitions, 360° spins, jump cuts, fabric toss reveals, snap transitions on beat",
+        "camera": "Locked tripod position, identical framing for each shot, subtle zoom for emphasis, rule of thirds composition",
+        "effects": "Match cuts on movement, whip pan transitions, digital glitch effects, time remapping, color grade shifts per outfit"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "15-20 Mbps",
+        "color_profile": "Instagram optimized (slight warmth)",
+        "aspect_ratio_safe_zones": "Important content in center 4:5",
+        "export_quality": "Maximum, no compression"
+      },
+      "engagement_elements": {
+        "hook": "All outfits preview in rapid 2-second montage",
+        "music_sync": {
+          "transition_timing": "On beat/drop",
+          "tempo_matching": true
+        },
+        "text_overlays": {
+          "style": "Minimal, sans-serif",
+          "placement": "Upper third",
+          "content": "Outfit details, shopping links"
+        },
+        "save_factor": "High - style inspiration",
+        "share_potential": "Tag friends for opinions",
+        "shopping_tags": true
+      },
+      "ai_generation_notes": {
+        "alignment_precision": "Pixel-perfect between transitions",
+        "lighting_consistency": "Identical across all shots",
+        "color_coordination": "Complementary palette",
+        "trend_awareness": "Current fashion trends"
+      }
+    },
+    {
+      "id": "youtube_shorts_value_hook",
+      "category": "Social Media Content",
+      "platform": "YouTube Shorts",
+      "title": "YouTube Shorts Hook - First 3 Seconds Grab & Value Proposition",
+      "description": "High-retention short-form content with aggressive hook, clear value proposition, and rapid information delivery optimized for YouTube Shorts algorithm",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-60 seconds",
+        "fps": 24,
+        "orientation": "vertical",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Professional studio with branded background, clear graphics space, good acoustic treatment",
+        "subject": "Authoritative presenter with dynamic energy, direct eye contact, professional but approachable appearance",
+        "action": "Aggressive opening statement, rapid-fire tips with hand gestures, prop demonstrations, B-roll cutaways",
+        "camera": "Subtle push-ins for emphasis, crash zooms on key points, handheld energy, centered framing",
+        "effects": "Kinetic typography, progress bars, numbered lists, highlight animations, end screen elements"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "16-20 Mbps",
+        "audio_quality": {
+          "sample_rate": "48kHz",
+          "peak_level": "-6dB",
+          "noise_floor": "-60dB"
+        },
+        "graphics_engine": "After Effects templates",
+        "color_grade": "YouTube optimized"
+      },
+      "engagement_elements": {
+        "hook": {
+          "type": "Question/Problem/Shocking statement",
+          "duration": "0-3 seconds",
+          "visual": "Text overlay + presenter"
+        },
+        "structure": "Hook → Problem → Solution → Proof → CTA",
+        "captions": {
+          "style": "YouTube auto-caption friendly",
+          "emphasis": "Key words highlighted"
+        },
+        "retention_tactics": "Progress indicators, cliffhangers",
+        "end_screen": {
+          "duration": "5 seconds",
+          "elements": "Subscribe button, next video"
+        }
+      },
+      "ai_generation_notes": {
+        "pacing": "No dead air, constant movement",
+        "clarity": "Crystal clear audio, no mumbling",
+        "authority": "Confident body language",
+        "accessibility": "Clear captions, high contrast"
+      }
+    },
+    {
+      "id": "linkedin_career_authority",
+      "category": "Social Media Content",
+      "platform": "LinkedIn",
+      "title": "LinkedIn Career Tips - Professional Authority Building",
+      "description": "Executive-level career advice video with professional production values, establishing thought leadership and driving meaningful business connections",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "30-90 seconds",
+        "fps": 24,
+        "orientation": "vertical",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Modern office environment or professional home office, bokeh background, subtle branding elements, clean desk setup",
+        "subject": "Business professional in appropriate attire (business casual to formal), confident posture, 35-55 age range",
+        "action": "Direct to camera address, whiteboard illustrations, screen share demos, hand gestures for emphasis",
+        "camera": "Stable tripod, eye-level angle, professional depth of field, slight movement for dynamism",
+        "effects": "Professional lower thirds, data visualization overlays, subtle transitions, corporate motion graphics"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "12-16 Mbps",
+        "audio_specs": {
+          "quality": "Broadcast standard",
+          "processing": "Compression, EQ, de-essing"
+        },
+        "color_grading": "Natural, slightly desaturated",
+        "lighting": "3-point setup minimum"
+      },
+      "engagement_elements": {
+        "hook": "Industry insight or contrarian viewpoint",
+        "value_proposition": {
+          "type": "Actionable career advice",
+          "specificity": "High - real examples"
+        },
+        "credibility_markers": {
+          "title_card": true,
+          "company_logo": true,
+          "achievements": "Subtle integration"
+        },
+        "cta": "Connect for more insights, comment with experiences",
+        "tone": "Professional yet personable, mentorship angle"
+      },
+      "ai_generation_notes": {
+        "appearance": "Polished but not overproduced",
+        "language": "Industry-appropriate terminology",
+        "pacing": "Measured, allowing absorption",
+        "authenticity": "Natural delivery, not scripted feel"
+      }
+    },
+    {
+      "id": "pinterest_diy_overhead_tutorial",
+      "category": "Social Media Content",
+      "platform": "Pinterest",
+      "title": "Pinterest DIY Tutorial - Overhead Process Shots",
+      "description": "Aesthetically perfect DIY tutorial with overhead photography, step-by-step process visualization, and Pinterest-optimized styling for maximum saves",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-60 seconds",
+        "fps": 24,
+        "orientation": "vertical",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Bright, styled workspace with marble/wood surface, organized supplies, natural lighting from window, Pinterest-worthy props",
+        "subject": "Hands only (manicured), minimal jewelry, working on craft/recipe/DIY project",
+        "action": "Clear step-by-step progression, before/after reveals, satisfying process shots, material close-ups",
+        "camera": "Overhead rig primary, 45° angle for dimension, macro shots for detail, smooth transitions between angles",
+        "effects": "Soft fades between steps, text overlays for ingredients/supplies, time-lapse sections, gentle zoom reveals"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "12-15 Mbps",
+        "color_profile": {
+          "style": "Bright and airy",
+          "saturation": "Slightly boosted",
+          "exposure": "+0.5 to +1.0"
+        },
+        "music": "Upbeat, royalty-free, trending audio"
+      },
+      "engagement_elements": {
+        "hook": "Stunning final result in first 3 seconds",
+        "save_triggers": {
+          "type": "Useful + Beautiful",
+          "seasonality": true
+        },
+        "supply_list": {
+          "timing": "5-second hold at 0:05",
+          "styling": "Aesthetic flat lay"
+        },
+        "process_clarity": "Each step clearly shown",
+        "Pinterest_SEO": {
+          "rich_pins": true,
+          "description_optimized": true
+        }
+      },
+      "ai_generation_notes": {
+        "lighting": "Soft, even, no harsh shadows",
+        "color_palette": "On-trend Pinterest colors",
+        "styling": "Magazine-quality presentation",
+        "accessibility": "Clear process for beginners"
+      }
+    },
+    {
+      "id": "twitter_breaking_news_thread",
+      "category": "Social Media Content",
+      "platform": "Twitter/X",
+      "title": "Twitter Video Thread - Breaking News Style Updates",
+      "description": "Rapid-fire news-style video optimized for Twitter threads, designed for viral potential with quick updates and shareable moments",
+      "format": {
+        "aspect_ratio": "16:9 or 9:16",
+        "resolution": "1280x720 or 720x1280",
+        "duration": "15-140 seconds",
+        "fps": 30,
+        "orientation": "flexible",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "News desk setup or on-location with relevant background, urgency in environment, mobile journalism aesthetic",
+        "subject": "Presenter with urgent delivery, authentic reactions, citizen journalist or expert commentator vibe",
+        "action": "Direct address to camera, quick cuts to evidence/B-roll, hand-held urgency, real-time updates",
+        "camera": "Handheld for authenticity, quick pans to action, crash zooms for emphasis, documentary style",
+        "effects": "Breaking news lower thirds, timestamp overlays, quote graphics, evidence highlights, thread indicators"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "5-8 Mbps",
+        "file_size_limit": "512MB",
+        "compression": "Twitter optimized",
+        "audio_processing": "Noise reduction priority"
+      },
+      "engagement_elements": {
+        "hook": "Breaking/Exclusive angle in first 3 seconds",
+        "thread_optimization": {
+          "cliffhanger": "End with 'Thread continues...'",
+          "numbering": "1/X indicator"
+        },
+        "virality_factors": {
+          "controversy": "Balanced viewpoint",
+          "shareability": "Quotable moments",
+          "reactions": "Emotion-triggering"
+        },
+        "captions": "Burned in for silent autoplay",
+        "verification": "Source citations visible"
+      },
+      "ai_generation_notes": {
+        "urgency": "Authentic breaking news feel",
+        "credibility": "Fact-checking graphics",
+        "mobile_first": "Optimized for phone viewing",
+        "accessibility": "Clear audio, readable text"
+      }
+    },
+    {
+      "id": "facebook_live_shopping_demo",
+      "category": "Social Media Content",
+      "platform": "Facebook",
+      "title": "Facebook Live Shopping - Product Demo & Engagement",
+      "description": "Interactive live shopping video with product demonstrations, real-time engagement features, and conversion-optimized presentation",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "15-90 seconds",
+        "fps": 30,
+        "orientation": "vertical",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Bright studio or boutique setting, products displayed professionally, live shopping setup with good lighting",
+        "subject": "Enthusiastic host/seller, authentic personality, product expert knowledge, friendly demeanor",
+        "action": "Product demonstrations, feature highlights, size/color options, real-time Q&A simulation",
+        "camera": "Multiple angles - wide for context, close-ups for detail, handheld for energy",
+        "effects": "Price overlays, countdown timers, stock indicators, special offer banners, comment integration"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "10-15 Mbps",
+        "streaming_compatibility": "Facebook Live ready",
+        "audio_quality": "Clear voice, background music balanced",
+        "lighting": "Broadcast quality"
+      },
+      "engagement_elements": {
+        "hook": "Limited time offer or exclusive deal",
+        "interactive_elements": {
+          "polls": "Which color?",
+          "comments": "Real-time responses",
+          "reactions": "Heart for interested"
+        },
+        "urgency_creation": {
+          "stock_levels": "Only X left!",
+          "timer": "Offer ends in..."
+        },
+        "trust_signals": "Customer testimonials, reviews",
+        "cta": "Clear purchase instructions"
+      },
+      "ai_generation_notes": {
+        "energy_level": "High enthusiasm, authentic",
+        "product_handling": "Professional demonstration",
+        "pacing": "Fast but clear",
+        "conversion_focus": "Sales-oriented language"
+      }
+    },
+    {
+      "id": "snapchat_ar_filter_interactive",
+      "category": "Social Media Content",
+      "platform": "Snapchat",
+      "title": "Snapchat AR Filter Demo - Face Tracking & Interactive Elements",
+      "description": "Engaging AR filter demonstration showcasing face tracking technology, interactive elements, and viral-worthy transformations",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "10-60 seconds",
+        "fps": 30,
+        "orientation": "vertical",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Various backgrounds to show filter versatility, good lighting for face tracking, fun environments",
+        "subject": "Expressive user demonstrating filter features, diverse age/ethnicity representation",
+        "action": "Face movements triggering animations, hand gestures for interactions, expression changes, head turns",
+        "camera": "Front-facing camera view, slight movements to show tracking stability, zoom for detail",
+        "effects": "3D face filters, environmental AR, particle effects, sound-reactive elements, multiplayer features"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "8-12 Mbps",
+        "ar_features": {
+          "face_tracking": "68-point mesh",
+          "hand_tracking": "If applicable",
+          "world_tracking": "Surface detection"
+        },
+        "performance": "Smooth 30fps minimum"
+      },
+      "engagement_elements": {
+        "hook": "Dramatic transformation in first 2 seconds",
+        "viral_potential": {
+          "surprise_element": true,
+          "meme_factor": "High",
+          "shareability": "Screenshot worthy"
+        },
+        "interactivity": {
+          "gestures": "Trigger animations",
+          "expressions": "Change effects",
+          "voice": "Sound reactive"
+        },
+        "tutorial_aspect": "Quick how-to overlay",
+        "branded_elements": "Subtle filter name"
+      },
+      "ai_generation_notes": {
+        "tracking_quality": "Smooth, no jitter",
+        "effect_integration": "Realistic blending",
+        "performance": "No lag or delays",
+        "fun_factor": "Entertaining and surprising"
+      }
+    },
+    {
+      "id": "bereal_authentic_dual_camera",
+      "category": "Social Media Content",
+      "platform": "BeReal",
+      "title": "BeReal Authentic Moment - Dual Camera Unfiltered Reality",
+      "description": "Raw, unfiltered moment capture using dual camera perspective, emphasizing authenticity and real-time spontaneity",
+      "format": {
+        "aspect_ratio": "9:16",
+        "resolution": "1080x1920",
+        "duration": "3-10 seconds",
+        "fps": 30,
+        "orientation": "vertical",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Everyday location - office, home, street, cafe - completely unplanned and natural",
+        "subject": "Person in their natural state, no preparation, genuine expressions and reactions",
+        "action": "Whatever they're actually doing - working, eating, commuting, relaxing",
+        "camera": "Simultaneous dual view - main camera showing environment, front camera showing face",
+        "effects": "Absolutely none - raw footage only"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "6-10 Mbps",
+        "processing": "Minimal - natural color only",
+        "filters": "None permitted",
+        "dual_camera": {
+          "layout": "Picture-in-picture",
+          "sync": "Perfect frame alignment"
+        }
+      },
+      "engagement_elements": {
+        "authenticity_markers": {
+          "time_stamp": "Real capture time",
+          "location": "Genuine GPS tag",
+          "spontaneity": "2-minute window feel"
+        },
+        "dual_perspective": {
+          "front": "Genuine reaction",
+          "back": "Context/environment"
+        },
+        "no_preparation": true,
+        "real_moment": "Unposed, unplanned",
+        "time_pressure": "Posted within time limit"
+      },
+      "ai_generation_notes": {
+        "realism": "Include imperfections",
+        "lighting": "Natural only, no setup",
+        "expressions": "Genuine, not performative",
+        "environment": "Everyday, relatable"
+      }
+    },
+    {
+      "id": "threads_visual_discussion_starter",
+      "category": "Social Media Content",
+      "platform": "Threads",
+      "title": "Threads Visual Discussion - Thought-Provoking Dialogue Starter",
+      "description": "Conversation-starting video designed to spark meaningful discussions in Threads' text-forward environment",
+      "format": {
+        "aspect_ratio": "9:16 or 1:1",
+        "resolution": "1080x1920 or 1080x1080",
+        "duration": "15-90 seconds",
+        "fps": 30,
+        "orientation": "vertical or square",
+        "file_format": "MP4"
+      },
+      "prompt_structure": {
+        "scene": "Clean, minimalist background that doesn't distract from message, possibly abstract or artistic",
+        "subject": "Thoughtful presenter or visual metaphor/animation representing the concept",
+        "action": "Deliberate pacing, pauses for thought, gestures that emphasize points, visual storytelling",
+        "camera": "Static or slow movements, intimate framing, focus on message not production",
+        "effects": "Elegant text overlays, simple but meaningful graphics, thought bubbles, quote highlights"
+      },
+      "technical_specs": {
+        "video_codec": "H.264/AVC",
+        "bitrate": "8-12 Mbps",
+        "text_optimization": {
+          "font": "Clean, readable",
+          "size": "Mobile optimized",
+          "contrast": "High readability"
+        },
+        "loop_option": "Seamless for extended viewing"
+      },
+      "engagement_elements": {
+        "hook": "Provocative question or controversial statement",
+        "discussion_prompts": {
+          "open_ended": true,
+          "debate_friendly": true,
+          "perspective_seeking": true
+        },
+        "intellectual_appeal": {
+          "depth": "Substantive content",
+          "nuance": "Multiple viewpoints",
+          "relevance": "Current topics"
+        },
+        "reply_optimization": "Designed for text responses",
+        "community_building": "Inclusive tone"
+      },
+      "ai_generation_notes": {
+        "tone": "Thoughtful, not preachy",
+        "pacing": "Allow processing time",
+        "accessibility": "Clear speech, captions",
+        "diversity": "Multiple perspectives shown"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "2.0",
+    "created": "2025-01-01",
+    "updated": "2025-01-01",
+    "category": "Social Media Content",
+    "total_templates": 10,
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts",
+      "LinkedIn",
+      "Pinterest",
+      "Twitter/X",
+      "Facebook",
+      "Snapchat",
+      "BeReal",
+      "Threads"
+    ],
+    "key_features": [
+      "Vertical format optimization (9:16)",
+      "Platform-specific engagement strategies",
+      "Viral optimization techniques",
+      "Quick hook implementation",
+      "Trending audio integration",
+      "Interactive elements",
+      "Algorithm-friendly structures",
+      "Cross-platform adaptability"
+    ],
+    "technical_requirements": {
+      "primary_aspect_ratio": "9:16",
+      "resolution_standard": "1080x1920",
+      "fps_range": "24-60",
+      "codec": "H.264/AVC",
+      "audio_normalization": "-14 LUFS average"
+    },
+    "content_strategy": {
+      "hook_timing": "0-3 seconds",
+      "engagement_focus": "Platform-native features",
+      "authenticity_balance": "Polished yet genuine",
+      "accessibility": "Captions and clear audio"
+    }
+  }
+}

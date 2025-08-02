@@ -1,0 +1,2296 @@
+{
+  "generatedAt": "2025-08-01T18:00:36.671Z",
+  "totalTemplates": 200,
+  "byCategory": {
+    "cinematic_storytelling": {
+      "categoryName": "Cinematic Storytelling",
+      "templates": [
+        {
+          "id": "cinematic_dramatic_reveal_01",
+          "title": "Dramatic Character Reveal with Emotional Impact",
+          "difficulty": "intermediate",
+          "tags": [
+            "cinematic",
+            "emotional",
+            "character reveal",
+            "film noir",
+            "urban"
+          ]
+        },
+        {
+          "id": "cinematic_action_chase_02",
+          "title": "High-Octane Chase Sequence Through Urban Environment",
+          "difficulty": "advanced",
+          "tags": [
+            "action",
+            "chase",
+            "parkour",
+            "urban",
+            "dynamic"
+          ]
+        },
+        {
+          "id": "cinematic_romantic_moment_03",
+          "title": "Intimate Romantic Scene with Soft Cinematography",
+          "difficulty": "intermediate",
+          "tags": [
+            "romance",
+            "intimate",
+            "golden hour",
+            "cinematic",
+            "emotional"
+          ]
+        },
+        {
+          "id": "cinematic_mystery_thriller_04",
+          "title": "Suspenseful Corridor Scene with Shadow Play",
+          "difficulty": "advanced",
+          "tags": [
+            "thriller",
+            "suspense",
+            "horror",
+            "corridor",
+            "shadows"
+          ]
+        },
+        {
+          "id": "cinematic_epic_landscape_05",
+          "title": "Epic Landscape Reveal with Heroic Framing",
+          "difficulty": "intermediate",
+          "tags": [
+            "epic",
+            "landscape",
+            "heroic",
+            "cinematic",
+            "adventure"
+          ]
+        },
+        {
+          "id": "cinematic_dialogue_scene_06",
+          "title": "Intense Two-Person Dialogue with Dynamic Coverage",
+          "difficulty": "advanced",
+          "tags": [
+            "dialogue",
+            "drama",
+            "conversation",
+            "character",
+            "tension"
+          ]
+        },
+        {
+          "id": "cinematic_flashback_transition_07",
+          "title": "Dreamlike Flashback Sequence with Time Transition",
+          "difficulty": "advanced",
+          "tags": [
+            "flashback",
+            "transition",
+            "memory",
+            "time",
+            "effects"
+          ]
+        },
+        {
+          "id": "cinematic_war_battle_08",
+          "title": "Intense Battle Sequence with Handheld Chaos",
+          "difficulty": "advanced",
+          "tags": [
+            "war",
+            "battle",
+            "action",
+            "combat",
+            "intense"
+          ]
+        },
+        {
+          "id": "cinematic_heist_planning_09",
+          "title": "Stylized Heist Planning Montage",
+          "difficulty": "advanced",
+          "tags": [
+            "heist",
+            "montage",
+            "planning",
+            "team",
+            "stylized"
+          ]
+        },
+        {
+          "id": "cinematic_final_goodbye_10",
+          "title": "Emotional Farewell Scene at Train Station",
+          "difficulty": "intermediate",
+          "tags": [
+            "farewell",
+            "romantic",
+            "emotional",
+            "classic",
+            "train"
+          ]
+        }
+      ]
+    },
+    "product_showcase": {
+      "categoryName": "Product Showcase",
+      "templates": [
+        {
+          "id": "product_tech_unveil_01",
+          "title": "Futuristic Tech Product Reveal with 360° View",
+          "difficulty": "intermediate",
+          "tags": [
+            "product",
+            "technology",
+            "smartphone",
+            "premium",
+            "reveal"
+          ]
+        },
+        {
+          "id": "product_luxury_watch_02",
+          "title": "Luxury Watch Craftsmanship Macro Showcase",
+          "difficulty": "advanced",
+          "tags": [
+            "luxury",
+            "watch",
+            "jewelry",
+            "macro",
+            "craftsmanship"
+          ]
+        },
+        {
+          "id": "product_cosmetics_texture_03",
+          "title": "Cosmetic Product Texture and Application Showcase",
+          "difficulty": "intermediate",
+          "tags": [
+            "cosmetics",
+            "beauty",
+            "makeup",
+            "luxury",
+            "texture"
+          ]
+        },
+        {
+          "id": "product_automotive_detail_04",
+          "title": "Automotive Design Detail and Performance Showcase",
+          "difficulty": "advanced",
+          "tags": [
+            "automotive",
+            "luxury",
+            "car",
+            "vehicle",
+            "performance"
+          ]
+        },
+        {
+          "id": "product_furniture_lifestyle_05",
+          "title": "Modern Furniture in Living Space Context",
+          "difficulty": "intermediate",
+          "tags": [
+            "furniture",
+            "interior",
+            "design",
+            "lifestyle",
+            "modern"
+          ]
+        },
+        {
+          "id": "product_food_gourmet_06",
+          "title": "Gourmet Food Product Artisanal Presentation",
+          "difficulty": "intermediate",
+          "tags": [
+            "food",
+            "gourmet",
+            "artisanal",
+            "culinary",
+            "appetizing"
+          ]
+        },
+        {
+          "id": "product_fashion_accessories_07",
+          "title": "Designer Handbag and Accessories Showcase",
+          "difficulty": "intermediate",
+          "tags": [
+            "fashion",
+            "accessories",
+            "luxury",
+            "handbag",
+            "designer"
+          ]
+        },
+        {
+          "id": "product_electronics_gaming_08",
+          "title": "Gaming Hardware RGB Lighting Showcase",
+          "difficulty": "intermediate",
+          "tags": [
+            "gaming",
+            "electronics",
+            "RGB",
+            "peripherals",
+            "esports"
+          ]
+        },
+        {
+          "id": "product_home_appliance_09",
+          "title": "Smart Home Appliance Lifestyle Integration",
+          "difficulty": "intermediate",
+          "tags": [
+            "smart home",
+            "appliances",
+            "IoT",
+            "lifestyle",
+            "technology"
+          ]
+        },
+        {
+          "id": "product_sports_equipment_10",
+          "title": "Athletic Performance Gear in Action",
+          "difficulty": "advanced",
+          "tags": [
+            "sports",
+            "athletic",
+            "performance",
+            "equipment",
+            "fitness"
+          ]
+        }
+      ]
+    },
+    "fashion_beauty": {
+      "categoryName": "Fashion & Beauty",
+      "templates": [
+        {
+          "id": "fashion_beauty_template_01",
+          "title": "Runway Fashion Show with Dynamic Lighting",
+          "difficulty": "intermediate",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_02",
+          "title": "Beauty Product Close-up with Texture Focus",
+          "difficulty": "advanced",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_03",
+          "title": "Fashion Transformation Time-lapse",
+          "difficulty": "beginner",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_04",
+          "title": "Jewelry Sparkle and Reflection Showcase",
+          "difficulty": "intermediate",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_05",
+          "title": "Makeup Application Tutorial Style",
+          "difficulty": "advanced",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_06",
+          "title": "Fashion Portrait with Movement",
+          "difficulty": "beginner",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_07",
+          "title": "Accessory Detail Shots",
+          "difficulty": "intermediate",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_08",
+          "title": "Hair Styling Transformation",
+          "difficulty": "advanced",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_09",
+          "title": "Fashion Brand Story",
+          "difficulty": "beginner",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        },
+        {
+          "id": "fashion_beauty_template_10",
+          "title": "Beauty Routine Lifestyle",
+          "difficulty": "intermediate",
+          "tags": [
+            "fashion beauty",
+            "fashion",
+            "beauty",
+            "style",
+            "model",
+            "design"
+          ]
+        }
+      ]
+    },
+    "food_culinary": {
+      "categoryName": "Food & Culinary",
+      "templates": [
+        {
+          "id": "food_culinary_template_01",
+          "title": "Cooking Process with Steam and Sizzle",
+          "difficulty": "intermediate",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_02",
+          "title": "Food Plating Artistic Presentation",
+          "difficulty": "advanced",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_03",
+          "title": "Restaurant Ambiance and Service",
+          "difficulty": "beginner",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_04",
+          "title": "Ingredient Journey from Farm to Table",
+          "difficulty": "intermediate",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_05",
+          "title": "Dessert Creation with Decoration",
+          "difficulty": "advanced",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_06",
+          "title": "Wine Pairing and Pouring",
+          "difficulty": "beginner",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_07",
+          "title": "Street Food Vibrant Capture",
+          "difficulty": "intermediate",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_08",
+          "title": "Baking Time-lapse Transformation",
+          "difficulty": "advanced",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_09",
+          "title": "Cocktail Mixing with Flair",
+          "difficulty": "beginner",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        },
+        {
+          "id": "food_culinary_template_10",
+          "title": "Food Texture Macro Exploration",
+          "difficulty": "intermediate",
+          "tags": [
+            "food culinary",
+            "food",
+            "cooking",
+            "cuisine",
+            "chef",
+            "recipe"
+          ]
+        }
+      ]
+    },
+    "travel_tourism": {
+      "categoryName": "Travel & Tourism",
+      "templates": [
+        {
+          "id": "travel_tourism_template_01",
+          "title": "Destination Sunrise to Sunset Journey",
+          "difficulty": "intermediate",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_02",
+          "title": "Cultural Experience Immersion",
+          "difficulty": "advanced",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_03",
+          "title": "Adventure Activity Showcase",
+          "difficulty": "beginner",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_04",
+          "title": "Luxury Resort Tour",
+          "difficulty": "intermediate",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_05",
+          "title": "Local Market Exploration",
+          "difficulty": "advanced",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_06",
+          "title": "Historical Site Cinematic Tour",
+          "difficulty": "beginner",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_07",
+          "title": "Beach Paradise Aerial Views",
+          "difficulty": "intermediate",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_08",
+          "title": "City Nightlife Energy",
+          "difficulty": "advanced",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_09",
+          "title": "Natural Wonder Documentation",
+          "difficulty": "beginner",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        },
+        {
+          "id": "travel_tourism_template_10",
+          "title": "Travel Lifestyle Montage",
+          "difficulty": "intermediate",
+          "tags": [
+            "travel tourism",
+            "travel",
+            "destination",
+            "adventure",
+            "culture",
+            "explore"
+          ]
+        }
+      ]
+    },
+    "sports_action": {
+      "categoryName": "Sports & Action",
+      "templates": [
+        {
+          "id": "sports_action_template_01",
+          "title": "Extreme Sports Adrenaline Rush",
+          "difficulty": "intermediate",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_02",
+          "title": "Athletic Training Intensity",
+          "difficulty": "advanced",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_03",
+          "title": "Victory Celebration Moments",
+          "difficulty": "beginner",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_04",
+          "title": "Equipment Performance Demo",
+          "difficulty": "intermediate",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_05",
+          "title": "Team Spirit and Unity",
+          "difficulty": "advanced",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_06",
+          "title": "Individual Skill Showcase",
+          "difficulty": "beginner",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_07",
+          "title": "Sports Venue Atmosphere",
+          "difficulty": "intermediate",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_08",
+          "title": "Competition Highlights",
+          "difficulty": "advanced",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_09",
+          "title": "Fitness Transformation Journey",
+          "difficulty": "beginner",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        },
+        {
+          "id": "sports_action_template_10",
+          "title": "Sports Technology Innovation",
+          "difficulty": "intermediate",
+          "tags": [
+            "sports action",
+            "sports",
+            "athlete",
+            "fitness",
+            "action",
+            "performance"
+          ]
+        }
+      ]
+    },
+    "music_performance": {
+      "categoryName": "Music & Performance",
+      "templates": [
+        {
+          "id": "music_performance_template_01",
+          "title": "Concert Stage Energy Capture",
+          "difficulty": "intermediate",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_02",
+          "title": "Music Video Artistic Style",
+          "difficulty": "advanced",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_03",
+          "title": "Behind the Scenes Recording",
+          "difficulty": "beginner",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_04",
+          "title": "DJ Set with Visual Effects",
+          "difficulty": "intermediate",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_05",
+          "title": "Acoustic Intimate Performance",
+          "difficulty": "advanced",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_06",
+          "title": "Dance Choreography Showcase",
+          "difficulty": "beginner",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_07",
+          "title": "Festival Crowd Energy",
+          "difficulty": "intermediate",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_08",
+          "title": "Instrument Detail and Sound",
+          "difficulty": "advanced",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_09",
+          "title": "Band Dynamic Performance",
+          "difficulty": "beginner",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        },
+        {
+          "id": "music_performance_template_10",
+          "title": "Music Production Process",
+          "difficulty": "intermediate",
+          "tags": [
+            "music performance",
+            "music",
+            "concert",
+            "performance",
+            "artist",
+            "live"
+          ]
+        }
+      ]
+    },
+    "education_tutorial": {
+      "categoryName": "Education & Tutorial",
+      "templates": [
+        {
+          "id": "education_tutorial_template_01",
+          "title": "Step-by-Step Process Guide",
+          "difficulty": "intermediate",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_02",
+          "title": "Scientific Concept Visualization",
+          "difficulty": "advanced",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_03",
+          "title": "Skill Development Progress",
+          "difficulty": "beginner",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_04",
+          "title": "Educational Animation Style",
+          "difficulty": "intermediate",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_05",
+          "title": "Workshop Hands-on Learning",
+          "difficulty": "advanced",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_06",
+          "title": "Technology Tutorial Clarity",
+          "difficulty": "beginner",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_07",
+          "title": "Art Technique Demonstration",
+          "difficulty": "intermediate",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_08",
+          "title": "Language Learning Interaction",
+          "difficulty": "advanced",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_09",
+          "title": "DIY Project Completion",
+          "difficulty": "beginner",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "education_tutorial_template_10",
+          "title": "Knowledge Infographic Motion",
+          "difficulty": "intermediate",
+          "tags": [
+            "education tutorial",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "real_estate_architecture": {
+      "categoryName": "Real Estate & Architecture",
+      "templates": [
+        {
+          "id": "real_estate_architecture_template_01",
+          "title": "Property Walkthrough Tour",
+          "difficulty": "intermediate",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_02",
+          "title": "Architectural Detail Focus",
+          "difficulty": "advanced",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_03",
+          "title": "Interior Design Showcase",
+          "difficulty": "beginner",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_04",
+          "title": "Construction Progress Time-lapse",
+          "difficulty": "intermediate",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_05",
+          "title": "Neighborhood Lifestyle View",
+          "difficulty": "advanced",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_06",
+          "title": "Luxury Home Features",
+          "difficulty": "beginner",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_07",
+          "title": "Commercial Space Potential",
+          "difficulty": "intermediate",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_08",
+          "title": "Historical Building Story",
+          "difficulty": "advanced",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_09",
+          "title": "Smart Home Technology",
+          "difficulty": "beginner",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "real_estate_architecture_template_10",
+          "title": "Outdoor Living Spaces",
+          "difficulty": "intermediate",
+          "tags": [
+            "real estate architecture",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "nature_wildlife": {
+      "categoryName": "Nature & Wildlife",
+      "templates": [
+        {
+          "id": "nature_wildlife_template_01",
+          "title": "Wildlife Behavior Documentation",
+          "difficulty": "intermediate",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_02",
+          "title": "Landscape Time-lapse Beauty",
+          "difficulty": "advanced",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_03",
+          "title": "Underwater World Exploration",
+          "difficulty": "beginner",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_04",
+          "title": "Macro Nature Details",
+          "difficulty": "intermediate",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_05",
+          "title": "Seasonal Change Progression",
+          "difficulty": "advanced",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_06",
+          "title": "Conservation Story Impact",
+          "difficulty": "beginner",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_07",
+          "title": "Bird Flight Dynamics",
+          "difficulty": "intermediate",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_08",
+          "title": "Forest Ecosystem Life",
+          "difficulty": "advanced",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_09",
+          "title": "Desert Survival Adaptation",
+          "difficulty": "beginner",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "nature_wildlife_template_10",
+          "title": "Mountain Majesty Scenes",
+          "difficulty": "intermediate",
+          "tags": [
+            "nature wildlife",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "scifi_fantasy": {
+      "categoryName": "Sci-Fi & Fantasy",
+      "templates": [
+        {
+          "id": "scifi_fantasy_template_01",
+          "title": "Sci-Fi & Fantasy Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_02",
+          "title": "Dynamic Sci-Fi & Fantasy Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_03",
+          "title": "Professional Sci-Fi & Fantasy Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_04",
+          "title": "Creative Sci-Fi & Fantasy Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_05",
+          "title": "Engaging Sci-Fi & Fantasy Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_06",
+          "title": "Modern Sci-Fi & Fantasy Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_07",
+          "title": "Artistic Sci-Fi & Fantasy Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_08",
+          "title": "Premium Sci-Fi & Fantasy Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_09",
+          "title": "Innovative Sci-Fi & Fantasy Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "scifi_fantasy_template_10",
+          "title": "Compelling Sci-Fi & Fantasy Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "scifi fantasy",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "animation_cartoon": {
+      "categoryName": "Animation & Cartoon",
+      "templates": [
+        {
+          "id": "animation_cartoon_template_01",
+          "title": "Animation & Cartoon Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_02",
+          "title": "Dynamic Animation & Cartoon Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_03",
+          "title": "Professional Animation & Cartoon Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_04",
+          "title": "Creative Animation & Cartoon Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_05",
+          "title": "Engaging Animation & Cartoon Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_06",
+          "title": "Modern Animation & Cartoon Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_07",
+          "title": "Artistic Animation & Cartoon Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_08",
+          "title": "Premium Animation & Cartoon Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_09",
+          "title": "Innovative Animation & Cartoon Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "animation_cartoon_template_10",
+          "title": "Compelling Animation & Cartoon Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "animation cartoon",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "medical_healthcare": {
+      "categoryName": "Medical & Healthcare",
+      "templates": [
+        {
+          "id": "medical_healthcare_template_01",
+          "title": "Medical & Healthcare Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_02",
+          "title": "Dynamic Medical & Healthcare Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_03",
+          "title": "Professional Medical & Healthcare Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_04",
+          "title": "Creative Medical & Healthcare Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_05",
+          "title": "Engaging Medical & Healthcare Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_06",
+          "title": "Modern Medical & Healthcare Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_07",
+          "title": "Artistic Medical & Healthcare Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_08",
+          "title": "Premium Medical & Healthcare Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_09",
+          "title": "Innovative Medical & Healthcare Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "medical_healthcare_template_10",
+          "title": "Compelling Medical & Healthcare Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "medical healthcare",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "corporate_business": {
+      "categoryName": "Corporate & Business",
+      "templates": [
+        {
+          "id": "corporate_business_template_01",
+          "title": "Corporate & Business Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_02",
+          "title": "Dynamic Corporate & Business Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_03",
+          "title": "Professional Corporate & Business Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_04",
+          "title": "Creative Corporate & Business Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_05",
+          "title": "Engaging Corporate & Business Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_06",
+          "title": "Modern Corporate & Business Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_07",
+          "title": "Artistic Corporate & Business Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_08",
+          "title": "Premium Corporate & Business Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_09",
+          "title": "Innovative Corporate & Business Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "corporate_business_template_10",
+          "title": "Compelling Corporate & Business Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "corporate business",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "event_celebration": {
+      "categoryName": "Event & Celebration",
+      "templates": [
+        {
+          "id": "event_celebration_template_01",
+          "title": "Event & Celebration Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_02",
+          "title": "Dynamic Event & Celebration Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_03",
+          "title": "Professional Event & Celebration Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_04",
+          "title": "Creative Event & Celebration Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_05",
+          "title": "Engaging Event & Celebration Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_06",
+          "title": "Modern Event & Celebration Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_07",
+          "title": "Artistic Event & Celebration Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_08",
+          "title": "Premium Event & Celebration Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_09",
+          "title": "Innovative Event & Celebration Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "event_celebration_template_10",
+          "title": "Compelling Event & Celebration Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "event celebration",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "gaming_virtual_worlds": {
+      "categoryName": "Gaming & Virtual Worlds",
+      "templates": [
+        {
+          "id": "gaming_virtual_worlds_template_01",
+          "title": "Gaming & Virtual Worlds Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_02",
+          "title": "Dynamic Gaming & Virtual Worlds Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_03",
+          "title": "Professional Gaming & Virtual Worlds Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_04",
+          "title": "Creative Gaming & Virtual Worlds Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_05",
+          "title": "Engaging Gaming & Virtual Worlds Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_06",
+          "title": "Modern Gaming & Virtual Worlds Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_07",
+          "title": "Artistic Gaming & Virtual Worlds Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_08",
+          "title": "Premium Gaming & Virtual Worlds Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_09",
+          "title": "Innovative Gaming & Virtual Worlds Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "gaming_virtual_worlds_template_10",
+          "title": "Compelling Gaming & Virtual Worlds Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "gaming virtual worlds",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "art_creative": {
+      "categoryName": "Art & Creative",
+      "templates": [
+        {
+          "id": "art_creative_template_01",
+          "title": "Art & Creative Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_02",
+          "title": "Dynamic Art & Creative Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_03",
+          "title": "Professional Art & Creative Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_04",
+          "title": "Creative Art & Creative Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_05",
+          "title": "Engaging Art & Creative Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_06",
+          "title": "Modern Art & Creative Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_07",
+          "title": "Artistic Art & Creative Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_08",
+          "title": "Premium Art & Creative Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_09",
+          "title": "Innovative Art & Creative Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "art_creative_template_10",
+          "title": "Compelling Art & Creative Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "art creative",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "technology_innovation": {
+      "categoryName": "Technology & Innovation",
+      "templates": [
+        {
+          "id": "technology_innovation_template_01",
+          "title": "Technology & Innovation Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_02",
+          "title": "Dynamic Technology & Innovation Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_03",
+          "title": "Professional Technology & Innovation Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_04",
+          "title": "Creative Technology & Innovation Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_05",
+          "title": "Engaging Technology & Innovation Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_06",
+          "title": "Modern Technology & Innovation Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_07",
+          "title": "Artistic Technology & Innovation Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_08",
+          "title": "Premium Technology & Innovation Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_09",
+          "title": "Innovative Technology & Innovation Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "technology_innovation_template_10",
+          "title": "Compelling Technology & Innovation Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "technology innovation",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "lifestyle_wellness": {
+      "categoryName": "Lifestyle & Wellness",
+      "templates": [
+        {
+          "id": "lifestyle_wellness_template_01",
+          "title": "Lifestyle & Wellness Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_02",
+          "title": "Dynamic Lifestyle & Wellness Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_03",
+          "title": "Professional Lifestyle & Wellness Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_04",
+          "title": "Creative Lifestyle & Wellness Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_05",
+          "title": "Engaging Lifestyle & Wellness Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_06",
+          "title": "Modern Lifestyle & Wellness Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_07",
+          "title": "Artistic Lifestyle & Wellness Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_08",
+          "title": "Premium Lifestyle & Wellness Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_09",
+          "title": "Innovative Lifestyle & Wellness Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "lifestyle_wellness_template_10",
+          "title": "Compelling Lifestyle & Wellness Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "lifestyle wellness",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    },
+    "social_media_content": {
+      "categoryName": "Social Media Content",
+      "templates": [
+        {
+          "id": "social_media_content_template_01",
+          "title": "Social Media Content Showcase 1",
+          "difficulty": "intermediate",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_02",
+          "title": "Dynamic Social Media Content Presentation 2",
+          "difficulty": "advanced",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_03",
+          "title": "Professional Social Media Content Demo 3",
+          "difficulty": "beginner",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_04",
+          "title": "Creative Social Media Content Sequence 4",
+          "difficulty": "intermediate",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_05",
+          "title": "Engaging Social Media Content Story 5",
+          "difficulty": "advanced",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_06",
+          "title": "Modern Social Media Content Feature 6",
+          "difficulty": "beginner",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_07",
+          "title": "Artistic Social Media Content Expression 7",
+          "difficulty": "intermediate",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_08",
+          "title": "Premium Social Media Content Display 8",
+          "difficulty": "advanced",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_09",
+          "title": "Innovative Social Media Content Concept 9",
+          "difficulty": "beginner",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        },
+        {
+          "id": "social_media_content_template_10",
+          "title": "Compelling Social Media Content Visual 10",
+          "difficulty": "intermediate",
+          "tags": [
+            "social media content",
+            "professional",
+            "showcase"
+          ]
+        }
+      ]
+    }
+  }
+}

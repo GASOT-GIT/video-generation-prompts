@@ -1,0 +1,703 @@
+{
+  "food_culinary_video_templates": {
+    "category": "Food & Culinary",
+    "version": "1.0",
+    "templates": [
+      {
+        "id": "cooking_process_sizzle",
+        "name": "Sizzling Pan Mastery",
+        "description": "Professional cooking process with dramatic steam and sizzle effects",
+        "duration": "15-30 seconds",
+        "style": {
+          "visual": "cinematic food photography",
+          "lighting": "warm side lighting with steam highlights",
+          "color_grading": "warm tones, enhanced contrast",
+          "mood": "appetizing and dynamic"
+        },
+        "shots": [
+          {
+            "type": "macro",
+            "description": "Oil shimmering in hot pan, heat waves visible",
+            "camera": "static macro lens, shallow DOF",
+            "duration": "2-3 seconds"
+          },
+          {
+            "type": "slow_motion",
+            "description": "Ingredients hitting hot pan, steam explosion, sizzle sounds prominent",
+            "camera": "120fps capture, slight Dutch angle",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "overhead",
+            "description": "Chef's hands tossing ingredients, steam rising dramatically",
+            "camera": "smooth circular motion, 90-degree top-down",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "close_up",
+            "description": "Caramelization process, bubbling sauces, color transformation",
+            "camera": "slow push-in, rack focus",
+            "duration": "3-4 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K minimum",
+          "frame_rate": "24fps with 120fps inserts",
+          "aspect_ratio": "16:9 or 2.35:1",
+          "depth_of_field": "shallow to medium",
+          "color_space": "Rec.709 or P3"
+        },
+        "ai_generation_prompts": {
+          "primary": "Professional kitchen, chef cooking with dramatic steam and sizzle, warm lighting, cinematic food photography style, shallow depth of field",
+          "style_modifiers": ["photorealistic", "commercial quality", "appetizing", "dynamic motion"],
+          "negative_prompts": ["burnt food", "messy kitchen", "poor lighting", "unappetizing colors"]
+        },
+        "audio_elements": [
+          "sizzling sounds",
+          "steam hissing",
+          "knife chopping rhythm",
+          "ambient kitchen sounds"
+        ],
+        "post_production": {
+          "color_correction": "enhance warm tones, boost saturation 15%",
+          "effects": "steam enhancement, heat distortion",
+          "transitions": "smooth cuts on action"
+        }
+      },
+      {
+        "id": "food_plating_artistry",
+        "name": "Culinary Canvas",
+        "description": "Artistic food plating presentation with precision and elegance",
+        "duration": "20-30 seconds",
+        "style": {
+          "visual": "fine dining photography",
+          "lighting": "soft diffused with accent highlights",
+          "color_grading": "clean whites, vibrant food colors",
+          "mood": "elegant and sophisticated"
+        },
+        "shots": [
+          {
+            "type": "overhead_timelapse",
+            "description": "Empty white plate to finished masterpiece",
+            "camera": "locked overhead, stop-motion style",
+            "duration": "5-6 seconds"
+          },
+          {
+            "type": "macro_detail",
+            "description": "Sauce drizzle with precise patterns, tweezers placing microgreens",
+            "camera": "extreme close-up, follow focus",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "360_rotation",
+            "description": "Completed dish rotating on turntable, revealing all angles",
+            "camera": "smooth motorized rotation, eye level",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "chef_pov",
+            "description": "Final garnish and quality check from chef's perspective",
+            "camera": "handheld stabilized, first-person view",
+            "duration": "3-4 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K or higher",
+          "frame_rate": "24fps or 30fps",
+          "aspect_ratio": "1:1 or 16:9",
+          "depth_of_field": "selective focus on key elements",
+          "color_accuracy": "calibrated for food photography"
+        },
+        "ai_generation_prompts": {
+          "primary": "Michelin star food plating, artistic presentation, white porcelain plate, colorful ingredients arranged with precision, soft lighting",
+          "style_modifiers": ["ultra-detailed", "professional food styling", "minimalist aesthetic", "high-end restaurant"],
+          "negative_prompts": ["messy plating", "poor composition", "wilted garnish", "fingerprints on plate"]
+        },
+        "plating_elements": [
+          "sauce techniques: dots, swooshes, circles",
+          "height and dimension building",
+          "color contrast and balance",
+          "negative space utilization",
+          "edible flowers and microgreens"
+        ]
+      },
+      {
+        "id": "restaurant_ambiance",
+        "name": "Dining Experience Journey",
+        "description": "Restaurant atmosphere capturing service, ambiance, and dining moments",
+        "duration": "30-45 seconds",
+        "style": {
+          "visual": "lifestyle commercial",
+          "lighting": "ambient with practical lights",
+          "color_grading": "warm and inviting",
+          "mood": "sophisticated yet welcoming"
+        },
+        "shots": [
+          {
+            "type": "establishing",
+            "description": "Restaurant exterior at golden hour, welcoming entrance",
+            "camera": "wide shot with slow push-in",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "interior_sweep",
+            "description": "Dining room ambiance, candlelit tables, soft conversations",
+            "camera": "gimbal walk-through, floating movement",
+            "duration": "5-6 seconds"
+          },
+          {
+            "type": "service_sequence",
+            "description": "Waiter presenting dish, wine pouring, table service elegance",
+            "camera": "medium shots, selective focus",
+            "duration": "6-8 seconds"
+          },
+          {
+            "type": "dining_moments",
+            "description": "Guests enjoying food, reactions, social interaction",
+            "camera": "candid style, natural movement",
+            "duration": "5-6 seconds"
+          },
+          {
+            "type": "kitchen_glimpse",
+            "description": "Open kitchen energy, chefs at work, flame and action",
+            "camera": "through-the-pass view, dynamic",
+            "duration": "4-5 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K",
+          "frame_rate": "24fps cinematic",
+          "aspect_ratio": "2.35:1 widescreen",
+          "lighting_style": "mixed practical and motivated",
+          "sound_design": "5.1 surround capable"
+        },
+        "ai_generation_prompts": {
+          "primary": "Upscale restaurant interior, warm candlelight ambiance, elegant diners, professional service, cinematic lighting",
+          "style_modifiers": ["atmospheric", "luxury dining", "bokeh lights", "sophisticated crowd"],
+          "negative_prompts": ["empty restaurant", "harsh lighting", "casual dress", "paper napkins"]
+        },
+        "ambiance_elements": [
+          "soft background music notation",
+          "gentle conversation murmur",
+          "silverware and glassware sounds",
+          "wine cork pops",
+          "sizzling from open kitchen"
+        ]
+      },
+      {
+        "id": "farm_to_table_journey",
+        "name": "Ingredient Origins Story",
+        "description": "Following ingredients from farm source to final plate",
+        "duration": "45-60 seconds",
+        "style": {
+          "visual": "documentary style",
+          "lighting": "natural light dominant",
+          "color_grading": "organic, earthy tones",
+          "mood": "authentic and sustainable"
+        },
+        "shots": [
+          {
+            "type": "sunrise_farm",
+            "description": "Golden hour over organic farm, mist rising from fields",
+            "camera": "drone establishing shot",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "harvest_hands",
+            "description": "Farmer's hands selecting perfect produce, morning dew visible",
+            "camera": "intimate handheld, macro details",
+            "duration": "5-6 seconds"
+          },
+          {
+            "type": "transport_montage",
+            "description": "Produce journey: boxing, truck, farmer's market, restaurant delivery",
+            "camera": "quick cuts, time-lapse elements",
+            "duration": "8-10 seconds"
+          },
+          {
+            "type": "chef_inspection",
+            "description": "Chef examining ingredients, smelling herbs, selecting best items",
+            "camera": "medium close-ups, natural light",
+            "duration": "5-6 seconds"
+          },
+          {
+            "type": "transformation",
+            "description": "Raw ingredients becoming finished dish, preparation process",
+            "camera": "combination overhead and side angles",
+            "duration": "8-10 seconds"
+          },
+          {
+            "type": "final_plate",
+            "description": "Completed dish with ingredient beauty highlighted",
+            "camera": "hero shot, slow push-in",
+            "duration": "3-4 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K",
+          "frame_rate": "mixed 24/60fps",
+          "aspect_ratio": "16:9",
+          "color_profile": "natural/documentary",
+          "drone_shots": "included where appropriate"
+        },
+        "ai_generation_prompts": {
+          "primary": "Organic farm at sunrise, fresh vegetables with morning dew, farmer's hands harvesting, natural documentary lighting",
+          "style_modifiers": ["photojournalistic", "authentic", "sustainable farming", "earth tones"],
+          "negative_prompts": ["industrial farming", "pesticides", "artificial lighting", "processed foods"]
+        },
+        "storytelling_elements": [
+          "seasonality emphasis",
+          "local sourcing focus",
+          "farmer profiles",
+          "sustainability practices",
+          "seed to plate narrative"
+        ]
+      },
+      {
+        "id": "dessert_creation_artistry",
+        "name": "Sweet Masterpiece",
+        "description": "Pastry chef creating elaborate desserts with decorative elements",
+        "duration": "30-40 seconds",
+        "style": {
+          "visual": "high-end patisserie",
+          "lighting": "bright and clean",
+          "color_grading": "vibrant, enhanced colors",
+          "mood": "playful elegance"
+        },
+        "shots": [
+          {
+            "type": "chocolate_tempering",
+            "description": "Glossy chocolate being tempered, swirls and shine",
+            "camera": "macro lens, revealing texture",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "piping_precision",
+            "description": "Pastry bag creating intricate patterns, steady hands",
+            "camera": "extreme close-up, follow movement",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "assembly_sequence",
+            "description": "Layer by layer construction, time-lapse style",
+            "camera": "locked off side view",
+            "duration": "6-8 seconds"
+          },
+          {
+            "type": "decoration_details",
+            "description": "Gold leaf application, sugar work, edible flowers placement",
+            "camera": "macro with focus stacking",
+            "duration": "5-6 seconds"
+          },
+          {
+            "type": "final_reveal",
+            "description": "Completed dessert on display, 360-degree beauty",
+            "camera": "turntable rotation, multiple angles",
+            "duration": "4-5 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K or 6K",
+          "frame_rate": "30fps standard",
+          "aspect_ratio": "16:9 or 1:1 for social",
+          "macro_capability": "essential",
+          "color_depth": "10-bit minimum"
+        },
+        "ai_generation_prompts": {
+          "primary": "Luxury pastry creation, chocolate ganache, gold leaf decoration, professional pastry kitchen, artistic dessert plating",
+          "style_modifiers": ["ultra-detailed", "glossy textures", "vibrant colors", "professional patisserie"],
+          "negative_prompts": ["melted chocolate", "messy workspace", "amateur decoration", "dull colors"]
+        },
+        "dessert_elements": [
+          "mirror glazes",
+          "spun sugar",
+          "chocolate sculptures",
+          "fruit compotes",
+          "cream textures",
+          "caramel work",
+          "molecular techniques"
+        ]
+      },
+      {
+        "id": "wine_pairing_elegance",
+        "name": "Sommelier's Selection",
+        "description": "Wine service and pairing with sophisticated pouring techniques",
+        "duration": "25-35 seconds",
+        "style": {
+          "visual": "luxury beverage commercial",
+          "lighting": "dramatic with rim lighting",
+          "color_grading": "rich, deep tones",
+          "mood": "sophisticated and knowledgeable"
+        },
+        "shots": [
+          {
+            "type": "cellar_selection",
+            "description": "Wine bottles in cellar, dust particles in light beam",
+            "camera": "slow tracking shot",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "cork_ceremony",
+            "description": "Cork removal in slow motion, anticipation building",
+            "camera": "close-up, 120fps",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "decanting_pour",
+            "description": "Wine flowing into decanter, backlit for color clarity",
+            "camera": "macro side view, steady",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "glass_swirl",
+            "description": "Wine swirling in glass, legs forming, aroma release",
+            "camera": "circular motion follow",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "food_pairing",
+            "description": "Wine glass next to perfectly paired dish",
+            "camera": "rack focus between elements",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "tasting_moment",
+            "description": "Sophisticated sip, appreciation expression",
+            "camera": "portrait style, soft focus",
+            "duration": "3-4 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K minimum",
+          "frame_rate": "24fps with slow-mo inserts",
+          "aspect_ratio": "2.35:1 cinematic",
+          "glass_filming": "polarized filters",
+          "lighting_type": "controlled studio"
+        },
+        "ai_generation_prompts": {
+          "primary": "Elegant wine service, crystal glasses, sophisticated sommelier, wine pouring in slow motion, luxury restaurant setting",
+          "style_modifiers": ["cinematic lighting", "luxury lifestyle", "deep burgundy tones", "refined atmosphere"],
+          "negative_prompts": ["spilled wine", "dirty glasses", "poor lighting", "casual setting"]
+        },
+        "wine_elements": [
+          "vintage labels",
+          "proper glassware",
+          "temperature control",
+          "aeration techniques",
+          "color observation",
+          "bouquet appreciation"
+        ]
+      },
+      {
+        "id": "street_food_energy",
+        "name": "Urban Flavors",
+        "description": "Vibrant street food preparation with cultural authenticity",
+        "duration": "30-40 seconds",
+        "style": {
+          "visual": "documentary handheld",
+          "lighting": "available light, neon accents",
+          "color_grading": "vibrant, high saturation",
+          "mood": "energetic and authentic"
+        },
+        "shots": [
+          {
+            "type": "market_atmosphere",
+            "description": "Busy street food market, steam rising, crowds gathering",
+            "camera": "wide establishing, handheld energy",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "vendor_action",
+            "description": "Fast-paced cooking, flames, wok tossing, skilled movements",
+            "camera": "dynamic handheld, quick pans",
+            "duration": "5-6 seconds"
+          },
+          {
+            "type": "ingredient_prep",
+            "description": "Rapid chopping, fresh ingredients, colorful displays",
+            "camera": "close-ups, fast cuts",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "cooking_flames",
+            "description": "Dramatic wok flames, sizzling action, smoke effects",
+            "camera": "slow-motion bursts, side angle",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "assembly_speed",
+            "description": "Quick assembly of dish, practiced efficiency",
+            "camera": "overhead and side cuts",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "customer_enjoyment",
+            "description": "First bite reactions, steam rising from food",
+            "camera": "candid style, natural reactions",
+            "duration": "3-4 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K",
+          "frame_rate": "30fps with 60fps action",
+          "aspect_ratio": "16:9",
+          "camera_style": "handheld with stabilization",
+          "low_light_capable": "essential"
+        },
+        "ai_generation_prompts": {
+          "primary": "Vibrant street food market, Asian street vendor, wok flames, steam and smoke, authentic cooking action, neon signs",
+          "style_modifiers": ["documentary style", "high energy", "cultural authenticity", "night market lighting"],
+          "negative_prompts": ["empty stalls", "staged setup", "artificial lighting", "slow pace"]
+        },
+        "street_food_elements": [
+          "local specialties",
+          "traditional techniques",
+          "fresh ingredients",
+          "cultural context",
+          "vendor personality",
+          "crowd energy"
+        ]
+      },
+      {
+        "id": "baking_transformation",
+        "name": "Rise and Golden",
+        "description": "Time-lapse baking showing dough transformation to finished product",
+        "duration": "20-30 seconds",
+        "style": {
+          "visual": "warm bakery aesthetic",
+          "lighting": "soft natural with oven glow",
+          "color_grading": "golden warm tones",
+          "mood": "comforting and artisanal"
+        },
+        "shots": [
+          {
+            "type": "dough_kneading",
+            "description": "Hands working dough, flour dust in air",
+            "camera": "overhead view, steady",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "rising_timelapse",
+            "description": "Dough doubling in size, time-lapse magic",
+            "camera": "locked off side view",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "shaping_sequence",
+            "description": "Forming loaves, scoring patterns, artistic touches",
+            "camera": "multiple angles, detail shots",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "oven_transformation",
+            "description": "Through oven window, rising and browning process",
+            "camera": "time-lapse through glass",
+            "duration": "5-6 seconds"
+          },
+          {
+            "type": "golden_reveal",
+            "description": "Fresh baked goods emerging, steam escaping",
+            "camera": "slow pull-back reveal",
+            "duration": "3-4 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K",
+          "frame_rate": "30fps standard",
+          "time_lapse_interval": "10-30 seconds",
+          "aspect_ratio": "16:9",
+          "temperature_resistance": "for oven shots"
+        },
+        "ai_generation_prompts": {
+          "primary": "Artisan bakery, bread dough rising time-lapse, golden crust forming, flour dust particles, warm oven lighting",
+          "style_modifiers": ["cozy atmosphere", "artisanal process", "golden hour lighting", "rustic textures"],
+          "negative_prompts": ["burnt bread", "industrial setting", "cold lighting", "failed bakes"]
+        },
+        "baking_elements": [
+          "fermentation bubbles",
+          "gluten development",
+          "crust formation",
+          "steam injection",
+          "cooling racks",
+          "flour dusting techniques"
+        ]
+      },
+      {
+        "id": "cocktail_mixology",
+        "name": "Liquid Artistry",
+        "description": "Bartender creating cocktails with flair and precision",
+        "duration": "25-35 seconds",
+        "style": {
+          "visual": "premium bar commercial",
+          "lighting": "moody with backlit bottles",
+          "color_grading": "rich contrast, vibrant liquids",
+          "mood": "sophisticated nightlife"
+        },
+        "shots": [
+          {
+            "type": "bottle_display",
+            "description": "Backlit bar shelves, premium spirits glowing",
+            "camera": "slow tracking shot",
+            "duration": "2-3 seconds"
+          },
+          {
+            "type": "ice_preparation",
+            "description": "Ice carving, crushing, perfect cube clarity",
+            "camera": "macro details, crisp focus",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "pouring_techniques",
+            "description": "Layered pours, flaming spirits, precision measuring",
+            "camera": "multiple angles, slow-motion",
+            "duration": "6-8 seconds"
+          },
+          {
+            "type": "shaking_flair",
+            "description": "Cocktail shaker moves, ice sounds, rhythmic motion",
+            "camera": "dynamic movement, follow action",
+            "duration": "4-5 seconds"
+          },
+          {
+            "type": "garnish_artistry",
+            "description": "Citrus peels, herb placement, final touches",
+            "camera": "extreme close-ups",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "finished_presentation",
+            "description": "Completed cocktail, condensation, color layers",
+            "camera": "hero shot with atmosphere",
+            "duration": "3-4 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "4K",
+          "frame_rate": "24fps with 120fps accents",
+          "aspect_ratio": "2.35:1 or 16:9",
+          "specialized_lighting": "for glass and liquids",
+          "audio_capture": "ice, pouring, shaking sounds"
+        },
+        "ai_generation_prompts": {
+          "primary": "Skilled bartender mixing cocktails, premium bar setting, dramatic lighting, cocktail shaker in motion, colorful liquids",
+          "style_modifiers": ["nightlife atmosphere", "luxury bar", "professional mixology", "dynamic movement"],
+          "negative_prompts": ["spilled drinks", "empty bar", "poor technique", "cloudy ice"]
+        },
+        "mixology_elements": [
+          "muddling techniques",
+          "flame effects",
+          "smoke infusions",
+          "molecular mixology",
+          "custom ice shapes",
+          "layering methods",
+          "theatrical presentation"
+        ]
+      },
+      {
+        "id": "food_texture_macro",
+        "name": "Texture Symphony",
+        "description": "Extreme close-ups exploring food textures and details",
+        "duration": "20-30 seconds",
+        "style": {
+          "visual": "macro cinematography",
+          "lighting": "controlled studio lighting",
+          "color_grading": "enhanced detail and contrast",
+          "mood": "mesmerizing and artistic"
+        },
+        "shots": [
+          {
+            "type": "honey_drizzle",
+            "description": "Golden honey flowing in extreme slow motion",
+            "camera": "macro lens, 240fps",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "bread_crumb",
+            "description": "Bread interior structure, air pockets, texture detail",
+            "camera": "focus stacking technique",
+            "duration": "2-3 seconds"
+          },
+          {
+            "type": "chocolate_melt",
+            "description": "Chocolate melting, glossy transformation",
+            "camera": "time-lapse macro",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "bubble_formation",
+            "description": "Carbonation bubbles in beverages, champagne fizz",
+            "camera": "underwater macro setup",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "crystal_formation",
+            "description": "Salt crystals, sugar structures, ice formation",
+            "camera": "microscopic detail level",
+            "duration": "3-4 seconds"
+          },
+          {
+            "type": "oil_water_dance",
+            "description": "Oil droplets on water, iridescent patterns",
+            "camera": "top-down macro",
+            "duration": "3-4 seconds"
+          }
+        ],
+        "technical_specs": {
+          "resolution": "6K or 8K preferred",
+          "frame_rate": "variable 24-240fps",
+          "macro_ratio": "1:1 to 5:1",
+          "focus_stacking": "where applicable",
+          "specialized_lenses": "macro 100mm+"
+        },
+        "ai_generation_prompts": {
+          "primary": "Extreme macro food photography, honey texture detail, bubbles in liquid, crystalline structures, ultra-sharp focus",
+          "style_modifiers": ["microscopic detail", "abstract patterns", "vivid textures", "scientific precision"],
+          "negative_prompts": ["out of focus", "motion blur", "poor lighting", "low detail"]
+        },
+        "texture_explorations": [
+          "liquid viscosity",
+          "crystalline structures",
+          "fibrous textures",
+          "emulsions and foams",
+          "melting transitions",
+          "surface tensions",
+          "molecular structures"
+        ]
+      }
+    ],
+    "general_guidelines": {
+      "food_safety": "Ensure all food handling appears sanitary and professional",
+      "color_accuracy": "Maintain true-to-life food colors with slight enhancement",
+      "timing": "Keep shots dynamic but allow viewers to appreciate details",
+      "sound_design": "Emphasize food sounds: sizzles, crunches, pours",
+      "cultural_sensitivity": "Respect authentic preparation methods and presentations",
+      "freshness_indicators": "Steam, condensation, glistening surfaces, vibrant colors"
+    },
+    "technical_considerations": {
+      "camera_equipment": {
+        "preferred_lenses": ["macro 100mm", "50mm f/1.4", "24-70mm f/2.8", "probe lens"],
+        "stabilization": "gimbal for movement, tripod for static",
+        "specialized_gear": ["slider", "turntable", "overhead rig"]
+      },
+      "lighting_setup": {
+        "key_light": "large softbox for even illumination",
+        "fill_light": "bounce cards or LED panels",
+        "accent_light": "for rim lighting and steam enhancement",
+        "practical_lights": "candles, oven glow, neon signs"
+      },
+      "ai_video_generation": {
+        "model_recommendations": "Food-specialized models when available",
+        "preprocessing": "Color correction and white balance crucial",
+        "frame_interpolation": "For smooth slow-motion effects",
+        "upscaling": "Maintain texture detail in enlargements"
+      }
+    },
+    "common_food_styling_tricks": {
+      "steam_effects": "Hidden steamers, dry ice for cold items",
+      "surface_treatment": "Glycerin spray for freshness, oil for shine",
+      "color_enhancement": "Natural enhancers, proper lighting angles",
+      "stability": "Hidden supports, food-safe adhesives",
+      "substitutions": "Ice cream alternatives for melting prevention"
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "category": "Animation Cartoon",
+  "categoryId": "animation_cartoon",
+  "templateCount": 10,
+  "generatedAt": "2025-08-02T07:25:09.531Z",
+  "templates": [
+    {
+      "id": "anim_011",
+      "title": "2D Character Animation Suite",
+      "category": "animation_cartoon",
+      "subcategory": "2D Character Animation",
+      "prompt": "Professional 2D character animation showcasing full emotional range, character performing subtle acting with micro-expressions, eyebrow raises, lip sync with phoneme shapes, breathing idle animation, weight shifts, hand gestures with finger articulation, facial rig demonstrating happy to sad transition, squash and stretch on dialogue emphasis, overlapping action on hair and clothing, silhouette-readable poses, appeal through asymmetry, animation on 2s with selective 1s for rapid movements",
+      "negative_prompt": "stiff puppet animation, symmetrical poses, no weight, floating movements, robotic expressions",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 8,
+        "style": "professional 2D animation",
+        "motion_quality": "nuanced character acting",
+        "color_palette": "studio production colors"
+      },
+      "animation_principles": [
+        "squash_and_stretch",
+        "anticipation",
+        "staging",
+        "follow_through",
+        "overlapping_action",
+        "slow_in_slow_out",
+        "arcs",
+        "secondary_action",
+        "timing",
+        "exaggeration",
+        "solid_drawing",
+        "appeal"
+      ],
+      "performance_elements": [
+        "facial_expressions",
+        "lip_sync",
+        "gesture_library",
+        "breathing_cycles",
+        "weight_distribution"
+      ],
+      "camera_movement": "subtle push-ins for emotional beats",
+      "lighting": "rim light separation, mood-based key lighting"
+    },
+    {
+      "id": "anim_012",
+      "title": "3D Pixar-Style Character Scene",
+      "category": "animation_cartoon",
+      "subcategory": "3D Feature Animation",
+      "prompt": "Pixar-quality 3D animated scene, appealing character with large expressive eyes discovering magical object, toon shader with subsurface scattering on skin, physically accurate hair simulation with stylized clumping, emotion-driven pupil dilation, subtle facial asymmetry for appeal, cloth simulation with cartoon physics, rim lighting creating silhouette pop, depth of field focusing attention, particle dust motes in volumetric lighting, anticipation in every gesture, thinking poses before actions",
+      "negative_prompt": "uncanny valley, realistic human proportions, flat lighting, no subsurface scattering, stiff hair",
+      "technical_specs": {
+        "resolution": "2560x1440",
+        "fps": 24,
+        "duration": 10,
+        "style": "Pixar-inspired 3D animation",
+        "motion_quality": "feature film quality",
+        "color_palette": "cinematic with color script"
+      },
+      "rendering_features": [
+        "toon_shading",
+        "subsurface_scattering",
+        "hair_simulation",
+        "cloth_dynamics",
+        "volumetric_lighting"
+      ],
+      "character_appeal": [
+        "large_eyes",
+        "facial_asymmetry",
+        "expressive_silhouette",
+        "personality_poses"
+      ],
+      "camera_movement": "motivated cinematography with handheld feel",
+      "post_effects": "depth of field, motion blur, color grading"
+    },
+    {
+      "id": "anim_013",
+      "title": "Anime Sakuga Action Sequence",
+      "category": "animation_cartoon",
+      "subcategory": "Anime Action",
+      "prompt": "High-impact anime sakuga animation sequence, character charging energy with hair flowing upward, speed lines radiating from impact points, smear frames creating motion trails, impact frames held for 3-4 frames with screen shake, debris particles with physics, camera rotating 360 degrees during special attack, speedline backgrounds during movement, Yutaka Nakamura-inspired timing, irregular frame timing for impact, effects animation on 1s, character on 2s and 3s, climactic slash with light beam",
+      "negative_prompt": "western cartoon style, consistent frame timing, no impact frames, static camera, no effects",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 6,
+        "style": "sakuga anime animation",
+        "motion_quality": "dynamic with irregular timing",
+        "color_palette": "high contrast with effects"
+      },
+      "sakuga_techniques": [
+        "impact_frames",
+        "smear_frames",
+        "speed_lines",
+        "irregular_timing",
+        "effects_animation",
+        "camera_rotation"
+      ],
+      "action_choreography": [
+        "charge_up",
+        "release",
+        "impact",
+        "follow_through",
+        "recovery"
+      ],
+      "effects": "energy particles, light beams, screen shake, debris",
+      "inspiration": "Yutaka Nakamura, Norio Matsumoto styles"
+    },
+    {
+      "id": "anim_014",
+      "title": "Stop Motion Craft Animation",
+      "category": "animation_cartoon",
+      "subcategory": "Stop Motion",
+      "prompt": "Handcrafted stop motion animation with visible fingerprints on clay, paper cut-out elements with subtle texture, replacement animation for facial expressions, practical lighting creating real shadows, slight camera wobble for authentic feel, 12fps on 2s for stop motion aesthetic, armature-based character with realistic weight, fabric clothing with wire support, miniature set with forced perspective, depth of field from real camera optics, cotton wool clouds, frame-by-frame adjustments visible",
+      "negative_prompt": "smooth digital animation, no texture, perfect stability, CGI elements, digital effects",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 5,
+        "style": "practical stop motion",
+        "motion_quality": "handcrafted with imperfections",
+        "color_palette": "natural material colors"
+      },
+      "stop_motion_elements": [
+        "clay_animation",
+        "paper_cutouts",
+        "replacement_faces",
+        "practical_sets",
+        "real_lighting"
+      ],
+      "authentic_touches": [
+        "visible_fingerprints",
+        "camera_wobble",
+        "frame_adjustments",
+        "material_textures"
+      ],
+      "animation_method": "straight-ahead on 2s",
+      "materials": "polymer clay, paper, fabric, wire armatures"
+    },
+    {
+      "id": "anim_015",
+      "title": "Motion Graphics Explainer",
+      "category": "animation_cartoon",
+      "subcategory": "Motion Graphics",
+      "prompt": "Clean motion graphics explainer animation, kinetic typography with words transforming into icons, infographic elements building procedurally, data visualization with animated charts growing, flat design icons with subtle 3D extrusion, smooth bezier motion paths, color coding for information hierarchy, transition wipes between sections, null object parenting for complex movements, expression-driven animations, modular design system, easing graphs for professional motion, trim paths revealing illustrations",
+      "negative_prompt": "cluttered layout, harsh transitions, no hierarchy, amateur easing, static text",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "duration": 60,
+        "style": "modern motion graphics",
+        "motion_quality": "smooth with custom easing",
+        "color_palette": "corporate with accent colors"
+      },
+      "motion_graphics_elements": [
+        "kinetic_typography",
+        "icon_animations",
+        "data_visualization",
+        "infographic_builds",
+        "transition_design"
+      ],
+      "design_principles": [
+        "visual_hierarchy",
+        "color_coding",
+        "modular_system",
+        "consistent_timing"
+      ],
+      "technical_approach": "After Effects workflow with expressions",
+      "audio_sync": "motion timed to voiceover and music beats"
+    },
+    {
+      "id": "anim_016",
+      "title": "Cartoon Comedy Timing Masterclass",
+      "category": "animation_cartoon",
+      "subcategory": "Comedy Animation",
+      "prompt": "Masterful cartoon comedy sequence with perfect timing, character slipping on banana peel with anticipation, hang time at peak of arc, scrambling legs before fall, exaggerated takes with eyes popping, multiple bounce impacts with decreasing height, stars circling head, accordion squash on landing, rubber hose limbs during recovery, breaking fourth wall with embarrassed look to camera, comedic sound effect timing, rule of threes for gag escalation, callback to earlier setup",
+      "negative_prompt": "poor timing, realistic physics, no exaggeration, serious tone, predictable gags",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 7,
+        "style": "classic cartoon comedy",
+        "motion_quality": "snappy with precise timing",
+        "color_palette": "bright cartoon colors"
+      },
+      "comedy_principles": [
+        "setup_and_payoff",
+        "rule_of_threes",
+        "escalation",
+        "misdirection",
+        "callback_humor"
+      ],
+      "physical_comedy": [
+        "takes_and_reactions",
+        "squash_and_stretch",
+        "impossible_physics",
+        "visual_gags"
+      ],
+      "timing_beats": "anticipation, action, reaction, recovery",
+      "influences": "Tex Avery, Chuck Jones timing"
+    },
+    {
+      "id": "anim_017",
+      "title": "Children's Story Animation",
+      "category": "animation_cartoon",
+      "subcategory": "Educational Entertainment",
+      "prompt": "Gentle children's storybook animation, soft watercolor textures with visible brush strokes, friendly animal characters with simple shapes, slow pacing for young viewers, educational counting elements integrated naturally, characters speaking directly to audience, large clear gestures for communication, pastel color palette with no harsh contrasts, repetitive motions for learning, nursery rhyme rhythm in movement, safety-conscious content, rounded edges on everything, smiling sun and clouds",
+      "negative_prompt": "fast pacing, scary elements, sharp objects, complex narratives, small details",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 120,
+        "style": "children's illustration animation",
+        "motion_quality": "gentle and clear",
+        "color_palette": "soft pastels"
+      },
+      "educational_elements": [
+        "counting_sequences",
+        "color_identification",
+        "shape_recognition",
+        "simple_lessons"
+      ],
+      "child_friendly_features": [
+        "slow_pacing",
+        "clear_gestures",
+        "repetition",
+        "direct_address"
+      ],
+      "visual_safety": "rounded shapes, soft colors, friendly faces",
+      "narrative_structure": "simple three-act with clear resolution"
+    },
+    {
+      "id": "anim_018",
+      "title": "Abstract Art Animation",
+      "category": "animation_cartoon",
+      "subcategory": "Experimental Animation",
+      "prompt": "Mesmerizing abstract animation with morphing geometric shapes, colors bleeding and blending like liquid paint, synchronization to musical rhythm, Kandinsky-inspired composition in motion, shapes pulsing and breathing organically, particle systems creating and destroying forms, mathematical patterns like fractals evolving, color theory in motion with complementary transitions, negative space as active element, golden ratio spiral movements, texture overlays shifting, generative art aesthetics",
+      "negative_prompt": "representational imagery, static composition, random movement, no rhythm, muddy colors",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": 90,
+        "style": "abstract experimental",
+        "motion_quality": "fluid and hypnotic",
+        "color_palette": "full spectrum with theory"
+      },
+      "abstract_elements": [
+        "shape_morphing",
+        "color_transitions",
+        "pattern_evolution",
+        "texture_overlays",
+        "particle_systems"
+      ],
+      "artistic_principles": [
+        "rhythm_and_repetition",
+        "color_theory",
+        "composition_dynamics",
+        "negative_space"
+      ],
+      "inspiration": "Kandinsky, Mondrian, generative art",
+      "audio_visual": "tight synchronization to music"
+    },
+    {
+      "id": "anim_019",
+      "title": "1930s Rubber Hose Animation",
+      "category": "animation_cartoon",
+      "subcategory": "Retro Animation",
+      "prompt": "Authentic 1930s rubber hose animation style, black and white with film grain, characters with pie-cut eyes and white gloves, noodle-like limbs bending impossibly, synchronized movement to jazzy soundtrack, repeating walk cycles, bouncing to rhythm, steamboat whistle gags, anthropomorphic objects dancing, film scratches and gate weave, vintage title cards, iris wipes between scenes, Max Fleischer rotoscope influence, synchronized musical movement",
+      "negative_prompt": "modern colors, digital cleanliness, realistic anatomy, complex shading, still moments",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 6,
+        "style": "1930s theatrical cartoon",
+        "motion_quality": "rhythmic and bouncy",
+        "color_palette": "black and white"
+      },
+      "rubber_hose_characteristics": [
+        "flexible_limbs",
+        "pie_cut_eyes",
+        "white_gloves",
+        "simple_shapes",
+        "rhythmic_movement"
+      ],
+      "vintage_effects": [
+        "film_grain",
+        "gate_weave",
+        "scratches",
+        "iris_transitions"
+      ],
+      "animation_style": "cycles and rhythm-based movement",
+      "era_authenticity": "Fleischer/early Disney influence"
+    },
+    {
+      "id": "anim_020",
+      "title": "Mixed Media Collage Animation",
+      "category": "animation_cartoon",
+      "subcategory": "Mixed Media",
+      "prompt": "Innovative mixed media animation combining 2D drawn elements, 3D CGI objects, stop motion puppets, and live-action footage, seamless compositing with matching lighting, paper texture overlays unifying different media, rotoscoped live-action integrated with cartoon characters, photographic backgrounds with animated foregrounds, digital paint over practical elements, split-screen showing multiple techniques, creative transitions between media types, experimental layering with transparency, shadows connecting different elements",
+      "negative_prompt": "single medium only, poor compositing, mismatched lighting, no integration, jarring transitions",
+      "technical_specs": {
+        "resolution": "2560x1440",
+        "fps": 24,
+        "duration": 8,
+        "style": "experimental mixed media",
+        "motion_quality": "varied per medium",
+        "color_palette": "unified across media"
+      },
+      "media_elements": [
+        "2D_animation",
+        "3D_CGI",
+        "stop_motion",
+        "live_action",
+        "photography"
+      ],
+      "integration_techniques": [
+        "unified_lighting",
+        "consistent_shadows",
+        "texture_overlays",
+        "color_grading"
+      ],
+      "creative_approach": "seamless media blending",
+      "post_production": "advanced compositing and color matching"
+    }
+  ]
+}

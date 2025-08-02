@@ -1,0 +1,290 @@
+{
+  "animation_cartoon_templates": [
+    {
+      "id": "anim_001",
+      "title": "2D Character Walk Cycle",
+      "category": "Animation & Cartoon",
+      "subcategory": "2D Animation",
+      "prompt": "A cheerful 2D animated character performing a bouncy walk cycle, cartoon style with exaggerated squash and stretch principles, smooth frame interpolation, character has large expressive eyes that blink periodically, arms swinging with secondary animation, hair or clothing elements following with overlapping action, bright colorful design against a simple gradient background, 12 principles of animation applied, anticipation in each step, appeal through rounded shapes and clear silhouette",
+      "negative_prompt": "realistic, 3D render, photographic, static pose, stiff movement, linear motion, no personality",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 4,
+        "style": "2D traditional animation",
+        "motion_quality": "smooth with easing",
+        "color_palette": "vibrant cartoon colors"
+      },
+      "animation_principles": [
+        "squash_and_stretch",
+        "anticipation",
+        "follow_through",
+        "overlapping_action",
+        "secondary_action",
+        "appeal"
+      ],
+      "camera_movement": "static front view",
+      "lighting": "flat cartoon lighting with minimal shadows"
+    },
+    {
+      "id": "anim_002",
+      "title": "3D Cartoon World Exploration",
+      "category": "Animation & Cartoon",
+      "subcategory": "3D Cartoon Environment",
+      "prompt": "Whimsical 3D cartoon village exploration, camera flying through colorful mushroom houses with bouncy rooftops, cartoon trees with exaggerated proportions swaying gently, cute animated creatures peeking from windows and doorways, dynamic camera movement swooping between buildings, toon shader rendering style, saturated colors with rim lighting, particle effects like floating bubbles and sparkles, depth of field for cinematic feel, stylized proportions with oversized elements",
+      "negative_prompt": "realistic textures, photorealistic rendering, dark atmosphere, empty scene, static camera",
+      "technical_specs": {
+        "resolution": "2560x1440",
+        "fps": 30,
+        "duration": 6,
+        "style": "3D toon shading",
+        "motion_quality": "cinematic with smooth curves",
+        "color_palette": "saturated pastels"
+      },
+      "environment_elements": [
+        "mushroom_houses",
+        "cartoon_trees",
+        "animated_creatures",
+        "particle_effects",
+        "dynamic_props"
+      ],
+      "camera_movement": "dynamic fly-through with swooping motions",
+      "lighting": "bright ambient with rim lighting, soft shadows"
+    },
+    {
+      "id": "anim_003",
+      "title": "Motion Graphics Logo Reveal",
+      "category": "Animation & Cartoon",
+      "subcategory": "Motion Graphics",
+      "prompt": "Dynamic motion graphics logo animation, geometric shapes morphing and transforming with fluid transitions, bright neon colors pulsing with energy, elements building up from particles that swirl and combine, kinetic typography with letters animating individually, smooth bezier curves guiding motion paths, depth created through layered elements with parallax, glow effects and light streaks, anticipation builds before final logo lock-up, professional broadcast quality finish",
+      "negative_prompt": "static logo, abrupt transitions, dull colors, amateur quality, glitchy movements",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": 5,
+        "style": "modern motion graphics",
+        "motion_quality": "broadcast professional",
+        "color_palette": "neon gradients"
+      },
+      "animation_elements": [
+        "shape_morphing",
+        "particle_systems",
+        "kinetic_typography",
+        "light_effects",
+        "smooth_transitions"
+      ],
+      "camera_movement": "subtle parallax zoom",
+      "effects": "glow, motion blur, light streaks"
+    },
+    {
+      "id": "anim_004",
+      "title": "Character Transformation Sequence",
+      "category": "Animation & Cartoon",
+      "subcategory": "Character Animation",
+      "prompt": "Magical character transformation animation, cartoon character starting in normal form then enveloped by swirling magical energy, body morphing with fluid shape changes, costume materializing with sparkle effects, hair flowing upward with dynamic secondary animation, power aura expanding outward, facial expression changing from surprised to confident, anime-inspired transformation with dramatic timing, light beams and particle effects, climactic pose at end with energy burst",
+      "negative_prompt": "instant change, no effects, static transformation, realistic style, muted colors",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 5,
+        "style": "anime-influenced cartoon",
+        "motion_quality": "dramatic with holds",
+        "color_palette": "magical gradients"
+      },
+      "transformation_stages": [
+        "initial_pose",
+        "energy_buildup",
+        "body_morph",
+        "costume_materialize",
+        "power_surge",
+        "final_pose"
+      ],
+      "effects": "sparkles, energy waves, light beams, aura glow",
+      "camera_movement": "dynamic zoom with rotation"
+    },
+    {
+      "id": "anim_005",
+      "title": "Cartoon Action Combat",
+      "category": "Animation & Cartoon",
+      "subcategory": "Action Animation",
+      "prompt": "High-energy cartoon fight sequence with exaggerated physics, character performing spinning kicks with motion blur trails, impact frames with star bursts and action lines, rubber hose animation style flexibility, anticipation poses before each strike, smear frames for fast movements, cartoon dust clouds on impacts, dynamic camera angles cutting between shots, comic book style speed lines, exaggerated facial expressions, bouncy recovery animations",
+      "negative_prompt": "realistic violence, slow motion, stiff movements, dark atmosphere, gore",
+      "technical_specs": {
+        "resolution": "2560x1440",
+        "fps": 30,
+        "duration": 4,
+        "style": "western cartoon action",
+        "motion_quality": "snappy with smears",
+        "color_palette": "bold primary colors"
+      },
+      "action_elements": [
+        "impact_frames",
+        "motion_blur",
+        "speed_lines",
+        "dust_effects",
+        "star_bursts"
+      ],
+      "animation_techniques": [
+        "smear_frames",
+        "anticipation",
+        "follow_through",
+        "exaggeration"
+      ],
+      "camera_movement": "quick cuts with dynamic angles"
+    },
+    {
+      "id": "anim_006",
+      "title": "Cute Mascot Performance",
+      "category": "Animation & Cartoon",
+      "subcategory": "Mascot Animation",
+      "prompt": "Adorable mascot character performing energetic dance routine, kawaii style with oversized head and tiny body, bouncy movements with squash and stretch, heart particles floating around, winking and making cute expressions, tail or ears wiggling with secondary animation, pastel rainbow background with stars, character occasionally jumping with joy, chibi proportions, smooth looping animation, sparkling eyes with anime highlights",
+      "negative_prompt": "scary, realistic proportions, static pose, dark colors, aggressive movements",
+      "technical_specs": {
+        "resolution": "1080x1080",
+        "fps": 30,
+        "duration": 6,
+        "style": "kawaii chibi",
+        "motion_quality": "bouncy and smooth",
+        "color_palette": "pastel rainbow"
+      },
+      "character_features": [
+        "oversized_head",
+        "sparkling_eyes",
+        "tiny_body",
+        "expressive_face",
+        "bouncy_appendages"
+      ],
+      "animation_loop": true,
+      "effects": "heart particles, sparkles, rainbow trails"
+    },
+    {
+      "id": "anim_007",
+      "title": "Animated Logo Build",
+      "category": "Animation & Cartoon",
+      "subcategory": "Logo Animation",
+      "prompt": "Playful animated logo construction, cartoon elements assembling piece by piece, each component bouncing into place with personality, letters doing flips before landing, mascot character helping to build the logo, construction tools with faces showing emotions, satisfying snap-into-place moments, confetti explosion on completion, sound-reactive animation potential, professional yet fun approach, scalable vector style graphics",
+      "negative_prompt": "corporate boring style, no personality, instant appearance, static elements",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "duration": 5,
+        "style": "vector cartoon",
+        "motion_quality": "bouncy with personality",
+        "color_palette": "brand colors with playful accents"
+      },
+      "build_sequence": [
+        "foundation_elements",
+        "letter_animations",
+        "mascot_interaction",
+        "assembly_phase",
+        "final_celebration"
+      ],
+      "character_props": "animated tools with faces",
+      "effects": "confetti, bounce effects, snap animations"
+    },
+    {
+      "id": "anim_008",
+      "title": "Children's Storybook Scene",
+      "category": "Animation & Cartoon",
+      "subcategory": "Story Visualization",
+      "prompt": "Enchanted storybook animation with pages turning to reveal animated fairy tale scene, watercolor texture style, friendly dragon playing with children in magical forest, trees with smiling faces gently swaying, butterflies leaving trails of sparkles, soft dreamy atmosphere, page turn transitions between scenes, narrator-friendly pacing, educational elements subtly integrated, warm color palette, characters with round friendly shapes",
+      "negative_prompt": "scary elements, sharp edges, dark forest, realistic style, fast pacing",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 24,
+        "duration": 8,
+        "style": "storybook illustration",
+        "motion_quality": "gentle and dreamy",
+        "color_palette": "warm watercolors"
+      },
+      "story_elements": [
+        "page_turns",
+        "character_interactions",
+        "environmental_animation",
+        "magical_elements"
+      ],
+      "visual_style": "watercolor textures with soft edges",
+      "pacing": "slow and educational"
+    },
+    {
+      "id": "anim_009",
+      "title": "Comic Book Action Panels",
+      "category": "Animation & Cartoon",
+      "subcategory": "Comic Style Animation",
+      "prompt": "Dynamic comic book style animation with panels sliding and zooming, superhero character bursting through panel borders, action lines and onomatopoeia text effects (POW!, BAM!), Ben Day dots texture overlay, bold black outlines, dramatic camera movements between panels, speed lines for motion, thought bubbles and speech balloons animating in, vintage comic coloring with halftone effects, panel transitions with page flip effects",
+      "negative_prompt": "realistic rendering, no text effects, static panels, muddy colors, no outlines",
+      "technical_specs": {
+        "resolution": "2560x1440",
+        "fps": 24,
+        "duration": 6,
+        "style": "comic book art",
+        "motion_quality": "dynamic panel transitions",
+        "color_palette": "vintage comic colors"
+      },
+      "comic_elements": [
+        "panel_layouts",
+        "action_lines",
+        "text_effects",
+        "speech_bubbles",
+        "halftone_textures"
+      ],
+      "transitions": "panel slides, zooms, page flips",
+      "effects": "Ben Day dots, speed lines, impact bursts"
+    },
+    {
+      "id": "anim_010",
+      "title": "Magical Spell Effects",
+      "category": "Animation & Cartoon",
+      "subcategory": "Special Effects Animation",
+      "prompt": "Cartoon wizard casting colorful magic spells, swirling energy forming from wand tip, spell circles with rotating runes appearing, magical projectiles with rainbow trails, sparkle particles following bezier curves, energy building up with anticipation before release, cartoon smoke puffs on impact, objects transforming with morphing effects, glowing auras pulsing rhythmically, whimsical sound-driven visual effects, Disney-style magic animation",
+      "negative_prompt": "dark magic, realistic effects, no colors, static energy, violent spells",
+      "technical_specs": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "duration": 5,
+        "style": "fantasy cartoon",
+        "motion_quality": "fluid with particle systems",
+        "color_palette": "magical rainbow spectrum"
+      },
+      "magic_components": [
+        "spell_circles",
+        "energy_trails",
+        "particle_systems",
+        "transformation_effects",
+        "aura_glows"
+      ],
+      "animation_timing": "anticipation, action, follow-through",
+      "effects": "sparkles, glows, morphing, particle trails"
+    }
+  ],
+  "category_guidelines": {
+    "animation_principles": {
+      "squash_and_stretch": "Maintain volume while deforming shapes",
+      "anticipation": "Prepare audience for major actions",
+      "staging": "Present ideas clearly",
+      "straight_ahead_and_pose_to_pose": "Two different animation approaches",
+      "follow_through": "Parts continue moving after main body stops",
+      "slow_in_slow_out": "More frames at beginning and end of action",
+      "arc": "Natural movement follows curved paths",
+      "secondary_action": "Supports main action",
+      "timing": "Number of frames for action",
+      "exaggeration": "Push movements beyond realistic",
+      "solid_drawing": "Account for 3D space",
+      "appeal": "Charismatic and interesting to watch"
+    },
+    "technical_requirements": {
+      "frame_rates": "24fps for film look, 30fps for smooth, 60fps for ultra-smooth",
+      "resolution": "Minimum 1080p, prefer 4K for future-proofing",
+      "color_space": "sRGB for web, Rec.709 for broadcast",
+      "motion_blur": "Essential for fast movements",
+      "render_quality": "Anti-aliasing and smooth gradients"
+    },
+    "style_consistency": {
+      "character_design": "Consistent proportions and appeal",
+      "color_harmony": "Cohesive palette throughout",
+      "line_quality": "Consistent weight and style",
+      "texture_approach": "Unified surface treatment",
+      "lighting_style": "Consistent mood and atmosphere"
+    }
+  }
+}

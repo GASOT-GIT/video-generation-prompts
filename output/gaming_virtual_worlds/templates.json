@@ -1,0 +1,636 @@
+{
+  "category": "Gaming & Virtual Worlds",
+  "categoryId": "gaming_virtual_worlds",
+  "templateCount": 10,
+  "generatedAt": "2025-08-02T00:00:00.000Z",
+  "templates": [
+    {
+      "id": "gaming_epic_trailer_01",
+      "category": "gaming_virtual_worlds",
+      "title": "Epic Game Trailer",
+      "description": "Cinematic combat sequences with dynamic hero reveals and explosive action",
+      "prompt": {
+        "main": "Epic game trailer opening with warrior's battle-scarred helmet filling the frame. Lightning strikes illuminate medieval battlefield as camera pulls back revealing massive armies clashing. Hero character bursts through enemy lines with slow-motion sword strikes, particle effects trailing each swing. Dragon swoops overhead breathing fire across the battlefield. Dynamic camera tracks alongside cavalry charge through explosions. Magical spells create colorful light bursts. Close-up of hero's determined eyes before final strike. Game logo materializes from embers with orchestral crescendo. HUD elements fade in showing release date.",
+        "elements": {
+          "cameraMovement": "Dramatic pull-backs, sweeping crane shots, slow-motion hero moments, dynamic battle tracking",
+          "subject": "Armored warriors, dragons, magical effects, epic battles, game logo",
+          "scene": "Medieval battlefield, burning castles, mystical landscapes, storm-filled skies",
+          "motion": "Sword combat, spell casting, dragon flight, cavalry charges, explosions",
+          "lighting": "Lightning flashes, fire glow, magical auras, dramatic rim lighting",
+          "atmosphere": "Epic, heroic, intense, cinematic blockbuster quality",
+          "style": "AAA game trailer cinematography - cinematic combat sequences",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K HDR",
+            "aspectRatio": "21:9 (Cinematic)",
+            "frameRate": "24/60 fps mixed"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Sci-Fi Combat",
+          "modifiedElements": {
+            "scene": "Space station battle with laser weapons and shields",
+            "subject": "Space marines, alien enemies, energy weapons"
+          }
+        },
+        {
+          "name": "Stealth Action",
+          "modifiedElements": {
+            "motion": "Silent takedowns, parkour movement, gadget usage",
+            "lighting": "Shadows and darkness with tactical vision"
+          }
+        }
+      ],
+      "tags": [
+        "game trailer",
+        "cinematic",
+        "combat",
+        "epic",
+        "AAA",
+        "action"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Build tension with pacing and music synchronization",
+        "Mix wide battle shots with intimate character moments",
+        "Show unique gameplay mechanics in cinematic context",
+        "End with impactful logo reveal and call-to-action"
+      ],
+      "examples": {
+        "sampleOutput": "God of War Ragnarok, Elden Ring, Assassin's Creed trailers",
+        "useCases": [
+          "Game announcement trailers",
+          "E3 showcase presentations",
+          "Launch marketing campaigns"
+        ]
+      }
+    },
+    {
+      "id": "gaming_open_world_02",
+      "category": "gaming_virtual_worlds",
+      "title": "Open World Exploration",
+      "description": "Vast landscapes with dynamic weather systems and immersive environments",
+      "prompt": {
+        "main": "Sunrise breaks over vast open world landscape. Camera glides over rolling hills revealing diverse biomes - lush forests transition to snowy mountains. Character on horseback gallops across meadow as dynamic weather shifts from sunshine to approaching storm. Time-lapse shows day-night cycle with stars appearing. Wildlife roams naturally - deer drinking from streams, eagles soaring overhead. Ancient ruins peek through foliage. Camera dives underwater showing vibrant coral reefs. Volumetric fog rolls through valleys. Map UI appears showing vast unexplored regions. Environmental sounds create immersive atmosphere.",
+        "elements": {
+          "cameraMovement": "Sweeping aerial shots, smooth gliding, environmental reveals, seamless biome transitions",
+          "subject": "Vast landscapes, weather systems, wildlife, environmental details",
+          "scene": "Open world with forests, mountains, oceans, deserts, ancient ruins",
+          "motion": "Weather changes, wildlife movement, water flow, foliage swaying",
+          "lighting": "Dynamic day-night cycle, weather-based lighting, volumetric effects",
+          "atmosphere": "Explorative, immersive, natural, wonder-inducing",
+          "style": "Open world showcase - photorealistic environments",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Post-Apocalyptic",
+          "modifiedElements": {
+            "scene": "Ruined cities reclaimed by nature, radiation zones",
+            "atmosphere": "Desolate, mysterious, dangerous beauty"
+          }
+        },
+        {
+          "name": "Alien World",
+          "modifiedElements": {
+            "scene": "Bioluminescent forests, floating islands, dual suns",
+            "lighting": "Alien color palettes, phosphorescent glow"
+          }
+        }
+      ],
+      "tags": [
+        "open world",
+        "exploration",
+        "environment",
+        "landscape",
+        "weather",
+        "immersive"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show environmental diversity and scale",
+        "Demonstrate dynamic weather and time systems",
+        "Include ambient wildlife for living world feel",
+        "Highlight exploration rewards and discoveries"
+      ],
+      "examples": {
+        "sampleOutput": "Horizon Forbidden West, Red Dead Redemption 2, Zelda BOTW",
+        "useCases": [
+          "World showcase trailers",
+          "Developer diary footage",
+          "Environmental tech demos"
+        ]
+      }
+    },
+    {
+      "id": "gaming_esports_hype_03",
+      "category": "gaming_virtual_worlds",
+      "title": "Esports Tournament Hype",
+      "description": "Player reactions and crowd energy in competitive gaming environments",
+      "prompt": {
+        "main": "Stadium lights sweep across roaring crowd of thousands. Quick cuts between player booths showing intense focus - fingers dancing on keyboards, precise mouse movements. Split-screen clutch play with player webcam showing emotional reaction. Crowd erupts as underdog team secures victory. Slow-motion fist bumps between teammates. Confetti cannons explode with team colors. Trophy lifted overhead with stage pyrotechnics. Player stats and tournament bracket graphics overlay. Commentator booth excitement. Champions interviewed on stage. Drone shot pulls back showing packed arena. Social media reactions flood screen.",
+        "elements": {
+          "cameraMovement": "Quick cuts, booth cams, crowd sweeps, stage coverage, drone aerials",
+          "subject": "Pro players, crowd reactions, trophy ceremony, stage production",
+          "scene": "Esports arena, player booths, main stage, audience sections",
+          "motion": "Player reactions, crowd waves, confetti, pyrotechnics, celebrations",
+          "lighting": "Stage lights, LED displays, spotlights, team color themes",
+          "atmosphere": "Competitive, exciting, energetic, celebratory",
+          "style": "Broadcast esports production",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K HDR",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Online Tournament",
+          "modifiedElements": {
+            "scene": "Player webcam grid, home setups, virtual stage",
+            "motion": "Remote celebrations, synchronized reactions"
+          }
+        },
+        {
+          "name": "Fighting Game",
+          "modifiedElements": {
+            "subject": "1v1 intense matches, combo counters",
+            "motion": "Controller inputs, perfect parries"
+          }
+        }
+      ],
+      "tags": [
+        "esports",
+        "tournament",
+        "competitive",
+        "hype",
+        "crowd",
+        "championship"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Capture raw player emotions and reactions",
+        "Show crowd energy and scale of event",
+        "Include key gameplay moments with context",
+        "Use professional broadcast graphics"
+      ],
+      "examples": {
+        "sampleOutput": "League Worlds Finals, CS:GO Majors, EVO Championships",
+        "useCases": [
+          "Tournament recap videos",
+          "Event promotional content",
+          "Esports documentaries"
+        ]
+      }
+    },
+    {
+      "id": "gaming_character_creation_04",
+      "category": "gaming_virtual_worlds",
+      "title": "Character Creation Showcase",
+      "description": "Customization options and ability demonstrations with detailed UI",
+      "prompt": {
+        "main": "Character creation screen fades in with base model rotating on pedestal. UI sliders adjust facial features in real-time - eyes widening, jaw reshaping. Hair styles cycle through with physics simulation. Armor pieces materialize onto character with particle effects. Color customization shows RGB spectrum sweeping across gear. Class selection triggers transformation - warrior muscles bulge, mage gains mystical aura. Skill tree appears with branching paths lighting up. Combat preview shows abilities in action arena. Emote wheel demonstrates personality options. Final character pose with stats display. Name entry with unique font styles.",
+        "elements": {
+          "cameraMovement": "Orbital character view, UI element focus, smooth transitions",
+          "subject": "Character model, customization UI, armor sets, ability effects",
+          "scene": "Creation chamber, preview arena, skill visualization space",
+          "motion": "Model rotation, feature morphing, ability demonstrations, UI animations",
+          "lighting": "Pedestal spotlights, ability glows, UI illumination",
+          "atmosphere": "Creative, personalized, detailed, empowering",
+          "style": "RPG character creator presentation",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Sci-Fi Creator",
+          "modifiedElements": {
+            "subject": "Cybernetic implants, alien races, tech armor",
+            "scene": "Holographic creation bay, space station"
+          }
+        },
+        {
+          "name": "Monster Creator",
+          "modifiedElements": {
+            "subject": "Creature parts, scales, wings, tails",
+            "motion": "Monstrous transformations, roar previews"
+          }
+        }
+      ],
+      "tags": [
+        "character creation",
+        "customization",
+        "RPG",
+        "abilities",
+        "personalization"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show depth of customization options",
+        "Demonstrate how choices affect gameplay",
+        "Include diverse body types and styles",
+        "Preview abilities and class differences"
+      ],
+      "examples": {
+        "sampleOutput": "Baldur's Gate 3, Cyberpunk 2077, Elden Ring creators",
+        "useCases": [
+          "Feature showcases",
+          "Character reveal trailers",
+          "RPG marketing content"
+        ]
+      }
+    },
+    {
+      "id": "gaming_virtual_concert_05",
+      "category": "gaming_virtual_worlds",
+      "title": "Virtual Concert Experience",
+      "description": "In-game performances with spectacular visual effects and crowd interaction",
+      "prompt": {
+        "main": "Virtual concert venue materializes with thousands of player avatars gathering. Stage erupts with holographic performer appearing in burst of particles. Synchronized light show pulses to beat - lasers sweep across crowd. Avatar hands raise creating sea of glowsticks. Stage transforms with each song - floating platforms, gravity-defying set pieces. Crowd emotes trigger collaborative light effects. Fireworks explode overhead forming song lyrics. Interactive moments let players affect visuals. Giant AR elements appear above venue. Camera flies through dancing crowd showing avatar diversity. Festival atmosphere with virtual merchandise booths. Grand finale with entire world transforming to music.",
+        "elements": {
+          "cameraMovement": "Aerial venue shots, stage fly-throughs, crowd navigation, 360 spins",
+          "subject": "Virtual performer, avatar crowds, stage effects, environmental transforms",
+          "scene": "Virtual concert venue, fantastical stages, metaverse locations",
+          "motion": "Dancing avatars, particle effects, stage transformations, crowd waves",
+          "lighting": "Concert lighting, lasers, pyrotechnics, synchronized colors",
+          "atmosphere": "Energetic, spectacular, social, futuristic",
+          "style": "Virtual event production - metaverse concerts",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "EDM Festival",
+          "modifiedElements": {
+            "lighting": "Intense strobes, LED walls, bass visualizations",
+            "motion": "DJ mixing, crowd jumping, drop moments"
+          }
+        },
+        {
+          "name": "Orchestra Performance",
+          "modifiedElements": {
+            "scene": "Virtual symphony hall, classical instruments",
+            "atmosphere": "Elegant, sophisticated, immersive acoustics"
+          }
+        }
+      ],
+      "tags": [
+        "virtual concert",
+        "metaverse",
+        "music",
+        "social",
+        "event",
+        "performance"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Sync all visual effects to music timing",
+        "Show massive scale through crowd shots",
+        "Feature interactive and social elements",
+        "Create spectacular impossible moments"
+      ],
+      "examples": {
+        "sampleOutput": "Travis Scott Fortnite, Ariana Grande Fortnite, Roblox concerts",
+        "useCases": [
+          "Virtual event promotion",
+          "Metaverse platform demos",
+          "Music partnership content"
+        ]
+      }
+    },
+    {
+      "id": "gaming_speedrun_highlights_06",
+      "category": "gaming_virtual_worlds",
+      "title": "Speedrun Highlights",
+      "description": "Timer overlays and route optimization with frame-perfect execution",
+      "prompt": {
+        "main": "Speedrun timer starts at 00:00.00 with runner performing frame-perfect wall jump. Split comparison shows pace ahead of world record. Glitch execution launches character across map with trajectory overlay. Timer turns gold indicating best segment. Route visualization shows optimal path through level. Frame data appears during trick execution. Multiple attempts montage shows consistency grinding. Clutch save from run-ending mistake with heart rate monitor spike. Final boss skip with precise positioning. Timer stops with new personal best celebration. Leaderboard update showing ranking improvement. Strategy breakdown with controller input display.",
+        "elements": {
+          "cameraMovement": "Game footage with overlay focus, occasional runner cam",
+          "subject": "Speedrunner gameplay, timer overlays, route visualizations, input displays",
+          "scene": "Various game levels with optimization paths highlighted",
+          "motion": "Precise movements, glitch execution, rapid menu navigation",
+          "lighting": "Game-specific with overlay highlights for important moments",
+          "atmosphere": "Intense, focused, technical, celebratory",
+          "style": "Speedrunning content production",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps minimum"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Marathon Run",
+          "modifiedElements": {
+            "duration": "Extended highlights from multi-hour run",
+            "subject": "Endurance, consistency, commentary highlights"
+          }
+        },
+        {
+          "name": "Randomizer",
+          "modifiedElements": {
+            "scene": "Randomized item locations and routing",
+            "motion": "Adaptive strategy, on-the-fly decisions"
+          }
+        }
+      ],
+      "tags": [
+        "speedrun",
+        "competitive",
+        "technical",
+        "optimization",
+        "records",
+        "glitches"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Clear timer and split visibility",
+        "Highlight technical achievements",
+        "Show improvement progression",
+        "Include input displays for transparency"
+      ],
+      "examples": {
+        "sampleOutput": "GDQ highlights, SummoningSalt documentaries, WR progression videos",
+        "useCases": [
+          "Speedrun showcases",
+          "Tutorial content",
+          "Competition highlights"
+        ]
+      }
+    },
+    {
+      "id": "gaming_dev_behind_scenes_07",
+      "category": "gaming_virtual_worlds",
+      "title": "Game Development Behind Scenes",
+      "description": "Motion capture sessions and asset creation with developer insights",
+      "prompt": {
+        "main": "Motion capture studio with actors in sensor suits performing combat choreography. Split screen shows real movements translating to game character. 3D artist sculpting character model with tablet, time-lapse of progression. Level designer placing assets in engine with real-time lighting adjustments. Code editor with gameplay systems being debugged, variable values changing. Sound designer recording foley - footsteps, weapon impacts. Voice actor in booth delivering emotional dialogue. Team standup meeting with task board and concept art. Playtesting session with developers observing and taking notes. Before/after shots of prototype versus polished content. Version control commit messages scrolling by.",
+        "elements": {
+          "cameraMovement": "Documentary style, over-shoulder shots, studio tours, screen captures",
+          "subject": "Game developers, mocap actors, development tools, work-in-progress content",
+          "scene": "Development studios, mocap stages, recording booths, offices",
+          "motion": "Creative work, mocap performances, iterative improvements",
+          "lighting": "Natural office lighting, mocap stage lights, monitor glows",
+          "atmosphere": "Creative, collaborative, technical, passionate",
+          "style": "Game development documentary",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps (cinematic)"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Indie Solo Dev",
+          "modifiedElements": {
+            "scene": "Home office, solo developer workspace",
+            "subject": "Individual creator, personal development story"
+          }
+        },
+        {
+          "name": "AAA Production",
+          "modifiedElements": {
+            "scene": "Large studio spaces, hundreds of developers",
+            "motion": "Massive team coordination, department collaboration"
+          }
+        }
+      ],
+      "tags": [
+        "game development",
+        "behind scenes",
+        "mocap",
+        "creative process",
+        "documentary"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show variety of development disciplines",
+        "Include work-in-progress comparisons",
+        "Feature human stories behind games",
+        "Demonstrate iterative design process"
+      ],
+      "examples": {
+        "sampleOutput": "God of War documentaries, Indie Game: The Movie, NoClip docs",
+        "useCases": [
+          "Developer diaries",
+          "Making-of content",
+          "Studio culture videos"
+        ]
+      }
+    },
+    {
+      "id": "gaming_battle_royale_08",
+      "category": "gaming_virtual_worlds",
+      "title": "Battle Royale Action",
+      "description": "Map shrinking mechanics and elimination moments with tactical gameplay",
+      "prompt": {
+        "main": "100 players drop from battle bus over vast island map. Parachutes deploy with players diving toward different landing zones. Fast looting montage - weapons, shields, materials gathering. Storm circle appears on map with timer countdown. First elimination with hitmarker and elimination feed. Building mechanics showcase - rapid construction during firefight. Squad coordination with ping system and voice comms indicators. Vehicle chase across shrinking map. Final circle intensity with only 3 players remaining. Tactical positioning behind cover. Victory royale screen with celebration emotes. Stats screen showing eliminations, damage dealt, placement.",
+        "elements": {
+          "cameraMovement": "Third-person action, tactical overviews, elimination replays, victory pans",
+          "subject": "Players battling, storm circles, building mechanics, final showdowns",
+          "scene": "Large island map with diverse locations, shrinking play area",
+          "motion": "Parachuting, running, building, shooting, vehicle driving",
+          "lighting": "Dynamic time of day, storm effects, muzzle flashes, explosions",
+          "atmosphere": "Intense, competitive, tactical, victorious",
+          "style": "Battle royale gameplay cinematics",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Futuristic BR",
+          "modifiedElements": {
+            "scene": "Sci-fi map with advanced tech and abilities",
+            "motion": "Jetpack movement, energy weapons, shield deploys"
+          }
+        },
+        {
+          "name": "Realistic Military",
+          "modifiedElements": {
+            "style": "Tactical realism, authentic weapons",
+            "atmosphere": "Gritty, serious, strategic"
+          }
+        }
+      ],
+      "tags": [
+        "battle royale",
+        "competitive",
+        "survival",
+        "action",
+        "multiplayer",
+        "victory"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show complete match progression",
+        "Highlight unique BR mechanics",
+        "Include tense final moments",
+        "Feature both solo and squad play"
+      ],
+      "examples": {
+        "sampleOutput": "Fortnite, Apex Legends, PUBG gameplay trailers",
+        "useCases": [
+          "Season launch trailers",
+          "Gameplay highlights",
+          "Tournament recaps"
+        ]
+      }
+    },
+    {
+      "id": "gaming_rpg_story_09",
+      "category": "gaming_virtual_worlds",
+      "title": "RPG Story Moments",
+      "description": "Dialogue choices and emotional cutscenes with branching narratives",
+      "prompt": {
+        "main": "Character enters ancient throne room with dust particles floating in light beams. Dialogue wheel appears with moral choices - paragon, renegade, neutral options. Close-up on NPC's facial expressions showing emotional weight of conversation. Player choice triggers branching cutscene - alliance formed or conflict initiated. Inventory screen shows quest item examination with lore description. Party members react to decisions with approval/disapproval indicators. Flashback sequence with sepia tone showing character backstory. Romance option dialogue with relationship progression. Major plot revelation with dramatic camera angles. Companion loyalty mission completion affecting story outcome. Multiple ending variations based on accumulated choices.",
+        "elements": {
+          "cameraMovement": "Cinematic dialogue framing, emotional close-ups, dramatic reveals",
+          "subject": "Player character, NPCs, dialogue systems, story consequences",
+          "scene": "Fantasy settings, throne rooms, taverns, battlefields, intimate moments",
+          "motion": "Facial animations, gesture emphasis, environmental storytelling",
+          "lighting": "Mood lighting, candlelight conversations, dramatic shadows",
+          "atmosphere": "Emotional, consequential, immersive, narrative-driven",
+          "style": "Cinematic RPG storytelling",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Sci-Fi RPG",
+          "modifiedElements": {
+            "scene": "Space stations, alien worlds, holographic interfaces",
+            "subject": "Alien races, tech choices, galactic consequences"
+          }
+        },
+        {
+          "name": "Detective RPG",
+          "modifiedElements": {
+            "motion": "Evidence examination, interrogation tactics",
+            "atmosphere": "Noir, mysterious, investigative"
+          }
+        }
+      ],
+      "tags": [
+        "RPG",
+        "story",
+        "dialogue",
+        "choices",
+        "narrative",
+        "emotional"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Show meaningful choice consequences",
+        "Highlight emotional character moments",
+        "Demonstrate branching narratives",
+        "Include diverse dialogue options"
+      ],
+      "examples": {
+        "sampleOutput": "Mass Effect, The Witcher 3, Baldur's Gate 3 story trailers",
+        "useCases": [
+          "Story trailers",
+          "Character showcases",
+          "DLC announcements"
+        ]
+      }
+    },
+    {
+      "id": "gaming_vr_immersion_10",
+      "category": "gaming_virtual_worlds",
+      "title": "VR Gaming Immersion",
+      "description": "First-person perspective with hand tracking and haptic feedback visualization",
+      "prompt": {
+        "main": "VR headset view fades in showing virtual hands materializing. Natural hand movements tracked perfectly - fingers flexing, grabbing virtual objects. Physics interaction demonstration - picking up items, throwing with realistic trajectories. Haptic feedback visualization shows controller vibration on contact. Room-scale movement with guardian boundary appearing. Climbing mechanic using hand-over-hand motion. Weapon handling with manual reloading actions. Gesture-based magic system with hand movements creating spells. Social VR space with other players' full body avatars. Mixed reality view showing player in real space within virtual world. Comfort options demonstration - teleport movement, vignetting. Eye tracking for foveated rendering highlight.",
+        "elements": {
+          "cameraMovement": "First-person VR perspective, natural head tracking, smooth locomotion",
+          "subject": "Virtual hands, interactive objects, VR interfaces, other players",
+          "scene": "VR environments, mixed reality spaces, physics playgrounds",
+          "motion": "Hand tracking, object manipulation, gesture controls, body movement",
+          "lighting": "Volumetric lighting, interactive light sources, atmospheric effects",
+          "atmosphere": "Immersive, present, interactive, wonder-inducing",
+          "style": "VR gameplay demonstration",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K per eye",
+            "aspectRatio": "16:9 (flattened)",
+            "frameRate": "90 fps (VR standard)"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "VR Horror",
+          "modifiedElements": {
+            "atmosphere": "Tense, scary, atmospheric dread",
+            "lighting": "Darkness with flashlight mechanics"
+          }
+        },
+        {
+          "name": "VR Fitness",
+          "modifiedElements": {
+            "motion": "Full body workouts, rhythm games",
+            "subject": "Exercise tracking, calorie counters"
+          }
+        }
+      ],
+      "tags": [
+        "VR",
+        "virtual reality",
+        "immersive",
+        "hand tracking",
+        "first-person",
+        "interactive"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Demonstrate natural hand interactions",
+        "Show unique VR-only mechanics",
+        "Include comfort options for accessibility",
+        "Highlight social VR possibilities"
+      ],
+      "examples": {
+        "sampleOutput": "Half-Life: Alyx, Beat Saber, Asgard's Wrath 2 trailers",
+        "useCases": [
+          "VR game trailers",
+          "Hardware demonstrations",
+          "Platform showcases"
+        ]
+      }
+    }
+  ]
+}

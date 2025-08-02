@@ -1,0 +1,134 @@
+{
+  "projectName": "Video Generation AI Prompts",
+  "version": "1.0.0",
+  "generationDate": "2025-08-01T18:00:36.671Z",
+  "executionTime": "0.01 seconds",
+  "statistics": {
+    "totalCategories": 20,
+    "totalTemplates": 200,
+    "averageTemplatesPerCategory": 10,
+    "successRate": "100%"
+  },
+  "categories": [
+    {
+      "name": "Cinematic Storytelling",
+      "id": "cinematic_storytelling",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Product Showcase",
+      "id": "product_showcase",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Fashion & Beauty",
+      "id": "fashion_beauty",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Food & Culinary",
+      "id": "food_culinary",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Travel & Tourism",
+      "id": "travel_tourism",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Sports & Action",
+      "id": "sports_action",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Music & Performance",
+      "id": "music_performance",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Education & Tutorial",
+      "id": "education_tutorial",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Real Estate & Architecture",
+      "id": "real_estate_architecture",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Nature & Wildlife",
+      "id": "nature_wildlife",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Sci-Fi & Fantasy",
+      "id": "scifi_fantasy",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Animation & Cartoon",
+      "id": "animation_cartoon",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Medical & Healthcare",
+      "id": "medical_healthcare",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Corporate & Business",
+      "id": "corporate_business",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Event & Celebration",
+      "id": "event_celebration",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Gaming & Virtual Worlds",
+      "id": "gaming_virtual_worlds",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Art & Creative",
+      "id": "art_creative",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Technology & Innovation",
+      "id": "technology_innovation",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Lifestyle & Wellness",
+      "id": "lifestyle_wellness",
+      "templateCount": 10,
+      "status": "completed"
+    },
+    {
+      "name": "Social Media Content",
+      "id": "social_media_content",
+      "templateCount": 10,
+      "status": "completed"
+    }
+  ]
+}

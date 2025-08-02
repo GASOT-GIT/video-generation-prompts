@@ -1,0 +1,390 @@
+{
+  "category": "Art Creative",
+  "categoryId": "art_creative",
+  "templateCount": 10,
+  "generatedAt": "2025-08-02T07:14:07.796Z",
+  "templates": [
+    {
+      "id": "artist_studio_process",
+      "title": "Artist Studio Process",
+      "description": "Intimate documentation of paint mixing, brushwork, and creative decisions in an artist's studio",
+      "video_specs": {
+        "duration": "90-180 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "16:9",
+        "color_profile": "sRGB/Adobe RGB"
+      },
+      "prompt": {
+        "main": "Artist studio process documentation, intimate creative workspace, natural north-facing window light, close-up paint mixing on palette, brush touching canvas texture, time-lapse painting progression, over-shoulder perspective of creative decisions, stepping back to evaluate progress, 4K cinematic quality, shallow depth of field",
+        "elements": {
+          "opening": "Wide establishing shot of sunlit studio space, artist's hands preparing materials, slow pan across art supplies and tools, dust particles floating in morning light",
+          "main_sequence": "Medium shot contemplating blank canvas, extreme close-up brush touching canvas, rhythmic alternation between real-time detail work and time-lapse progression, macro shots of paint mixing and texture creation",
+          "closing": "Pull-back reveal of completed artwork, artist's satisfied expression, final detail shot of signature being added",
+          "atmosphere": "Quiet contemplation, creative intensity, authentic artistic process"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Full-frame camera",
+          "24-70mm lens",
+          "Macro lens",
+          "Slider/gimbal"
+        ],
+        "lighting": "Natural window light with warm practicals for evening scenes",
+        "audio": "Brush strokes, palette knife scraping, canvas texture, minimalist piano"
+      },
+      "tags": [
+        "artist",
+        "studio",
+        "painting",
+        "creative process",
+        "documentary"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "digital_art_creation",
+      "title": "Digital Art Creation",
+      "description": "Dynamic capture of tablet drawing, layer building, and digital techniques from blank canvas to finished piece",
+      "video_specs": {
+        "duration": "60-120 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 60,
+        "aspect_ratio": "16:9",
+        "color_profile": "sRGB/DCI-P3"
+      },
+      "prompt": {
+        "main": "Digital art creation time-lapse, screen recording with artist hands visible, stylus work close-ups on tablet surface, layer building progression, vibrant color development, UI elements and tool selection, 4K 60fps quality, modern tech-creative atmosphere, calibrated monitor glow",
+        "elements": {
+          "opening": "Artist setting up digital workspace, screen coming to life, UI elements and tool selection reveal",
+          "main_sequence": "Screen recording of artwork progression, intercut shots of artist's hand on stylus, close-ups of intricate detail work, layer building and color development, special effects and finishing touches",
+          "closing": "Final artwork reveal, export and display on various devices, artist's signature or watermark application",
+          "atmosphere": "Tech-creative fusion, modern digital studio environment"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Screen recording software",
+          "Secondary camera for artist shots",
+          "Color-accurate monitor"
+        ],
+        "lighting": "Calibrated monitor glow with ambient bias lighting",
+        "audio": "Stylus taps, keyboard shortcuts, electronic/synthwave music"
+      },
+      "tags": [
+        "digital art",
+        "illustration",
+        "tablet",
+        "time-lapse",
+        "technology"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "sculpture_making_journey",
+      "title": "Sculpture Making Journey",
+      "description": "Detailed documentation of clay modeling, carving, and casting process from raw materials to finished sculpture",
+      "video_specs": {
+        "duration": "150-300 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "color_profile": "Rec. 709"
+      },
+      "prompt": {
+        "main": "Sculpture creation process, raw clay transformation, detailed tool work with chisels and modeling tools, 360-degree rotation shots of progress, dust particles in directional light beams, time-lapse and real-time mix, 4K cinematic quality, industrial workshop atmosphere",
+        "elements": {
+          "opening": "Raw materials display - clay blocks, sculptor's tools laid out, artist's hands examining material texture",
+          "main_sequence": "Initial shaping and rough form creation, close-ups of carving techniques, 360-degree dolly around sculpture, detail work with specialized tools, artist's focused expressions, dust and clay particles in motion",
+          "closing": "Final finishing touches, complete sculpture from multiple angles, dramatic lighting reveal of finished piece",
+          "atmosphere": "Transformation, craftsmanship, three-dimensional creativity"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Multiple cameras",
+          "Circular track for 360° shots",
+          "Macro lenses"
+        ],
+        "lighting": "Directional workshop lighting with raking light for texture",
+        "audio": "Chiseling, sanding, clay squishing, rhythmic ambient music"
+      },
+      "tags": [
+        "sculpture",
+        "3D art",
+        "clay",
+        "carving",
+        "craftsmanship"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "street_art_documentation",
+      "title": "Street Art Documentation",
+      "description": "Dynamic capture of spray painting, stenciling, and urban canvas transformation",
+      "video_specs": {
+        "duration": "90-180 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9 or 2.35:1",
+        "color_profile": "Rec. 709"
+      },
+      "prompt": {
+        "main": "Street art creation in urban setting, dynamic spray painting action, close-up nozzle work with paint mist, wide-angle wall progress shots, vibrant colors against concrete texture, artist full-body movement, 4K handheld energy, authentic street atmosphere, natural daylight",
+        "elements": {
+          "opening": "Urban location establishment, blank wall surface, artist arriving with spray cans and supplies",
+          "main_sequence": "Sketching phase, spray can techniques close-ups, wide shots showing scale, paint drips and texture details, time-lapse color fills, real-time precision work, environmental context with passersby",
+          "closing": "Final details and signature tag, step back reveal of completed mural, artist with finished piece, community reactions",
+          "atmosphere": "Urban energy, creative rebellion, public art transformation"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Run-and-gun camera setup",
+          "Wide-angle lens",
+          "Drone for aerial views"
+        ],
+        "lighting": "Natural daylight or street lighting",
+        "audio": "Spray can shaking and hissing, urban soundscape, hip-hop beats"
+      },
+      "tags": [
+        "street art",
+        "graffiti",
+        "urban",
+        "spray paint",
+        "mural"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "photography_shoot_bts",
+      "title": "Photography Shoot Behind Scenes",
+      "description": "Professional photo shoot documentation showcasing lighting setup, composition choices, and creative direction",
+      "video_specs": {
+        "duration": "120-180 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "16:9",
+        "color_profile": "Rec. 709"
+      },
+      "prompt": {
+        "main": "Photography shoot behind-the-scenes, professional studio setup, lighting adjustment details, photographer directing model, camera settings adjustments, tethered shooting monitor views, creative decision moments, 4K documentary style, professional atmosphere",
+        "elements": {
+          "opening": "Empty studio transformation, lighting equipment setup, photographer preparing cameras and lenses",
+          "main_sequence": "Light meter readings, softbox positioning, model direction and posing, shutter clicks and flash pops, reviewing shots on camera LCD, creative problem-solving moments, team collaboration",
+          "closing": "Final hero shot capture, team celebration, behind-the-scenes to final image comparison",
+          "atmosphere": "Professional creativity, technical precision, collaborative energy"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Multiple angles coverage",
+          "Behind-the-scenes camera",
+          "Audio recording"
+        ],
+        "lighting": "Studio strobes, continuous LED panels, reflectors and flags",
+        "audio": "Shutter clicks, flash recharge, creative direction dialogue, upbeat music"
+      },
+      "tags": [
+        "photography",
+        "behind the scenes",
+        "studio",
+        "lighting",
+        "professional"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "mixed_media_experimentation",
+      "title": "Mixed Media Experimentation",
+      "description": "Exploration of collage, texture, and material exploration combining various artistic mediums",
+      "video_specs": {
+        "duration": "90-150 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 60,
+        "aspect_ratio": "16:9",
+        "color_profile": "Adobe RGB"
+      },
+      "prompt": {
+        "main": "Mixed media art experimentation, multiple materials combining, paint and paper collage, texture building with found objects, unexpected material reactions, vibrant color explosions, macro texture details, 4K high-speed capture, creative chaos atmosphere",
+        "elements": {
+          "opening": "Array of diverse materials spread out, artist contemplating combinations, first experimental marks and tears",
+          "main_sequence": "Layering different mediums, glue and paint interactions, tearing and cutting paper, adding unconventional elements, color bleeding between materials, texture building through layers, happy accidents discovery",
+          "closing": "Final experimental piece reveal, extreme close-ups of texture complexity, artist's hands touching finished surfaces",
+          "atmosphere": "Experimental excitement, creative discovery, organized chaos"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "High-speed camera",
+          "Macro lenses",
+          "Overhead rig"
+        ],
+        "lighting": "Bright work light with raking angles for texture",
+        "audio": "Paper tearing, adhesive sounds, material mixing, experimental music"
+      },
+      "tags": [
+        "mixed media",
+        "collage",
+        "experimental",
+        "texture",
+        "contemporary art"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "art_gallery_opening",
+      "title": "Art Gallery Opening",
+      "description": "Elegant documentation of exhibition atmosphere, artist talks, and viewer reactions",
+      "video_specs": {
+        "duration": "120-240 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9 or 2.35:1",
+        "color_profile": "Rec. 709"
+      },
+      "prompt": {
+        "main": "Art gallery opening event, elegant exhibition atmosphere, museum-quality lighting on artworks, floating steadicam movement through spaces, visitor silhouettes against illuminated art, artist giving talk, wine glasses and social interactions, 4K cinematic quality",
+        "elements": {
+          "opening": "Exterior gallery establishing shot, elegant entrance with signage, first guests arriving in formal attire",
+          "main_sequence": "Gliding through gallery spaces, artwork presentations with viewers contemplating, artist explaining work to patrons, champagne toasts, intellectual conversations, close-ups of artwork details with reactions",
+          "closing": "Crowded gallery energy peak, artist surrounded by admirers, final artwork beauty shots",
+          "atmosphere": "Sophisticated celebration, artistic appreciation, cultural event"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Steadicam or gimbal",
+          "Low-light capable camera",
+          "Wireless audio"
+        ],
+        "lighting": "Gallery track lighting, ambient architectural illumination",
+        "audio": "Gallery ambience, conversations, clinking glasses, sophisticated jazz"
+      },
+      "tags": [
+        "gallery",
+        "exhibition",
+        "opening",
+        "event",
+        "art world"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "printmaking_techniques",
+      "title": "Printmaking Techniques",
+      "description": "Detailed capture of screen printing, etching, and lithography processes",
+      "video_specs": {
+        "duration": "120-180 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "16:9",
+        "color_profile": "Adobe RGB"
+      },
+      "prompt": {
+        "main": "Printmaking process documentation, screen printing squeegee pulls, ink rolling on plates, paper registration alignment, press operation close-ups, revealing prints from plates, multiple color layer registration, 4K detail capture, workshop atmosphere",
+        "elements": {
+          "opening": "Printmaking studio setup, screens and plates preparation, ink mixing and color matching",
+          "main_sequence": "Screen coating with emulsion, exposure and washout, squeegee pulling ink across screen, etching plate work, rolling brayers with ink, paper positioning, press pressure application, print reveal moments",
+          "closing": "Edition of prints drying, quality inspection with loupe, artist signing limited editions",
+          "atmosphere": "Technical precision, artistic craft, repetitive rhythm"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Overhead camera angles",
+          "Macro lenses for detail",
+          "Multiple angles"
+        ],
+        "lighting": "Bright workshop lighting, UV exposure unit",
+        "audio": "Squeegee sounds, press operation, paper handling, rhythmic ambient"
+      },
+      "tags": [
+        "printmaking",
+        "screen printing",
+        "etching",
+        "craft",
+        "technique"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "installation_art_assembly",
+      "title": "Installation Art Assembly",
+      "description": "Large-scale construction and space transformation documentation",
+      "video_specs": {
+        "duration": "150-300 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "16:9 or 2.35:1",
+        "color_profile": "Rec. 709"
+      },
+      "prompt": {
+        "main": "Large-scale art installation assembly, time-lapse construction sequences, human scale reference for size, dramatic lighting tests and adjustments, space transformation progression, crane and ladder work, 4K cinematic production, architectural integration",
+        "elements": {
+          "opening": "Empty installation space, arrival of artwork components on trucks, team briefing and planning",
+          "main_sequence": "Time-lapse assembly with real-time problem-solving, scale reveals with workers for reference, technical rigging and suspension, lighting design implementation, artist directing placement, safety procedures",
+          "closing": "Dramatic lighting activation, 360-degree final reveal, first visitors experiencing the space, artist statement",
+          "atmosphere": "Monumental transformation, collaborative effort, spatial drama"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Crane/jib arm",
+          "Wide-angle lenses",
+          "Time-lapse setup",
+          "Drone"
+        ],
+        "lighting": "Installation's designed lighting system, work lights",
+        "audio": "Construction sounds, team communication, building orchestral score"
+      },
+      "tags": [
+        "installation art",
+        "large scale",
+        "contemporary art",
+        "space",
+        "transformation"
+      ],
+      "category": "art_creative"
+    },
+    {
+      "id": "creative_workshop_session",
+      "title": "Creative Workshop Session",
+      "description": "Immersive capture of teaching moments and student discoveries in artistic learning environment",
+      "video_specs": {
+        "duration": "120-180 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "color_profile": "Rec. 709"
+      },
+      "prompt": {
+        "main": "Creative workshop environment, multiple participants engaged in art-making, instructor demonstrating techniques, warm natural lighting, hands-on learning moments, diverse skill levels working together, breakthrough discoveries, 4K documentary style, collaborative energy",
+        "elements": {
+          "opening": "Workshop space coming alive, participants arriving with anticipation, materials and tools being distributed",
+          "main_sequence": "Instructor demonstration with gathered students, individual creation moments, peer learning exchanges, close-ups of various techniques, problem-solving assistance, messy authentic moments, joyful discoveries",
+          "closing": "Participants sharing finished works, group critique circle, satisfied expressions and new friendships",
+          "atmosphere": "Learning excitement, creative community, supportive environment"
+        }
+      },
+      "technical_details": {
+        "equipment": [
+          "Multiple cameras",
+          "Gimbal for movement",
+          "Lavalier microphones"
+        ],
+        "lighting": "Natural workshop light with warm practicals",
+        "audio": "Workshop chatter, creative sounds, encouraging words, uplifting music"
+      },
+      "tags": [
+        "workshop",
+        "education",
+        "community",
+        "learning",
+        "creative process"
+      ],
+      "category": "art_creative"
+    }
+  ]
+}

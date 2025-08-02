@@ -1,0 +1,548 @@
+{
+  "category": "Cinematic Storytelling",
+  "categoryId": "cinematic_storytelling",
+  "templateCount": 10,
+  "generatedAt": "2025-08-01T18:00:36.666Z",
+  "templates": [
+    {
+      "id": "cinematic_dramatic_reveal_01",
+      "category": "cinematic_storytelling",
+      "title": "Dramatic Character Reveal with Emotional Impact",
+      "description": "A cinematic sequence revealing a character with powerful emotional resonance",
+      "prompt": {
+        "main": "Slow dolly zoom starting from extreme close-up of tearful eyes, gradually pulling back to reveal a solitary figure standing on rain-soaked city rooftop at twilight. Neon signs reflect in puddles as camera circles the subject. Deep shadows contrast with warm streetlight glow, creating film noir atmosphere with modern urban setting. Subject's coat billows in wind as they gaze at sprawling metropolis below.",
+        "elements": {
+          "cameraMovement": "Slow dolly zoom out transitioning to circular tracking shot",
+          "subject": "Solitary figure in long coat, emotional expression visible",
+          "scene": "Urban rooftop at twilight, rain-soaked surfaces, city skyline",
+          "motion": "Coat billowing, rain falling, neon signs flickering",
+          "lighting": "Film noir style - high contrast, warm streetlights vs cool shadows",
+          "atmosphere": "Melancholic, contemplative, emotionally charged",
+          "style": "Cinematic film noir with modern urban elements",
+          "technicalSpecs": {
+            "duration": "15-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "2.39:1 (Cinemascope)",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Sunrise Hope",
+          "modifiedElements": {
+            "lighting": "Golden hour sunrise replacing twilight",
+            "atmosphere": "Hopeful transformation from melancholy"
+          }
+        }
+      ],
+      "tags": [
+        "cinematic",
+        "emotional",
+        "character reveal",
+        "film noir",
+        "urban"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Focus on subtle facial expressions during close-up",
+        "Time the reveal with emotional music cues",
+        "Use depth of field to isolate subject from background"
+      ],
+      "examples": {
+        "sampleOutput": "Opening scene of a thriller or drama film",
+        "useCases": [
+          "Film trailers",
+          "Character introduction sequences",
+          "Emotional story pivots"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_action_chase_02",
+      "category": "cinematic_storytelling",
+      "title": "High-Octane Chase Sequence Through Urban Environment",
+      "description": "Dynamic action sequence with multiple camera angles and intense movement",
+      "prompt": {
+        "main": "Handheld camera follows protagonist sprinting through narrow alleyway, quick cut to overhead drone shot revealing pursuer gaining ground. Camera mounted on vehicle as it screeches around corner, sparks flying from scraping metal. Low angle tracking shot as subject parkours over obstacles, camera whip pans to capture each movement. Adrenaline-pumping sequence with rapid cuts and dynamic angles.",
+        "elements": {
+          "cameraMovement": "Handheld tracking, drone overhead, vehicle-mounted, whip pans",
+          "subject": "Runner in athletic gear performing parkour moves",
+          "scene": "Urban alleyways, market streets, rooftops, industrial area",
+          "motion": "Sprint, jump, slide, climb - continuous high-energy movement",
+          "lighting": "High contrast daylight, shadows in alleyways",
+          "atmosphere": "Intense, urgent, adrenaline-fueled",
+          "style": "Action movie cinematography - Paul Greengrass style",
+          "technicalSpecs": {
+            "duration": "20-30 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps for smooth action"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Night Chase",
+          "modifiedElements": {
+            "lighting": "Neon-lit streets, headlights, police sirens",
+            "atmosphere": "Noir thriller ambiance"
+          }
+        }
+      ],
+      "tags": [
+        "action",
+        "chase",
+        "parkour",
+        "urban",
+        "dynamic"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Maintain screen direction consistency",
+        "Use motion blur strategically for speed sensation",
+        "Match cuts on action for seamless flow"
+      ],
+      "examples": {
+        "sampleOutput": "Jason Bourne-style chase sequence",
+        "useCases": [
+          "Action film sequences",
+          "Video game trailers",
+          "Sports brand commercials"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_romantic_moment_03",
+      "category": "cinematic_storytelling",
+      "title": "Intimate Romantic Scene with Soft Cinematography",
+      "description": "Tender moment between two characters with dreamy visuals",
+      "prompt": {
+        "main": "Steadicam glides through field of wildflowers at golden hour, revealing couple in soft focus. Camera slowly pushes in as they embrace, lens flare creates ethereal glow. Shallow depth of field with foreground flowers creating natural vignette. Gentle breeze moves hair and fabric, creating organic movement. Warm color grading emphasizes romantic atmosphere.",
+        "elements": {
+          "cameraMovement": "Smooth steadicam approach with gentle push-in",
+          "subject": "Couple in embrace, soft romantic interaction",
+          "scene": "Wildflower meadow at golden hour, dreamy landscape",
+          "motion": "Hair and clothing in breeze, natural swaying of flowers",
+          "lighting": "Golden hour backlight, soft fill, lens flares",
+          "atmosphere": "Romantic, dreamy, intimate, warm",
+          "style": "Terrence Malick inspired - natural light and movement",
+          "technicalSpecs": {
+            "duration": "12-18 seconds",
+            "resolution": "4K",
+            "aspectRatio": "2.39:1",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Urban Romance",
+          "modifiedElements": {
+            "scene": "City bridge at sunset, bokeh lights",
+            "style": "Modern romantic with urban backdrop"
+          }
+        }
+      ],
+      "tags": [
+        "romance",
+        "intimate",
+        "golden hour",
+        "cinematic",
+        "emotional"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Use soft focus and shallow depth of field",
+        "Capture natural moments between takes",
+        "Emphasize warm color tones in grading"
+      ],
+      "examples": {
+        "sampleOutput": "Romance film climax scene",
+        "useCases": [
+          "Wedding videography",
+          "Romance film sequences",
+          "Perfume commercials"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_mystery_thriller_04",
+      "category": "cinematic_storytelling",
+      "title": "Suspenseful Corridor Scene with Shadow Play",
+      "description": "Tense thriller sequence using lighting and camera work to build suspense",
+      "prompt": {
+        "main": "Camera tracks backwards down dimly lit hospital corridor, fluorescent lights flickering intermittently. Figure emerges from shadows at far end, silhouette distorted by failing lights. Dutch angle increases tension as subject approaches. Quick cuts between empty rooms glimpsed through doorways. Sound of footsteps echoes, growing louder. Final frame - extreme close-up of door handle slowly turning.",
+        "elements": {
+          "cameraMovement": "Backwards tracking, Dutch angles, quick pans to doorways",
+          "subject": "Mysterious figure in silhouette, slow deliberate movement",
+          "scene": "Abandoned hospital corridor, flickering lights, multiple doorways",
+          "motion": "Slow approach, lights flickering, shadows shifting",
+          "lighting": "Low key lighting, flickering fluorescents, deep shadows",
+          "atmosphere": "Suspenseful, eerie, claustrophobic",
+          "style": "Horror/thriller cinematography - David Fincher influenced",
+          "technicalSpecs": {
+            "duration": "20-25 seconds",
+            "resolution": "4K",
+            "aspectRatio": "2.39:1",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Daylight Terror",
+          "modifiedElements": {
+            "lighting": "Harsh daylight through windows creating sharp shadows",
+            "atmosphere": "Unsettling contrast of danger in daylight"
+          }
+        }
+      ],
+      "tags": [
+        "thriller",
+        "suspense",
+        "horror",
+        "corridor",
+        "shadows"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Build tension through pacing and rhythm",
+        "Use negative space to create unease",
+        "Sound design is crucial for atmosphere"
+      ],
+      "examples": {
+        "sampleOutput": "Horror film stalking sequence",
+        "useCases": [
+          "Thriller films",
+          "Horror movie trailers",
+          "Suspense TV series"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_epic_landscape_05",
+      "category": "cinematic_storytelling",
+      "title": "Epic Landscape Reveal with Heroic Framing",
+      "description": "Sweeping vista shot revealing breathtaking landscape and lone hero",
+      "prompt": {
+        "main": "Drone ascending from behind cliff edge, revealing vast mountain range bathed in sunrise. Lone figure stands on precipice, silhouetted against glowing sky. Camera continues rising and pulling back to show scale of landscape. Mist rolls through valleys below, eagles circle in distance. Epic orchestral score timing with reveal. Hero's cape flows in mountain wind.",
+        "elements": {
+          "cameraMovement": "Drone ascent from low to high, pulling back for scale",
+          "subject": "Heroic figure on mountain precipice, cape flowing",
+          "scene": "Majestic mountain range at sunrise, misty valleys",
+          "motion": "Cape billowing, mist rolling, eagles circling",
+          "lighting": "Sunrise backlighting, rim light on hero, atmospheric haze",
+          "atmosphere": "Epic, majestic, heroic, awe-inspiring",
+          "style": "Lord of the Rings cinematography style",
+          "technicalSpecs": {
+            "duration": "15-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "2.39:1",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Desert Epic",
+          "modifiedElements": {
+            "scene": "Vast desert dunes with sandstorm approaching",
+            "lighting": "Harsh desert sun, sand particles in air"
+          }
+        }
+      ],
+      "tags": [
+        "epic",
+        "landscape",
+        "heroic",
+        "cinematic",
+        "adventure"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Time reveal with musical crescendo",
+        "Use atmospheric elements for depth",
+        "Frame hero small against vast landscape"
+      ],
+      "examples": {
+        "sampleOutput": "Fantasy epic opening scene",
+        "useCases": [
+          "Adventure films",
+          "Video game cinematics",
+          "Tourism campaigns"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_dialogue_scene_06",
+      "category": "cinematic_storytelling",
+      "title": "Intense Two-Person Dialogue with Dynamic Coverage",
+      "description": "Dramatic conversation scene with sophisticated camera work",
+      "prompt": {
+        "main": "Over-shoulder medium shot establishes tense conversation in dimly lit bar. Camera slowly pushes in during emotional revelation. Cut to tight close-up on eyes during pivotal moment. Handheld camera adds tension as argument escalates. Pull focus between speakers to guide attention. Background bar patrons in soft focus. Practical lighting from neon signs creates color contrast on faces.",
+        "elements": {
+          "cameraMovement": "Slow push-ins, over-shoulder coverage, handheld for tension",
+          "subject": "Two people in heated discussion, expressive faces",
+          "scene": "Moody bar interior, booth seating, neon lighting",
+          "motion": "Subtle hand gestures, leaning in/pulling back, focus pulls",
+          "lighting": "Practical neon lights, moody low-key lighting",
+          "atmosphere": "Tense, intimate, dramatic, noir-influenced",
+          "style": "Michael Mann dialogue scene style",
+          "technicalSpecs": {
+            "duration": "25-30 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Coffee Shop Confession",
+          "modifiedElements": {
+            "scene": "Bright coffee shop, window light",
+            "atmosphere": "Vulnerable, exposed, daylight honesty"
+          }
+        }
+      ],
+      "tags": [
+        "dialogue",
+        "drama",
+        "conversation",
+        "character",
+        "tension"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Match eyelines precisely between shots",
+        "Use focus pulls to shift dramatic emphasis",
+        "Let performance drive camera movement"
+      ],
+      "examples": {
+        "sampleOutput": "Heat coffee shop scene style",
+        "useCases": [
+          "Drama films",
+          "TV series pivotal moments",
+          "Acting reels"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_flashback_transition_07",
+      "category": "cinematic_storytelling",
+      "title": "Dreamlike Flashback Sequence with Time Transition",
+      "description": "Smooth transition from present to past with visual effects",
+      "prompt": {
+        "main": "Close-up on character's eyes, pupils dilating as memory triggers. Smooth dolly combined with zoom creates vertigo effect. Scene dissolves into swirling particles that reform as past location. Younger version of character appears through time ripple effect. Colors desaturate slightly, film grain added for period feel. Camera movements become more fluid and dreamlike. Edges of frame blur creating memory vignette.",
+        "elements": {
+          "cameraMovement": "Dolly zoom, floating steadicam, gentle swirls",
+          "subject": "Character transitioning from present to past self",
+          "scene": "Modern location morphing into period setting",
+          "motion": "Particle effects, time ripples, smooth transitions",
+          "lighting": "Soft, diffused light with slight overexposure",
+          "atmosphere": "Nostalgic, dreamlike, bittersweet",
+          "style": "Terrence Malick meets Christopher Nolan",
+          "technicalSpecs": {
+            "duration": "18-22 seconds",
+            "resolution": "4K",
+            "aspectRatio": "2.39:1",
+            "frameRate": "24 fps with speed ramping"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Nightmare Flashback",
+          "modifiedElements": {
+            "atmosphere": "Dark, disturbing, fragmented",
+            "style": "Horror-influenced with jarring cuts"
+          }
+        }
+      ],
+      "tags": [
+        "flashback",
+        "transition",
+        "memory",
+        "time",
+        "effects"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Use consistent visual motifs for time periods",
+        "Sound design crucial for transition",
+        "Color grade to differentiate timelines"
+      ],
+      "examples": {
+        "sampleOutput": "Inception-style memory sequence",
+        "useCases": [
+          "Drama films with flashbacks",
+          "Psychological thrillers",
+          "Character backstory reveals"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_war_battle_08",
+      "category": "cinematic_storytelling",
+      "title": "Intense Battle Sequence with Handheld Chaos",
+      "description": "Visceral combat scene with immersive camera work",
+      "prompt": {
+        "main": "Handheld camera in midst of battlefield, dirt and debris flying past lens. Quick whip pans between explosions and soldiers. Low angle following soldier through smoke-filled trench. Shaky cam intensifies during mortar impacts. Brief moments of slow-motion for emotional beats. Mud splatters on lens adding authenticity. Final crane shot rises above chaos revealing scale of battle.",
+        "elements": {
+          "cameraMovement": "Intense handheld, whip pans, crane reveal",
+          "subject": "Soldiers in combat, explosions, battlefield chaos",
+          "scene": "WWI-style trenches, no man's land, smoke and fire",
+          "motion": "Running, diving, explosions, debris flying",
+          "lighting": "Overcast sky, muzzle flashes, explosion lighting",
+          "atmosphere": "Chaotic, visceral, intense, overwhelming",
+          "style": "Saving Private Ryan beach landing style",
+          "technicalSpecs": {
+            "duration": "30-40 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps with 48 fps for action"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Modern Urban Warfare",
+          "modifiedElements": {
+            "scene": "Urban environment, building to building combat",
+            "style": "Black Hawk Down street battle style"
+          }
+        }
+      ],
+      "tags": [
+        "war",
+        "battle",
+        "action",
+        "combat",
+        "intense"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Vary shot lengths to control pacing",
+        "Use practical effects when possible",
+        "Balance chaos with geographical clarity"
+      ],
+      "examples": {
+        "sampleOutput": "1917 or Dunkirk battle sequences",
+        "useCases": [
+          "War films",
+          "Historical dramas",
+          "Video game trailers"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_heist_planning_09",
+      "category": "cinematic_storytelling",
+      "title": "Stylized Heist Planning Montage",
+      "description": "Quick-cut montage showing elaborate heist preparation",
+      "prompt": {
+        "main": "Split screen showing blueprint overlays on real location. Quick cuts between team members preparing - lock picking, surveillance setup, vehicle prep. Overhead shot of table with plans, photos, and tools. Time-lapse of wall covered in evidence photos connected by string. Close-ups of watches syncing. Final shot pulls back through window showing team ready. Edgar Wright-style visual comedy timing.",
+        "elements": {
+          "cameraMovement": "Quick cuts, overhead shots, dynamic push-ins",
+          "subject": "Heist team preparing, planning documents, equipment",
+          "scene": "Warehouse hideout, planning room, various prep locations",
+          "motion": "Fast-paced editing, objects being placed, plans unfolding",
+          "lighting": "Dramatic overhead lighting, computer screens glow",
+          "atmosphere": "Exciting, precise, clever, anticipatory",
+          "style": "Ocean's Eleven meets Baby Driver",
+          "technicalSpecs": {
+            "duration": "20-25 seconds",
+            "resolution": "4K",
+            "aspectRatio": "2.39:1",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Tech Heist",
+          "modifiedElements": {
+            "subject": "Hackers with multiple screens, digital planning",
+            "style": "Mr. Robot visual style"
+          }
+        }
+      ],
+      "tags": [
+        "heist",
+        "montage",
+        "planning",
+        "team",
+        "stylized"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Match action across cuts for flow",
+        "Use visual motifs to connect scenes",
+        "Build rhythm with editing pace"
+      ],
+      "examples": {
+        "sampleOutput": "Ocean's series planning montages",
+        "useCases": [
+          "Heist films",
+          "Caper movies",
+          "TV series montages"
+        ]
+      }
+    },
+    {
+      "id": "cinematic_final_goodbye_10",
+      "category": "cinematic_storytelling",
+      "title": "Emotional Farewell Scene at Train Station",
+      "description": "Bittersweet goodbye with classic cinematic techniques",
+      "prompt": {
+        "main": "Steam from vintage train creates atmospheric haze. Tracking shot follows couple walking along platform, hands intertwined. Cut to close-up of clasped hands slowly separating. Low angle as one boards train, other remains on platform. Through train window, pressing hands against glass. Train begins moving, camera on platform tracks alongside accelerating train. Final wide shot shows solitary figure as train disappears into distance.",
+        "elements": {
+          "cameraMovement": "Tracking shots, platform dolly, emotional close-ups",
+          "subject": "Couple saying goodbye, vintage train departure",
+          "scene": "1940s train station, steam, vintage luggage",
+          "motion": "Train departure, steam billowing, slow separation",
+          "lighting": "Shafts of light through station windows, steam atmosphere",
+          "atmosphere": "Bittersweet, romantic, nostalgic, cinematic",
+          "style": "Brief Encounter meets Casablanca",
+          "technicalSpecs": {
+            "duration": "25-30 seconds",
+            "resolution": "4K",
+            "aspectRatio": "2.39:1",
+            "frameRate": "24 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Airport Modern",
+          "modifiedElements": {
+            "scene": "Modern airport, gate departure",
+            "style": "Contemporary romantic drama"
+          }
+        }
+      ],
+      "tags": [
+        "farewell",
+        "romantic",
+        "emotional",
+        "classic",
+        "train"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Focus on small emotional details",
+        "Use steam/atmosphere for mood",
+        "Time movement with emotional beats"
+      ],
+      "examples": {
+        "sampleOutput": "Classic Hollywood farewell scenes",
+        "useCases": [
+          "Period dramas",
+          "Romance films",
+          "Music videos"
+        ]
+      }
+    }
+  ]
+}

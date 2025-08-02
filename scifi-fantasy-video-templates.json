@@ -1,0 +1,941 @@
+{
+  "category": "Sci-Fi & Fantasy Video Generation Templates",
+  "version": "1.0",
+  "templates": [
+    {
+      "id": "scifi_001",
+      "title": "Futuristic Cityscape Reveal",
+      "description": "Epic reveal of a sprawling neon-lit megacity with flying vehicles and holographic advertisements",
+      "technical_specs": {
+        "duration": "10-15 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "environment": {
+          "setting": "Night-time megacity skyline",
+          "architecture": "Towering crystalline skyscrapers with integrated LED facades",
+          "atmosphere": "Misty with volumetric fog, neon reflections on wet surfaces",
+          "lighting": "Cyberpunk color palette - cyan, magenta, deep purples",
+          "weather": "Light rain with atmospheric haze"
+        },
+        "dynamic_elements": [
+          "Flying vehicles with light trails",
+          "Holographic billboards flickering",
+          "Searchlight beams scanning the sky",
+          "Energy bridges connecting buildings",
+          "Particle effects from building exhausts"
+        ]
+      },
+      "camera_movement": {
+        "type": "Aerial crane shot",
+        "start_position": "Low angle behind foreground building",
+        "movement": "Smooth ascent and forward dolly",
+        "end_position": "Wide establishing shot of full cityscape",
+        "focal_length": "24mm to 35mm transition",
+        "depth_of_field": "Deep focus with slight foreground blur"
+      },
+      "audio_cues": {
+        "ambience": "Futuristic city hum with distant traffic",
+        "sfx": ["Whoosh of passing vehicles", "Electronic beeps", "Distant thunder"],
+        "music": "Synthwave with building orchestral elements"
+      },
+      "ai_generation_prompts": {
+        "primary": "Cinematic reveal of cyberpunk megacity at night, neon lights reflecting on rain-slicked surfaces, flying cars leaving light trails, massive holographic advertisements, volumetric fog, photorealistic, blade runner aesthetic, 8K quality",
+        "style_modifiers": ["moody lighting", "film grain", "anamorphic lens flares", "chromatic aberration"],
+        "negative_prompts": ["cartoon", "anime", "low quality", "blurry", "oversaturated"]
+      }
+    },
+    {
+      "id": "fantasy_002",
+      "title": "Fantasy Realm Portal Opening",
+      "description": "Magical portal tears open reality revealing an enchanted forest kingdom",
+      "technical_specs": {
+        "duration": "8-12 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "21:9",
+        "codec": "ProRes 422"
+      },
+      "visual_elements": {
+        "environment": {
+          "setting": "Ancient stone circle in misty moorland",
+          "transition": "From mundane world to magical realm",
+          "magical_realm": "Bioluminescent forest with floating islands",
+          "lighting": "Golden hour transitioning to ethereal blue-green glow",
+          "atmosphere": "Mystical fog with particle effects"
+        },
+        "vfx_elements": [
+          "Energy tendrils forming portal edges",
+          "Reality distortion ripples",
+          "Magical sparks and embers",
+          "Floating crystalline fragments",
+          "Aurora-like energy ribbons"
+        ]
+      },
+      "camera_movement": {
+        "type": "Push-in with rotation",
+        "start_position": "Wide shot of stone circle",
+        "movement": "Slow dolly forward with 90-degree arc",
+        "end_position": "Through portal into fantasy realm",
+        "focal_length": "35mm",
+        "special_technique": "Speed ramp during portal transition"
+      },
+      "audio_cues": {
+        "ambience": "Wind whistling through stones",
+        "sfx": ["Reality tearing sound", "Magical chimes", "Energy crackling"],
+        "music": "Orchestral fantasy theme with Celtic influences"
+      },
+      "ai_generation_prompts": {
+        "primary": "Ancient stone circle opening magical portal to bioluminescent fantasy forest, swirling energy vortex, reality bending and tearing, floating islands visible through portal, ethereal lighting, photorealistic fantasy art, cinematic composition",
+        "style_modifiers": ["magical realism", "volumetric lighting", "particle effects", "lens distortion"],
+        "negative_prompts": ["cartoon", "oversimplified", "flat lighting", "modern elements"]
+      }
+    },
+    {
+      "id": "scifi_003",
+      "title": "Epic Space Battle Sequence",
+      "description": "Intense dogfight between starfighters around a massive space station",
+      "technical_specs": {
+        "duration": "15-20 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 60,
+        "aspect_ratio": "16:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "environment": {
+          "setting": "Orbit around gas giant planet",
+          "backdrop": "Nebula with distant stars",
+          "main_structure": "Rotating space station with defense turrets",
+          "lighting": "Harsh directional sunlight with deep shadows",
+          "debris_field": "Floating wreckage and asteroid fragments"
+        },
+        "combat_elements": [
+          "Laser bolts and plasma projectiles",
+          "Shield impacts with energy ripples",
+          "Missile trails and explosions",
+          "Engine thrust effects",
+          "Debris and sparks from impacts"
+        ]
+      },
+      "camera_movement": {
+        "type": "Dynamic tracking shot",
+        "technique": "Follow hero ship through battle",
+        "movements": ["Banking turns", "Barrel rolls", "Near-misses"],
+        "focal_variations": "Quick focus pulls between ships",
+        "shake_intensity": "Moderate during explosions"
+      },
+      "audio_cues": {
+        "sfx": ["Laser fire", "Engine roar", "Explosions", "Radio chatter"],
+        "music": "Intense orchestral action score",
+        "dynamic_mixing": "Doppler effects for passing ships"
+      },
+      "ai_generation_prompts": {
+        "primary": "Intense space battle with starfighters dogfighting around massive space station, laser fire, explosions, gas giant planet backdrop, photorealistic sci-fi, dynamic camera movement following spacecraft, cinematic action sequence",
+        "style_modifiers": ["motion blur", "lens flares from explosions", "film grain", "high contrast"],
+        "negative_prompts": ["static", "toy-like", "cartoonish", "low detail"]
+      }
+    },
+    {
+      "id": "scifi_004",
+      "title": "Alien World First Steps",
+      "description": "Astronaut's first exploration of a bizarre alien landscape",
+      "technical_specs": {
+        "duration": "12-15 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "2.39:1",
+        "codec": "ProRes 4444"
+      },
+      "visual_elements": {
+        "environment": {
+          "terrain": "Crystalline formations with bioluminescent vegetation",
+          "sky": "Triple sunset with aurora effects",
+          "atmosphere": "Thick, colored mist with floating spores",
+          "flora": "Giant mushroom-like structures pulsing with light",
+          "fauna_hints": "Strange shadows moving in background"
+        },
+        "astronaut_details": [
+          "Reflective visor showing alien landscape",
+          "Dust particles floating in low gravity",
+          "Footprints leaving glowing impressions",
+          "Equipment lights creating rim lighting",
+          "Breath fog on helmet visor"
+        ]
+      },
+      "camera_movement": {
+        "type": "Steadicam follow shot",
+        "height": "Low angle emphasizing scale",
+        "movement": "Slow push forward with astronaut",
+        "reveal_technique": "Gradual widening to show full landscape",
+        "focus_technique": "Rack focus between foreground and background elements"
+      },
+      "audio_cues": {
+        "ambience": "Alien wind and distant creature calls",
+        "sfx": ["Breathing in suit", "Footsteps on alien soil", "Equipment beeps"],
+        "music": "Ambient wonder theme with alien instrumentation"
+      },
+      "ai_generation_prompts": {
+        "primary": "Astronaut exploring bioluminescent alien world, crystalline landscape, triple sunset, giant glowing mushroom forests, floating spores, photorealistic sci-fi exploration, sense of wonder and scale, cinematic lighting",
+        "style_modifiers": ["atmospheric perspective", "god rays", "subsurface scattering", "color grading"],
+        "negative_prompts": ["Earth-like", "familiar plants", "cartoon", "low quality"]
+      }
+    },
+    {
+      "id": "scifi_005",
+      "title": "Time Vortex Transition",
+      "description": "Character caught in temporal distortion experiencing multiple timelines",
+      "technical_specs": {
+        "duration": "10-12 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "environment": {
+          "setting": "Clock tower interior fragmenting through time",
+          "time_periods": ["Victorian era", "Modern day", "Far future"],
+          "distortion_effects": "Geometric fracturing of reality",
+          "lighting": "Strobing between different era lighting",
+          "particles": "Temporal energy wisps and clock gear fragments"
+        },
+        "temporal_effects": [
+          "Multiple versions of character phasing",
+          "Objects aging and de-aging rapidly",
+          "Time ripples distorting space",
+          "Chronometer interfaces floating",
+          "Echo trails of movement"
+        ]
+      },
+      "camera_movement": {
+        "type": "Spiral dolly with rotation",
+        "center_point": "Character in vortex center",
+        "movement": "Accelerating spiral outward",
+        "time_effects": "Speed ramping and reverse segments",
+        "transitions": "Match cuts between time periods"
+      },
+      "audio_cues": {
+        "sfx": ["Clock ticking distortion", "Time whoosh", "Reality fracturing"],
+        "music": "Layered orchestral with electronic glitches",
+        "temporal_audio": "Reversed and time-stretched elements"
+      },
+      "ai_generation_prompts": {
+        "primary": "Time vortex swirling around character, multiple timelines visible simultaneously, clock tower fragmenting through dimensions, temporal energy effects, photorealistic sci-fi, Doctor Who inspired, cinematic time travel sequence",
+        "style_modifiers": ["motion blur", "chromatic aberration", "light streaks", "fractal patterns"],
+        "negative_prompts": ["static", "single timeline", "cartoon", "low complexity"]
+      }
+    },
+    {
+      "id": "scifi_006",
+      "title": "Cyberpunk Street Chase",
+      "description": "High-speed motorcycle chase through neon-soaked cyber city streets",
+      "technical_specs": {
+        "duration": "15-18 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 60,
+        "aspect_ratio": "16:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "environment": {
+          "setting": "Rain-slicked streets in cyber-enhanced district",
+          "architecture": "Stacked container homes with neon signs",
+          "street_level": "Steam vents, holographic ads, cyber-modified pedestrians",
+          "lighting": "Neon reflections on wet surfaces, lens flares",
+          "weather": "Heavy rain with atmospheric fog"
+        },
+        "action_elements": [
+          "Hover-bikes with plasma trails",
+          "Sparks from close calls with obstacles",
+          "Holographic barriers shattering",
+          "Augmented reality UI overlays",
+          "Police drones in pursuit"
+        ]
+      },
+      "camera_movement": {
+        "type": "Dynamic chase cam",
+        "mounting": "Virtual drone following action",
+        "movements": ["Quick pans", "Barrel rolls", "Through tight spaces"],
+        "speed_effects": "Motion blur and speed lines",
+        "transitions": "Whip pans between vehicles"
+      },
+      "audio_cues": {
+        "sfx": ["Engine whine", "Tire screeches", "Rain impacts", "Neon buzzing"],
+        "music": "Aggressive synthwave chase music",
+        "environmental": "Doppler effects, echo in tunnels"
+      },
+      "ai_generation_prompts": {
+        "primary": "High-speed hover-bike chase through cyberpunk city streets, neon signs reflecting on rain-soaked pavement, narrow alleyways, holographic obstacles, police drones pursuing, photorealistic action sequence, Akira-inspired",
+        "style_modifiers": ["motion blur", "rain effects", "neon glow", "speed lines"],
+        "negative_prompts": ["static", "dry streets", "daylight", "low energy"]
+      }
+    },
+    {
+      "id": "fantasy_007",
+      "title": "Dragon Flight Over Kingdom",
+      "description": "Majestic dragon soaring over medieval fantasy kingdom at sunset",
+      "technical_specs": {
+        "duration": "12-15 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "21:9",
+        "codec": "ProRes 422 HQ"
+      },
+      "visual_elements": {
+        "creature_details": {
+          "dragon_type": "Western dragon with iridescent scales",
+          "scale_effects": "Light refracting creating rainbow patterns",
+          "wing_movement": "Powerful beats creating wind vortices",
+          "breath_effects": "Occasional ember exhales",
+          "rider": "Armored knight with flowing cape"
+        },
+        "environment": [
+          "Castle spires and towers below",
+          "Rolling hills with villages",
+          "Rivers reflecting sunset",
+          "Distant mountains with snow caps",
+          "Flock of birds scattering"
+        ]
+      },
+      "camera_movement": {
+        "type": "Aerial tracking shot",
+        "perspective": "Following alongside dragon",
+        "height_variations": "Diving and climbing with creature",
+        "focal_techniques": "Pull focus between dragon and landscape",
+        "special_moments": "Banking turn revealing full kingdom"
+      },
+      "audio_cues": {
+        "sfx": ["Wing beats", "Wind rushing", "Dragon roar", "Armor clanking"],
+        "music": "Epic orchestral fantasy score",
+        "ambience": "High altitude wind"
+      },
+      "ai_generation_prompts": {
+        "primary": "Majestic dragon with rider flying over medieval fantasy kingdom at golden hour, iridescent scales catching sunlight, castle below, epic aerial shot, photorealistic fantasy, Game of Thrones quality, cinematic composition",
+        "style_modifiers": ["golden hour lighting", "atmospheric haze", "depth of field", "scale shimmer"],
+        "negative_prompts": ["cartoon dragon", "modern elements", "flat lighting", "static wings"]
+      }
+    },
+    {
+      "id": "fantasy_008",
+      "title": "Dimensional Portal Cascade",
+      "description": "Multiple magical portals opening to different realms simultaneously",
+      "technical_specs": {
+        "duration": "10-14 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "codec": "ProRes 4444"
+      },
+      "visual_elements": {
+        "portal_variations": {
+          "fire_realm": "Molten lava and flame creatures visible",
+          "ice_dimension": "Crystalline structures and blizzard",
+          "void_space": "Star-filled cosmic emptiness",
+          "nature_plane": "Overgrown jungle with giant flowers",
+          "mirror_world": "Inverted reality with reversed physics"
+        },
+        "magical_effects": [
+          "Intersecting energy beams between portals",
+          "Reality fragments floating between worlds",
+          "Magical symbols rotating around portals",
+          "Elemental particles mixing in air",
+          "Dimensional rifts with lightning"
+        ]
+      },
+      "camera_movement": {
+        "type": "Circular dolly with tilt",
+        "path": "360-degree rotation around portal nexus",
+        "vertical_movement": "Gradual crane up",
+        "focus_shifts": "Between different portal contents",
+        "speed": "Accelerating rotation creating vertigo effect"
+      },
+      "audio_cues": {
+        "sfx": ["Portal humming", "Elemental sounds from each realm", "Energy crackling"],
+        "music": "Mystical orchestral with otherworldly vocals",
+        "spatial_audio": "3D positioned sounds from each portal"
+      },
+      "ai_generation_prompts": {
+        "primary": "Multiple magical portals opening to different dimensions, swirling energy vortexes showing fire realm, ice world, cosmic void, jungle dimension, reality bending between portals, photorealistic fantasy VFX, Doctor Strange inspired",
+        "style_modifiers": ["energy ribbons", "prismatic effects", "particle systems", "dimensional distortion"],
+        "negative_prompts": ["single portal", "empty portals", "cartoon", "low detail"]
+      }
+    },
+    {
+      "id": "scifi_009",
+      "title": "AI Entity Awakening",
+      "description": "Sentient AI constructing physical form from nanobots",
+      "technical_specs": {
+        "duration": "12-15 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "construction_process": {
+          "start_state": "Swarm of nanobots in containment",
+          "formation": "Particles coalescing into humanoid shape",
+          "detail_layers": "Nervous system, musculature, skin forming",
+          "final_form": "Sleek android with glowing neural pathways",
+          "environment": "High-tech laboratory with holographic displays"
+        },
+        "visual_effects": [
+          "Nanobot swarm dynamics",
+          "Energy field containing construction",
+          "Data streams visualized as light",
+          "Holographic blueprints updating",
+          "Electric arcs during neural activation"
+        ]
+      },
+      "camera_movement": {
+        "type": "Combination shot",
+        "movements": ["Macro to wide pull-out", "Orbit during formation", "Push-in on face activation"],
+        "focus_techniques": "Selective focus on forming details",
+        "special_technique": "Time-lapse segments for complex formations"
+      },
+      "audio_cues": {
+        "sfx": ["Nanobot swarm buzzing", "Electronic synthesis", "First breath/vocalization"],
+        "music": "Electronic ambient building to orchestral",
+        "ai_voice": "Gradual formation from static to clear speech"
+      },
+      "ai_generation_prompts": {
+        "primary": "AI entity constructing physical form from nanobots, swirling particle cloud forming humanoid shape, glowing neural pathways, high-tech laboratory setting, photorealistic sci-fi, Ex Machina aesthetic, cinematic lighting",
+        "style_modifiers": ["particle effects", "subsurface scattering", "holographic elements", "clean sci-fi aesthetic"],
+        "negative_prompts": ["horror elements", "mechanical robots", "cartoon", "low tech"]
+      }
+    },
+    {
+      "id": "scifi_010",
+      "title": "Post-Apocalyptic Dawn",
+      "description": "Lone survivor witnessing first sunrise over destroyed civilization",
+      "technical_specs": {
+        "duration": "15-18 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "2.39:1",
+        "codec": "ProRes 422 HQ"
+      },
+      "visual_elements": {
+        "environment": {
+          "foreground": "Collapsed overpass with rusted vehicles",
+          "midground": "Overgrown city ruins with nature reclaiming",
+          "background": "Destroyed skyline silhouettes",
+          "atmosphere": "Dust particles in golden sunlight",
+          "details": "Vines on buildings, birds nesting in ruins"
+        },
+        "character_elements": [
+          "Weathered survival gear",
+          "Makeshift weapons",
+          "Tattered flag or symbol of hope",
+          "Companion animal (dog or hawk)",
+          "Smoke from small campfire"
+        ]
+      },
+      "camera_movement": {
+        "type": "Slow crane shot",
+        "start": "Close on character's face",
+        "movement": "Pull back and rise revealing destruction",
+        "end_position": "Wide vista of ruined world",
+        "lighting_emphasis": "Sunrise breaking through ruins",
+        "depth": "Multiple layers of destruction"
+      },
+      "audio_cues": {
+        "ambience": "Wind through ruins, distant wildlife",
+        "sfx": ["Creaking metal", "Rubble shifting", "Fire crackling"],
+        "music": "Melancholic yet hopeful orchestral theme",
+        "silence_use": "Strategic quiet moments for impact"
+      },
+      "ai_generation_prompts": {
+        "primary": "Post-apocalyptic survivor watching sunrise over destroyed city, overgrown ruins, nature reclaiming civilization, golden hour lighting through destruction, photorealistic, The Last of Us aesthetic, emotional cinematic composition",
+        "style_modifiers": ["atmospheric dust", "god rays", "organic overgrowth", "weathering effects"],
+        "negative_prompts": ["zombies", "active destruction", "cartoon", "clean surfaces"]
+      }
+    },
+    {
+      "id": "scifi_011",
+      "title": "Cyberpunk City Reveal",
+      "description": "Epic aerial reveal of neon-soaked megacity with flying vehicles and holographic advertisements",
+      "technical_specs": {
+        "duration": "12-16 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "21:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "environment": {
+          "setting": "Dense urban metropolis at twilight",
+          "architecture": "Vertical city with interconnected skybridge networks",
+          "atmosphere": "Heavy smog with neon light pollution",
+          "lighting": "Vibrant neon palette - pink, cyan, yellow, deep blues",
+          "weather": "Acid rain with toxic green tinge"
+        },
+        "dynamic_elements": [
+          "VTOL vehicles in organized traffic lanes",
+          "Massive 3D holographic advertisements",
+          "Drone swarms for delivery and surveillance",
+          "Plasma screens covering entire building faces",
+          "Steam erupting from street-level vents"
+        ]
+      },
+      "camera_movement": {
+        "type": "Cinematic helicopter shot",
+        "start_position": "Street level in dark alley",
+        "movement": "Vertical rise through traffic layers",
+        "end_position": "Panoramic view above skyline",
+        "focal_length": "16mm ultra-wide",
+        "special_effects": "Light streaks from passing vehicles"
+      },
+      "audio_cues": {
+        "ambience": "Layered city noise with electronic interference",
+        "sfx": ["VTOL engines", "Advertisement jingles", "Police sirens", "Rain on metal"],
+        "music": "Dark synthwave with industrial elements"
+      },
+      "ai_generation_prompts": {
+        "primary": "Cyberpunk megacity reveal shot, dense neon architecture, flying cars in organized lanes, massive holographic ads, acid rain, toxic atmosphere, photorealistic, Ghost in the Shell aesthetic, cinematic wide angle",
+        "style_modifiers": ["neon bloom", "atmospheric haze", "rain streaks", "lens distortion"],
+        "negative_prompts": ["rural", "nature", "daylight", "clean air"]
+      }
+    },
+    {
+      "id": "fantasy_012",
+      "title": "Dragon Rider Journey",
+      "description": "Epic flight through floating islands and ancient ruins on dragonback",
+      "technical_specs": {
+        "duration": "14-18 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "2.39:1",
+        "codec": "ProRes 4444"
+      },
+      "visual_elements": {
+        "dragon_features": {
+          "species": "Ancient wyrm with bioluminescent markings",
+          "scale_texture": "Obsidian black with gold veining",
+          "wing_span": "Massive translucent membranes",
+          "special_ability": "Lightning breath charging",
+          "rider_gear": "Enchanted armor with runic inscriptions"
+        },
+        "environment": [
+          "Floating stone islands with waterfalls",
+          "Ancient temple ruins on platforms",
+          "Magical aurora in daylight sky",
+          "Cloud formations with rainbow prismatic effects",
+          "Other dragons in distance"
+        ]
+      },
+      "camera_movement": {
+        "type": "Dynamic follow cam",
+        "mounting": "Attached to dragon's flank",
+        "movements": ["Banking through islands", "Diving past waterfalls", "Ascending through clouds"],
+        "perspective_shifts": "Cutting between rider POV and external",
+        "special_moments": "Barrel roll through temple archway"
+      },
+      "audio_cues": {
+        "sfx": ["Dragon wings beating", "Wind rushing", "Distant dragon calls", "Magic charging"],
+        "music": "Soaring orchestral fantasy theme",
+        "environmental": "Waterfall roar, echo in ruins"
+      },
+      "ai_generation_prompts": {
+        "primary": "Dragon rider soaring through floating islands, ancient ruins on sky platforms, bioluminescent dragon scales, magical aurora sky, waterfalls falling into clouds, photorealistic fantasy, Avatar-inspired, epic aerial cinematography",
+        "style_modifiers": ["volumetric clouds", "magical particles", "motion blur on wings", "atmospheric perspective"],
+        "negative_prompts": ["ground-based", "modern elements", "small scale", "static flight"]
+      }
+    },
+    {
+      "id": "scifi_013",
+      "title": "Space Station Arrival",
+      "description": "Massive cargo ship docking with rotating space station above Earth",
+      "technical_specs": {
+        "duration": "16-20 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "station_details": {
+          "design": "Ring-shaped habitat with central docking hub",
+          "rotation": "Slow spin for artificial gravity",
+          "size": "5 kilometers diameter",
+          "features": "Solar panel arrays, communication dishes, defense turrets",
+          "traffic": "Multiple ships in docking queue"
+        },
+        "docking_sequence": [
+          "Navigation lights syncing",
+          "Retro thrusters firing for alignment",
+          "Docking clamps extending",
+          "Airlock tunnel connecting",
+          "Cargo bay doors opening"
+        ]
+      },
+      "camera_movement": {
+        "type": "Long take tracking shot",
+        "start_position": "Behind approaching cargo ship",
+        "movement": "Fly alongside during approach",
+        "climax": "Pass through docking ring",
+        "end_position": "Inside station looking out",
+        "zero_g_effects": "Gentle floating camera motion"
+      },
+      "audio_cues": {
+        "sfx": ["Thruster bursts", "Radio chatter", "Mechanical docking sounds", "Pressurization hiss"],
+        "music": "Ambient space theme building to triumphant arrival",
+        "silence": "Strategic use of vacuum silence"
+      },
+      "ai_generation_prompts": {
+        "primary": "Massive cargo ship docking with rotating space station, Earth in background, intricate docking sequence, zero gravity effects, photorealistic sci-fi, 2001 Space Odyssey quality, technically accurate space mechanics",
+        "style_modifiers": ["hard shadows", "realistic lighting", "mechanical detail", "Earth glow"],
+        "negative_prompts": ["fantasy elements", "explosions", "unrealistic physics", "star wars style"]
+      }
+    },
+    {
+      "id": "fantasy_014",
+      "title": "Magic Portal Opening",
+      "description": "Wizard tears open reality to reveal swirling dimensional gateway",
+      "technical_specs": {
+        "duration": "10-14 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "16:9",
+        "codec": "ProRes 422 HQ"
+      },
+      "visual_elements": {
+        "portal_mechanics": {
+          "initiation": "Wizard's staff creating reality cracks",
+          "expansion": "Cracks spreading in spiderweb pattern",
+          "breakthrough": "Reality shattering like glass",
+          "stabilization": "Swirling vortex with stable edges",
+          "destination": "Alien landscape visible through portal"
+        },
+        "magical_effects": [
+          "Arcane symbols floating in air",
+          "Energy tendrils from staff to portal",
+          "Reality fragments floating weightlessly",
+          "Prismatic light refraction",
+          "Temporal distortion waves"
+        ]
+      },
+      "camera_movement": {
+        "type": "Push-in with handheld elements",
+        "start_position": "Medium shot of wizard",
+        "movement": "Slow dolly forward as portal opens",
+        "climax_shot": "Through portal to other world",
+        "focus_effects": "Depth of field shifts with magic",
+        "shake": "Increasing with magical intensity"
+      },
+      "audio_cues": {
+        "sfx": ["Reality tearing", "Magical resonance", "Energy crackling", "Otherworldly whispers"],
+        "music": "Mystical crescendo with choir",
+        "spatial": "Sounds from other dimension bleeding through"
+      },
+      "ai_generation_prompts": {
+        "primary": "Wizard opening dimensional portal, reality cracking like glass, swirling energy vortex, alien world visible through gateway, floating magical symbols, photorealistic fantasy, Marvel multiverse aesthetic, dramatic lighting",
+        "style_modifiers": ["energy effects", "prismatic aberration", "floating particles", "rim lighting"],
+        "negative_prompts": ["sci-fi portal", "technology", "simple hole", "flat effect"]
+      }
+    },
+    {
+      "id": "scifi_015",
+      "title": "Post-Apocalyptic Survival",
+      "description": "Scavenger navigating through dangerous wasteland ruins with makeshift tech",
+      "technical_specs": {
+        "duration": "14-18 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "2.39:1",
+        "codec": "ProRes 422"
+      },
+      "visual_elements": {
+        "environment": {
+          "setting": "Collapsed highway interchange",
+          "hazards": "Radiation zones with visible distortion",
+          "structures": "Makeshift bridges between ruins",
+          "atmosphere": "Dust storm approaching",
+          "details": "Scattered belongings, graffiti warnings"
+        },
+        "survival_elements": [
+          "Jury-rigged exoskeleton from salvage",
+          "Geiger counter clicking warnings",
+          "Improvised weapons and tools",
+          "Gas mask with cracked visor",
+          "Solar panel backpack charging devices"
+        ]
+      },
+      "camera_movement": {
+        "type": "Tracking shot with obstacles",
+        "perspective": "Following scavenger's journey",
+        "obstacles": "Camera navigating through debris",
+        "reveal_moments": "Discovering useful salvage",
+        "tension_building": "Increasing pace as storm approaches"
+      },
+      "audio_cues": {
+        "ambience": "Howling wind, distant thunder",
+        "sfx": ["Geiger counter", "Metal creaking", "Footsteps on rubble", "Breathing in mask"],
+        "music": "Tense ambient with percussion",
+        "environmental": "Storm intensity increasing"
+      },
+      "ai_generation_prompts": {
+        "primary": "Post-apocalyptic scavenger in ruined highway, makeshift exoskeleton, approaching dust storm, radiation zones, survival gear, photorealistic, Mad Max Fury Road aesthetic, gritty atmospheric cinematography",
+        "style_modifiers": ["dust particles", "desaturated colors", "harsh lighting", "weathered textures"],
+        "negative_prompts": ["clean environment", "intact buildings", "vegetation", "clear skies"]
+      }
+    },
+    {
+      "id": "scifi_016",
+      "title": "Alien First Contact",
+      "description": "Tense first encounter between human expedition and mysterious alien vessel",
+      "technical_specs": {
+        "duration": "15-20 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "2.39:1",
+        "codec": "ProRes 4444"
+      },
+      "visual_elements": {
+        "alien_ship": {
+          "design": "Organic bio-mechanical structure",
+          "surface": "Shifting liquid metal skin",
+          "size": "Dwarfing human shuttle",
+          "behavior": "Slow rotation revealing symbols",
+          "emanations": "Scanning beams and energy pulses"
+        },
+        "contact_sequence": [
+          "Ships approaching in space",
+          "Scanning beams analyzing each other",
+          "Attempt at light-based communication",
+          "Alien ship morphing in response",
+          "Airlock-like opening forming"
+        ]
+      },
+      "camera_movement": {
+        "type": "Tense intercutting",
+        "perspectives": ["Human cockpit POV", "External wide shots", "Alien ship details"],
+        "tension_techniques": "Slow zooms and focus pulls",
+        "climax": "Pushing through alien entrance",
+        "handheld_moments": "During crew reactions"
+      },
+      "audio_cues": {
+        "sfx": ["Alien harmonics", "Ship computers", "Crew breathing", "Hull vibrations"],
+        "music": "Minimalist tension building to wonder",
+        "communication": "Alien sounds attempting patterns",
+        "silence": "Used for maximum tension"
+      },
+      "ai_generation_prompts": {
+        "primary": "First contact with alien vessel, bio-mechanical ship design, mysterious scanning beams, tense space encounter, human shuttle dwarfed by alien craft, photorealistic sci-fi, Arrival movie aesthetic, atmospheric lighting",
+        "style_modifiers": ["lens flares", "deep space darkness", "bioluminescent elements", "scale contrast"],
+        "negative_prompts": ["aggressive aliens", "battle", "familiar design", "star trek style"]
+      }
+    },
+    {
+      "id": "scifi_017",
+      "title": "Time Travel Paradox",
+      "description": "Scientist witnessing multiple versions of themselves across colliding timelines",
+      "technical_specs": {
+        "duration": "12-16 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "temporal_effects": {
+          "timeline_visualization": "Transparent layers of time",
+          "character_versions": "Past, present, future selves visible",
+          "paradox_moment": "Versions beginning to merge",
+          "environment": "Laboratory phasing between eras",
+          "causality_ripples": "Changes propagating through time"
+        },
+        "visual_distortions": [
+          "Chromatic time displacement",
+          "Motion echoes trailing actions",
+          "Objects aging and reversing",
+          "Temporal lightning between versions",
+          "Reality fragmentation effects"
+        ]
+      },
+      "camera_movement": {
+        "type": "Complex dolly with time effects",
+        "technique": "Camera moving through time layers",
+        "speed_ramping": "Matching temporal distortions",
+        "focus_shifting": "Between different time versions",
+        "special_effect": "Camera duplicating with timelines"
+      },
+      "audio_cues": {
+        "sfx": ["Time distortion warble", "Echo cascades", "Reality fracturing", "Chronometer alarms"],
+        "music": "Layered orchestral with reversed elements",
+        "dialogue": "Overlapping warnings from different selves",
+        "temporal_audio": "Sounds from multiple eras mixing"
+      },
+      "ai_generation_prompts": {
+        "primary": "Time travel paradox visualization, multiple versions of scientist in same space, temporal lightning, reality fragmenting, laboratory phasing through time periods, photorealistic sci-fi, Tenet-inspired, complex layered composition",
+        "style_modifiers": ["motion trails", "temporal distortion", "prismatic splits", "glitch effects"],
+        "negative_prompts": ["single timeline", "static scene", "simple effects", "cartoon physics"]
+      }
+    },
+    {
+      "id": "fantasy_018",
+      "title": "Underwater Atlantis",
+      "description": "Discovery of bioluminescent underwater civilization with merfolk",
+      "technical_specs": {
+        "duration": "14-18 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "21:9",
+        "codec": "ProRes 422 HQ"
+      },
+      "visual_elements": {
+        "city_architecture": {
+          "style": "Organic coral-grown structures",
+          "illumination": "Bioluminescent building materials",
+          "scale": "Massive temple at city center",
+          "technology": "Crystal-powered mechanisms",
+          "inhabitants": "Merfolk with varying adaptations"
+        },
+        "underwater_elements": [
+          "Caustic light patterns from surface",
+          "Schools of luminescent fish",
+          "Kelp forests swaying with current",
+          "Bubble streams from thermal vents",
+          "Ancient ruins partially buried"
+        ]
+      },
+      "camera_movement": {
+        "type": "Submarine glide",
+        "entry": "Through kelp forest curtain",
+        "revelation": "Emerging to see full city",
+        "exploration": "Weaving between structures",
+        "inhabitants_reveal": "Merfolk emerging from hiding",
+        "depth_changes": "Diving to temple entrance"
+      },
+      "audio_cues": {
+        "ambience": "Underwater resonance and currents",
+        "sfx": ["Whale songs", "Bubble streams", "Crystal chimes", "Echolocation clicks"],
+        "music": "Ethereal aquatic symphony",
+        "merfolk": "Harmonic communication sounds"
+      },
+      "ai_generation_prompts": {
+        "primary": "Underwater Atlantis city reveal, bioluminescent architecture, merfolk civilization, crystal technology, caustic lighting, kelp forests, photorealistic fantasy, Aquaman aesthetic, volumetric water effects",
+        "style_modifiers": ["underwater caustics", "bioluminescent glow", "particle suspension", "depth fog"],
+        "negative_prompts": ["surface world", "air bubbles on buildings", "human architecture", "murky water"]
+      }
+    },
+    {
+      "id": "scifi_019",
+      "title": "Robot Awakening",
+      "description": "Decommissioned war machine gaining consciousness in abandoned factory",
+      "technical_specs": {
+        "duration": "12-15 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 30,
+        "aspect_ratio": "16:9",
+        "codec": "H.265/HEVC"
+      },
+      "visual_elements": {
+        "robot_transformation": {
+          "initial_state": "Rusted, partially disassembled",
+          "awakening": "Eyes flickering to life",
+          "self_repair": "Nanobots repairing damage",
+          "transformation": "Adapting parts for new purpose",
+          "final_form": "Sleek, purposeful configuration"
+        },
+        "factory_environment": [
+          "Abandoned assembly lines",
+          "Other deactivated robots",
+          "Sunlight through broken skylights",
+          "Nature reclaiming facility",
+          "Scattered military equipment"
+        ]
+      },
+      "camera_movement": {
+        "type": "Intimate character study",
+        "start": "Extreme close-up on eye sensor",
+        "pullback": "Revealing full form",
+        "circling": "During transformation sequence",
+        "environmental": "Showing factory context",
+        "final": "Low angle hero shot"
+      },
+      "audio_cues": {
+        "sfx": ["Systems booting", "Servo motors", "Metal transformation", "Memory data streams"],
+        "music": "Electronic awakening theme with emotional undertones",
+        "voice": "Gradual formation of consciousness sounds",
+        "environment": "Echoing factory ambience"
+      },
+      "ai_generation_prompts": {
+        "primary": "War robot gaining consciousness, abandoned factory, self-repair transformation, eyes flickering to life, nanobots rebuilding, photorealistic sci-fi, Wall-E meets Terminator aesthetic, emotional machine awakening",
+        "style_modifiers": ["rust textures", "god rays", "mechanical detail", "spark effects"],
+        "negative_prompts": ["human-like face", "cartoon robot", "clean factory", "aggressive stance"]
+      }
+    },
+    {
+      "id": "fantasy_020",
+      "title": "Fantasy Battle Epic",
+      "description": "Massive battlefield where magic users clash with technologically advanced army",
+      "technical_specs": {
+        "duration": "18-24 seconds",
+        "resolution": "4K (3840x2160)",
+        "fps": 24,
+        "aspect_ratio": "2.39:1",
+        "codec": "ProRes 4444"
+      },
+      "visual_elements": {
+        "opposing_forces": {
+          "magic_side": "Wizards, dragons, elemental summons",
+          "tech_side": "Mechs, energy weapons, force fields",
+          "battlefield": "Scarred landscape with floating rocks",
+          "scale": "Thousands of combatants",
+          "focal_points": "Hero duels amidst chaos"
+        },
+        "combat_effects": [
+          "Spell impacts on mech shields",
+          "Dragon fire vs plasma cannons",
+          "Portals opening for reinforcements",
+          "Elemental storms clashing with tech",
+          "Ground shattering from impacts"
+        ]
+      },
+      "camera_movement": {
+        "type": "Epic battlefield coverage",
+        "establishing": "High wide shot of armies charging",
+        "descent": "Diving into battle chaos",
+        "tracking": "Following spell/missile exchanges",
+        "character_moments": "Brief focus on individual heroes",
+        "climax": "Pulling back for massive explosion"
+      },
+      "audio_cues": {
+        "battle_sounds": ["War cries", "Spell casting", "Mech weapons", "Explosions"],
+        "music": "Epic orchestral battle theme mixing classical and electronic",
+        "dynamics": "Rising and falling with battle flow",
+        "impact_moments": "Silence before major hits"
+      },
+      "ai_generation_prompts": {
+        "primary": "Epic fantasy battle, wizards and dragons versus mechs and plasma weapons, massive battlefield, spells clashing with technology, thousands of warriors, photorealistic, Lord of the Rings meets Pacific Rim, cinematic war coverage",
+        "style_modifiers": ["battle dust", "energy effects", "motion blur", "epic scale"],
+        "negative_prompts": ["small skirmish", "one-sided battle", "cartoon violence", "empty battlefield"]
+      }
+    }
+  ],
+  "global_guidelines": {
+    "vfx_integration": {
+      "compositing": "Multi-layer with proper light interaction",
+      "particle_systems": "Physics-based with environmental reactions",
+      "color_grading": "Cinematic LUTs appropriate to genre",
+      "post_processing": "Film grain, chromatic aberration, bloom where appropriate"
+    },
+    "world_building": {
+      "consistency": "Maintain visual logic within each world",
+      "scale": "Emphasize scope through camera and staging",
+      "detail_layers": "Background, midground, foreground elements",
+      "lived_in_feel": "Wear, tear, and history visible in environments"
+    },
+    "technical_excellence": {
+      "rendering": "Photorealistic quality with artistic style",
+      "motion": "Natural physics and weight to movements",
+      "lighting": "Motivated and atmospheric illumination",
+      "integration": "Seamless blend of practical and VFX elements"
+    }
+  }
+}

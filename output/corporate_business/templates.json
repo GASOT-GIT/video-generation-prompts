@@ -1,0 +1,598 @@
+{
+  "category": "Corporate & Business",
+  "categoryId": "corporate_business",
+  "templateCount": 10,
+  "generatedAt": "2025-08-01T18:00:00.000Z",
+  "templates": [
+    {
+      "id": "corporate_culture_showcase",
+      "category": "corporate_business",
+      "title": "Company Culture Showcase",
+      "description": "Dynamic video template showcasing company culture with authentic team interactions and workplace environment",
+      "prompt": {
+        "main": "Professional corporate culture video featuring diverse team members collaborating in modern office spaces. Camera smoothly glides through open workspaces capturing genuine interactions, team meetings, and creative collaborations. Focus on authentic moments of teamwork, innovation, and company values in action. Include shots of employees engaged in brainstorming sessions, casual conversations, and focused work. Showcase company perks, recreational areas, and unique cultural elements that define the workplace atmosphere.",
+        "elements": {
+          "cameraMovement": "Steadicam movement flowing through office spaces, tracking shots following team interactions, subtle handheld for authenticity during meetings",
+          "subject": "Diverse team members in natural work situations, collaborative groups, individual contributors, leadership figures",
+          "scene": "Modern open office environment, meeting rooms with glass walls, collaborative spaces, break areas, innovation labs",
+          "motion": "Natural employee movements, active collaboration, walking conversations, typing, whiteboard sessions, high-fives and celebrations",
+          "lighting": "Bright natural office lighting with large windows, warm LED panels, practical desk lamps, dynamic shadows showing time progression",
+          "atmosphere": "Energetic, collaborative, innovative, inclusive, professional yet relaxed, authentic workplace vibe",
+          "style": "Documentary-style corporate video with cinematic polish, shallow depth of field for intimacy, brand color grading",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps for cinematic feel"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Remote Culture Version",
+          "modifiedElements": {
+            "scene": "Split-screen video calls, home offices, virtual collaboration tools",
+            "cameraMovement": "Static shots with digital transitions between remote workers"
+          }
+        },
+        {
+          "name": "Startup Energy Version",
+          "modifiedElements": {
+            "atmosphere": "High-energy, fast-paced, creative chaos",
+            "motion": "Quick cuts, time-lapse sequences, dynamic team activities"
+          }
+        }
+      ],
+      "tags": ["company culture", "team dynamics", "workplace", "corporate values", "employee engagement"],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Capture authentic, unscripted moments for genuine feel",
+        "Include diverse representation of team members",
+        "Balance wide establishing shots with intimate close-ups",
+        "Incorporate company branding subtly throughout",
+        "Show both work and play aspects of culture"
+      ],
+      "examples": {
+        "sampleOutput": "60-second culture video showcasing daily life at the company with authentic team interactions",
+        "useCases": [
+          "Recruitment and talent acquisition",
+          "Company website about page",
+          "Internal culture initiatives",
+          "Employer branding campaigns",
+          "Social media recruitment content"
+        ]
+      }
+    },
+    {
+      "id": "product_launch_presentation",
+      "category": "corporate_business",
+      "title": "Product Launch Presentation",
+      "description": "High-impact video template for introducing new products with dramatic reveals and feature showcases",
+      "prompt": {
+        "main": "Cinematic product launch video with dramatic build-up and reveal. Start with teasing glimpses and abstract close-ups building anticipation. Culminate in a spectacular 360-degree product reveal with dynamic lighting. Showcase key features through elegant motion graphics and real-world application scenarios. Include sleek UI demonstrations, technical specifications overlays, and benefit-focused messaging. End with strong call-to-action and brand reinforcement.",
+        "elements": {
+          "cameraMovement": "Slow dolly in for anticipation, explosive 360-degree orbit on reveal, macro lens details, crane shots for scale",
+          "subject": "Hero product in pristine condition, multiple angles and configurations, contextual usage scenarios",
+          "scene": "Minimalist studio setup with infinity curve, gradient backgrounds matching brand colors, real-world application environments",
+          "motion": "Product emerging from shadows, rotating platforms, feature animations, particle effects, kinetic typography",
+          "lighting": "Dramatic spotlighting, color-changing LED accents, rim lighting for depth, reflective surfaces highlighting premium quality",
+          "atmosphere": "Exciting, innovative, premium, game-changing, sophisticated, future-forward",
+          "style": "Apple-inspired minimalism meets high-energy tech launch, clean compositions, premium commercial production",
+          "technicalSpecs": {
+            "duration": "45-60 seconds",
+            "resolution": "4K minimum, 8K preferred",
+            "aspectRatio": "16:9 primary, 9:16 social cuts",
+            "frameRate": "30 fps with 60 fps slow-motion segments"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Software Launch Version",
+          "modifiedElements": {
+            "subject": "UI/UX demonstrations, screen recordings, feature workflows",
+            "scene": "Digital environments, device mockups, abstract data visualizations"
+          }
+        },
+        {
+          "name": "B2B Technical Version",
+          "modifiedElements": {
+            "style": "More technical, specification-focused, ROI emphasis",
+            "atmosphere": "Professional, reliable, efficient, solution-oriented"
+          }
+        }
+      ],
+      "tags": ["product launch", "reveal", "innovation", "marketing", "premium showcase"],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Build anticipation through pacing and music",
+        "Highlight unique selling propositions clearly",
+        "Use motion graphics for technical specifications",
+        "Ensure brand consistency throughout",
+        "Create modular segments for different platforms"
+      ],
+      "examples": {
+        "sampleOutput": "Premium product launch video with dramatic reveal and feature showcase",
+        "useCases": [
+          "Product launch events",
+          "Website hero videos",
+          "Trade show presentations",
+          "Investor pitch decks",
+          "E-commerce product pages"
+        ]
+      }
+    },
+    {
+      "id": "ceo_message_authority",
+      "category": "corporate_business",
+      "title": "CEO Message with Authority",
+      "description": "Executive communication template conveying leadership vision and company direction with gravitas",
+      "prompt": {
+        "main": "Authoritative CEO message video combining direct-to-camera address with supporting visuals. CEO positioned in premium office setting or strategic location. Intercut with company achievements, team footage, and vision graphics. Professional teleprompter delivery with natural gestures and confident body language. B-roll includes company milestones, employee success stories, and future vision illustrations. Subtle lower thirds for key points and statistics.",
+        "elements": {
+          "cameraMovement": "Stable medium shot for main address, slow push-ins for emphasis, cutaway pans to supporting visuals",
+          "subject": "CEO in professional attire, confident posture, direct eye contact, natural hand gestures, authentic expressions",
+          "scene": "Executive office with branded elements, floor-to-ceiling windows with city view, or meaningful company location",
+          "motion": "Measured gestures, purposeful movement between positions, smooth transitions to B-roll footage",
+          "lighting": "Professional three-point lighting, soft key light for flattering look, subtle rim light for depth, branded color accents",
+          "atmosphere": "Authoritative, inspiring, trustworthy, forward-thinking, confident, approachable leadership",
+          "style": "Broadcast-quality corporate communication, Netflix documentary aesthetic, premium color grading",
+          "technicalSpecs": {
+            "duration": "2-3 minutes",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps for cinematic quality"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Crisis Communication Version",
+          "modifiedElements": {
+            "atmosphere": "Serious, empathetic, solution-focused, reassuring",
+            "lighting": "Softer, warmer tones for approachability"
+          }
+        },
+        {
+          "name": "Celebration Message Version",
+          "modifiedElements": {
+            "atmosphere": "Upbeat, celebratory, grateful, energetic",
+            "scene": "Among employees or at company event location"
+          }
+        }
+      ],
+      "tags": ["executive communication", "leadership", "CEO message", "corporate address", "vision statement"],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Ensure authentic delivery over perfection",
+        "Use teleprompter for consistency but maintain natural delivery",
+        "Include specific examples and stories",
+        "Balance authority with approachability",
+        "Keep language clear and jargon-free"
+      ],
+      "examples": {
+        "sampleOutput": "Professional CEO address with supporting visuals conveying company vision and leadership",
+        "useCases": [
+          "Annual company meetings",
+          "Quarterly earnings calls",
+          "Major announcement communications",
+          "Investor relations",
+          "Internal leadership updates"
+        ]
+      }
+    },
+    {
+      "id": "office_environment_tour",
+      "category": "corporate_business",
+      "title": "Office Environment Tour",
+      "description": "Immersive walkthrough showcasing modern workspace design and company facilities",
+      "prompt": {
+        "main": "Cinematic office tour showcasing architectural design, workspace innovation, and employee amenities. Begin with dramatic exterior establishing shot, transition through main entrance with brand reveals. Glide through different work zones: open collaboration areas, quiet focus pods, creative spaces, meeting rooms with latest technology. Highlight unique features like wellness rooms, cafeterias, recreational areas, and sustainable design elements. Include employees naturally using spaces to show scale and functionality.",
+        "elements": {
+          "cameraMovement": "Smooth gimbal walkthrough, drone flyovers for scale, slider shots for architectural details, 360-degree room reveals",
+          "subject": "Architectural features, workspace designs, technology integrations, employees in natural work scenarios",
+          "scene": "Modern office building exterior and interior, various functional spaces, amenity areas, outdoor terraces",
+          "motion": "Continuous forward movement, seamless transitions between spaces, time-lapse of busy areas, parallax architectural shots",
+          "lighting": "Natural daylight through large windows, architectural LED features, warm workspace lighting, dramatic exterior golden hour",
+          "atmosphere": "Impressive, innovative, welcoming, productive, sustainable, employee-centric",
+          "style": "Architectural videography meets corporate showcase, real estate tour quality, magazine-worthy compositions",
+          "technicalSpecs": {
+            "duration": "90-120 seconds",
+            "resolution": "4K minimum",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps with 60 fps detail shots"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Virtual Tour Version",
+          "modifiedElements": {
+            "cameraMovement": "360-degree capture for VR experience",
+            "technicalSpecs": "360-degree video format, interactive hotspots"
+          }
+        },
+        {
+          "name": "Sustainability Focus Version",
+          "modifiedElements": {
+            "subject": "Green features, LEED certifications, energy efficiency",
+            "atmosphere": "Eco-conscious, innovative, responsible"
+          }
+        }
+      ],
+      "tags": ["office tour", "workspace", "facilities", "architecture", "corporate real estate"],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Plan route for logical flow and smooth transitions",
+        "Capture during optimal lighting conditions",
+        "Include human element for scale and warmth",
+        "Highlight unique and differentiating features",
+        "Ensure consistent color grading throughout"
+      ],
+      "examples": {
+        "sampleOutput": "Comprehensive office tour showcasing workspace innovation and company facilities",
+        "useCases": [
+          "Recruitment marketing",
+          "Virtual office visits",
+          "Real estate showcases",
+          "Company website tours",
+          "Investor facility presentations"
+        ]
+      }
+    },
+    {
+      "id": "business_process_visualization",
+      "category": "corporate_business",
+      "title": "Business Process Visualization",
+      "description": "Clear visual explanation of complex business processes and workflows",
+      "prompt": {
+        "main": "Dynamic visualization of business processes using combination of real footage and motion graphics. Start with problem statement, then reveal solution through step-by-step process flow. Use creative transitions between stages: documents transforming into data, people connecting across departments, systems integrating seamlessly. Incorporate animated flowcharts, dashboard displays, and real employee interactions. Show measurable outcomes and efficiency gains through kinetic typography and infographics.",
+        "elements": {
+          "cameraMovement": "Smooth transitions between live action and graphics, parallax movements through data visualizations, tracking shots following process flow",
+          "subject": "Process stakeholders, digital interfaces, documents, data flows, integration points, outcome metrics",
+          "scene": "Blend of real office environments and abstract digital spaces, split screens showing parallel processes",
+          "motion": "Animated arrows and connections, data flowing between systems, transforming elements, progress indicators",
+          "lighting": "Clean, bright lighting for clarity, color-coded elements for different process stages, glowing effects for digital elements",
+          "atmosphere": "Clear, efficient, innovative, problem-solving, systematic, results-driven",
+          "style": "Infographic video style with live-action integration, clean minimalist design, corporate color scheme",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Technical Process Version",
+          "modifiedElements": {
+            "subject": "Software systems, API connections, data architecture",
+            "style": "More technical diagrams, code snippets, system architectures"
+          }
+        },
+        {
+          "name": "Customer Journey Version",
+          "modifiedElements": {
+            "subject": "Customer touchpoints, experience mapping, satisfaction metrics",
+            "atmosphere": "Customer-centric, empathetic, solution-focused"
+          }
+        }
+      ],
+      "tags": ["process visualization", "workflow", "business systems", "efficiency", "innovation"],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Keep each step clear and concise",
+        "Use consistent visual language throughout",
+        "Highlight pain points and solutions clearly",
+        "Include real-world context not just abstract graphics",
+        "End with measurable benefits and outcomes"
+      ],
+      "examples": {
+        "sampleOutput": "Clear visualization of complex business process with real-world application",
+        "useCases": [
+          "Sales presentations",
+          "Process improvement communications",
+          "Training materials",
+          "Stakeholder updates",
+          "Change management initiatives"
+        ]
+      }
+    },
+    {
+      "id": "team_collaboration_sequence",
+      "category": "corporate_business",
+      "title": "Team Collaboration Sequence",
+      "description": "Dynamic showcase of cross-functional teams working together on projects",
+      "prompt": {
+        "main": "Energetic collaboration video showing cross-functional teams in action. Open with challenge presentation, then show diverse team members contributing their expertise. Capture whiteboard sessions, design sprints, code reviews, and strategy discussions. Use split screens to show simultaneous workstreams converging. Include digital collaboration tools, video conferences with global teams, and breakthrough moments. Climax with successful project delivery and team celebration.",
+        "elements": {
+          "cameraMovement": "Dynamic handheld for energy, whip pans between team members, overhead shots of collaboration, time-lapse sequences",
+          "subject": "Diverse team members from different departments, collaboration tools, project deliverables, celebration moments",
+          "scene": "War rooms, design studios, engineering labs, conference rooms, digital workspaces, success celebration spaces",
+          "motion": "Fast-paced editing, multiple activities in parallel, building momentum towards deadline, high-fives and celebrations",
+          "lighting": "Bright collaborative spaces, computer screen glow, dramatic meeting room lighting, celebration spotlights",
+          "atmosphere": "High-energy, collaborative, innovative, deadline-driven, triumphant, unified team spirit",
+          "style": "Documentary-style with fast-paced editing, startup energy, authentic moments over perfection",
+          "technicalSpecs": {
+            "duration": "60-90 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9 with 1:1 social cuts",
+            "frameRate": "30 fps with 60 fps action sequences"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Remote Collaboration Version",
+          "modifiedElements": {
+            "scene": "Video calls, screen shares, digital whiteboards, home offices",
+            "motion": "Screen recordings, cursor movements, notification pops"
+          }
+        },
+        {
+          "name": "Innovation Sprint Version",
+          "modifiedElements": {
+            "atmosphere": "Creative chaos, rapid prototyping, experimentation",
+            "motion": "Stop-motion of prototype evolution, rapid ideation"
+          }
+        }
+      ],
+      "tags": ["teamwork", "collaboration", "cross-functional", "project management", "innovation"],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Show diversity in teams and perspectives",
+        "Capture authentic collaboration moments",
+        "Build narrative arc from challenge to solution",
+        "Include both digital and physical collaboration",
+        "Highlight the human element of teamwork"
+      ],
+      "examples": {
+        "sampleOutput": "Fast-paced collaboration video showing teams working together to deliver results",
+        "useCases": [
+          "Team building materials",
+          "Recruitment showcases",
+          "Project case studies",
+          "Agile methodology demonstrations",
+          "Company culture content"
+        ]
+      }
+    },
+    {
+      "id": "corporate_event_highlights",
+      "category": "corporate_business",
+      "title": "Corporate Event Highlights",
+      "description": "Premium event coverage showcasing conferences, galas, and company celebrations",
+      "prompt": {
+        "main": "Cinematic event highlights capturing the energy and significance of corporate gatherings. Open with elegant establishing shots of venue and arrival. Showcase keynote moments, audience engagement, networking interactions, and award presentations. Blend wide crowd shots with intimate conversations, speaker close-ups with audience reactions. Include behind-scenes preparation, technology showcases, and celebration moments. End with powerful message reinforcement and community feeling.",
+        "elements": {
+          "cameraMovement": "Crane shots over crowds, steadicam through networking areas, static tripod for speeches, roaming handheld for energy",
+          "subject": "Speakers, attendees, venue details, branding elements, award recipients, networking moments, celebrations",
+          "scene": "Premium event venues, conference stages, exhibition areas, gala dinners, outdoor corporate gatherings",
+          "motion": "Crowd movement, speaker gestures, applause moments, networking flow, award presentations, confetti celebrations",
+          "lighting": "Professional stage lighting, ambient venue lighting, spotlight moments, golden hour outdoor shots, celebration effects",
+          "atmosphere": "Prestigious, energetic, inspiring, connected, celebratory, professional excellence",
+          "style": "High-end event videography, documentary moments, broadcast quality, premium color grading",
+          "technicalSpecs": {
+            "duration": "2-3 minutes",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24 fps with 60 fps highlights"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Virtual Event Version",
+          "modifiedElements": {
+            "scene": "Broadcast studios, home setups, virtual platforms",
+            "subject": "Screen interfaces, remote speakers, chat interactions"
+          }
+        },
+        {
+          "name": "Awards Ceremony Version",
+          "modifiedElements": {
+            "atmosphere": "Glamorous, achievement-focused, emotional",
+            "motion": "Red carpet arrivals, trophy presentations, standing ovations"
+          }
+        }
+      ],
+      "tags": ["corporate events", "conferences", "celebrations", "networking", "company gatherings"],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Capture both planned and candid moments",
+        "Ensure audio quality for speaker segments",
+        "Balance wide shots with intimate details",
+        "Include diverse attendee perspectives",
+        "Create emotional arc throughout the video"
+      ],
+      "examples": {
+        "sampleOutput": "Premium highlight reel of corporate event showcasing key moments and atmosphere",
+        "useCases": [
+          "Post-event marketing",
+          "Future event promotion",
+          "Sponsor acknowledgment",
+          "Internal communications",
+          "Annual report content"
+        ]
+      }
+    },
+    {
+      "id": "training_onboarding_video",
+      "category": "corporate_business",
+      "title": "Training and Onboarding Video",
+      "description": "Engaging educational content for employee training and new hire orientation",
+      "prompt": {
+        "main": "Welcoming onboarding video combining warmth with information. Start with CEO welcome and company mission. Tour through essential departments with friendly team introductions. Demonstrate key systems and processes through screen recordings and animations. Include culture moments, success stories from recent hires, and mentorship programs. Use graphics for policies and procedures. End with inspiring message about growth opportunities and belonging.",
+        "elements": {
+          "cameraMovement": "Smooth transitions between speakers, gentle push-ins for emphasis, screen capture movements, animated transitions",
+          "subject": "HR representatives, department heads, successful employees, mentors, new hire perspectives, system interfaces",
+          "scene": "Welcoming reception areas, department tours, training rooms, cafeterias, collaborative spaces, success story locations",
+          "motion": "Friendly gestures, system demonstrations, animated process flows, checkmark animations, progress indicators",
+          "lighting": "Bright, welcoming lighting, soft key lights for interviews, clear screen visibility, warm color temperature",
+          "atmosphere": "Welcoming, informative, supportive, encouraging, professional yet friendly, inclusive",
+          "style": "Educational video with high production value, mix of talking heads and B-roll, clear graphics",
+          "technicalSpecs": {
+            "duration": "5-10 minutes per module",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Technical Training Version",
+          "modifiedElements": {
+            "subject": "Software interfaces, technical procedures, system architectures",
+            "style": "More screen recordings, technical diagrams, step-by-step tutorials"
+          }
+        },
+        {
+          "name": "Compliance Training Version",
+          "modifiedElements": {
+            "atmosphere": "Serious, important, clear consequences",
+            "motion": "Scenario reenactments, decision trees, quiz interactions"
+          }
+        }
+      ],
+      "tags": ["training", "onboarding", "education", "employee development", "orientation"],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Keep segments digestible and well-paced",
+        "Include interactive elements or checkpoints",
+        "Use real employees for authenticity",
+        "Ensure accessibility with captions and clear audio",
+        "Create modular content for easy updates"
+      ],
+      "examples": {
+        "sampleOutput": "Comprehensive onboarding video series welcoming new employees and providing essential training",
+        "useCases": [
+          "New employee orientation",
+          "Skills training programs",
+          "Compliance education",
+          "System training",
+          "Culture immersion"
+        ]
+      }
+    },
+    {
+      "id": "annual_report_visualization",
+      "category": "corporate_business",
+      "title": "Annual Report Visualization",
+      "description": "Dynamic presentation of company performance, achievements, and future outlook",
+      "prompt": {
+        "main": "Sophisticated annual report video transforming data into compelling visual stories. Open with year overview montage, then dive into key metrics with animated infographics. Show real impact through customer testimonials and project showcases. Visualize financial performance with elegant motion graphics. Include employee growth stories, sustainability achievements, and innovation highlights. Conclude with future vision and strategic initiatives using inspiring imagery.",
+        "elements": {
+          "cameraMovement": "Smooth movements through data visualizations, aerial shots of facilities, testimonial frame compositions",
+          "subject": "Data visualizations, achievement highlights, employee stories, customer impacts, leadership messages, facility growth",
+          "scene": "Blend of corporate locations, customer sites, community impact areas, abstract data environments",
+          "motion": "Growing bar charts, flowing line graphs, transforming pie charts, milestone animations, counter numbers",
+          "lighting": "Clean, bright corporate lighting, dramatic lighting for achievements, warm lighting for human stories",
+          "atmosphere": "Achievement-focused, forward-looking, trustworthy, transparent, proud, optimistic",
+          "style": "Premium motion graphics with live-action integration, annual report aesthetic, sophisticated data visualization",
+          "technicalSpecs": {
+            "duration": "3-5 minutes",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Sustainability Report Version",
+          "modifiedElements": {
+            "subject": "Environmental metrics, green initiatives, social impact",
+            "atmosphere": "Responsible, earth-conscious, future-focused"
+          }
+        },
+        {
+          "name": "Investor-Focused Version",
+          "modifiedElements": {
+            "subject": "Financial performance, market position, growth strategies",
+            "style": "More data-heavy, technical specifications, ROI focus"
+          }
+        }
+      ],
+      "tags": ["annual report", "performance metrics", "achievements", "data visualization", "corporate communications"],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Balance data with human stories",
+        "Ensure data accuracy and clarity",
+        "Use consistent visual language for metrics",
+        "Include diverse stakeholder perspectives",
+        "Create clear narrative through the numbers"
+      ],
+      "examples": {
+        "sampleOutput": "Engaging annual report video combining data visualization with real-world impact stories",
+        "useCases": [
+          "Shareholder meetings",
+          "Investor relations",
+          "Employee communications",
+          "Public relations",
+          "Website annual reports"
+        ]
+      }
+    },
+    {
+      "id": "innovation_lab_showcase",
+      "category": "corporate_business",
+      "title": "Innovation Lab Showcase",
+      "description": "Cutting-edge presentation of R&D facilities, future technologies, and innovation culture",
+      "prompt": {
+        "main": "Futuristic innovation lab video showcasing cutting-edge research and development. Begin with dramatic lab reveal, then explore advanced equipment and prototypes in action. Feature scientists and engineers explaining breakthrough technologies. Use macro shots of precision work, time-lapses of experiments, and 3D visualizations of concepts. Include AR/VR demonstrations, AI applications, and sustainable innovations. Build excitement about future possibilities while maintaining scientific credibility.",
+        "elements": {
+          "cameraMovement": "Probe lens exploration of tech details, gimbal movements through lab spaces, orbit shots around prototypes",
+          "subject": "Advanced equipment, prototypes, researchers in action, experimental setups, breakthrough demonstrations",
+          "scene": "State-of-the-art laboratories, clean rooms, testing facilities, prototype workshops, future tech demonstrations",
+          "motion": "Robotic movements, 3D printing processes, chemical reactions, data flowing across screens, prototype testing",
+          "lighting": "High-tech blue and white lighting, laser effects, LED displays, UV lighting for special materials, holographic projections",
+          "atmosphere": "Cutting-edge, scientific, innovative, future-focused, exciting possibilities, professional research",
+          "style": "Science documentary meets tech showcase, clean modern aesthetic, subtle sci-fi influences",
+          "technicalSpecs": {
+            "duration": "2-3 minutes",
+            "resolution": "4K minimum, 8K for detail shots",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps with 120 fps slow-motion"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Software Innovation Version",
+          "modifiedElements": {
+            "subject": "Code development, AI models, digital interfaces, cloud architecture",
+            "scene": "Digital environments, server rooms, developer workstations"
+          }
+        },
+        {
+          "name": "Sustainable Innovation Version",
+          "modifiedElements": {
+            "subject": "Green technologies, renewable energy, circular economy solutions",
+            "atmosphere": "Eco-innovative, responsible, planet-positive"
+          }
+        }
+      ],
+      "tags": ["innovation", "R&D", "technology", "future", "laboratory", "research"],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Balance technical accuracy with accessibility",
+        "Show both process and results",
+        "Include human element behind innovation",
+        "Protect proprietary information while showcasing capabilities",
+        "Create sense of possibility and excitement"
+      ],
+      "examples": {
+        "sampleOutput": "High-tech showcase of innovation lab featuring cutting-edge research and future technologies",
+        "useCases": [
+          "Investor technology presentations",
+          "Recruitment for R&D positions",
+          "Partnership development",
+          "Innovation marketing",
+          "Grant applications"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "category": "Event Celebration",
+  "categoryId": "event_celebration",
+  "templateCount": 10,
+  "generatedAt": "2025-08-02T07:25:09.533Z",
+  "templates": [
+    {
+      "template_id": "wedding_romance_001",
+      "title": "Wedding Day Romance",
+      "category": "event_celebration",
+      "subcategory": "Wedding",
+      "description": "Cinematic wedding coverage capturing ceremony moments, couple portraits, and reception joy",
+      "prompt": "Breathtaking wedding day story unfolding through cinematic sequences: bride's veil flowing in gentle breeze during golden hour portraits, groom's emotional first look reaction with tears of joy, intimate ring exchange close-ups with bokeh background, flower girl tossing petals down sunlit aisle, guests throwing rice in slow motion celebration, couple's first dance under twinkling lights, champagne toasts with lens flares, sunset silhouettes against scenic backdrop, 8K cinematic quality with film grain",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 24,
+        "duration": "20-30 seconds",
+        "aspect_ratio": "2.35:1",
+        "color_grading": "cinematic warm tones with teal shadows",
+        "camera_movement": "stabilized tracking shots and elegant crane movements",
+        "depth_of_field": "ultra-shallow for emotional moments",
+        "lighting": "golden hour mixed with soft fill light"
+      },
+      "style_tags": [
+        "romantic",
+        "cinematic",
+        "emotional",
+        "elegant",
+        "timeless"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.3,
+        "camera_stability": 0.95,
+        "focus_pull": true,
+        "bokeh_intensity": 0.9,
+        "film_emulation": true
+      },
+      "audio_suggestions": {
+        "type": "cinematic orchestral romance",
+        "mood": "deeply emotional, sweeping",
+        "tempo": "slow building to moderate"
+      }
+    },
+    {
+      "template_id": "birthday_magic_002",
+      "title": "Birthday Party Magic",
+      "category": "event_celebration",
+      "subcategory": "Birthday",
+      "description": "Dynamic birthday celebration with cake moment, surprises, and genuine reactions",
+      "prompt": "Magical birthday party atmosphere captured in vivid detail: birthday person's eyes widening at surprise entrance of loved ones, slow-motion confetti explosion with rainbow colors, candlelit cake approaching through darkened room with faces illuminated by glow, genuine laughter during gift unwrapping, group hug with pure joy expressions, balloon arch framing celebration space, party games in action with competitive fun, emotional speech moments with happy tears, sparkler writing birthday message, overhead shot of everyone singing around decorated table",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "15-25 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "vibrant with enhanced saturation",
+        "camera_movement": "dynamic handheld with gimbal stabilization",
+        "depth_of_field": "variable for emphasis",
+        "lighting": "mixed party lights and natural light"
+      },
+      "style_tags": [
+        "joyful",
+        "colorful",
+        "surprising",
+        "energetic",
+        "heartwarming"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.7,
+        "camera_stability": 0.7,
+        "particle_effects": "confetti, sparkles",
+        "slow_motion_sections": true,
+        "speed_ramping": true
+      },
+      "audio_suggestions": {
+        "type": "upbeat celebration mix",
+        "mood": "happy, surprising, energetic",
+        "tempo": "variable with builds"
+      }
+    },
+    {
+      "template_id": "corporate_gala_003",
+      "title": "Corporate Gala Evening",
+      "category": "event_celebration",
+      "subcategory": "Corporate",
+      "description": "Sophisticated corporate gala with red carpet arrivals, speeches, and networking elegance",
+      "prompt": "Prestigious corporate gala event in luxurious ballroom: executives arriving on red carpet in formal attire, champagne reception with crystal glasses catching light, CEO delivering keynote from polished podium with branded backdrop, elegant networking conversations in architectural spaces, awards ceremony with spotlit stage moments, panoramic ballroom reveal with chandeliers and table settings, professional photographers capturing VIP moments, live orchestra performance adding sophistication, closing fireworks viewed from terrace, all captured with broadcast-quality precision",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 30,
+        "duration": "20-30 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "sophisticated with rich blacks and gold accents",
+        "camera_movement": "smooth dollies and jib shots",
+        "depth_of_field": "selective focus for importance",
+        "lighting": "dramatic venue lighting with rim lights"
+      },
+      "style_tags": [
+        "sophisticated",
+        "luxurious",
+        "professional",
+        "elegant",
+        "prestigious"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.4,
+        "camera_stability": 0.98,
+        "transition_style": "elegant crossfades",
+        "focus_tracking": true,
+        "highlight_preservation": true
+      },
+      "audio_suggestions": {
+        "type": "sophisticated orchestral or jazz",
+        "mood": "elegant, professional, grand",
+        "tempo": "moderate and stately"
+      }
+    },
+    {
+      "template_id": "music_festival_004",
+      "title": "Music Festival Vibes",
+      "category": "event_celebration",
+      "subcategory": "Festival",
+      "description": "Electric festival atmosphere with crowd energy, stage performances, and festival fashion",
+      "prompt": "Epic music festival experience from multiple perspectives: aerial drone revealing massive crowd sea moving to beat, main stage pyrotechnics synchronized with bass drops, festival-goers in bohemian outfits dancing freely, close-up of DJ's hands working turntables with light reflections, crowd surfing moments in golden sunset light, art installations glowing in twilight, food truck alley with neon signs, spontaneous drum circles with fire dancers, festival fashion statements in slow motion, finale fireworks reflected in thousands of raised phones",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "25-35 seconds",
+        "aspect_ratio": "21:9",
+        "color_grading": "vibrant with neon highlights and crushed blacks",
+        "camera_movement": "dynamic drones, steadicam through crowds",
+        "depth_of_field": "variable with rack focus",
+        "lighting": "stage lights, lasers, natural magic hour"
+      },
+      "style_tags": [
+        "energetic",
+        "vibrant",
+        "festival",
+        "youthful",
+        "epic"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.8,
+        "camera_stability": 0.6,
+        "light_streaks": true,
+        "crowd_dynamics": true,
+        "beat_sync": true
+      },
+      "audio_suggestions": {
+        "type": "festival EDM or indie mix",
+        "mood": "euphoric, energetic, free",
+        "tempo": "high energy with drops"
+      }
+    },
+    {
+      "template_id": "baby_shower_005",
+      "title": "Baby Shower Sweetness",
+      "category": "event_celebration",
+      "subcategory": "Baby Shower",
+      "description": "Tender baby shower moments with gender reveal, decorations, and emotional connections",
+      "prompt": "Heartwarming baby shower celebration filled with anticipation: expectant parents holding hands during gender reveal balloon pop with pink or blue confetti, guests' genuine surprise reactions in slow motion, delicate nursery-themed decorations with paper clouds and stars, mother-to-be gently touching baby bump while opening tiny outfit gifts, emotional grandparents-to-be wiping happy tears, decorated dessert table with baby-themed treats, advice cards being written with loving messages, group photo with baby shower props, sunset light streaming through sheer curtains creating dreamy atmosphere",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 24,
+        "duration": "15-20 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "soft pastels with creamy highlights",
+        "camera_movement": "gentle gliding movements",
+        "depth_of_field": "soft and shallow",
+        "lighting": "diffused natural light with warm fill"
+      },
+      "style_tags": [
+        "tender",
+        "sweet",
+        "emotional",
+        "soft",
+        "anticipatory"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.3,
+        "camera_stability": 0.9,
+        "gaussian_blur": "slight edges",
+        "particle_effects": "floating bubbles or petals",
+        "slow_motion_reveals": true
+      },
+      "audio_suggestions": {
+        "type": "gentle acoustic or music box",
+        "mood": "tender, hopeful, sweet",
+        "tempo": "slow and soothing"
+      }
+    },
+    {
+      "template_id": "graduation_achievement_006",
+      "title": "Graduation Achievement",
+      "category": "event_celebration",
+      "subcategory": "Graduation",
+      "description": "Triumphant graduation moments with cap toss, proud families, and future dreams",
+      "prompt": "Inspiring graduation day capturing achievement and new beginnings: graduates processional in flowing gowns with morning sun backlighting, emotional parent reactions during diploma handshake, triumphant cap toss freeze-frame against blue sky, group of friends jumping in synchronized celebration, valedictorian speech with audience inspiration visible, professor congratulating star student with pride, family portrait with multiple generations celebrating, graduate looking thoughtfully toward future horizon, confetti and champagne celebration on campus lawn, closing shot of tassel being moved with smile of accomplishment",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "20-25 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "bright and optimistic with enhanced sky",
+        "camera_movement": "combination of static tripod and smooth tracking",
+        "depth_of_field": "deep for groups, shallow for portraits",
+        "lighting": "bright daylight with reflector fill"
+      },
+      "style_tags": [
+        "triumphant",
+        "inspirational",
+        "proud",
+        "optimistic",
+        "ceremonial"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.5,
+        "camera_stability": 0.85,
+        "freeze_frames": true,
+        "slow_motion_moments": "cap toss, jumping",
+        "lens_flares": "subtle sun flares"
+      },
+      "audio_suggestions": {
+        "type": "inspirational orchestral crescendo",
+        "mood": "triumphant, hopeful, proud",
+        "tempo": "building from moderate to powerful"
+      }
+    },
+    {
+      "template_id": "holiday_gathering_007",
+      "title": "Holiday Family Gathering",
+      "category": "event_celebration",
+      "subcategory": "Holiday",
+      "description": "Warm holiday gathering with traditions, feast preparation, and togetherness",
+      "prompt": "Heartwarming holiday family gathering rich with tradition: grandmother's hands kneading traditional bread dough with flour dust dancing in window light, children decorating gingerbread houses with concentration and giggles, family members arriving with armfuls of wrapped gifts and warm embraces, kitchen bustling with multiple generations cooking together, dining table reveal with golden turkey and all traditions, grandfather carving while sharing stories, candlelit grace moment with joined hands, children's play performance for adults, everyone gathered by fireplace sharing memories, snow beginning to fall outside frosted windows",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 30,
+        "duration": "25-30 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "warm with amber and red tones",
+        "camera_movement": "smooth handheld with stabilization",
+        "depth_of_field": "medium with selective focus",
+        "lighting": "warm practicals and window light"
+      },
+      "style_tags": [
+        "warm",
+        "traditional",
+        "family",
+        "nostalgic",
+        "cozy"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.4,
+        "camera_stability": 0.8,
+        "bokeh_enhancement": true,
+        "steam_effects": "from food",
+        "ambient_particles": "dust motes, snow"
+      },
+      "audio_suggestions": {
+        "type": "traditional holiday instrumentals",
+        "mood": "warm, nostalgic, peaceful",
+        "tempo": "gentle and flowing"
+      }
+    },
+    {
+      "template_id": "anniversary_milestone_008",
+      "title": "Anniversary Milestone",
+      "category": "event_celebration",
+      "subcategory": "Anniversary",
+      "description": "Anniversary celebration showcasing couple's journey, renewal vows, and celebration",
+      "prompt": "Golden anniversary celebration weaving past and present: elderly couple slow dancing in same spot as wedding photo, wall of memories showing their journey through decades, vow renewal ceremony in garden with children and grandchildren witnessing, hands holding showing wedding rings worn smooth with time, surprise video messages from distant loved ones on screen, three-generation family portrait in golden hour light, couple recreating first date at favorite restaurant, champagne toast with original wedding glasses, looking through wedding album together with laughter, sunset walk hand-in-hand reflecting lifetime of love",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 24,
+        "duration": "20-30 seconds",
+        "aspect_ratio": "2.35:1",
+        "color_grading": "warm golden tones with film look",
+        "camera_movement": "slow deliberate movements",
+        "depth_of_field": "shallow for intimacy",
+        "lighting": "golden hour and candlelight"
+      },
+      "style_tags": [
+        "nostalgic",
+        "romantic",
+        "timeless",
+        "emotional",
+        "celebratory"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.3,
+        "camera_stability": 0.95,
+        "film_grain": true,
+        "crossfade_memories": true,
+        "vintage_elements": true
+      },
+      "audio_suggestions": {
+        "type": "romantic classics or their song",
+        "mood": "deeply romantic, nostalgic",
+        "tempo": "slow and meaningful"
+      }
+    },
+    {
+      "template_id": "new_year_countdown_009",
+      "title": "New Year's Eve Countdown",
+      "category": "event_celebration",
+      "subcategory": "New Year",
+      "description": "Electric NYE celebration with party atmosphere, midnight moment, and fireworks",
+      "prompt": "Spectacular New Year's Eve celebration building to midnight climax: elegant party venue with guests in glamorous attire raising champagne, DJ booth pulsing with lights synchronized to music, countdown clock dramatically ticking final minutes, couples preparing for midnight kiss, confetti cannons loaded and ready, city skyline view from rooftop venue, midnight strike with explosion of golden confetti and cheers, fireworks bursting over cityscape in time-lapse, champagne spraying in slow motion celebration, hugs and kisses with 'Happy New Year' exclamations, party continuing into new year with pure joy",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 60,
+        "duration": "30-40 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "high contrast with gold and silver",
+        "camera_movement": "dynamic with crane and gimbal",
+        "depth_of_field": "variable for different scenes",
+        "lighting": "party lights, fireworks, spotlights"
+      },
+      "style_tags": [
+        "spectacular",
+        "celebratory",
+        "glamorous",
+        "exciting",
+        "festive"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.8,
+        "camera_stability": 0.7,
+        "particle_overload": true,
+        "time_remapping": "countdown acceleration",
+        "strobe_sync": true
+      },
+      "audio_suggestions": {
+        "type": "party anthem with countdown",
+        "mood": "building excitement to explosion",
+        "tempo": "increasing to drop at midnight"
+      }
+    },
+    {
+      "template_id": "cultural_festival_010",
+      "title": "Cultural Festival Colors",
+      "category": "event_celebration",
+      "subcategory": "Cultural Festival",
+      "description": "Vibrant cultural festival with traditional dress, performances, and community spirit",
+      "prompt": "Vibrant cultural festival celebrating heritage and community: colorful traditional costumes swirling in folk dance performances, close-ups of intricate embroidery and jewelry details, food vendors preparing authentic dishes with aromatic steam, children learning traditional crafts from elders, parade of nations with flags and cultural pride, drummers in synchronization creating rhythm, face painting with cultural symbols, community members of all ages participating, traditional music performances on authentic instruments, sunset ceremony bringing everyone together in unity, faces reflecting joy of cultural connection and celebration",
+      "technical_specs": {
+        "resolution": "3840x2160",
+        "fps": 30,
+        "duration": "20-30 seconds",
+        "aspect_ratio": "16:9",
+        "color_grading": "vibrant and saturated celebrating colors",
+        "camera_movement": "fluid movement through crowds",
+        "depth_of_field": "medium to capture environment",
+        "lighting": "natural daylight with color reflections"
+      },
+      "style_tags": [
+        "colorful",
+        "cultural",
+        "vibrant",
+        "communal",
+        "traditional"
+      ],
+      "motion_parameters": {
+        "movement_speed": 0.6,
+        "camera_stability": 0.8,
+        "color_enhancement": true,
+        "motion_blur": "dancing sequences",
+        "crowd_energy": true
+      },
+      "audio_suggestions": {
+        "type": "world music fusion",
+        "mood": "celebratory, cultural, unified",
+        "tempo": "rhythmic and varied"
+      }
+    }
+  ]
+}

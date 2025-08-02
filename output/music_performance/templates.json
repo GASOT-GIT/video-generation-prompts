@@ -1,0 +1,558 @@
+{
+  "category": "Music & Performance",
+  "categoryId": "music_performance",
+  "templateCount": 10,
+  "generatedAt": "2025-08-01T18:00:36.668Z",
+  "templates": [
+    {
+      "id": "music_performance_template_01",
+      "category": "music_performance",
+      "title": "Concert Stage Energy Capture",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Smooth tracking shot following the action",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Soft natural light with subtle shadows",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_02",
+      "category": "music_performance",
+      "title": "Music Video Artistic Style",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "360-degree orbital movement around subject",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Dramatic spotlighting with rim light",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_03",
+      "category": "music_performance",
+      "title": "Behind the Scenes Recording",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Dolly zoom creating dramatic perspective shift",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Golden hour warm tones",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_04",
+      "category": "music_performance",
+      "title": "DJ Set with Visual Effects",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Crane shot revealing scene from above",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "High-key bright and airy",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_05",
+      "category": "music_performance",
+      "title": "Acoustic Intimate Performance",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Handheld movement for dynamic energy",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Low-key moody atmosphere",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_06",
+      "category": "music_performance",
+      "title": "Dance Choreography Showcase",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Steadicam gliding through the scene",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Neon accents with practical lights",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_07",
+      "category": "music_performance",
+      "title": "Festival Crowd Energy",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Time-lapse with subtle camera drift",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Diffused studio lighting",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_08",
+      "category": "music_performance",
+      "title": "Instrument Detail and Sound",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Macro push-in revealing fine details",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Backlighting creating silhouettes",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_09",
+      "category": "music_performance",
+      "title": "Band Dynamic Performance",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Aerial descent into the scene",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Mixed color temperature for depth",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "beginner",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    },
+    {
+      "id": "music_performance_template_10",
+      "category": "music_performance",
+      "title": "Music Production Process",
+      "description": "Professional video template for Music & Performance content",
+      "prompt": {
+        "main": "Energetic performance footage with stage lights creating dramatic atmosphere. Close-ups of instruments and artist expressions intercut with wide crowd shots.",
+        "elements": {
+          "cameraMovement": "Slider movement with parallax effect",
+          "subject": "Musician or band performing live",
+          "scene": "Concert stage or recording studio",
+          "motion": "Natural movement patterns with dynamic elements",
+          "lighting": "Strobe effects for energy",
+          "atmosphere": "Electric, emotional, engaging",
+          "style": "MTV meets live concert film",
+          "technicalSpecs": {
+            "duration": "10-20 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "30 fps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Alternative Style",
+          "modifiedElements": {
+            "style": "Different visual approach",
+            "atmosphere": "Contrasting mood"
+          }
+        }
+      ],
+      "tags": [
+        "music performance",
+        "music",
+        "concert",
+        "performance",
+        "artist",
+        "live"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Follow professional production standards",
+        "Ensure clear subject focus",
+        "Maintain consistent visual style"
+      ],
+      "examples": {
+        "sampleOutput": "High-quality music & performance video",
+        "useCases": [
+          "Music videos",
+          "Concert promotion",
+          "Artist showcases"
+        ]
+      }
+    }
+  ]
+}

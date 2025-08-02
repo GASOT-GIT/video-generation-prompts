@@ -1,0 +1,1351 @@
+{
+  "timestamp": "2025-08-01T18:00:36.672Z",
+  "summary": {
+    "totalValidated": 200,
+    "passed": 200,
+    "failed": 0,
+    "successRate": "100.0%"
+  },
+  "details": [
+    {
+      "category": "Cinematic Storytelling",
+      "categoryId": "cinematic_storytelling",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "cinematic_dramatic_reveal_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_action_chase_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_romantic_moment_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_mystery_thriller_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_epic_landscape_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_dialogue_scene_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_flashback_transition_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_war_battle_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_heist_planning_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "cinematic_final_goodbye_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Product Showcase",
+      "categoryId": "product_showcase",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "product_tech_unveil_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_luxury_watch_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_cosmetics_texture_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_automotive_detail_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_furniture_lifestyle_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_food_gourmet_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_fashion_accessories_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_electronics_gaming_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_home_appliance_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "product_sports_equipment_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Fashion & Beauty",
+      "categoryId": "fashion_beauty",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "fashion_beauty_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "fashion_beauty_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Food & Culinary",
+      "categoryId": "food_culinary",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "food_culinary_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "food_culinary_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Travel & Tourism",
+      "categoryId": "travel_tourism",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "travel_tourism_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "travel_tourism_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Sports & Action",
+      "categoryId": "sports_action",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "sports_action_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "sports_action_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Music & Performance",
+      "categoryId": "music_performance",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "music_performance_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "music_performance_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Education & Tutorial",
+      "categoryId": "education_tutorial",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "education_tutorial_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "education_tutorial_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Real Estate & Architecture",
+      "categoryId": "real_estate_architecture",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "real_estate_architecture_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "real_estate_architecture_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Nature & Wildlife",
+      "categoryId": "nature_wildlife",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "nature_wildlife_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "nature_wildlife_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Sci-Fi & Fantasy",
+      "categoryId": "scifi_fantasy",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "scifi_fantasy_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "scifi_fantasy_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Animation & Cartoon",
+      "categoryId": "animation_cartoon",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "animation_cartoon_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "animation_cartoon_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Medical & Healthcare",
+      "categoryId": "medical_healthcare",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "medical_healthcare_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "medical_healthcare_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Corporate & Business",
+      "categoryId": "corporate_business",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "corporate_business_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "corporate_business_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Event & Celebration",
+      "categoryId": "event_celebration",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "event_celebration_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "event_celebration_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Gaming & Virtual Worlds",
+      "categoryId": "gaming_virtual_worlds",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "gaming_virtual_worlds_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "gaming_virtual_worlds_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Art & Creative",
+      "categoryId": "art_creative",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "art_creative_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "art_creative_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Technology & Innovation",
+      "categoryId": "technology_innovation",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "technology_innovation_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "technology_innovation_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Lifestyle & Wellness",
+      "categoryId": "lifestyle_wellness",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "lifestyle_wellness_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "lifestyle_wellness_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    },
+    {
+      "category": "Social Media Content",
+      "categoryId": "social_media_content",
+      "totalTemplates": 10,
+      "validationResults": [
+        {
+          "templateId": "social_media_content_template_01",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_02",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_03",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_04",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_05",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_06",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_07",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_08",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_09",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        },
+        {
+          "templateId": "social_media_content_template_10",
+          "status": "PASSED",
+          "errors": [],
+          "warnings": []
+        }
+      ]
+    }
+  ]
+}

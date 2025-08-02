@@ -1,0 +1,688 @@
+{
+  "category": "Sports & Action",
+  "categoryId": "sports_action",
+  "templateCount": 10,
+  "generatedAt": "2025-08-01T22:15:00.000Z",
+  "templates": [
+    {
+      "id": "sports_action_template_01",
+      "category": "sports_action",
+      "title": "Extreme Sports Adrenaline Rush",
+      "description": "High-octane extreme sports capture with dynamic camera work and dramatic angles",
+      "prompt": {
+        "main": "Extreme sports athlete performing death-defying stunts captured with ultra-high-speed cameras. Multiple angles showcase the intensity - helmet cam POV, drone aerial tracking, and ground-level impact shots. Visible determination in facial expressions, muscle tension, and explosive movements. Environmental elements like dust clouds, water spray, or snow particles enhance the action. Sharp focus on critical moments with motion blur emphasizing speed.",
+        "elements": {
+          "cameraMovement": "FPV drone racing alongside action, rapid whip pans, crash zooms on key moments, gimbal-stabilized tracking shots",
+          "subject": "Extreme sports athlete mid-action - skydiver, BMX rider, parkour runner, wingsuit flyer, or cliff diver",
+          "scene": "Dramatic natural locations - mountain peaks, urban rooftops, ocean cliffs, desert canyons",
+          "motion": "Explosive movements, aerial rotations, high-speed impacts, gravity-defying trajectories",
+          "lighting": "High contrast natural light, lens flares for drama, backlighting through particles",
+          "atmosphere": "Heart-pounding, adrenaline-fueled, raw, intense, dangerous",
+          "style": "Red Bull Media House meets GoPro Hero footage",
+          "technicalSpecs": {
+            "duration": "15-30 seconds",
+            "resolution": "4K-8K",
+            "aspectRatio": "16:9 or 2.35:1 cinematic",
+            "frameRate": "120-240 fps for slow motion, 24 fps playback",
+            "colorGrading": "High contrast, saturated colors, crushed blacks",
+            "audioDesign": "Heart beat, heavy breathing, wind rush, impact sounds"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Night Session",
+          "modifiedElements": {
+            "lighting": "LED light trails, urban neon, headlamp beams",
+            "atmosphere": "Underground, rebellious, electric"
+          }
+        },
+        {
+          "name": "Slow Motion Focus",
+          "modifiedElements": {
+            "frameRate": "480-1000 fps capture",
+            "style": "Phantom camera ultra slow-mo showcase"
+          }
+        }
+      ],
+      "tags": [
+        "extreme sports",
+        "adrenaline",
+        "action camera",
+        "high speed",
+        "dynamic",
+        "POV",
+        "drone footage"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Use multiple camera angles for comprehensive coverage",
+        "Prioritize safety while capturing dangerous stunts",
+        "Sync high-speed footage with regular speed for impact",
+        "Include environmental context for scale",
+        "Use motion tracking for smooth follows"
+      ],
+      "examples": {
+        "sampleOutput": "Red Bull Rampage highlights, X Games coverage",
+        "useCases": [
+          "Extreme sports documentaries",
+          "Action camera commercials",
+          "Sports brand campaigns",
+          "Social media viral content"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_02",
+      "category": "sports_action",
+      "title": "Athletic Training Intensity Sequences",
+      "description": "Raw, powerful training montages showcasing dedication and physical transformation",
+      "prompt": {
+        "main": "Intense training sequence capturing athletes pushing their physical limits. Close-ups on straining muscles, beads of sweat, focused expressions. Dynamic camera work follows explosive movements - weightlifting, sprinting, boxing combinations. Intercut between different training stations showing variety and progression. Visible transformation through lighting that emphasizes muscle definition and athletic form.",
+        "elements": {
+          "cameraMovement": "Handheld energy, slider push-ins on effort, 360-degree orbits around lifts, speed ramps on explosive moves",
+          "subject": "Professional athlete or fitness enthusiast in peak training mode",
+          "scene": "High-performance gym, outdoor training ground, boxing ring, track field",
+          "motion": "Explosive lifts, rapid-fire combinations, sprint bursts, plyometric jumps",
+          "lighting": "Harsh gym lighting, dramatic shadows, rim lighting on sweat",
+          "atmosphere": "Gritty, raw, determined, no-excuses mentality",
+          "style": "Rocky training montage meets modern CrossFit aesthetic",
+          "technicalSpecs": {
+            "duration": "30-60 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps with speed ramping",
+            "colorGrading": "Desaturated with orange/teal push",
+            "audioDesign": "Heavy breathing, weight clanks, motivational shouts"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Dawn Training",
+          "modifiedElements": {
+            "lighting": "Golden hour outdoor light",
+            "atmosphere": "Solitary dedication, peaceful intensity"
+          }
+        },
+        {
+          "name": "Team Training",
+          "modifiedElements": {
+            "subject": "Multiple athletes training together",
+            "motion": "Synchronized movements, partner exercises"
+          }
+        }
+      ],
+      "tags": [
+        "training",
+        "fitness",
+        "workout",
+        "intensity",
+        "transformation",
+        "motivation",
+        "gym"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Capture multiple angles of key exercises",
+        "Use speed ramping to emphasize power moments",
+        "Include close-ups of effort and determination",
+        "Show progression through the session",
+        "Match cuts on similar movements for flow"
+      ],
+      "examples": {
+        "sampleOutput": "Nike Training Club videos, UFC Embedded series",
+        "useCases": [
+          "Fitness app promotions",
+          "Gym membership campaigns",
+          "Athletic wear commercials",
+          "Personal trainer portfolios"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_03",
+      "category": "sports_action",
+      "title": "Victory Celebration Moments",
+      "description": "Emotional triumph captures with euphoric reactions and team celebrations",
+      "prompt": {
+        "main": "Euphoric victory celebration captured at the moment of triumph. Slow-motion emotional reactions - tears of joy, triumphant roars, team embraces. Multiple perspectives capture the raw emotion - tight close-ups on faces, wide shots of stadium eruptions, player POV of cheering crowds. Confetti, champagne spray, and trophy lifts in glorious detail. The culmination of dedication and dreams realized.",
+        "elements": {
+          "cameraMovement": "Smooth crane rise revealing crowd, handheld rush into celebration, slow dolly around embraces",
+          "subject": "Victorious athletes in their moment of triumph",
+          "scene": "Stadium, podium, finish line, championship venue",
+          "motion": "Jumping celebrations, fist pumps, emotional collapses, group pile-ons",
+          "lighting": "Stadium floods, golden hour glow, spotlight on champions",
+          "atmosphere": "Euphoric, emotional, triumphant, overwhelming joy",
+          "style": "ESPN championship moments meets Olympic glory",
+          "technicalSpecs": {
+            "duration": "20-45 seconds",
+            "resolution": "4K-6K",
+            "aspectRatio": "16:9",
+            "frameRate": "120 fps for emotional slow-mo",
+            "colorGrading": "Warm, golden tones, high key brightness",
+            "audioDesign": "Crowd roar, emotional music swell, champion breathing"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Underdog Victory",
+          "modifiedElements": {
+            "atmosphere": "Disbelief turning to joy",
+            "motion": "Shock, then explosive celebration"
+          }
+        },
+        {
+          "name": "Team Unity",
+          "modifiedElements": {
+            "subject": "Entire team celebrating together",
+            "cameraMovement": "Wide establishing shots, group dynamics"
+          }
+        }
+      ],
+      "tags": [
+        "victory",
+        "celebration",
+        "champion",
+        "emotion",
+        "triumph",
+        "success",
+        "achievement"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Capture genuine emotional reactions",
+        "Use slow motion to extend key moments",
+        "Include crowd reactions for atmosphere",
+        "Mix wide and tight shots for impact",
+        "Build to climactic moment"
+      ],
+      "examples": {
+        "sampleOutput": "World Cup final celebrations, Olympic gold medal moments",
+        "useCases": [
+          "Sports documentaries",
+          "Motivational content",
+          "Championship recaps",
+          "Brand victory campaigns"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_04",
+      "category": "sports_action",
+      "title": "Sports Equipment Performance Demos",
+      "description": "Technical showcase of sports gear with detailed performance demonstrations",
+      "prompt": {
+        "main": "High-tech sports equipment showcase with precision demonstration of features and performance. Macro shots reveal material textures, construction details, and innovative technology. Equipment in action - slow-motion impact tests, flexibility demonstrations, aerodynamic visualizations. Split-screen comparisons showing equipment advantages. Clean, clinical presentation with data overlays and performance metrics.",
+        "elements": {
+          "cameraMovement": "Precise motorized sliders, rotating product turntables, probe lens details, motion control rigs",
+          "subject": "Premium sports equipment - shoes, rackets, bikes, protective gear",
+          "scene": "Professional studio, testing facility, real-world performance environment",
+          "motion": "Controlled demonstrations, stress tests, performance comparisons",
+          "lighting": "Clean studio lighting, dramatic rim lights, LED accent highlighting",
+          "atmosphere": "Technical, precise, innovative, cutting-edge",
+          "style": "Apple product launch meets Nike innovation lab",
+          "technicalSpecs": {
+            "duration": "30-60 seconds",
+            "resolution": "4K-6K",
+            "aspectRatio": "16:9 or 1:1 for social",
+            "frameRate": "60-120 fps",
+            "colorGrading": "Clean, modern, brand-specific colors",
+            "audioDesign": "Mechanical sounds, whooshes, technical beeps"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Field Testing",
+          "modifiedElements": {
+            "scene": "Real-world sports environment",
+            "lighting": "Natural outdoor conditions"
+          }
+        },
+        {
+          "name": "Comparison Demo",
+          "modifiedElements": {
+            "motion": "Side-by-side performance tests",
+            "style": "Scientific testing aesthetic"
+          }
+        }
+      ],
+      "tags": [
+        "equipment",
+        "technology",
+        "performance",
+        "innovation",
+        "product demo",
+        "technical",
+        "gear"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Use motion control for precise movements",
+        "Include technical data and specifications",
+        "Show equipment from multiple angles",
+        "Demonstrate unique features clearly",
+        "Maintain brand consistency"
+      ],
+      "examples": {
+        "sampleOutput": "Nike Vaporfly launch video, Callaway driver technology demo",
+        "useCases": [
+          "Product launches",
+          "E-commerce listings",
+          "Technical reviews",
+          "Retail displays"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_05",
+      "category": "sports_action",
+      "title": "Team Spirit and Unity Shots",
+      "description": "Powerful team bonding moments showcasing collective strength and camaraderie",
+      "prompt": {
+        "main": "Dynamic team unity showcase capturing the power of collective spirit. Pre-game huddles with stacked hands, synchronized warm-ups, tactical discussions. Emotional support between teammates, celebratory group reactions, and unified movements. Wide shots establish team formation, while intimate close-ups capture individual connections within the group. The strength of many acting as one.",
+        "elements": {
+          "cameraMovement": "Circular dolly around huddles, crane shots of formations, steadicam weaving through players",
+          "subject": "Sports team displaying unity and coordination",
+          "scene": "Locker room, field/court, training ground, team bus",
+          "motion": "Synchronized movements, group celebrations, team rituals",
+          "lighting": "Atmospheric locker room light, stadium lights, dawn training sessions",
+          "atmosphere": "Brotherhood/sisterhood, trust, collective power, shared purpose",
+          "style": "Friday Night Lights meets All or Nothing documentary",
+          "technicalSpecs": {
+            "duration": "30-45 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9 or 2.35:1",
+            "frameRate": "24-60 fps",
+            "colorGrading": "Team colors emphasized, cohesive palette",
+            "audioDesign": "Team chants, motivational speeches, synchronized movements"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Pre-Game Ritual",
+          "modifiedElements": {
+            "scene": "Tunnel before entering field",
+            "atmosphere": "Building intensity, focused energy"
+          }
+        },
+        {
+          "name": "Victory Formation",
+          "modifiedElements": {
+            "motion": "Post-game celebration rituals",
+            "lighting": "Golden hour or night game lights"
+          }
+        }
+      ],
+      "tags": [
+        "team",
+        "unity",
+        "teamwork",
+        "motivation",
+        "collective",
+        "spirit",
+        "bonding"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Capture authentic team interactions",
+        "Use movement to show group dynamics",
+        "Include both wide and intimate shots",
+        "Show diversity within unity",
+        "Build emotional connection"
+      ],
+      "examples": {
+        "sampleOutput": "All Blacks Haka, NBA pre-game rituals",
+        "useCases": [
+          "Team documentaries",
+          "Recruitment videos",
+          "Season highlight reels",
+          "Motivational content"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_06",
+      "category": "sports_action",
+      "title": "Individual Skill Showcases",
+      "description": "Masterful display of individual athletic prowess and technical skill",
+      "prompt": {
+        "main": "Precision skill demonstration highlighting individual athletic mastery. Ultra-slow motion captures perfect form - ball control, technical footwork, flawless technique. Multiple angles dissect complex movements. Close-ups on point of contact, body positioning, and concentrated expressions. Visual breakdown of signature moves with freeze frames at critical moments. Poetry in motion.",
+        "elements": {
+          "cameraMovement": "Motion control precision, bullet-time arrays, macro lenses on contact points, gimbal follows",
+          "subject": "Elite athlete demonstrating signature skills",
+          "scene": "Minimalist training space, iconic venue, or isolated performance area",
+          "motion": "Technical precision, complex skill sequences, signature moves",
+          "lighting": "Dramatic spotlights, rim lighting for silhouettes, high-speed strobe",
+          "atmosphere": "Focused, masterful, artistic, zen-like concentration",
+          "style": "Jordan's free-throw line dunk meets Matrix bullet-time",
+          "technicalSpecs": {
+            "duration": "20-40 seconds",
+            "resolution": "4K-8K",
+            "aspectRatio": "16:9 or vertical for social",
+            "frameRate": "240-1000 fps for ultra slow-mo",
+            "colorGrading": "High contrast, signature athlete colors",
+            "audioDesign": "Breath control, contact sounds, ambient focus"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Training Ground",
+          "modifiedElements": {
+            "scene": "Raw practice environment",
+            "atmosphere": "Work in progress, perfecting craft"
+          }
+        },
+        {
+          "name": "Game Situation",
+          "modifiedElements": {
+            "scene": "Live competition environment",
+            "motion": "Skills under pressure"
+          }
+        }
+      ],
+      "tags": [
+        "skills",
+        "technique",
+        "mastery",
+        "precision",
+        "individual",
+        "showcase",
+        "talent"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Use high-speed cameras for detail",
+        "Capture from multiple synchronized angles",
+        "Focus on form and technique",
+        "Include facial expressions of concentration",
+        "Build sequences from simple to complex"
+      ],
+      "examples": {
+        "sampleOutput": "Ronaldo's bicycle kick breakdown, Curry's shooting form analysis",
+        "useCases": [
+          "Player profiles",
+          "Skill tutorials",
+          "Sports science content",
+          "Recruitment reels"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_07",
+      "category": "sports_action",
+      "title": "Sports Venue Atmosphere Captures",
+      "description": "Immersive venue experiences showcasing the energy and scale of sports environments",
+      "prompt": {
+        "main": "Epic venue atmosphere capture showcasing the cathedral of sports. Sweeping drone flights through massive stadiums, time-lapse of venues filling with fans. Detail shots of unique architectural elements, fan traditions, and venue character. The energy builds from empty morning venue to packed night game. Capture the pilgrimage, the rituals, the collective experience of sport as religion.",
+        "elements": {
+          "cameraMovement": "Drone flights through structures, cable cam over crowds, hyperlapse through concourses, crane establishing shots",
+          "subject": "Iconic sports venues and their atmosphere",
+          "scene": "Stadiums, arenas, historic grounds, unique sporting venues",
+          "motion": "Crowd waves, filling stands, pre-game build-up, environmental movement",
+          "lighting": "Magic hour establishment, stadium lights igniting, crowd phone lights",
+          "atmosphere": "Epic scale, tradition, anticipation, electric energy",
+          "style": "NFL Films grandeur meets modern drone cinematography",
+          "technicalSpecs": {
+            "duration": "45-90 seconds",
+            "resolution": "4K-8K",
+            "aspectRatio": "2.35:1 cinematic",
+            "frameRate": "24-30 fps with time-lapse sequences",
+            "colorGrading": "Epic, cinematic, venue-specific palette",
+            "audioDesign": "Crowd build-up, venue acoustics, tradition sounds"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Historic Venue",
+          "modifiedElements": {
+            "atmosphere": "Tradition, legacy, timeless",
+            "lighting": "Classic, nostalgic tones"
+          }
+        },
+        {
+          "name": "Modern Arena",
+          "modifiedElements": {
+            "style": "High-tech, futuristic",
+            "lighting": "LED displays, modern effects"
+          }
+        }
+      ],
+      "tags": [
+        "venue",
+        "stadium",
+        "atmosphere",
+        "crowd",
+        "epic",
+        "environment",
+        "scale"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Scout venue for unique angles",
+        "Capture both empty and full states",
+        "Include architectural details",
+        "Show fan traditions and rituals",
+        "Use movement to convey scale"
+      ],
+      "examples": {
+        "sampleOutput": "Champions League anthem venue shots, Super Bowl stadium opens",
+        "useCases": [
+          "Event promotions",
+          "Venue marketing",
+          "Broadcast opens",
+          "Documentary establishing shots"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_08",
+      "category": "sports_action",
+      "title": "Competition Highlight Reels",
+      "description": "Fast-paced montages of peak competitive moments and game-changing plays",
+      "prompt": {
+        "main": "High-energy competition highlights showcasing game-defining moments. Quick cuts between spectacular plays, crucial saves, winning goals. Each clip captures peak action - players mid-air, ball trajectory, defensive slides, reaction shots. Rhythm editing matches action intensity. Multiple angles of key plays, slow-motion replays of critical moments. The essence of competition distilled into pure excitement.",
+        "elements": {
+          "cameraMovement": "Whip pans between plays, crash zooms on action, tracking shots following plays",
+          "subject": "Athletes in crucial competitive moments",
+          "scene": "Game/match environments, various sports venues",
+          "motion": "Peak action moments, game-changing plays, athletic excellence",
+          "lighting": "Broadcast quality, venue-specific lighting",
+          "atmosphere": "Intense competition, high stakes, electric moments",
+          "style": "SportsCenter Top 10 meets viral social media edits",
+          "technicalSpecs": {
+            "duration": "60-120 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "60 fps with slow-mo inserts",
+            "colorGrading": "Vibrant, high contrast, team colors pop",
+            "audioDesign": "Commentary clips, crowd reactions, impact sounds"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Season Recap",
+          "modifiedElements": {
+            "duration": "2-3 minutes",
+            "style": "Narrative journey through season"
+          }
+        },
+        {
+          "name": "Player Spotlight",
+          "modifiedElements": {
+            "subject": "Single athlete's best moments",
+            "atmosphere": "Individual brilliance showcase"
+          }
+        }
+      ],
+      "tags": [
+        "highlights",
+        "competition",
+        "recap",
+        "action",
+        "montage",
+        "best plays",
+        "excitement"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Match edit rhythm to action pace",
+        "Include variety of play types",
+        "Build toward climactic moments",
+        "Use music to drive energy",
+        "Include emotional reactions"
+      ],
+      "examples": {
+        "sampleOutput": "NBA playoff highlights, World Cup best goals",
+        "useCases": [
+          "Season recaps",
+          "Social media content",
+          "Player reels",
+          "Broadcast packages"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_09",
+      "category": "sports_action",
+      "title": "Fitness Transformation Journeys",
+      "description": "Inspiring visual narratives of physical and mental transformation through fitness",
+      "prompt": {
+        "main": "Powerful transformation story told through visual progression. Split-screen comparisons, time-lapse body changes, increasing weight loads, improving form. Intimate moments of struggle contrasted with breakthrough achievements. Documentary-style interviews intercut with training footage. The raw journey from day one to goal achieved, showing not just physical but mental transformation.",
+        "elements": {
+          "cameraMovement": "Intimate handheld for struggle, smooth tracking for progress, time-lapse locked frames",
+          "subject": "Individual on fitness transformation journey",
+          "scene": "Home workouts, gyms, outdoor training, everyday life integration",
+          "motion": "Progressive difficulty, form improvements, endurance building",
+          "lighting": "Honest available light, harsh gym fluorescents, triumphant golden hour",
+          "atmosphere": "Vulnerable, determined, inspiring, authentic",
+          "style": "Documentary realism meets inspirational advertising",
+          "technicalSpecs": {
+            "duration": "90-180 seconds",
+            "resolution": "4K",
+            "aspectRatio": "16:9",
+            "frameRate": "24-30 fps",
+            "colorGrading": "Natural to enhanced progression",
+            "audioDesign": "Personal testimony, effort sounds, emotional music"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "90-Day Challenge",
+          "modifiedElements": {
+            "duration": "Condensed timeline focus",
+            "style": "Daily progress documentation"
+          }
+        },
+        {
+          "name": "Recovery Journey",
+          "modifiedElements": {
+            "subject": "Injury recovery to performance",
+            "atmosphere": "Resilience and comeback"
+          }
+        }
+      ],
+      "tags": [
+        "transformation",
+        "fitness journey",
+        "progress",
+        "motivation",
+        "before after",
+        "inspiration",
+        "documentary"
+      ],
+      "difficulty": "intermediate",
+      "bestPractices": [
+        "Document consistently over time",
+        "Show struggles alongside victories",
+        "Include lifestyle changes beyond gym",
+        "Use data visualization for progress",
+        "Maintain authentic storytelling"
+      ],
+      "examples": {
+        "sampleOutput": "P90X transformations, Biggest Loser journeys",
+        "useCases": [
+          "Fitness app testimonials",
+          "Gym success stories",
+          "Social media inspiration",
+          "Documentary features"
+        ]
+      }
+    },
+    {
+      "id": "sports_action_template_10",
+      "category": "sports_action",
+      "title": "Sports Technology Innovations",
+      "description": "Cutting-edge sports tech demonstrations with futuristic visual treatments",
+      "prompt": {
+        "main": "Futuristic sports technology showcase with advanced visual effects. HUD overlays displaying real-time biometric data, motion capture visualizations, AI-powered analysis graphics. Split-screen comparisons showing technology impact on performance. Holographic projections, data visualizations floating in space, seamless integration of AR elements. The future of sports performance made visible.",
+        "elements": {
+          "cameraMovement": "Smooth techno-crane movements, 3D space navigation, virtual camera paths through data",
+          "subject": "Athletes using cutting-edge technology, wearables, smart equipment",
+          "scene": "High-tech training facilities, innovation labs, futuristic environments",
+          "motion": "Tech-enhanced movements, data flow visualizations, UI animations",
+          "lighting": "Clean tech aesthetic, LED arrays, holographic glows",
+          "atmosphere": "Innovative, futuristic, precise, data-driven",
+          "style": "Minority Report meets ESPN Sport Science",
+          "technicalSpecs": {
+            "duration": "45-90 seconds",
+            "resolution": "4K-8K",
+            "aspectRatio": "16:9 or 21:9 ultra-wide",
+            "frameRate": "60 fps for smooth tech visuals",
+            "colorGrading": "Tech blues and whites, clean modern palette",
+            "audioDesign": "Electronic sounds, data processing, futuristic ambience"
+          }
+        }
+      },
+      "variations": [
+        {
+          "name": "Wearable Tech",
+          "modifiedElements": {
+            "subject": "Smart clothing and sensors",
+            "motion": "Biometric data visualization"
+          }
+        },
+        {
+          "name": "AI Coaching",
+          "modifiedElements": {
+            "style": "AI analysis overlays",
+            "atmosphere": "Smart training systems"
+          }
+        }
+      ],
+      "tags": [
+        "technology",
+        "innovation",
+        "sports tech",
+        "future",
+        "data",
+        "smart equipment",
+        "AI"
+      ],
+      "difficulty": "advanced",
+      "bestPractices": [
+        "Integrate VFX seamlessly with live action",
+        "Make data visualizations clear and beautiful",
+        "Show practical applications",
+        "Balance tech with human performance",
+        "Use consistent design language"
+      ],
+      "examples": {
+        "sampleOutput": "Nike Breaking2 tech showcase, F1 data visualization packages",
+        "useCases": [
+          "Tech product launches",
+          "Innovation showcases",
+          "Investor presentations",
+          "Future of sports content"
+        ]
+      }
+    }
+  ]
+}

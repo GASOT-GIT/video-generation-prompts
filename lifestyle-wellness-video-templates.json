@@ -1,0 +1,680 @@
+{
+  "lifestyle_wellness_video_templates": {
+    "category": "Lifestyle & Wellness",
+    "version": "1.0",
+    "templates": [
+      {
+        "id": "morning_routine_001",
+        "name": "Sunrise Morning Ritual",
+        "description": "Peaceful morning routine with natural awakening sequences",
+        "technical_specs": {
+          "duration": "60-90 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "24fps",
+          "color_grading": "Warm sunrise tones, soft contrast",
+          "lighting": "Natural golden hour, soft diffused light through windows"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "5 seconds",
+            "shot_type": "Wide establishing shot",
+            "description": "Sunrise through bedroom window, soft curtains moving gently",
+            "camera_movement": "Slow push in",
+            "lighting": "Golden hour backlighting"
+          },
+          {
+            "scene": 2,
+            "duration": "8 seconds",
+            "shot_type": "Close-up montage",
+            "description": "Feet touching wooden floor, stretching arms, opening curtains",
+            "camera_movement": "Handheld, organic movement",
+            "lighting": "Natural side lighting"
+          },
+          {
+            "scene": 3,
+            "duration": "10 seconds",
+            "shot_type": "Medium shots",
+            "description": "Making bed with smooth movements, opening windows for fresh air",
+            "camera_movement": "Subtle tracking shots",
+            "lighting": "Soft morning light"
+          },
+          {
+            "scene": 4,
+            "duration": "12 seconds",
+            "shot_type": "Detail shots",
+            "description": "Preparing herbal tea, journaling, watering plants",
+            "camera_movement": "Macro lens movements",
+            "lighting": "Window light with shadows"
+          },
+          {
+            "scene": 5,
+            "duration": "8 seconds",
+            "shot_type": "Wide shot",
+            "description": "Person in comfortable clothing enjoying tea by window",
+            "camera_movement": "Static, peaceful framing",
+            "lighting": "Backlit silhouette"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Ambient acoustic guitar or soft piano",
+          "sound_effects": "Birds chirping, gentle breeze, tea pouring",
+          "tempo": "60-70 BPM, calming rhythm"
+        },
+        "styling": {
+          "wardrobe": "Soft organic cotton loungewear in neutral tones",
+          "props": "Minimalist bedroom decor, plants, ceramic mug, linen bedding",
+          "color_palette": ["#F5E6D3", "#E8D5C4", "#C3A684", "#8B7355", "#FFF8F0"]
+        }
+      },
+      {
+        "id": "yoga_meditation_002",
+        "name": "Zen Flow Yoga Session",
+        "description": "Graceful yoga practice in serene natural setting",
+        "technical_specs": {
+          "duration": "90-120 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "30fps for smooth movement",
+          "color_grading": "Muted earth tones, high key lighting",
+          "lighting": "Soft diffused natural light, no harsh shadows"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "6 seconds",
+            "shot_type": "Aerial establishing shot",
+            "description": "Yoga mat in garden or by large windows with plants",
+            "camera_movement": "Drone-style descent",
+            "lighting": "Even outdoor lighting"
+          },
+          {
+            "scene": 2,
+            "duration": "15 seconds",
+            "shot_type": "Full body shots",
+            "description": "Sun salutation sequence, flowing movements",
+            "camera_movement": "Smooth gimbal movements following flow",
+            "lighting": "Consistent soft light"
+          },
+          {
+            "scene": 3,
+            "duration": "20 seconds",
+            "shot_type": "Multiple angles",
+            "description": "Warrior poses, tree pose, balance sequences",
+            "camera_movement": "180-degree arc around subject",
+            "lighting": "Rim lighting to highlight form"
+          },
+          {
+            "scene": 4,
+            "duration": "15 seconds",
+            "shot_type": "Close-up details",
+            "description": "Hands in prayer position, focused breathing, serene expression",
+            "camera_movement": "Slow push-ins",
+            "lighting": "Soft focus background"
+          },
+          {
+            "scene": 5,
+            "duration": "10 seconds",
+            "shot_type": "Wide shot",
+            "description": "Final meditation pose, peaceful conclusion",
+            "camera_movement": "Slow pull back",
+            "lighting": "Ethereal backlighting"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Tibetan singing bowls, nature sounds",
+          "sound_effects": "Gentle breathing, fabric movement",
+          "tempo": "Ambient, no distinct tempo"
+        },
+        "styling": {
+          "wardrobe": "Form-fitting yoga attire in sage green or soft gray",
+          "props": "Premium yoga mat, blocks, meditation cushion, plants",
+          "color_palette": ["#9CAF88", "#E5E5E5", "#D4C5B9", "#F7F3EE", "#7A8B6F"]
+        }
+      },
+      {
+        "id": "healthy_cooking_003",
+        "name": "Farm-to-Table Cooking",
+        "description": "Vibrant healthy meal preparation with fresh ingredients",
+        "technical_specs": {
+          "duration": "60-90 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "24fps with 60fps for slow-motion segments",
+          "color_grading": "Vibrant but natural, enhanced greens",
+          "lighting": "Bright kitchen lighting, natural window light"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "5 seconds",
+            "shot_type": "Overhead flat lay",
+            "description": "Fresh vegetables, herbs, and ingredients arranged aesthetically",
+            "camera_movement": "Slow zoom out",
+            "lighting": "Even overhead lighting"
+          },
+          {
+            "scene": 2,
+            "duration": "12 seconds",
+            "shot_type": "Close-up preparation",
+            "description": "Chopping vegetables, herbs being picked, olive oil drizzling",
+            "camera_movement": "Macro lens details",
+            "lighting": "Side lighting for texture"
+          },
+          {
+            "scene": 3,
+            "duration": "15 seconds",
+            "shot_type": "Process shots",
+            "description": "Sautéing, steaming, colorful ingredients cooking",
+            "camera_movement": "Handheld dynamic movement",
+            "lighting": "Practical lighting from stove"
+          },
+          {
+            "scene": 4,
+            "duration": "10 seconds",
+            "shot_type": "Plating sequence",
+            "description": "Artistic plating, garnishing, final touches",
+            "camera_movement": "Smooth tracking shots",
+            "lighting": "Soft directional light"
+          },
+          {
+            "scene": 5,
+            "duration": "8 seconds",
+            "shot_type": "Hero shot",
+            "description": "Finished dish with steam, beautiful presentation",
+            "camera_movement": "Slow rotation or slider move",
+            "lighting": "Window light with fill"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Upbeat acoustic, light jazz",
+          "sound_effects": "Sizzling, chopping, water boiling",
+          "tempo": "Medium tempo, 100-120 BPM"
+        },
+        "styling": {
+          "wardrobe": "Casual apron, rolled sleeves, natural fabrics",
+          "props": "Wooden cutting boards, ceramic bowls, fresh herbs in pots",
+          "color_palette": ["#5C7A3C", "#F4A460", "#E6D4A7", "#FFFFFF", "#8FBC8F"]
+        }
+      },
+      {
+        "id": "home_organization_004",
+        "name": "Mindful Space Transformation",
+        "description": "Decluttering and organizing living spaces for wellness",
+        "technical_specs": {
+          "duration": "90-120 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "24fps",
+          "color_grading": "Clean, bright, increased clarity",
+          "lighting": "Bright natural light, minimal shadows"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "8 seconds",
+            "shot_type": "Before shots",
+            "description": "Cluttered space, items disorganized but not messy",
+            "camera_movement": "Panning shots",
+            "lighting": "Slightly dim to contrast"
+          },
+          {
+            "scene": 2,
+            "duration": "20 seconds",
+            "shot_type": "Time-lapse",
+            "description": "Sorting, categorizing, deciding what stays",
+            "camera_movement": "Locked off time-lapse",
+            "lighting": "Consistent throughout"
+          },
+          {
+            "scene": 3,
+            "duration": "15 seconds",
+            "shot_type": "Detail organization",
+            "description": "Folding clothes, arranging books, labeling containers",
+            "camera_movement": "Close-up details",
+            "lighting": "Bright and clear"
+          },
+          {
+            "scene": 4,
+            "duration": "12 seconds",
+            "shot_type": "Process shots",
+            "description": "Installing organizers, arranging items aesthetically",
+            "camera_movement": "Smooth movements",
+            "lighting": "Natural side light"
+          },
+          {
+            "scene": 5,
+            "duration": "10 seconds",
+            "shot_type": "After reveal",
+            "description": "Clean, organized space with breathing room",
+            "camera_movement": "Slow revealing pan",
+            "lighting": "Bright, airy feeling"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Minimalist piano, soft strings",
+          "sound_effects": "Gentle movement sounds, soft thuds",
+          "tempo": "Calm, 70-80 BPM"
+        },
+        "styling": {
+          "wardrobe": "Comfortable casual wear, neutral colors",
+          "props": "Storage baskets, labels, plants, minimalist decor",
+          "color_palette": ["#F5F5F5", "#E0D4C6", "#C4B5A6", "#A09080", "#FFFFFF"]
+        }
+      },
+      {
+        "id": "fitness_journey_005",
+        "name": "Strength & Serenity Workout",
+        "description": "Balanced fitness routine combining strength and mindfulness",
+        "technical_specs": {
+          "duration": "90-120 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "30fps with 120fps for slow-motion",
+          "color_grading": "Dynamic contrast, slight warmth",
+          "lighting": "Gym lighting or outdoor natural light"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "5 seconds",
+            "shot_type": "Preparation shots",
+            "description": "Setting up equipment, stretching, mental preparation",
+            "camera_movement": "Dynamic handheld",
+            "lighting": "Motivational lighting"
+          },
+          {
+            "scene": 2,
+            "duration": "20 seconds",
+            "shot_type": "Exercise montage",
+            "description": "Various exercises: weights, bodyweight, resistance bands",
+            "camera_movement": "Mix of static and moving",
+            "lighting": "High contrast for definition"
+          },
+          {
+            "scene": 3,
+            "duration": "15 seconds",
+            "shot_type": "Slow-motion power",
+            "description": "Key movements in slow-motion, showing form and control",
+            "camera_movement": "Smooth tracking",
+            "lighting": "Dramatic side lighting"
+          },
+          {
+            "scene": 4,
+            "duration": "12 seconds",
+            "shot_type": "Recovery shots",
+            "description": "Stretching, breathing, hydration",
+            "camera_movement": "Gentle movements",
+            "lighting": "Softer, recovery mood"
+          },
+          {
+            "scene": 5,
+            "duration": "8 seconds",
+            "shot_type": "Achievement shot",
+            "description": "Post-workout glow, satisfaction, accomplishment",
+            "camera_movement": "Portrait style",
+            "lighting": "Flattering key light"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Motivational but not aggressive, building energy",
+          "sound_effects": "Breathing, equipment sounds, footsteps",
+          "tempo": "Progressive, 120-140 BPM"
+        },
+        "styling": {
+          "wardrobe": "Athletic wear in coordinated colors",
+          "props": "Quality equipment, water bottle, towel, yoga mat",
+          "color_palette": ["#4A5568", "#718096", "#E53E3E", "#F7FAFC", "#2D3748"]
+        }
+      },
+      {
+        "id": "spa_treatment_006",
+        "name": "Home Spa Sanctuary",
+        "description": "Luxurious self-care spa experience at home",
+        "technical_specs": {
+          "duration": "60-90 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "24fps",
+          "color_grading": "Soft, dreamy, slightly desaturated",
+          "lighting": "Candlelight, soft diffused light"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "8 seconds",
+            "shot_type": "Ambiance setup",
+            "description": "Lighting candles, drawing bath, arranging spa items",
+            "camera_movement": "Slow deliberate moves",
+            "lighting": "Warm candlelight"
+          },
+          {
+            "scene": 2,
+            "duration": "12 seconds",
+            "shot_type": "Product beauty shots",
+            "description": "Bath salts dissolving, oils dripping, steam rising",
+            "camera_movement": "Macro details",
+            "lighting": "Backlit for translucency"
+          },
+          {
+            "scene": 3,
+            "duration": "15 seconds",
+            "shot_type": "Treatment process",
+            "description": "Face mask application, hand in water, relaxation poses",
+            "camera_movement": "Gentle floating moves",
+            "lighting": "Soft, flattering light"
+          },
+          {
+            "scene": 4,
+            "duration": "10 seconds",
+            "shot_type": "Relaxation shots",
+            "description": "Eyes closed, peaceful expression, gentle movements",
+            "camera_movement": "Minimal, meditative",
+            "lighting": "Ethereal glow"
+          },
+          {
+            "scene": 5,
+            "duration": "8 seconds",
+            "shot_type": "Conclusion",
+            "description": "Soft towel wrap, tea sipping, serene conclusion",
+            "camera_movement": "Slow pull back",
+            "lighting": "Soft window light"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Spa music, water sounds, meditation tones",
+          "sound_effects": "Water trickling, gentle splashes",
+          "tempo": "Very slow, ambient"
+        },
+        "styling": {
+          "wardrobe": "Plush robe, towel wrap, minimal",
+          "props": "Candles, flowers, natural products, wooden tray",
+          "color_palette": ["#F4E9E1", "#E6D5C7", "#D4C4B8", "#C2B3A9", "#FFF8F3"]
+        }
+      },
+      {
+        "id": "mindfulness_practice_007",
+        "name": "Mindful Moments Meditation",
+        "description": "Guided mindfulness and breathing exercises",
+        "technical_specs": {
+          "duration": "90-120 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "24fps",
+          "color_grading": "Minimal, natural tones",
+          "lighting": "Soft, even lighting"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "10 seconds",
+            "shot_type": "Opening breath",
+            "description": "Close-up of gentle breathing, chest rising and falling",
+            "camera_movement": "Extremely slow zoom",
+            "lighting": "Soft side light"
+          },
+          {
+            "scene": 2,
+            "duration": "15 seconds",
+            "shot_type": "Meditation posture",
+            "description": "Comfortable seated position, hands resting, spine aligned",
+            "camera_movement": "Circular dolly, very slow",
+            "lighting": "Even, peaceful light"
+          },
+          {
+            "scene": 3,
+            "duration": "20 seconds",
+            "shot_type": "Nature integration",
+            "description": "Incorporating natural elements: plants, water, stones",
+            "camera_movement": "Gentle parallax",
+            "lighting": "Natural, dappled light"
+          },
+          {
+            "scene": 4,
+            "duration": "15 seconds",
+            "shot_type": "Mindful movement",
+            "description": "Slow, intentional hand movements, walking meditation",
+            "camera_movement": "Following movement",
+            "lighting": "Consistent throughout"
+          },
+          {
+            "scene": 5,
+            "duration": "10 seconds",
+            "shot_type": "Closing peace",
+            "description": "Gentle smile, eyes opening slowly, grounded presence",
+            "camera_movement": "Static, centered",
+            "lighting": "Warm, comforting"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Binaural beats, nature sounds",
+          "sound_effects": "Breathing, heartbeat, wind chimes",
+          "tempo": "No tempo, atmospheric"
+        },
+        "styling": {
+          "wardrobe": "Loose, comfortable clothing in earth tones",
+          "props": "Meditation cushion, mala beads, singing bowl, plants",
+          "color_palette": ["#8B7B6B", "#A69585", "#C4B5A5", "#E2D7CE", "#F5F0EB"]
+        }
+      },
+      {
+        "id": "outdoor_wellness_008",
+        "name": "Nature Connection Journey",
+        "description": "Outdoor activities promoting wellness and earth connection",
+        "technical_specs": {
+          "duration": "90-120 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "24fps with 60fps for action",
+          "color_grading": "Natural, enhanced greens and blues",
+          "lighting": "Golden hour outdoor lighting"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "8 seconds",
+            "shot_type": "Nature establishing",
+            "description": "Sunrise over mountains, forest path, or beach",
+            "camera_movement": "Drone establishing shot",
+            "lighting": "Magic hour lighting"
+          },
+          {
+            "scene": 2,
+            "duration": "15 seconds",
+            "shot_type": "Walking/hiking",
+            "description": "Feet on trail, hands touching trees, breathing fresh air",
+            "camera_movement": "Tracking alongside",
+            "lighting": "Filtered forest light"
+          },
+          {
+            "scene": 3,
+            "duration": "20 seconds",
+            "shot_type": "Activity montage",
+            "description": "Trail running, outdoor yoga, swimming in natural water",
+            "camera_movement": "Dynamic variety",
+            "lighting": "Natural outdoor light"
+          },
+          {
+            "scene": 4,
+            "duration": "12 seconds",
+            "shot_type": "Contemplation",
+            "description": "Sitting by water, journaling outdoors, meditation in nature",
+            "camera_movement": "Peaceful, minimal",
+            "lighting": "Soft natural light"
+          },
+          {
+            "scene": 5,
+            "duration": "10 seconds",
+            "shot_type": "Sunset conclusion",
+            "description": "Watching sunset, gratitude pose, connection with nature",
+            "camera_movement": "Wide establishing",
+            "lighting": "Golden sunset light"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Acoustic guitar, nature-inspired melodies",
+          "sound_effects": "Birds, water, wind, footsteps",
+          "tempo": "Varies with activity, 80-120 BPM"
+        },
+        "styling": {
+          "wardrobe": "Outdoor activewear, earth tones, functional layers",
+          "props": "Backpack, water bottle, journal, hiking boots",
+          "color_palette": ["#2F5233", "#8B9467", "#D4B896", "#87CEEB", "#F4E4C1"]
+        }
+      },
+      {
+        "id": "self_care_rituals_009",
+        "name": "Evening Self-Care Routine",
+        "description": "Calming nighttime rituals for rest and restoration",
+        "technical_specs": {
+          "duration": "60-90 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "24fps",
+          "color_grading": "Warm, cozy tones, low contrast",
+          "lighting": "Soft lamp light, candles"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "8 seconds",
+            "shot_type": "Transition shots",
+            "description": "Changing into comfortable clothes, dimming lights",
+            "camera_movement": "Handheld, intimate",
+            "lighting": "Practical room lighting"
+          },
+          {
+            "scene": 2,
+            "duration": "12 seconds",
+            "shot_type": "Skincare routine",
+            "description": "Cleansing, applying serums, gentle face massage",
+            "camera_movement": "Close-up details",
+            "lighting": "Bathroom vanity lighting"
+          },
+          {
+            "scene": 3,
+            "duration": "15 seconds",
+            "shot_type": "Relaxation activities",
+            "description": "Reading, gentle stretching, aromatherapy",
+            "camera_movement": "Slow, dreamy moves",
+            "lighting": "Bedside lamp glow"
+          },
+          {
+            "scene": 4,
+            "duration": "10 seconds",
+            "shot_type": "Tea ritual",
+            "description": "Preparing herbal tea, slow sipping, contemplation",
+            "camera_movement": "Static, peaceful",
+            "lighting": "Warm kitchen light"
+          },
+          {
+            "scene": 5,
+            "duration": "8 seconds",
+            "shot_type": "Bedtime preparation",
+            "description": "Arranging pillows, soft sheets, peaceful ending",
+            "camera_movement": "Gentle fade out",
+            "lighting": "Very soft, sleepy mood"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Lullaby-inspired, soft instrumentals",
+          "sound_effects": "Fabric rustling, water sounds",
+          "tempo": "Very slow, 50-60 BPM"
+        },
+        "styling": {
+          "wardrobe": "Soft pajamas, silk robe, cozy socks",
+          "props": "Books, tea cup, skincare products, soft blankets",
+          "color_palette": ["#D4A574", "#F3E5D0", "#C19A6B", "#FFF5E6", "#E5D4C1"]
+        }
+      },
+      {
+        "id": "work_life_balance_010",
+        "name": "Balanced Living Day",
+        "description": "Seamless integration of work productivity and personal wellness",
+        "technical_specs": {
+          "duration": "90-120 seconds",
+          "aspect_ratio": "16:9",
+          "resolution": "4K (3840x2160)",
+          "frame_rate": "24fps",
+          "color_grading": "Clean, modern, balanced tones",
+          "lighting": "Natural daylight progression"
+        },
+        "scene_sequence": [
+          {
+            "scene": 1,
+            "duration": "10 seconds",
+            "shot_type": "Morning work setup",
+            "description": "Organized desk, healthy breakfast, focused start",
+            "camera_movement": "Establishing shots",
+            "lighting": "Morning light"
+          },
+          {
+            "scene": 2,
+            "duration": "15 seconds",
+            "shot_type": "Productive work",
+            "description": "Focused work, good posture, hydration breaks",
+            "camera_movement": "Time-lapse elements",
+            "lighting": "Bright workspace light"
+          },
+          {
+            "scene": 3,
+            "duration": "20 seconds",
+            "shot_type": "Midday break",
+            "description": "Stretching, walk outside, healthy lunch preparation",
+            "camera_movement": "Following movement",
+            "lighting": "Midday natural light"
+          },
+          {
+            "scene": 4,
+            "duration": "15 seconds",
+            "shot_type": "Afternoon transition",
+            "description": "Closing laptop, changing clothes, shifting to personal time",
+            "camera_movement": "Transition shots",
+            "lighting": "Afternoon golden light"
+          },
+          {
+            "scene": 5,
+            "duration": "15 seconds",
+            "shot_type": "Evening personal time",
+            "description": "Hobby activities, family time, relaxation",
+            "camera_movement": "Warm, inviting angles",
+            "lighting": "Cozy evening light"
+          }
+        ],
+        "audio_guidance": {
+          "music": "Uplifting, positive progression throughout day",
+          "sound_effects": "Keyboard typing, nature sounds, laughter",
+          "tempo": "Varies by scene, 90-110 BPM average"
+        },
+        "styling": {
+          "wardrobe": "Professional casual transitioning to comfortable",
+          "props": "Laptop, planner, yoga mat, healthy snacks, hobby items",
+          "color_palette": ["#4A90E2", "#7FBA00", "#F5F5F5", "#FFB900", "#E3E3E3"]
+        }
+      }
+    ],
+    "general_guidelines": {
+      "cinematography": {
+        "camera_stability": "Use gimbals or stabilizers for smooth movement",
+        "depth_of_field": "Shallow DOF for intimate moments, deeper for environments",
+        "composition": "Rule of thirds, leading lines, negative space for breathing room"
+      },
+      "color_psychology": {
+        "warm_tones": "Morning routines, comfort, energy",
+        "cool_tones": "Meditation, relaxation, clarity",
+        "neutral_tones": "Balance, minimalism, focus"
+      },
+      "pacing": {
+        "slow_movements": "Meditation, spa, self-care scenes",
+        "moderate_pace": "Cooking, organizing, daily routines",
+        "dynamic_pace": "Fitness, outdoor activities"
+      },
+      "authenticity": {
+        "real_environments": "Lived-in spaces, not overly staged",
+        "natural_movements": "Genuine expressions and actions",
+        "inclusive_representation": "Diverse body types, ages, backgrounds"
+      }
+    }
+  }
+}
