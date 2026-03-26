@@ -9,6 +9,7 @@
     "catalog": "node scripts/create-catalog.js",
     "test": "node scripts/test-templates.js",
     "menu:zh": "node local-menu.js",
+    "ui": "node web-ui.js",
     "pipeline": "node run-generation.js && node scripts/validate-all.js && node scripts/create-catalog.js && node scripts/test-templates.js"
   },
   "keywords": [
