@@ -3,7 +3,7 @@
 const http = require('http');
 const fs = require('fs').promises;
 const path = require('path');
-const { spawn } = require('child_process');
+const { spawn, spawnSync } = require('child_process');
 
 const projectRoot = __dirname;
 const port = Number(process.env.PORT || 4173);
@@ -44,6 +44,8 @@ const state = {
   lastRun: null,
   logs: []
 };
+const activeChildren = new Set();
+let shuttingDown = false;
 
 function pushLog(message) {
   const text = `[${new Date().toLocaleTimeString('zh-CN', { hour12: false })}] ${message}`;
@@ -59,6 +61,10 @@ function runNodeScript(scriptRelativePath) {
     const child = spawn(process.execPath, [scriptPath], {
       cwd: projectRoot,
       stdio: ['ignore', 'pipe', 'pipe']
+    });
+    activeChildren.add(child);
+    child.on('exit', () => {
+      activeChildren.delete(child);
     });
 
     child.stdout.on('data', data => {
@@ -84,6 +90,38 @@ function runNodeScript(scriptRelativePath) {
       reject(new Error(`步骤失败: ${scriptRelativePath}，退出码 ${code}`));
     });
   });
+}
+
+function terminateChild(child) {
+  if (!child || child.killed) {
+    return;
+  }
+  if (process.platform === 'win32') {
+    spawnSync('taskkill', ['/pid', String(child.pid), '/t', '/f'], {
+      stdio: 'ignore'
+    });
+    return;
+  }
+  child.kill('SIGTERM');
+}
+
+function cleanupChildren() {
+  for (const child of activeChildren) {
+    terminateChild(child);
+  }
+}
+
+function shutdown(reason) {
+  if (shuttingDown) {
+    return;
+  }
+  shuttingDown = true;
+  pushLog(`服务关闭中：${reason}`);
+  cleanupChildren();
+  server.close(() => {
+    process.exit(0);
+  });
+  setTimeout(() => process.exit(0), 1500);
 }
 
 async function executeTask(taskKey) {
@@ -525,4 +563,12 @@ const server = http.createServer(async (req, res) => {
 server.listen(port, () => {
   const url = `http://localhost:${port}`;
   console.log(`Web UI 已启动: ${url}`);
+});
+
+process.on('SIGINT', () => shutdown('SIGINT'));
+process.on('SIGTERM', () => shutdown('SIGTERM'));
+process.on('SIGBREAK', () => shutdown('SIGBREAK'));
+process.on('SIGHUP', () => shutdown('SIGHUP'));
+process.on('exit', () => {
+  cleanupChildren();
 });
